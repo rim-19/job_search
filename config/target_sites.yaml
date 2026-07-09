@@ -1,0 +1,25 @@
+# Playwright targets — company career pages / boards without a free API.
+# Each entry visits `url`, waits for `wait_for` (optional CSS selector), then
+# for every element matching `job_selector` it extracts fields using the
+# per-field relative selectors. `link_attr` is the attribute to read for the URL
+# (usually "href"). Missing fields fall back to empty string.
+#
+# This is the most fragile part of the pipeline (selectors break when sites
+# redesign). It runs LAST and failures are logged but never crash the run.
+# Leave the list empty to skip Playwright entirely.
+#
+# Example (commented out — enable/edit selectors to match the live site):
+#
+# sites:
+#   - name: "WeWorkRemotely - Programming"
+#     url: "https://weworkremotely.com/categories/remote-programming-jobs"
+#     wait_for: "section.jobs article"
+#     job_selector: "section.jobs article li:not(.view-all) a"
+#     fields:
+#       title: "span.title"
+#       company: "span.company"
+#       location: "span.region"
+#     link_attr: "href"
+#     base_url: "https://weworkremotely.com"
+
+sites: []

@@ -1,0 +1,69 @@
+{
+  "jobs": [
+    {
+      "url": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991",
+      "title": "Frontend Developer",
+      "company": "Quinncia Inc",
+      "location": "Worldwide",
+      "link": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991",
+      "score": 8,
+      "reason": "This is a strong match as it's a junior-level, fully remote, worldwide position with a highly relevant tech stack including JavaScript, React, Next.js, and NLP/AI concepts.",
+      "cover_note": "I am excited to apply for the Frontend Developer position at Quinncia Inc. As a junior developer with a strong foundation in JavaScript, React.js, and Next.js, I am eager to contribute to enhancing your AI-powered career readiness platform. My projects, such as Cupid, demonstrate my ability to build engaging e-commerce experiences with React and Node.js, and my work with NLP and LLMs aligns perfectly with Quinncia's mission to improve student outcomes. I am a proactive learner, passionate about building high-quality user experiences, and confident in my ability to quickly adapt to new technologies and contribute meaningfully to your team's success.",
+      "checklist": [
+        "Tailored CV highlighting relevant frontend skills and projects.",
+        "Cover Letter (as provided above).",
+        "GitHub profile link (ensure it's prominently displayed).",
+        "Portfolio link (if available, showcasing frontend projects).",
+        "Confirmation of availability for full-time work and adherence to EST working hours.",
+        "Answers to any specific questions Quinncia may ask on Wellfound."
+      ],
+      "status": "Not Applied",
+      "date_scored": "2026-07-09",
+      "source": "Remotive"
+    },
+    {
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-front-end-developer-pulsemedia-mena-1134518",
+      "title": "Junior Front End Developer",
+      "company": "PULSEMEDIA (MENA)",
+      "location": "Ø§ÙØ±ÙØ§Ø¶, Ø§ÙØ±ÙØ§Ø¶ Ø§ÙØ±ÙØ§Ø¶ Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
+      "link": "https://remoteOK.com/remote-jobs/remote-junior-front-end-developer-pulsemedia-mena-1134518",
+      "score": 2,
+      "reason": "The job requires the candidate to be based in the MENA region and has a location field indicating Riyadh, Saudi Arabia, which contradicts the candidate's requirement for a worldwide, no-country-restriction remote role.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-09",
+      "source": "RemoteOK"
+    },
+    {
+      "url": "https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws",
+      "title": "Frontend Engineer React and AWS",
+      "company": "Numentica",
+      "location": "USA",
+      "link": "https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws",
+      "score": 1,
+      "reason": "The job requires 5+ years of experience, is not fully remote worldwide, and has strict work authorization requirements, making it a poor fit for a junior candidate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-09",
+      "source": "Jobicy"
+    },
+    {
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2090986",
+      "title": "Senior AI Engineer",
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "link": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2090986",
+      "score": 1,
+      "reason": "The job listing is for a Senior AI Engineer, requiring 3+ years of experience, which directly contradicts the candidate's junior/entry-level status and lack of commercial experience.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-09",
+      "source": "Remotive"
+    }
+  ],
+  "count": 4,
+  "keepers": 1
+}

@@ -1,0 +1,75 @@
+# Rule-based location filter (Layer 1 in scorer.py).
+# If a listing's location/region field matches ANY of these strings
+# (case-insensitive substring match), it is dropped BEFORE reaching Gemini.
+#
+# Goal: user wants remote / worldwide / no country restriction.
+# So we reject anything that pins the role to a single country/region.
+#
+# NOTE: Layer 2 (Gemini) still reads the full description to catch subtler
+# restrictions like "must be authorized to work in the US" that aren't here.
+
+restricted:
+  # United States
+  - "us only"
+  - "u.s. only"
+  - "usa only"
+  - "united states only"
+  - "us-only"
+  - "us based"
+  - "us-based"
+  - "based in the us"
+  - "must be located in the us"
+  - "authorized to work in the us"
+  - "us work authorization"
+  - "us citizens"
+  - "green card"
+  - "onsite"
+  - "on-site"
+  - "on site"
+  - "hybrid"
+
+  # United Kingdom
+  - "uk only"
+  - "u.k. only"
+  - "uk-only"
+  - "uk based"
+  - "uk-based"
+  - "united kingdom only"
+  - "right to work in the uk"
+
+  # Canada
+  - "canada only"
+  - "canadian only"
+  - "canada-based"
+
+  # Europe / EU / EEA restrictions
+  - "eu only"
+  - "eu-only"
+  - "europe only"
+  - "eea only"
+  - "eu residents"
+  - "must be based in europe"
+  - "within the eu"
+
+  # Specific single countries (remote but country-locked)
+  - "germany only"
+  - "france only"
+  - "india only"
+  - "poland only"
+  - "spain only"
+  - "netherlands only"
+  - "australia only"
+  - "brazil only"
+  - "mexico only"
+  - "argentina only"
+  - "philippines only"
+  - "ukraine only"
+
+  # Timezone locks that effectively exclude Morocco (UTC+0/+1) are handled
+  # by Gemini in Layer 2, since they need nuance (e.g. "EST overlap required").
+
+  # Generic country-lock phrasing
+  - "residents of"
+  - "must reside in"
+  - "must be located in"
+  - "location restricted"

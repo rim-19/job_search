@@ -1,0 +1,39 @@
+Rim Elrhezzal
+Software Developer
+Based in Casablanca, Morocco. Contact: elrhezzalrim@gmail.com | +212 771-907639 | linkedin.com/in/rim-elrhezzal | GitHub: rim-19
+
+SUMMARY
+Junior Software Developer passionate about building applications that solve real-world problems and create meaningful user experiences. Enjoys turning ideas into practical solutions and continuously growing through new challenges. Currently seeking a junior/entry-level Software Developer position (remote, worldwide) to contribute to impactful projects, expand experience, and grow within a collaborative and innovative team.
+
+EDUCATION
+- Higher Diploma in Application Development — BTS, Abderrahmane Ben Ghazala high school, Casablanca (10/2024 - 07/2026). In-depth studies in programming, software engineering, and application development.
+- Baccalaureate in Physical Sciences — Ibno Chouhaid high school, Casablanca (09/2023 - 06/2024). Scientific methods and problem-solving.
+
+SKILLS
+- Programming Languages: Python, JavaScript, HTML, CSS, C#, C, Java
+- Web & AI Frameworks: Next.js, React.js, Node.js, Express, LangChain
+- Databases: PostgreSQL, SQLite
+- AI & Development: Natural Language Processing (NLP), LLM Fine-tuning, Prompt Engineering, Automation, API integration
+- Payments/Tools: Stripe
+- Professional Skills: IT Project Management, Teamwork, Leadership, Initiative, Self-Learning
+
+SENIORITY: Junior / Entry-level / Graduate. Comfortable with fully remote roles and open to worldwide/global positions (no visa sponsorship expectation from Morocco; ideal roles are remote-worldwide with no country restriction).
+
+WORK EXPERIENCE
+- Web Development Intern — Indusfer (05/2026 - 06/2026). Developed an AI-Powered CV Analysis and Optimization platform (ResumeIQ).
+
+PROJECTS
+- MultiMind AI — Intelligent Multi-Chatbot Platform (02/2025). Multi-topic chatbot system supporting general conversation and personalized services. Built with Node.js, JavaScript, and API integrations.
+- Ghazala AI — Custom Exam Generator using LLM (07/2025 - 08/2025). Fine-tuned a custom language model to generate exam topics from academic archives, integrated into an interface for educators.
+- HR-Genius — Conversational Automation for HR Processes (11/2025 - 01/2026). Web platform combining AI and workflow automation to modernize HR management; auto-generates administrative documents and handles HR requests via chat and voice.
+- Cupid — Bookshop & Coffee House E-commerce Website (06/2026 - 07/2026). E-commerce site with book catalog, cart, Stripe checkout, customer accounts, and admin dashboard. Built with React, Node.js/Express, PostgreSQL, and Stripe.
+
+CERTIFICATIONS
+- AI for Beginners — HP LIFE online course (02/2025)
+- Foundations of Prompt Engineering — AWS (12/2025)
+- Generative AI course — IBM badge (03/2025 - 04/2025)
+
+LANGUAGES
+- Arabic: Native / Bilingual
+- French: Professional Working Proficiency
+- English: Full Professional Proficiency

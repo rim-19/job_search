@@ -1,0 +1,71 @@
+# Keyword hints for the job search.
+# These are LIGHT hints — the real fit judgment is done by Gemini in scorer.py.
+# They are mainly used for logging/ranking context and can be extended freely.
+
+# Tech stack pulled from the CV. A listing mentioning any of these is a plus.
+preferred_stack:
+  - python
+  - javascript
+  - typescript
+  - html
+  - css
+  - react
+  - react.js
+  - next.js
+  - nextjs
+  - node
+  - node.js
+  - express
+  - langchain
+  - java
+  - c#
+  - full stack
+  - fullstack
+  - frontend
+  - front-end
+  - front end
+  - backend
+  - back-end
+  - web developer
+  - software developer
+  - software engineer
+  - ai
+  - llm
+  - nlp
+  - automation
+
+# Seniority we want. Roles clearly above these are down-weighted by the AI.
+seniority_include:
+  - junior
+  - entry
+  - entry-level
+  - entry level
+  - graduate
+  - grad
+  - intern
+  - internship
+  - trainee
+  - associate
+  - "0-2 years"
+  - "1-2 years"
+  - beginner
+
+# Hard seniority exclusions — if a title screams this, it is almost never a fit.
+seniority_exclude:
+  - senior
+  - staff
+  - principal
+  - lead
+  - "10+ years"
+  - "8+ years"
+  - "7+ years"
+  - "6+ years"
+  - "5+ years"
+  - architect
+  - head of
+  - director
+  - manager
+  - vp
+
+# Work mode we require.
+remote_required: true

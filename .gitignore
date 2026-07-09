@@ -1,0 +1,19 @@
+# Secrets — never commit the real .env
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Playwright browser cache (installed in CI each run)
+# NOTE: data/jobs.db is intentionally NOT ignored — it is the committed source of truth.
