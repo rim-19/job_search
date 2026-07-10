@@ -115,7 +115,9 @@ Company: {company}
 Location field: {location}
 Description: {description}
 
-Score 1-10 how good a match this is for the candidate.
+Do TWO things:
+
+A) Score 1-10 how good a match this is for the candidate.
 - Score 1-3 if it is senior-level, not remote, or restricted to a country/region
   the candidate can't work from (INCLUDING restrictions hidden in the description
   text that aren't obvious from the location field).
@@ -124,8 +126,12 @@ Score 1-10 how good a match this is for the candidate.
 - Score 7-10 for a strong fit: junior-friendly, fully remote, worldwide/no
   country restriction, and matching tech.
 
+B) Write a 2-3 sentence plain-English SUMMARY of the listing for the candidate:
+what the role is, the main tech/responsibilities, and the remote/location scope.
+No hype, no fluff — just the key facts she needs to decide at a glance.
+
 Respond with STRICT JSON only, no prose, no markdown:
-{{"score": <integer 1-10>, "reason": "<one concise sentence>"}}"""
+{{"score": <integer 1-10>, "reason": "<one concise sentence>", "summary": "<2-3 sentences>"}}"""
 
 
 def score_listing(job: dict, cv: str) -> dict | None:
@@ -150,7 +156,8 @@ def score_listing(job: dict, cv: str) -> dict | None:
         return None
     score = max(1, min(10, score))
     reason = str(result.get("reason", "")).strip()[:300]
-    return {"score": score, "reason": reason}
+    summary = str(result.get("summary", "")).strip()[:600]
+    return {"score": score, "reason": reason, "summary": summary}
 
 
 def score_all(listings: list[dict]) -> list[dict]:
@@ -169,6 +176,7 @@ def score_all(listings: list[dict]) -> list[dict]:
         for job in survivors:
             job["score"] = 5
             job["reason"] = "Not scored (no Gemini API key configured)."
+            job["summary"] = (job.get("description", "") or "")[:300]
         return survivors
 
     # Respect the free-tier daily quota: only score the top _MAX_SCORE survivors.
@@ -186,6 +194,7 @@ def score_all(listings: list[dict]) -> list[dict]:
             continue
         job["score"] = result["score"]
         job["reason"] = result["reason"]
+        job["summary"] = result["summary"]
         scored.append(job)
         if i % 10 == 0:
             log.info("  scored %d/%d", i, len(survivors))

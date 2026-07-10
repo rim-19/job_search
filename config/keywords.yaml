@@ -1,6 +1,5 @@
 # Keyword hints for the job search.
 # These are LIGHT hints — the real fit judgment is done by Gemini in scorer.py.
-# They are mainly used for logging/ranking context and can be extended freely.
 
 # Tech stack pulled from the CV. A listing mentioning any of these is a plus.
 preferred_stack:
@@ -67,5 +66,42 @@ seniority_exclude:
   - manager
   - vp
 
-# Work mode we require.
 remote_required: true
+
+# ---------------------------------------------------------------------------
+# Broadened query strategy (item 1 of the upgrade).
+#
+# `search_variants` = the human-facing, Google-Alert-style phrases. They are the
+# canonical broad-net queries. Because they use quotes / OR / boolean phrasing
+# they are ideal for Google Alerts but too strict for simple job-board search
+# params. The collector automatically SIMPLIFIES each into plain keywords
+# (strips quotes/OR/AND) before querying APIs that accept a search term, then
+# merges + dedupes all results.
+#
+# No "visa sponsorship" terms on purpose — the target is fully-remote work from
+# Morocco, not relocation. The worldwide / EOR / international-contractor terms
+# below are the correct remote-from-anywhere equivalent.
+# ---------------------------------------------------------------------------
+search_variants:
+  - '"remote full stack developer" junior'
+  - '"entry level developer" "work from anywhere"'
+  - '"junior full stack developer" React Node.js remote'
+  - '"remote JavaScript developer" junior'
+  - '"Next.js developer" remote junior'
+  - '"AI automation developer" remote junior'
+  - '"remote NLP developer" entry level'
+  - '"remote Python developer" "entry level"'
+  - '"junior Python developer" remote hiring'
+  - '"remote developer" "no experience required"'
+  - '"remote developer" "recent graduate"'
+  - '"remote developer" "0-1 years experience"'
+  - '"remote developer internship" hiring'
+  - '"remote developer" "worldwide" hiring'
+  - '"remote developer" "Africa" OR "MENA" hiring'
+  - '"remote developer" "no location restriction"'
+  - '"remote developer" "employer of record"'
+  - '"remote developer" "international contractor"'
+
+# How many simplified variants to actually fire per search-capable API each run
+# (bounds runtime + politeness). 0 = use all.
+max_search_queries: 8

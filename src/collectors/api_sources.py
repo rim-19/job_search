@@ -13,10 +13,14 @@ from __future__ import annotations
 import asyncio
 import logging
 import re
+from pathlib import Path
 
 import aiohttp
+import yaml
 
 log = logging.getLogger("collectors.api")
+
+_KEYWORDS = Path(__file__).resolve().parents[2] / "config" / "keywords.yaml"
 
 # Polite timeout per request; some of these endpoints can be slow.
 TIMEOUT = aiohttp.ClientTimeout(total=45)
@@ -138,6 +142,87 @@ _SOURCES = {
 }
 
 
+# --- Broadened multi-keyword querying -----------------------------------------
+
+def _simplify_query(variant: str) -> str:
+    """Turn a Google-Alert-style phrase into a plain keyword string a job-board
+    search param can use. Drops quotes, OR/AND, and boolean punctuation."""
+    text = variant.replace('"', " ")
+    text = re.sub(r"\b(OR|AND|NOT)\b", " ", text)
+    text = re.sub(r"[^\w.#+\- ]", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def _load_search_terms() -> list[str]:
+    if not _KEYWORDS.exists():
+        return []
+    data = yaml.safe_load(_KEYWORDS.read_text(encoding="utf-8")) or {}
+    variants = data.get("search_variants") or []
+    cap = int(data.get("max_search_queries") or 0)
+    terms = []
+    seen = set()
+    for v in variants:
+        t = _simplify_query(v)
+        if t and t.lower() not in seen:
+            seen.add(t.lower())
+            terms.append(t)
+    return terms[:cap] if cap else terms
+
+
+async def _remotive_search(session, term: str) -> list[dict]:
+    data = await _get_json(
+        session, f"https://remotive.com/api/remote-jobs?search={term}"
+    )
+    out = []
+    for j in data.get("jobs", []):
+        out.append(_record(
+            j.get("title"), j.get("company_name"),
+            j.get("candidate_required_location"), j.get("url"),
+            j.get("description"), "Remotive", j.get("publication_date"),
+        ))
+    return out
+
+
+async def _jobicy_search(session, term: str) -> list[dict]:
+    data = await _get_json(
+        session, f"https://jobicy.com/api/v2/remote-jobs?tag={term}&count=50"
+    )
+    out = []
+    for j in data.get("jobs", []):
+        out.append(_record(
+            j.get("jobTitle"), j.get("companyName"),
+            j.get("jobGeo") or "Remote", j.get("url"),
+            j.get("jobDescription") or j.get("jobExcerpt"),
+            "Jobicy", j.get("pubDate"),
+        ))
+    return out
+
+
+async def _run_searches(session) -> list[dict]:
+    """Fire each simplified keyword variant at the search-capable APIs."""
+    from urllib.parse import quote_plus
+
+    terms = _load_search_terms()
+    if not terms:
+        return []
+    log.info("  Running %d keyword-variant searches (Remotive + Jobicy)...", len(terms))
+
+    tasks = []
+    for term in terms:
+        enc = quote_plus(term)
+        tasks.append(_remotive_search(session, enc))
+        tasks.append(_jobicy_search(session, enc))
+
+    listings: list[dict] = []
+    for coro in asyncio.as_completed(tasks):
+        try:
+            listings.extend(await coro)
+        except Exception as exc:  # noqa: BLE001
+            log.debug("  search query failed: %s", exc)
+    log.info("  keyword-variant searches -> %d extra listings (pre-dedupe)", len(listings))
+    return listings
+
+
 async def _run_all() -> list[dict]:
     async with aiohttp.ClientSession() as session:
         tasks = {name: asyncio.create_task(fn(session)) for name, fn in _SOURCES.items()}
@@ -149,6 +234,9 @@ async def _run_all() -> list[dict]:
                 listings.extend(jobs)
             except Exception as exc:  # noqa: BLE001 - never let one source kill the run
                 log.warning("  %-10s -> FAILED: %s", name, exc)
+
+        # Broadened net: keyword-variant searches, merged (deduped later).
+        listings.extend(await _run_searches(session))
         return listings
 
 

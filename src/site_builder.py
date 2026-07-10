@@ -1,8 +1,9 @@
 """Export the SQLite contents to docs/jobs.json for the static website.
 
 The database is the source of truth; jobs.json is a read-only snapshot the
-Hello-Kitty dashboard fetches. The HTML/CSS/JS live in docs/ as committed static
-files — this module only regenerates the JSON data each run.
+dashboard fetches. This module regenerates the JSON each run and derives an
+`is_new` flag (first seen in the latest run) so the site can highlight today's
+fresh additions.
 """
 
 from __future__ import annotations
@@ -24,13 +25,22 @@ def export() -> int:
     DOCS.mkdir(parents=True, exist_ok=True)
     jobs = db.get_all_jobs()
 
+    # "New today" = first seen on the most recent run date present in the data.
+    latest = max((j.get("date_scored") or "" for j in jobs), default="")
+    for j in jobs:
+        j["is_new"] = bool(latest) and (j.get("first_seen") == latest)
+
     payload = {
+        "generated": latest,
         "jobs": jobs,
         "count": len(jobs),
         "keepers": sum(1 for j in jobs if (j.get("score") or 0) >= 7),
+        "fresh": sum(1 for j in jobs if j.get("freshness") == "Fresh"),
+        "new_today": sum(1 for j in jobs if j.get("is_new")),
     }
     JOBS_JSON.write_text(
         json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8"
     )
-    log.info("Exported %d listings -> %s", len(jobs), JOBS_JSON)
+    log.info("Exported %d listings (%d new today) -> %s",
+             len(jobs), payload["new_today"], JOBS_JSON)
     return len(jobs)

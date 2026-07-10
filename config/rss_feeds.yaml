@@ -1,0 +1,50 @@
+# RSS / Atom feeds parsed by src/collectors/rss_sources.py (feedparser).
+# Each entry is normalized into the same schema as the JSON APIs. Dead or
+# renamed feeds are skipped with a logged warning — they never crash the run,
+# so it's safe to leave best-guess URLs here and prune later.
+
+# General remote-job RSS boards.
+feeds:
+  # Jobicy per-category RSS (separate from its JSON API — sometimes earlier).
+  - name: "Jobicy RSS (Dev)"
+    url: "https://jobicy.com/?feed=job_feed&job_categories=dev"
+  - name: "Jobicy RSS (Engineering)"
+    url: "https://jobicy.com/?feed=job_feed&job_categories=engineering"
+  # WeWorkRemotely — reliable remote-dev feed (added as the working replacement
+  # for Working Nomads / NoDesk, whose public feeds now 404/403).
+  - name: "WeWorkRemotely (Programming)"
+    url: "https://weworkremotely.com/categories/remote-programming-jobs.rss"
+  - name: "WeWorkRemotely (Full-Stack)"
+    url: "https://weworkremotely.com/categories/remote-full-stack-programming-jobs.rss"
+
+  # Working Nomads and NoDesk were requested but their public RSS endpoints
+  # return 404/403 as of this build. Left here (commented) so they're easy to
+  # re-enable if/when they expose a working feed URL — the collector skips dead
+  # feeds gracefully, so uncommenting won't break a run.
+  # - name: "Working Nomads"
+  #   url: "https://www.workingnomads.com/jobsrss"
+  # - name: "NoDesk"
+  #   url: "https://nodesk.co/remote-jobs/feed/"
+
+# -----------------------------------------------------------------------------
+# Google Alerts feeds. You create each alert manually, then paste its RSS URL
+# here. To get the URL:
+#   1. Go to https://www.google.com/alerts
+#   2. Create an alert with one of the queries below.
+#   3. Under "Deliver to", choose "RSS feed".
+#   4. Click the RSS icon next to the created alert and copy the feed URL
+#      (looks like https://www.google.com/alerts/feeds/<digits>/<digits>).
+#
+# Recommended 7 queries (high value, low noise, tuned to the CV — AI/LLM +
+# React/Node, fully remote so no visa/relocation angle):
+#   1. "remote junior developer" hiring
+#   2. "junior AI engineer" remote LangChain
+#   3. "remote LLM developer" entry level
+#   4. "remote React developer" junior hiring
+#   5. "remote AI agents developer" "entry level"
+#   6. "remote software developer" "hire worldwide"
+#   7. "prompt engineer" remote junior hiring
+#
+# Paste one RSS URL per line below (leave empty until you've made the alerts).
+google_alerts: []
+  # - "https://www.google.com/alerts/feeds/00000000000000000000/1111111111111111111"

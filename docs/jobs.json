@@ -1,5 +1,26 @@
 {
+  "generated": "2026-07-10",
   "jobs": [
+    {
+      "url": "https://weworkremotely.com/remote-jobs/mindrift-freelance-full-stack-web-app-developer",
+      "title": "Freelance Full-Stack Web App Developer",
+      "company": "Mindrift",
+      "location": "Anywhere in the World",
+      "link": "https://weworkremotely.com/remote-jobs/mindrift-freelance-full-stack-web-app-developer",
+      "score": 5,
+      "reason": "The role is fully remote and worldwide, but the 'at least 3 years of relevant experience' requirement conflicts with the candidate's junior/entry-level profile.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-10",
+      "source": "WeWorkRemotely (Full-Stack)",
+      "summary": "This is a freelance, fully remote Full-Stack Web App Developer role for the Tendem project, requiring experience with JavaScript/TypeScript and Python/Node.js, along with frontend frameworks like React/Next.js and databases. You will build interactive web applications and potentially standalone Python scripts, integrating AI/LLM services.",
+      "date_posted": "Wed, 24 Jun 2026 20:56:33 +0000",
+      "days_since_posted": 16,
+      "freshness": "",
+      "first_seen": "2026-07-10",
+      "is_new": true
+    },
     {
       "url": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991",
       "title": "Frontend Developer",
@@ -19,7 +40,13 @@
       ],
       "status": "Not Applied",
       "date_scored": "2026-07-09",
-      "source": "Remotive"
+      "source": "Remotive",
+      "summary": null,
+      "date_posted": null,
+      "days_since_posted": null,
+      "freshness": null,
+      "first_seen": null,
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-junior-front-end-developer-pulsemedia-mena-1134518",
@@ -33,7 +60,13 @@
       "checklist": [],
       "status": "Not Applied",
       "date_scored": "2026-07-09",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "summary": null,
+      "date_posted": null,
+      "days_since_posted": null,
+      "freshness": null,
+      "first_seen": null,
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws",
@@ -47,7 +80,13 @@
       "checklist": [],
       "status": "Not Applied",
       "date_scored": "2026-07-09",
-      "source": "Jobicy"
+      "source": "Jobicy",
+      "summary": null,
+      "date_posted": null,
+      "days_since_posted": null,
+      "freshness": null,
+      "first_seen": null,
+      "is_new": false
     },
     {
       "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2090986",
@@ -61,9 +100,17 @@
       "checklist": [],
       "status": "Not Applied",
       "date_scored": "2026-07-09",
-      "source": "Remotive"
+      "source": "Remotive",
+      "summary": null,
+      "date_posted": null,
+      "days_since_posted": null,
+      "freshness": null,
+      "first_seen": null,
+      "is_new": false
     }
   ],
-  "count": 4,
-  "keepers": 1
+  "count": 5,
+  "keepers": 1,
+  "fresh": 0,
+  "new_today": 1
 }
