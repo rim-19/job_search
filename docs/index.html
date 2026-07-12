@@ -53,6 +53,8 @@
       <h2>🔐 Your settings <span class="muted">— saved only in this browser</span></h2>
       <label>Gemini API key <span class="muted">(for generating cover letters — uses your own free quota, never leaves your browser)</span></label>
       <input type="password" id="cfg-key" placeholder="paste your Gemini API key" autocomplete="off" />
+      <label>Groq API key <span class="muted">(optional fallback — used automatically if Gemini quota runs out)</span></label>
+      <input type="password" id="cfg-groq" placeholder="paste your Groq API key (optional)" autocomplete="off" />
       <label>Your CV text <span class="muted">(used to tailor cover letters)</span></label>
       <textarea id="cfg-cv" rows="6" placeholder="paste your CV text"></textarea>
       <div class="settings-actions">

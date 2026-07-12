@@ -187,7 +187,7 @@ def score_all(listings: list[dict]) -> list[dict]:
 
     cv = _load_cv()
     scored: list[dict] = []
-    log.info("Layer 2 (Gemini): scoring %d listings...", len(survivors))
+    log.info("Layer 2 (%s): scoring %d listings...", gemini.active_provider(), len(survivors))
     for i, job in enumerate(survivors, 1):
         result = score_listing(job, cv)
         if result is None:

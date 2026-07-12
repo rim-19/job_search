@@ -74,7 +74,7 @@ def run() -> None:
 
     # 8. Notify — only NEW keepers (score >= threshold), Fresh first
     new_keepers = [j for j in new_listings if j.get("score", 0) >= KEEP_THRESHOLD]
-    notifier.notify(total_scanned=len(scored), new_keepers=new_keepers)
+    notifier.notify(total_scanned=len(scored), new_keepers=new_keepers, scored=scored)
 
     elapsed = (datetime.now(timezone.utc) - started).total_seconds()
     log.info("=" * 60)

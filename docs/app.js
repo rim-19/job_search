@@ -4,11 +4,13 @@
 const LS = {
   status: "rim-job-status",
   key: "rim-gemini-key",
+  groq: "rim-groq-key",
   cv: "rim-cv-text",
   cover: (url) => "rim-cover:" + url,
 };
 const STATUSES = ["Not Applied", "Applied", "Interviewing", "Rejected", "Saved"];
 const GEMINI_MODEL = "gemini-2.5-flash-lite";
+const GROQ_MODEL = "llama-3.3-70b-versatile";
 
 // Rim's CV pre-filled as a convenient default (editable in Settings).
 const DEFAULT_CV = `Rim Elrhezzal — Junior Software Developer (Casablanca, Morocco)
@@ -26,7 +28,9 @@ const overrides = () => getJSON(LS.status, {});
 function saveStatus(url, s) { const o = overrides(); o[url] = s; localStorage.setItem(LS.status, JSON.stringify(o)); }
 const statusFor = (j) => overrides()[j.url] || j.status || "Not Applied";
 const getKey = () => localStorage.getItem(LS.key) || "";
+const getGroq = () => localStorage.getItem(LS.groq) || "";
 const getCV = () => localStorage.getItem(LS.cv) || DEFAULT_CV;
+const hasAnyKey = () => !!(getKey() || getGroq());
 
 /* ---------- utils ---------- */
 function esc(s) {
@@ -135,11 +139,13 @@ function initSettings() {
     drawer.hidden = !drawer.hidden;
     if (!drawer.hidden) {
       document.getElementById("cfg-key").value = getKey();
+      document.getElementById("cfg-groq").value = getGroq();
       document.getElementById("cfg-cv").value = getCV();
     }
   });
   document.getElementById("cfg-save").addEventListener("click", () => {
     localStorage.setItem(LS.key, document.getElementById("cfg-key").value.trim());
+    localStorage.setItem(LS.groq, document.getElementById("cfg-groq").value.trim());
     localStorage.setItem(LS.cv, document.getElementById("cfg-cv").value.trim());
     const s = document.getElementById("cfg-status");
     s.textContent = "saved 💗"; setTimeout(() => s.textContent = "", 2000);
@@ -157,13 +163,13 @@ function openCover(job) {
   const cached = localStorage.getItem(LS.cover(job.url));
   if (cached) return showLetter(job, cached, true);
 
-  if (!getKey()) return promptForKey();
+  if (!hasAnyKey()) return promptForKey();
   generate(job, false);
 }
 function promptForKey() {
   const body = document.getElementById("modal-body");
   body.className = "modal-body center";
-  body.innerHTML = `Add your Gemini API key first (⚙️ Settings) to generate cover letters.<br><br>It stays in your browser and uses your own free quota.`;
+  body.innerHTML = `Add your Gemini API key first (⚙️ Settings) to generate cover letters.<br><br>It stays in your browser and uses your own free quota. You can also add a Groq key as an automatic fallback.`;
   document.getElementById("modal-actions").innerHTML = `<button class="btn primary" id="go-settings">Open settings ⚙️</button>`;
   document.getElementById("go-settings").addEventListener("click", () => { closeModal(); const d = document.getElementById("settings"); d.hidden = false; document.getElementById("cfg-key").focus(); });
 }
@@ -181,13 +187,34 @@ function showLetter(job, text, fromCache) {
     navigator.clipboard.writeText(text).then(() => { e.target.textContent = "Copied ✓"; setTimeout(() => e.target.textContent = "Copy 📋", 1500); });
   });
   document.getElementById("cl-pdf").addEventListener("click", () => savePDF(job, text));
-  document.getElementById("cl-regen").addEventListener("click", () => { if (!getKey()) return promptForKey(); generate(job, true); });
+  document.getElementById("cl-regen").addEventListener("click", () => { if (!hasAnyKey()) return promptForKey(); generate(job, true); });
 }
 function showSpinner(msg) {
   const body = document.getElementById("modal-body");
   body.className = "modal-body center";
   body.innerHTML = `<div class="spin">🎀</div><br>${esc(msg)}`;
   document.getElementById("modal-actions").innerHTML = "";
+}
+
+async function callGemini(prompt) {
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${encodeURIComponent(getKey())}`;
+  const res = await fetch(url, {
+    method: "POST", headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig: { temperature: 0.6 } }),
+  });
+  if (!res.ok) return { ok: false, status: res.status, detail: await res.text() };
+  const data = await res.json();
+  return { ok: true, text: data?.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || "" };
+}
+async function callGroq(prompt) {
+  const res = await fetch("https://api.groq.com/openai/v1/chat/completions", {
+    method: "POST",
+    headers: { "Content-Type": "application/json", "Authorization": "Bearer " + getGroq() },
+    body: JSON.stringify({ model: GROQ_MODEL, messages: [{ role: "user", content: prompt }], temperature: 0.6 }),
+  });
+  if (!res.ok) return { ok: false, status: res.status, detail: await res.text() };
+  const data = await res.json();
+  return { ok: true, text: data?.choices?.[0]?.message?.content?.trim() || "" };
 }
 
 async function generate(job, force) {
@@ -205,25 +232,30 @@ Description/summary: ${job.summary || job.reason || ""}
 Link: ${job.link || job.url}`;
 
   try {
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${encodeURIComponent(getKey())}`;
-    const res = await fetch(url, {
-      method: "POST", headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig: { temperature: 0.6 } }),
-    });
-    if (!res.ok) {
-      const t = await res.text();
-      let msg = `Gemini error ${res.status}.`;
-      if (res.status === 429) msg = "Your Gemini free quota is used up for now — try again later.";
-      else if (res.status === 400 || res.status === 403) msg = "That API key was rejected. Check it in ⚙️ Settings.";
-      return showError(msg, t);
+    let r = null, usedGroq = false;
+
+    if (getKey()) {
+      r = await callGemini(prompt);
+      // Gemini quota gone -> fall back to Groq if a key is set.
+      if (!r.ok && r.status === 429 && getGroq()) { showSpinner("Gemini quota is out — trying Groq…"); r = await callGroq(prompt); usedGroq = true; }
+      else if (!r.ok && (r.status === 400 || r.status === 403) && getGroq()) { r = await callGroq(prompt); usedGroq = true; }
+    } else if (getGroq()) {
+      r = await callGroq(prompt); usedGroq = true;
     }
-    const data = await res.json();
-    const text = data?.candidates?.[0]?.content?.parts?.[0]?.text?.trim();
-    if (!text) return showError("Gemini returned an empty response. Try Regenerate.");
-    localStorage.setItem(LS.cover(job.url), text);
-    showLetter(job, text, false);
+
+    if (!r) return promptForKey();
+    if (!r.ok) {
+      const who = usedGroq ? "Groq" : "Gemini";
+      let msg = `${who} error ${r.status}.`;
+      if (r.status === 429) msg = `Your ${who} quota is used up for now — ${usedGroq || !getGroq() ? "try again later." : "add a Groq key in ⚙️ Settings as a fallback."}`;
+      else if (r.status === 400 || r.status === 403) msg = `That ${who} API key was rejected. Check it in ⚙️ Settings.`;
+      return showError(msg, r.detail);
+    }
+    if (!r.text) return showError("The model returned an empty response. Try Regenerate.");
+    localStorage.setItem(LS.cover(job.url), r.text);
+    showLetter(job, r.text, false);
   } catch (e) {
-    showError("Network error reaching Gemini. Check your connection and try again.", String(e));
+    showError("Network error reaching the AI. Check your connection and try again.", String(e));
   }
 }
 function showError(msg, detail) {

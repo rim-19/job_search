@@ -1,11 +1,15 @@
-"""Tiny Gemini REST client (no SDK — just `requests`).
+"""LLM client with automatic Gemini -> Groq fallback (no SDKs, just `requests`).
 
-Reads the API key from the environment. The user's .env uses `gemini_key`; the
-plan/README use `GEMINI_API_KEY`. We accept either so both work.
+Primary: Google Gemini (free tier). When Gemini's quota is exhausted (HTTP 429),
+the client transparently switches to Groq (OpenAI-compatible API) for the rest of
+the run, so a spent Gemini quota no longer stalls scoring.
 
-Model is configurable via GEMINI_MODEL (default: gemini-2.0-flash, which is on
-the free tier). We call the REST endpoint directly for resilience against SDK
-version churn.
+Keys are read from the environment:
+- Gemini: GEMINI_API_KEY or gemini_key
+- Groq:   GROQ_API_KEY or groq_key
+
+The module keeps its historical name/API (`available`, `generate`,
+`generate_json`, `GeminiError`) so callers don't change.
 """
 
 from __future__ import annotations
@@ -18,90 +22,172 @@ import time
 
 import requests
 
-log = logging.getLogger("gemini")
+log = logging.getLogger("llm")
 
-_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("gemini_key") or ""
-# gemini-2.5-flash-lite has the most generous free-tier limits available on this
-# key (others return 429 once their small daily quota is spent).
-_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
-_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+# --- Gemini ---
+_GEMINI_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("gemini_key") or ""
+_GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
+_GEMINI_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+_GEMINI_INTERVAL = float(os.getenv("GEMINI_MIN_INTERVAL", "4.2"))  # ~15 RPM free
 
-# Free tier is ~15 requests/min; space calls ~4s apart to stay under it.
-_MIN_INTERVAL = float(os.getenv("GEMINI_MIN_INTERVAL", "4.2"))
-_last_call = [0.0]
+# --- Groq (fallback) ---
+_GROQ_KEY = os.getenv("GROQ_API_KEY") or os.getenv("groq_key") or ""
+_GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+_GROQ_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
+_GROQ_INTERVAL = float(os.getenv("GROQ_MIN_INTERVAL", "2.1"))  # ~30 RPM free
+
+# Once Gemini returns a quota error we stop hammering it and use Groq for the
+# rest of the process run.
+_gemini_exhausted = [False]
+_last_call = {"gemini": 0.0, "groq": 0.0}
 
 _JSON_BLOCK_RE = re.compile(r"\{.*\}", re.DOTALL)
 
 
 class GeminiError(RuntimeError):
-    pass
+    """Kept for backward-compat; raised for any LLM failure."""
 
 
 def available() -> bool:
-    return bool(_KEY)
+    return bool(_GEMINI_KEY or _GROQ_KEY)
 
 
-def _throttle() -> None:
-    elapsed = time.time() - _last_call[0]
-    if elapsed < _MIN_INTERVAL:
-        time.sleep(_MIN_INTERVAL - elapsed)
-    _last_call[0] = time.time()
+def active_provider() -> str:
+    if _GEMINI_KEY and not _gemini_exhausted[0]:
+        return f"gemini:{_GEMINI_MODEL}"
+    if _GROQ_KEY:
+        return f"groq:{_GROQ_MODEL}"
+    return "none"
 
 
-def generate(prompt: str, *, temperature: float = 0.4, max_retries: int = 3) -> str:
-    """Return raw model text for a prompt. Retries on 429/5xx with backoff."""
-    if not _KEY:
-        raise GeminiError("No Gemini API key set (GEMINI_API_KEY or gemini_key).")
+def _throttle(provider: str, interval: float) -> None:
+    elapsed = time.time() - _last_call[provider]
+    if elapsed < interval:
+        time.sleep(interval - elapsed)
+    _last_call[provider] = time.time()
 
-    url = _ENDPOINT.format(model=_MODEL)
+
+# --- Provider calls ----------------------------------------------------------
+
+def _gemini_call(prompt: str, temperature: float) -> tuple[int, str]:
+    """Return (status_code, text). status_code 200 => text is the reply."""
+    _throttle("gemini", _GEMINI_INTERVAL)
+    url = _GEMINI_ENDPOINT.format(model=_GEMINI_MODEL)
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"temperature": temperature, "maxOutputTokens": 1024},
     }
-    params = {"key": _KEY}
+    resp = requests.post(url, params={"key": _GEMINI_KEY}, json=payload, timeout=60)
+    if resp.status_code == 200:
+        data = resp.json()
+        try:
+            return 200, data["candidates"][0]["content"]["parts"][0]["text"]
+        except (KeyError, IndexError) as exc:
+            raise GeminiError(f"Unexpected Gemini response: {data}") from exc
+    return resp.status_code, resp.text
+
+
+def _groq_call(prompt: str, temperature: float) -> str:
+    _throttle("groq", _GROQ_INTERVAL)
+    payload = {
+        "model": _GROQ_MODEL,
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": temperature,
+        "max_tokens": 1024,
+    }
+    headers = {"Authorization": f"Bearer {_GROQ_KEY}", "Content-Type": "application/json"}
+    resp = requests.post(_GROQ_ENDPOINT, json=payload, headers=headers, timeout=60)
+    if resp.status_code == 200:
+        try:
+            return resp.json()["choices"][0]["message"]["content"]
+        except (KeyError, IndexError) as exc:
+            raise GeminiError(f"Unexpected Groq response: {resp.text[:200]}") from exc
+    raise GeminiError(f"Groq HTTP {resp.status_code}: {resp.text[:300]}")
+
+
+# --- Public API --------------------------------------------------------------
+
+def generate(prompt: str, *, temperature: float = 0.4, max_retries: int = 3) -> str:
+    """Return model text, transparently falling back Gemini -> Groq on quota."""
+    if not available():
+        raise GeminiError("No LLM key set (GEMINI_API_KEY / gemini_key or GROQ_API_KEY).")
+
+    # If Gemini is already known-exhausted (or absent), go straight to Groq.
+    if (_gemini_exhausted[0] or not _GEMINI_KEY) and _GROQ_KEY:
+        return _groq_with_retries(prompt, temperature, max_retries)
 
     backoff = 2.0
     for attempt in range(1, max_retries + 1):
-        _throttle()
         try:
-            resp = requests.post(url, params=params, json=payload, timeout=60)
+            status, text = _gemini_call(prompt, temperature)
         except requests.RequestException as exc:
             log.warning("Gemini network error (attempt %d): %s", attempt, exc)
             if attempt == max_retries:
+                if _GROQ_KEY:
+                    log.info("Falling back to Groq after Gemini network failure.")
+                    return _groq_with_retries(prompt, temperature, max_retries)
                 raise GeminiError(str(exc)) from exc
-            time.sleep(backoff)
-            backoff *= 2
+            time.sleep(backoff); backoff *= 2
             continue
 
-        if resp.status_code == 200:
-            data = resp.json()
-            try:
-                return data["candidates"][0]["content"]["parts"][0]["text"]
-            except (KeyError, IndexError) as exc:
-                raise GeminiError(f"Unexpected Gemini response: {data}") from exc
+        if status == 200:
+            return text
 
-        if resp.status_code in (429, 500, 503) and attempt < max_retries:
-            log.warning("Gemini %d — backing off %.1fs (attempt %d)",
-                        resp.status_code, backoff, attempt)
-            time.sleep(backoff)
-            backoff *= 2
+        # Quota exhausted -> switch to Groq for the rest of the run.
+        if status == 429:
+            if _GROQ_KEY:
+                if not _gemini_exhausted[0]:
+                    log.warning("Gemini quota exhausted (429) — switching to Groq (%s) for the rest of this run.", _GROQ_MODEL)
+                    _gemini_exhausted[0] = True
+                return _groq_with_retries(prompt, temperature, max_retries)
+            # No Groq: keep the old backoff-then-raise behaviour.
+            if attempt < max_retries:
+                log.warning("Gemini 429 — backing off %.1fs (attempt %d)", backoff, attempt)
+                time.sleep(backoff); backoff *= 2
+                continue
+            raise GeminiError(f"Gemini HTTP 429: {text[:300]}")
+
+        # Other transient server errors.
+        if status in (500, 503) and attempt < max_retries:
+            log.warning("Gemini %d — backing off %.1fs (attempt %d)", status, backoff, attempt)
+            time.sleep(backoff); backoff *= 2
             continue
 
-        raise GeminiError(f"Gemini HTTP {resp.status_code}: {resp.text[:300]}")
+        # Hard error — try Groq once if available, else raise.
+        if _GROQ_KEY:
+            log.warning("Gemini HTTP %d — falling back to Groq.", status)
+            return _groq_with_retries(prompt, temperature, max_retries)
+        raise GeminiError(f"Gemini HTTP {status}: {text[:300]}")
 
     raise GeminiError("Gemini failed after retries.")
 
 
-def generate_json(prompt: str, *, temperature: float = 0.3) -> dict:
-    """Call generate() and parse a JSON object out of the reply.
+def _groq_with_retries(prompt: str, temperature: float, max_retries: int) -> str:
+    backoff = 2.0
+    for attempt in range(1, max_retries + 1):
+        try:
+            return _groq_call(prompt, temperature)
+        except GeminiError as exc:
+            msg = str(exc)
+            if "429" in msg and attempt < max_retries:
+                log.warning("Groq 429 — backing off %.1fs (attempt %d)", backoff, attempt)
+                time.sleep(backoff); backoff *= 2
+                continue
+            if attempt == max_retries:
+                raise
+            time.sleep(backoff); backoff *= 2
+        except requests.RequestException as exc:
+            if attempt == max_retries:
+                raise GeminiError(str(exc)) from exc
+            time.sleep(backoff); backoff *= 2
+    raise GeminiError("Groq failed after retries.")
 
-    Handles ```json fenced blocks and stray prose around the object. Retries the
-    whole call once if the first reply can't be parsed, then raises.
-    """
+
+def generate_json(prompt: str, *, temperature: float = 0.3) -> dict:
+    """Call generate() and parse a JSON object out of the reply (fences tolerated)."""
     for attempt in range(2):
         text = generate(prompt, temperature=temperature)
         cleaned = text.strip()
-        # Strip markdown fences if present.
         if cleaned.startswith("```"):
             cleaned = re.sub(r"^```(?:json)?", "", cleaned).strip()
             cleaned = re.sub(r"```$", "", cleaned).strip()
@@ -114,5 +200,5 @@ def generate_json(prompt: str, *, temperature: float = 0.3) -> dict:
                     return json.loads(match.group(0))
                 except json.JSONDecodeError:
                     pass
-        log.warning("Gemini returned non-JSON (attempt %d): %.120s", attempt + 1, text)
-    raise GeminiError("Could not parse JSON from Gemini after retry.")
+        log.warning("LLM returned non-JSON (attempt %d): %.120s", attempt + 1, text)
+    raise GeminiError("Could not parse JSON from LLM after retry.")

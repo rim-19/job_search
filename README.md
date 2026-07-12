@@ -8,7 +8,7 @@ A $0-cost automated agent that **twice a day** (09:00 & 19:00 GMT+1):
 4. **Flags recency** — every listing gets `days_since_posted` and a **Fresh** label (≤ 7 days). Nothing is ever discarded; Fresh listings just sort first, older ones show muted with a "posted X days ago" caption.
 5. **Stores** everything in SQLite (`data/jobs.db`, the source of truth) and exports `docs/jobs.json`.
 6. **Publishes** a clean, responsive 🎀 Hello-Kitty dashboard on **GitHub Pages** — with per-job AI summaries, clear key info, and **on-demand cover-letter generation** (see below).
-7. **Pings** you on **Telegram** with only the **new** strong matches (Fresh first).
+7. **Pings** you on **Telegram** with only the **new** strong matches (Fresh first), plus the list of **companies scanned** this run.
 
 Search profile baked in: **junior · remote · worldwide / no country restriction**, tech stack from the CV (Python, JS/TS, React, Next.js, Node, HTML/CSS, Java, C#, AI/LLM/NLP). No visa/relocation terms — the target is fully-remote-from-Morocco, so worldwide / employer-of-record / international-contractor phrasing is used instead.
 
@@ -101,7 +101,9 @@ git push -u origin main
 ### 5. Add repo secrets
 
 **Settings → Secrets and variables → Actions → New repository secret** — add:
-`GEMINI_API_KEY`, `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`.
+`GEMINI_API_KEY`, `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`, and (optional but recommended) `GROQ_API_KEY`.
+
+> **Groq fallback:** if Gemini's free quota runs out mid-run (HTTP 429), the pipeline automatically switches to **Groq** (`llama-3.3-70b-versatile`) for the rest of that run — so scoring never stalls. Get a free key at [console.groq.com/keys](https://console.groq.com/keys). Without it, the run just backs off on Gemini as before.
 
 > `.env` is git-ignored, so your keys never land in the repo — GitHub Actions reads them from these secrets instead.
 

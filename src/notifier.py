@@ -23,7 +23,25 @@ def _escape(text: str) -> str:
     return (text or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
-def build_message(total_scanned: int, new_keepers: list[dict]) -> str:
+_MAX_COMPANIES = 60  # keep the message under Telegram's 4096-char limit
+
+
+def _company_list(scored: list[dict]) -> str:
+    """Unique, sorted company names from everything scanned this run."""
+    names = sorted(
+        {(j.get("company") or "").strip() for j in scored if (j.get("company") or "").strip()},
+        key=str.casefold,
+    )
+    if not names:
+        return ""
+    shown = names[:_MAX_COMPANIES]
+    body = ", ".join(_escape(n) for n in shown)
+    if len(names) > _MAX_COMPANIES:
+        body += f" … <i>+{len(names) - _MAX_COMPANIES} more</i>"
+    return body, len(names)
+
+
+def build_message(total_scanned: int, new_keepers: list[dict], scored: list[dict]) -> str:
     lines = [
         "\U0001F380 <b>Job Agent — new matches</b> \U0001F380",
         "",
@@ -49,19 +67,27 @@ def build_message(total_scanned: int, new_keepers: list[dict]) -> str:
         lines.append("")
         lines.append("No brand-new strong matches this run — check the board for the full list.")
 
+    # Companies whose offers were scanned this run.
+    result = _company_list(scored)
+    if result:
+        body, count = result
+        lines.append("")
+        lines.append(f"\U0001F3E2 <b>Companies scanned ({count}):</b>")
+        lines.append(body)
+
     lines.append("")
     lines.append(f"\U0001F49D Full board: {SITE_URL}")
     return "\n".join(lines)
 
 
-def notify(total_scanned: int, new_keepers: list[dict]) -> bool:
+def notify(total_scanned: int, new_keepers: list[dict], scored: list[dict] | None = None) -> bool:
     token = os.getenv("TELEGRAM_BOT_TOKEN")
     chat_id = os.getenv("TELEGRAM_CHAT_ID")
     if not token or not chat_id:
         log.warning("Telegram not configured — skipping.")
         return False
 
-    message = build_message(total_scanned, new_keepers)
+    message = build_message(total_scanned, new_keepers, scored or [])
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     try:
         resp = requests.post(
