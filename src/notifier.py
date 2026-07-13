@@ -23,22 +23,34 @@ def _escape(text: str) -> str:
     return (text or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
-_MAX_COMPANIES = 60  # keep the message under Telegram's 4096-char limit
+_MAX_COMPANIES = 50  # keep the message under Telegram's 4096-char limit
 
 
-def _company_list(scored: list[dict]) -> str:
-    """Unique, sorted company names from everything scanned this run."""
-    names = sorted(
-        {(j.get("company") or "").strip() for j in scored if (j.get("company") or "").strip()},
-        key=str.casefold,
-    )
-    if not names:
+def _company_list(scored: list[dict]) -> tuple[str, int] | str:
+    """One line per scanned offer: "Company — Post title", sorted by company."""
+    items = []
+    seen = set()
+    for j in scored:
+        company = (j.get("company") or "").strip()
+        title = (j.get("title") or "").strip()
+        if not (company or title):
+            continue
+        key = (company.casefold(), title.casefold())
+        if key in seen:
+            continue
+        seen.add(key)
+        items.append((company or "—", title or "—"))
+
+    if not items:
         return ""
-    shown = names[:_MAX_COMPANIES]
-    body = ", ".join(_escape(n) for n in shown)
-    if len(names) > _MAX_COMPANIES:
-        body += f" … <i>+{len(names) - _MAX_COMPANIES} more</i>"
-    return body, len(names)
+
+    items.sort(key=lambda t: (t[0].casefold(), t[1].casefold()))
+    shown = items[:_MAX_COMPANIES]
+    lines = [f"• <b>{_escape(c)}</b> — {_escape(t)}" for c, t in shown]
+    body = "\n".join(lines)
+    if len(items) > _MAX_COMPANIES:
+        body += f"\n<i>… +{len(items) - _MAX_COMPANIES} more</i>"
+    return body, len(items)
 
 
 def build_message(total_scanned: int, new_keepers: list[dict], scored: list[dict]) -> str:
