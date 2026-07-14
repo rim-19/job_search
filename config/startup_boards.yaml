@@ -1,0 +1,57 @@
+# Startup / company job boards — free public JSON APIs (no key needed).
+# Each provider is queried PER COMPANY (there's no global search), so this is a
+# curated list. All slugs below were verified to return live listings.
+#
+# To add a company: find its careers page. If the URL contains
+#   boards.greenhouse.io/<slug>      -> add under greenhouse
+#   jobs.lever.co/<slug>             -> add under lever
+#   jobs.ashbyhq.com/<slug>          -> add under ashby
+# then drop {name, slug} here. Dead/renamed slugs are skipped gracefully.
+#
+# The collector keeps only REMOTE-looking listings (remote / anywhere / EMEA /
+# Europe / Africa / worldwide) to cut onsite noise before scoring.
+
+greenhouse:
+  - {name: "Anthropic", slug: "anthropic"}
+  - {name: "GitLab", slug: "gitlab"}
+  - {name: "Vercel", slug: "vercel"}
+  - {name: "Postman", slug: "postman"}
+  - {name: "CockroachDB", slug: "cockroachlabs"}
+  - {name: "Airtable", slug: "airtable"}
+  - {name: "Discord", slug: "discord"}
+  - {name: "Gusto", slug: "gusto"}
+  - {name: "Brex", slug: "brex"}
+  - {name: "MongoDB", slug: "mongodb"}
+  - {name: "Datadog", slug: "datadog"}
+  - {name: "Asana", slug: "asana"}
+  - {name: "Databricks", slug: "databricks"}
+  - {name: "Stripe", slug: "stripe"}
+  - {name: "Coinbase", slug: "coinbase"}
+  - {name: "Robinhood", slug: "robinhood"}
+  - {name: "Affirm", slug: "affirm"}
+  - {name: "Instacart", slug: "instacart"}
+  - {name: "Flexport", slug: "flexport"}
+  - {name: "Samsara", slug: "samsara"}
+
+ashby:
+  - {name: "OpenAI", slug: "openai"}
+  - {name: "Cursor (Anysphere)", slug: "cursor"}
+  - {name: "Perplexity", slug: "perplexity"}
+  - {name: "ElevenLabs", slug: "elevenlabs"}
+  - {name: "Replit", slug: "replit"}
+  - {name: "Linear", slug: "linear"}
+  - {name: "Railway", slug: "railway"}
+  - {name: "Render", slug: "render"}
+  - {name: "PostHog", slug: "posthog"}
+  - {name: "Zapier", slug: "zapier"}
+  - {name: "Ashby", slug: "ashby"}
+  - {name: "Ramp", slug: "ramp"}
+  - {name: "Vanta", slug: "vanta"}
+  - {name: "Runway", slug: "runway"}
+  - {name: "Notion", slug: "notion"}
+
+lever:
+  - {name: "Neon", slug: "neon"}
+  - {name: "Toptal", slug: "toptal"}
+  - {name: "Sword Health", slug: "swordhealth"}
+  - {name: "Spotify", slug: "spotify"}

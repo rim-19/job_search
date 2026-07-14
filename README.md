@@ -1,8 +1,8 @@
 # 🎀 Rim's Remote Job Agent
 
-A $0-cost automated agent that **twice a day** (09:00 & 19:00 GMT+1):
+A $0-cost automated agent that runs **every 5 hours** (so you're an early applicant):
 
-1. **Collects** remote dev jobs from many free sources — 5 JSON APIs (Remotive, Arbeitnow, RemoteOK, Jobicy, Himalayas), **The Muse API**, **RSS feeds** (Jobicy, WeWorkRemotely), your own **Google Alerts** RSS feeds, plus **keyword-variant searches** that widen the net, and optional Playwright scraping.
+1. **Collects** remote dev jobs from many free sources — 5 JSON APIs (Remotive, Arbeitnow, RemoteOK, Jobicy, Himalayas), **The Muse API**, **RSS feeds** (Jobicy, WeWorkRemotely), your own **Google Alerts** RSS feeds, **~40 startup career boards** (Greenhouse / Lever / Ashby), plus **keyword-variant searches**, and optional Playwright scraping.
 2. **Dedupes** within the run by `(title + company + url)`, **and across runs** via the database — the evening run never re-surfaces what the morning already showed.
 3. **Filters** — a rule-based location filter drops obviously country-locked roles (US only, hybrid, onsite…), then **Gemini** reads each description and returns a **score 1–10**, a one-line **reason**, and a 2–3 sentence **summary** — catching hidden restrictions (work-auth/timezone locks).
 4. **Flags recency** — every listing gets `days_since_posted` and a **Fresh** label (≤ 7 days). Nothing is ever discarded; Fresh listings just sort first, older ones show muted with a "posted X days ago" caption.
@@ -10,10 +10,14 @@ A $0-cost automated agent that **twice a day** (09:00 & 19:00 GMT+1):
 6. **Publishes** a clean, responsive 🎀 Hello-Kitty dashboard on **GitHub Pages** — with per-job AI summaries, clear key info, and **on-demand cover-letter generation** (see below).
 7. **Pings** you on **Telegram** with only the **new** strong matches (Fresh first), plus the list of **companies scanned** this run.
 
-Search profile baked in: **junior · remote · worldwide / no country restriction**, tech stack from the CV (Python, JS/TS, React, Next.js, Node, HTML/CSS, Java, C#, AI/LLM/NLP). No visa/relocation terms — the target is fully-remote-from-Morocco, so worldwide / employer-of-record / international-contractor phrasing is used instead.
+Search profile baked in: **junior · remote**, tech stack from the CV (Python, JS/TS, React, Next.js, Node, HTML/CSS, Java, C#, AI/LLM/NLP). The candidate is in **Morocco (UTC+0/+1)**, so the AI treats **worldwide, Europe/EMEA, Africa/MENA, GMT/CET-timezone, and Employer-of-Record / international-contractor** roles as good matches — and only rejects roles that genuinely exclude her (US/Canada-only work authorization, Americas/APAC-locked, onsite/hybrid). Notifies on **score ≥ 6** (cast a wide net as a junior).
 
-### ✍️ Cover letters — on demand, not automatic
-To save Gemini's free quota, cover letters are **no longer generated for every job**. Instead, each job card on the website has a **"Cover letter"** button. On first use you paste your Gemini API key + CV once (stored **only in your browser**, never uploaded). Clicking generates a full tailored letter right in the browser, with **Copy** and **Save as PDF** buttons, and caches it per-job so re-opening doesn't spend more quota (there's a **Regenerate** option if you want a fresh one).
+### ✍️ Cover letters & 📋 Apply kits — on demand, not automatic
+To save Gemini's free quota, nothing is generated automatically. Each job card has a **"Cover letter"** button and an **"Apply kit"** button. On first use you paste your Gemini API key + CV once in **⚙️ Settings** (stored **only in your browser**, never uploaded; add an optional **Groq key** as a fallback). Clicking generates in-browser:
+- **Cover letter** — a full tailored letter.
+- **Apply kit** — a tailored CV summary, matching-skills bullets, and ready answers to common application questions (why this role, salary expectations, start date…) so you apply in ~2 minutes.
+
+Both have **Copy** and **Save as PDF**, and are cached per-job (with **Regenerate**) so re-opening spends no extra quota.
 
 ---
 
@@ -26,8 +30,9 @@ job_search/
 │   ├── collectors/api_sources.py        # 5 JSON APIs + keyword-variant search
 │   ├── collectors/muse_source.py        # The Muse API
 │   ├── collectors/rss_sources.py        # RSS feeds + Google Alerts
+│   ├── collectors/startup_boards.py     # Greenhouse / Lever / Ashby boards
 │   ├── collectors/playwright_sources.py # optional headless scraping
-│   ├── gemini.py                        # tiny Gemini REST client
+│   ├── gemini.py                        # LLM client (Gemini + Groq fallback)
 │   ├── dedupe.py  scorer.py  recency.py
 │   ├── db.py  site_builder.py  notifier.py
 │   └── main.py                          # orchestrates the pipeline
@@ -36,6 +41,7 @@ job_search/
 │   ├── keywords.yaml              # stack/seniority hints + search variants
 │   ├── restricted_locations.yaml  # rule-based auto-reject strings
 │   ├── rss_feeds.yaml             # RSS feeds + your Google Alerts URLs
+│   ├── startup_boards.yaml        # Greenhouse/Lever/Ashby company slugs
 │   └── target_sites.yaml          # Playwright targets (empty by default)
 ├── docs/                          # the 🎀 website (GitHub Pages serves this)
 │   ├── index.html  style.css  app.js  jobs.json
@@ -114,7 +120,7 @@ Your board goes live at **https://rim-19.github.io/job_search/**.
 
 ### 7. First run
 
-**Actions tab → "Daily Job Search" → Run workflow** (manual trigger). This creates/updates the DB, writes `jobs.json`, commits them back, and Pages auto-rebuilds. After that the cron runs **twice daily at 08:00 and 18:00 UTC** (= **09:00 and 19:00 GMT+1**, Morocco).
+**Actions tab → "Daily Job Search" → Run workflow** (manual trigger). This creates/updates the DB, writes `jobs.json`, commits them back, and Pages auto-rebuilds. After that the cron runs **every 5 hours** (00/05/10/15/20 UTC). Each run only scores **net-new** listings (already-scored ones are skipped), so frequent runs stay cheap and never re-notify old jobs.
 
 ### 8. (Optional but recommended) Set up Google Alerts
 
@@ -173,9 +179,11 @@ sqlite3 data/jobs.db "UPDATE jobs SET status='Applied' WHERE url='...';"
 | `config/keywords.yaml` | Stack + seniority hints (pre-ranking) and `search_variants` (broad-net queries). `max_search_queries` bounds how many fire per run. |
 | `config/restricted_locations.yaml` | Strings that auto-reject a listing by location. |
 | `config/rss_feeds.yaml` | RSS feeds + your Google Alerts feed URLs. |
+| `config/startup_boards.yaml` | Company slugs for Greenhouse/Lever/Ashby boards — add any company by its careers-page slug. |
 | `config/target_sites.yaml` | Add career pages for Playwright to scrape (see the commented example). |
-| env `KEEP_THRESHOLD` | Min score to count as a "keeper" for Telegram (default 7). |
-| env `MAX_SCORE` | Max listings scored per run (default 80; 0 = unlimited). Bounds Gemini quota. |
+| env `KEEP_THRESHOLD` | Min score to notify on Telegram (default 6). |
+| env `MAX_SCORE` | Max NEW listings scored per run (default 120; 0 = unlimited). |
+| env `GROQ_MODEL` | Groq fallback model (default `llama-3.3-70b-versatile`). |
 
 ---
 

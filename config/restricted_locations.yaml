@@ -1,15 +1,23 @@
 # Rule-based location filter (Layer 1 in scorer.py).
 # If a listing's location/region field matches ANY of these strings
-# (case-insensitive substring match), it is dropped BEFORE reaching Gemini.
+# (case-insensitive substring match), it is dropped BEFORE reaching the AI.
 #
-# Goal: user wants remote / worldwide / no country restriction.
-# So we reject anything that pins the role to a single country/region.
-#
-# NOTE: Layer 2 (Gemini) still reads the full description to catch subtler
-# restrictions like "must be authorized to work in the US" that aren't here.
+# PHILOSOPHY (updated): Layer 1 now ONLY hard-drops roles that are DEFINITELY not
+# applyable for a remote worker in Morocco (UTC+0/+1) — onsite/hybrid, and roles
+# that clearly require US/Canada legal work authorization or a far-timezone
+# residency. Everything with nuance — Europe, EMEA, UK, EU, single European
+# countries, "EST overlap", Africa/MENA — is deliberately LEFT for Gemini (Layer
+# 2), which now knows the candidate can work Europe/EMEA/Africa/MENA/EOR/contractor
+# roles. This avoids silently discarding jobs she could actually apply to.
 
 restricted:
-  # United States
+  # Not remote at all — she needs fully remote.
+  - "onsite"
+  - "on-site"
+  - "on site"
+  - "hybrid"
+
+  # United States — needs US work authorization / physical presence she lacks.
   - "us only"
   - "u.s. only"
   - "usa only"
@@ -23,53 +31,20 @@ restricted:
   - "us work authorization"
   - "us citizens"
   - "green card"
-  - "onsite"
-  - "on-site"
-  - "on site"
-  - "hybrid"
 
-  # United Kingdom
-  - "uk only"
-  - "u.k. only"
-  - "uk-only"
-  - "uk based"
-  - "uk-based"
-  - "united kingdom only"
-  - "right to work in the uk"
-
-  # Canada
+  # Canada — needs Canadian work authorization.
   - "canada only"
   - "canadian only"
   - "canada-based"
 
-  # Europe / EU / EEA restrictions
-  - "eu only"
-  - "eu-only"
-  - "europe only"
-  - "eea only"
-  - "eu residents"
-  - "must be based in europe"
-  - "within the eu"
-
-  # Specific single countries (remote but country-locked)
-  - "germany only"
-  - "france only"
+  # Far-timezone / residency-locked regions that genuinely exclude her.
+  # (European single-countries, UK, and EU/EMEA are intentionally NOT here —
+  #  they overlap her timezone and are often EOR/contractor-friendly, so the AI
+  #  judges them case by case.)
   - "india only"
-  - "poland only"
-  - "spain only"
-  - "netherlands only"
   - "australia only"
   - "brazil only"
   - "mexico only"
   - "argentina only"
   - "philippines only"
-  - "ukraine only"
-
-  # Timezone locks that effectively exclude Morocco (UTC+0/+1) are handled
-  # by Gemini in Layer 2, since they need nuance (e.g. "EST overlap required").
-
-  # Generic country-lock phrasing
-  - "residents of"
-  - "must reside in"
-  - "must be located in"
-  - "location restricted"
+  - "latam only"

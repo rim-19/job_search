@@ -2,11 +2,11 @@ name: Daily Job Search
 
 on:
   schedule:
-    # Twice daily. GitHub Actions cron is ALWAYS in UTC, so we offset for
-    # GMT+1 (Morocco): 09:00 GMT+1 = 08:00 UTC, 19:00 GMT+1 = 18:00 UTC.
-    # Persistent cross-run dedupe means the evening run only surfaces listings
-    # the morning run didn't already show.
-    - cron: "0 8,18 * * *"
+    # Every 5 hours (UTC — GitHub Actions cron is always UTC). Runs at
+    # 00:00, 05:00, 10:00, 15:00, 20:00 UTC. Frequent runs = you're an early
+    # applicant; cross-run dedupe + skip-already-scored keep each run cheap and
+    # non-repetitive (only net-new listings are scored and notified).
+    - cron: "0 0,5,10,15,20 * * *"
   workflow_dispatch: {}   # manual "Run workflow" button
 
 permissions:

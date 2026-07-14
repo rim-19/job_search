@@ -32,6 +32,9 @@ _GEMINI_INTERVAL = float(os.getenv("GEMINI_MIN_INTERVAL", "4.2"))  # ~15 RPM fre
 
 # --- Groq (fallback) ---
 _GROQ_KEY = os.getenv("GROQ_API_KEY") or os.getenv("groq_key") or ""
+# 70b gives noticeably better judgment (esp. seniority/geo nuance) than 8b. Its
+# tokens-per-minute limit is tighter, but the retry-after handling below drains
+# it reliably. Override with GROQ_MODEL=llama-3.1-8b-instant for more speed.
 _GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
 _GROQ_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
 _GROQ_INTERVAL = float(os.getenv("GROQ_MIN_INTERVAL", "2.1"))  # ~30 RPM free
@@ -87,6 +90,15 @@ def _gemini_call(prompt: str, temperature: float) -> tuple[int, str]:
     return resp.status_code, resp.text
 
 
+class _RateLimited(GeminiError):
+    def __init__(self, retry_after: float):
+        super().__init__(f"Groq rate limited; retry after {retry_after:.1f}s")
+        self.retry_after = retry_after
+
+
+_RETRY_RE = re.compile(r"try again in ([\d.]+)s")
+
+
 def _groq_call(prompt: str, temperature: float) -> str:
     _throttle("groq", _GROQ_INTERVAL)
     payload = {
@@ -102,6 +114,17 @@ def _groq_call(prompt: str, temperature: float) -> str:
             return resp.json()["choices"][0]["message"]["content"]
         except (KeyError, IndexError) as exc:
             raise GeminiError(f"Unexpected Groq response: {resp.text[:200]}") from exc
+    if resp.status_code == 429:
+        # Honor the precise wait the API tells us (header or message hint).
+        wait = resp.headers.get("retry-after")
+        try:
+            wait = float(wait) if wait else None
+        except ValueError:
+            wait = None
+        if wait is None:
+            m = _RETRY_RE.search(resp.text)
+            wait = float(m.group(1)) if m else 5.0
+        raise _RateLimited(min(wait + 0.5, 30.0))
     raise GeminiError(f"Groq HTTP {resp.status_code}: {resp.text[:300]}")
 
 
@@ -114,7 +137,7 @@ def generate(prompt: str, *, temperature: float = 0.4, max_retries: int = 3) -> 
 
     # If Gemini is already known-exhausted (or absent), go straight to Groq.
     if (_gemini_exhausted[0] or not _GEMINI_KEY) and _GROQ_KEY:
-        return _groq_with_retries(prompt, temperature, max_retries)
+        return _groq_with_retries(prompt, temperature)
 
     backoff = 2.0
     for attempt in range(1, max_retries + 1):
@@ -125,7 +148,7 @@ def generate(prompt: str, *, temperature: float = 0.4, max_retries: int = 3) -> 
             if attempt == max_retries:
                 if _GROQ_KEY:
                     log.info("Falling back to Groq after Gemini network failure.")
-                    return _groq_with_retries(prompt, temperature, max_retries)
+                    return _groq_with_retries(prompt, temperature)
                 raise GeminiError(str(exc)) from exc
             time.sleep(backoff); backoff *= 2
             continue
@@ -139,7 +162,7 @@ def generate(prompt: str, *, temperature: float = 0.4, max_retries: int = 3) -> 
                 if not _gemini_exhausted[0]:
                     log.warning("Gemini quota exhausted (429) — switching to Groq (%s) for the rest of this run.", _GROQ_MODEL)
                     _gemini_exhausted[0] = True
-                return _groq_with_retries(prompt, temperature, max_retries)
+                return _groq_with_retries(prompt, temperature)
             # No Groq: keep the old backoff-then-raise behaviour.
             if attempt < max_retries:
                 log.warning("Gemini 429 — backing off %.1fs (attempt %d)", backoff, attempt)
@@ -156,23 +179,24 @@ def generate(prompt: str, *, temperature: float = 0.4, max_retries: int = 3) -> 
         # Hard error — try Groq once if available, else raise.
         if _GROQ_KEY:
             log.warning("Gemini HTTP %d — falling back to Groq.", status)
-            return _groq_with_retries(prompt, temperature, max_retries)
+            return _groq_with_retries(prompt, temperature)
         raise GeminiError(f"Gemini HTTP {status}: {text[:300]}")
 
     raise GeminiError("Gemini failed after retries.")
 
 
-def _groq_with_retries(prompt: str, temperature: float, max_retries: int) -> str:
+def _groq_with_retries(prompt: str, temperature: float, max_retries: int = 5) -> str:
     backoff = 2.0
     for attempt in range(1, max_retries + 1):
         try:
             return _groq_call(prompt, temperature)
-        except GeminiError as exc:
-            msg = str(exc)
-            if "429" in msg and attempt < max_retries:
-                log.warning("Groq 429 — backing off %.1fs (attempt %d)", backoff, attempt)
-                time.sleep(backoff); backoff *= 2
-                continue
+        except _RateLimited as exc:
+            if attempt == max_retries:
+                raise
+            log.warning("Groq rate limited — waiting %.1fs (attempt %d/%d)",
+                        exc.retry_after, attempt, max_retries)
+            time.sleep(exc.retry_after)
+        except GeminiError:
             if attempt == max_retries:
                 raise
             time.sleep(backoff); backoff *= 2

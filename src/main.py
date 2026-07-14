@@ -17,7 +17,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from .collectors import (  # noqa: E402
-    api_sources, muse_source, rss_sources, playwright_sources,
+    api_sources, muse_source, rss_sources, startup_boards, playwright_sources,
 )
 from . import dedupe, scorer, recency, db, site_builder, notifier  # noqa: E402
 
@@ -28,7 +28,9 @@ logging.basicConfig(
 )
 log = logging.getLogger("main")
 
-KEEP_THRESHOLD = int(os.getenv("KEEP_THRESHOLD", "7"))
+# Lowered to 6: as a junior, casting a wider net (worth-a-look roles) beats
+# waiting for perfect 7+ matches. Override with KEEP_THRESHOLD.
+KEEP_THRESHOLD = int(os.getenv("KEEP_THRESHOLD", "6"))
 
 
 def run() -> None:
@@ -37,10 +39,16 @@ def run() -> None:
     log.info("JOB AGENT RUN — %s UTC", started.strftime("%Y-%m-%d %H:%M"))
     log.info("=" * 60)
 
-    # 1. Collect (APIs + keyword variants, Muse, RSS/Google-Alerts, Playwright)
+    # Ensure DB exists so we can read already-scored URLs before scoring.
+    db.init_db()
+    existing_urls = db.get_existing_urls()
+
+    # 1. Collect (APIs + keyword variants, Muse, RSS/Google-Alerts, startup
+    #    boards, Playwright)
     listings = api_sources.fetch_all()
     listings += muse_source.fetch_all()
     listings += rss_sources.fetch_all()
+    listings += startup_boards.fetch_all()
     listings += playwright_sources.fetch_all()
     log.info("STAGE collect: %d raw listings", len(listings))
 
@@ -48,21 +56,19 @@ def run() -> None:
     listings = dedupe.dedupe(listings)
     log.info("STAGE dedupe: %d unique listings", len(listings))
 
-    # 3. Score (Layer 1 rules + Layer 2 Gemini score+reason+summary)
-    scored = scorer.score_all(listings)
-    log.info("STAGE score: %d listings scored", len(scored))
+    # 3. Score ONLY net-new listings (already-scored ones keep DB scores).
+    scored = scorer.score_all(listings, skip_urls=existing_urls)
+    log.info("STAGE score: %d new listings scored", len(scored))
 
     # 4. Recency — annotate, never drop
     recency.annotate_all(scored, now=started)
 
-    # 5. Persistent (cross-run) dedupe: which URLs are brand new?
-    existing_urls = db.get_existing_urls()
-    new_listings = [j for j in scored if j.get("url") not in existing_urls]
-    log.info("STAGE persist-dedupe: %d new listings (of %d scored) vs %d already in DB",
-             len(new_listings), len(scored), len(existing_urls))
+    # 5. Everything freshly scored is, by definition, new this run.
+    new_listings = scored
+    log.info("STAGE persist-dedupe: %d new listings vs %d already in DB",
+             len(new_listings), len(existing_urls))
 
-    # 6. Store — upsert everything (existing rows updated silently, status kept)
-    db.init_db()
+    # 6. Store — upsert the newly scored listings
     stamp = started.strftime("%Y-%m-%d")
     for job in scored:
         db.upsert_job(job, date_scored=stamp)
@@ -74,7 +80,7 @@ def run() -> None:
 
     # 8. Notify — only NEW keepers (score >= threshold), Fresh first
     new_keepers = [j for j in new_listings if j.get("score", 0) >= KEEP_THRESHOLD]
-    notifier.notify(total_scanned=len(scored), new_keepers=new_keepers, scored=scored)
+    notifier.notify(total_collected=len(listings), new_keepers=new_keepers, scored=scored)
 
     elapsed = (datetime.now(timezone.utc) - started).total_seconds()
     log.info("=" * 60)
