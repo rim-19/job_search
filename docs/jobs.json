@@ -1,6 +1,526 @@
 {
-  "generated": "2026-07-13",
+  "generated": "2026-07-14",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-devops-mern-stack-associate-%25E2%2580%2593-internship-remote-at-medinex-workforce-4439154493&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0jBRm8xd3Hk2nkODcM6oKw",
+      "title": "Junior DevOps / MERN Stack Associate – Internship Remote - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-devops-mern-stack-associate-%25E2%2580%2593-internship-remote-at-medinex-workforce-4439154493&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0jBRm8xd3Hk2nkODcM6oKw",
+      "score": 8,
+      "reason": "This role is a strong match as it's a junior, fully remote internship with a tech stack that aligns well with the candidate's skills, and the location is open to her.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Google Alert 9",
+      "summary": "This is a remote internship for a Junior DevOps / MERN Stack Associate. You will gain exposure to full-stack development. The role is fully remote and open to global candidates.",
+      "date_posted": "2026-07-13T10:38:41Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/harvey/1bb028d2-168e-475b-9f0d-f994daca596d",
+      "title": "Automation Engineer, Customer Education",
+      "company": "Harvey",
+      "location": "Remote",
+      "link": "https://jobs.ashbyhq.com/harvey/1bb028d2-168e-475b-9f0d-f994daca596d",
+      "score": 8,
+      "reason": "The role is a junior-friendly, fully remote Automation Engineer position with matching tech stack.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Harvey (careers)",
+      "summary": "This role is for an Automation Engineer at Harvey, focusing on building technical infrastructure for customer education, including AI agents and automation pipelines. The position is fully remote and involves partnering with cross-functional teams to translate educational strategy into production-grade technology. The company is open to global talent, making it a suitable fit for the candidate's location and preferences.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/jr-full-stack-engineer-at-bytex-4437232899&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2eIzagFjNIepuZVV3rWIyk",
+      "title": "ByteX hiring Jr . Full Stack Engineer in India - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/jr-full-stack-engineer-at-bytex-4437232899&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2eIzagFjNIepuZVV3rWIyk",
+      "score": 8,
+      "reason": "The role is junior-friendly, fully remote, and matches the candidate's tech stack.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Google Alert 9",
+      "summary": "The role is for a Jr. Full Stack Engineer using Next.js, React, TypeScript, HTML, CSS, and JavaScript. The position is fully remote and seems to be open to global candidates. The company is looking for a full stack developer with Python and React skills to work on mobile and other projects.",
+      "date_posted": "2026-07-14T00:01:46Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7946608",
+      "title": "Frontend Software Engineer",
+      "company": "Twilio",
+      "location": "Remote - United Kingdom",
+      "link": "https://job-boards.greenhouse.io/twilio/jobs/7946608",
+      "score": 8,
+      "reason": "The role is a junior-friendly, fully remote frontend software engineer position with matching tech stack and location scope that overlaps with the candidate's timezone.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Twilio (careers)",
+      "summary": "This is a Frontend Software Engineer role at Twilio, working on the Twilio Console platform with technologies like React and Typescript. The position is fully remote, based in the United Kingdom, but open to global candidates. The role involves designing, developing, and deploying new features, as well as participating in on-call rotation and root-cause-analysis for incidents.",
+      "date_posted": "2026-07-13T10:30:23-04:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
+      "title": "Forward Deployed Engineer, Agentic Platform (UK/Europe)",
+      "company": "Cohere",
+      "location": "Europe",
+      "link": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
+      "score": 8,
+      "reason": "The role is a junior-friendly, fully remote position in Europe, matching the candidate's tech stack and location requirements.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Cohere (careers)",
+      "summary": "This is a Forward Deployed Engineer role at Cohere, working on the Agentic Platform, with responsibilities including designing, building, and deploying AI-powered workflows. The role is fully remote, based in Europe, and utilizes technologies such as AI, machine learning, and software engineering. The position is suitable for a junior software engineer with experience in applied AI and a strong technical background.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/langchain/ba447a0b-2f52-484e-b3f6-b15c6445bdf9",
+      "title": "Deployed Engineer (South EMEA)",
+      "company": "LangChain",
+      "location": "London",
+      "link": "https://jobs.ashbyhq.com/langchain/ba447a0b-2f52-484e-b3f6-b15c6445bdf9",
+      "score": 8,
+      "reason": "The role is a junior-friendly, fully remote position in a region she can work, with matching tech stack.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "LangChain (careers)",
+      "summary": "The Deployed Engineer role at LangChain involves working with companies to build and run AI agents in production, using technologies like LangChain and LangSmith. The position is fully remote and based in South EMEA, which overlaps with the candidate's timezone. The role requires hands-on technical work, partnering with customer engineers to achieve technical wins and co-design agent architectures.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/7557597",
+      "title": "Fullstack Software Engineer (f/m/d)",
+      "company": "Contentful",
+      "location": "Berlin, Berlin, Germany",
+      "link": "https://job-boards.greenhouse.io/contentful/jobs/7557597",
+      "score": 7,
+      "reason": "This role is a strong fit due to its full-stack nature, relevant tech stack (React, Node.js, TypeScript), and the candidate's ability to work remotely within European timezones, despite the listed location being Berlin.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Contentful (careers)",
+      "summary": "Contentful is hiring a Fullstack Software Engineer to build automation, workflow, and collaboration features using TypeScript, React, and Node.js. The role involves full-stack development, integrating collaboration tools, and rapid problem-solving. While listed in Berlin, the role is suitable for remote work within European timezones, aligning with your location.",
+      "date_posted": "2026-06-24T14:02:30-04:00",
+      "days_since_posted": 19,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/7557586",
+      "title": "Fullstack Software Engineer (f/m/d)",
+      "company": "Contentful",
+      "location": "Dublin, Dublin, Ireland",
+      "link": "https://job-boards.greenhouse.io/contentful/jobs/7557586",
+      "score": 7,
+      "reason": "This role is a good potential fit as it's fully remote and aligns with the candidate's tech stack, but the location is listed as Dublin, Ireland, which might imply a need for EU work authorization, though it could also be a remote role within EMEA.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Contentful (careers)",
+      "summary": "This is a fully remote Fullstack Software Engineer role at Contentful, focusing on building automations, workflows, and collaboration tools. You'll use TypeScript, React, and Node.js to develop scalable frontend and backend features. While the listed location is Dublin, Ireland, the role description emphasizes innovation and collaboration within the Contentful ecosystem, suggesting it may be open to remote candidates within the EMEA region.",
+      "date_posted": "2026-06-24T14:02:30-04:00",
+      "days_since_posted": 19,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/7553930",
+      "title": "Fullstack Software Engineer (f/m/d)",
+      "company": "Contentful",
+      "location": "London, England, United Kingdom",
+      "link": "https://job-boards.greenhouse.io/contentful/jobs/7553930",
+      "score": 7,
+      "reason": "This role is a strong fit due to its full-stack nature, relevant tech stack (React, Node.js, TypeScript), and the candidate's ability to work remotely as a contractor, despite the listed London location.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Contentful (careers)",
+      "summary": "This is a Full Stack Software Engineer role at Contentful, focusing on building automations, workflows, and collaboration tools. You'll use TypeScript, React, and Node.js for both frontend and backend development. The role is based in London but is suitable for remote contractors, aligning with your ability to work worldwide.",
+      "date_posted": "2026-06-24T14:02:30-04:00",
+      "days_since_posted": 19,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7741981003",
+      "title": "Full Stack Engineer, Experimentation",
+      "company": "LaunchDarkly",
+      "location": "Remote - US",
+      "link": "https://job-boards.greenhouse.io/launchdarkly/jobs/7741981003",
+      "score": 4,
+      "reason": "The role is not a strong technical fit and has a location restriction to the US",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "LaunchDarkly (careers)",
+      "summary": "This is a full-stack engineer role at LaunchDarkly, working on experimentation services with Go, RESTful APIs, React, and TypeScript. The main responsibilities include designing, developing, and maintaining scalable services and collaborating with cross-functional teams. The role is remote but limited to the US.",
+      "date_posted": "2026-07-09T11:12:50-04:00",
+      "days_since_posted": 4,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7767264003",
+      "title": "Full Stack Engineer, Foundation",
+      "company": "LaunchDarkly",
+      "location": "Remote - US",
+      "link": "https://job-boards.greenhouse.io/launchdarkly/jobs/7767264003",
+      "score": 4,
+      "reason": "The role is not explicitly junior-friendly and has a location field of 'Remote - US', which may imply US-only or US-timezone restrictions.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "LaunchDarkly (careers)",
+      "summary": "LaunchDarkly is hiring a Full Stack Engineer for the Foundation team to build onboarding flows and extend the platform into tools developers already use. The role involves full-stack implementation, design partnership, and experimentation. The job is remote but has a 'Remote - US' location field, which may limit its availability to certain regions or timezones.",
+      "date_posted": "2026-07-06T13:51:31-04:00",
+      "days_since_posted": 7,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/writer/c2e67893-8cda-4db5-b298-98a48952e90c",
+      "title": "Software engineer, generative AI (UK)",
+      "company": "Writer",
+      "location": "London, UK",
+      "link": "https://jobs.ashbyhq.com/writer/c2e67893-8cda-4db5-b298-98a48952e90c",
+      "score": 4,
+      "reason": "The role is not explicitly remote and is based in London, UK, which may require specific work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Writer (careers)",
+      "summary": "This is a software engineer role for generative AI at WRITER, focusing on building a secure and scalable foundation for AI solutions. The role is based in London, UK, and requires a well-rounded engineering generalist with a whole-systems mindset. The job listing does not explicitly state that the role is fully remote.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/146028-entry-level-communications-specialist",
+      "title": "Entry-level communications specialist",
+      "company": "Canonical Ltd.",
+      "location": "EMEA",
+      "link": "https://jobicy.com/jobs/146028-entry-level-communications-specialist",
+      "score": 4,
+      "reason": "The role is not a technical position and does not match the candidate's tech stack.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Jobicy",
+      "summary": "This is an entry-level communications specialist role at Canonical Ltd, focusing on social media marketing and content creation. The role is fully remote in the EMEA region, but does not require the candidate's technical skills in programming languages or AI development. The main responsibilities include creating and publishing content, analyzing social media metrics, and supporting audience growth.",
+      "date_posted": "2026-07-12T11:35:05+00:00",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff",
+      "title": "Software Engineer, Adoption",
+      "company": "Cohere",
+      "location": "London",
+      "link": "https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff",
+      "score": 4,
+      "reason": "The job listing is not explicitly remote and is based in London, which may not be a good fit for the candidate's location and requirements.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Cohere (careers)",
+      "summary": "This role is for a Software Engineer at Cohere, working on the Agents & Automations team to build a platform for AI-powered workflows. The main tech includes AI, workflow builder, execution engine, and integrations. The job is based in London, but it's unclear if remote work is an option.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8565469002",
+      "title": "AI Engineer",
+      "company": "GitLab",
+      "location": "Remote, US",
+      "link": "https://job-boards.greenhouse.io/gitlab/jobs/8565469002",
+      "score": 3,
+      "reason": "The role is explicitly 'Remote, US' which, despite the candidate's willingness to work remotely worldwide, likely implies a need for US work authorization or residency, making it a poor location fit.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "GitLab (careers)",
+      "summary": "This AI Engineer role at GitLab focuses on building internal AI-powered solutions to drive business outcomes. While the position is remote, it is specified as 'Remote, US', which may present location restrictions for candidates outside the US. The core responsibilities involve leveraging AI to enhance developer productivity and operational efficiency.",
+      "date_posted": "2026-06-05T16:18:10-04:00",
+      "days_since_posted": 38,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://www.samsara.com/company/careers/roles/8024110?gh_jid=8024110",
+      "title": "Applied AI Specialist, Commercial Customer Success",
+      "company": "Samsara",
+      "location": "Remote - US",
+      "link": "https://www.samsara.com/company/careers/roles/8024110?gh_jid=8024110",
+      "score": 3,
+      "reason": "The role is not a strong fit due to the location being remote-US, which may imply a need for US work authorization or timezone overlap.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Samsara (careers)",
+      "summary": "The Applied AI Specialist role at Samsara involves designing and building AI solutions for commercial customer success. The role requires building and maintaining agentic solutions and owning the full lifecycle from prompt to production. The job is listed as remote-US, which may have location or timezone restrictions.",
+      "date_posted": "2026-07-10T14:37:23-04:00",
+      "days_since_posted": 3,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/openai/d4780eac-03ad-4dae-861f-99af22b4287e",
+      "title": "Software Engineer, Full Stack (People Innovation)",
+      "company": "OpenAI",
+      "location": "Remote - US",
+      "link": "https://jobs.ashbyhq.com/openai/d4780eac-03ad-4dae-861f-99af22b4287e",
+      "score": 2,
+      "reason": "The role is explicitly 'Remote - US' and requires US work authorization, which is a blocker for the candidate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "OpenAI (careers)",
+      "summary": "OpenAI is hiring a Full Stack Software Engineer for their People Innovation team, focusing on HR, culture, and recruiting tools, including LLM applications. This is a fully remote role, but it is restricted to the US.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8041640",
+      "title": "Associate TSE II",
+      "company": "MongoDB",
+      "location": "Dublin, Ireland",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=8041640",
+      "score": 2,
+      "reason": "This role is hybrid and based in Dublin, Ireland, which is a critical mismatch as the candidate requires a fully remote position and cannot relocate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "MongoDB (careers)",
+      "summary": "This is a hybrid Associate Technical Services Engineer II role at MongoDB based in Dublin, Ireland. You will advise customers on complex MongoDB issues and contribute to internal support tool development. The role requires you to be based in Dublin for a hybrid working model.",
+      "date_posted": "2026-07-10T12:16:54-04:00",
+      "days_since_posted": 3,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/writer/6bbdb7ac-d081-4788-952b-6648be46a3bc",
+      "title": "Software engineer, agents (UK)",
+      "company": "Writer",
+      "location": "London, UK",
+      "link": "https://jobs.ashbyhq.com/writer/6bbdb7ac-d081-4788-952b-6648be46a3bc",
+      "score": 2,
+      "reason": "The role is not explicitly remote and is limited to the UK location.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Writer (careers)",
+      "summary": "This is a software engineer role at Writer, focusing on building AI-driven agent systems, with responsibilities including designing and implementing scalable services. The role is based in London, UK, and does not explicitly mention remote work. The company uses modern AI frameworks and collaborates with cross-functional teams to turn complex concepts into production-ready systems.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/ashby/188cc71b-a625-4022-94dc-7c43fa1a8b06",
+      "title": "Design Engineer, EU",
+      "company": "Ashby",
+      "location": "Portugal",
+      "link": "https://jobs.ashbyhq.com/ashby/188cc71b-a625-4022-94dc-7c43fa1a8b06",
+      "score": 2,
+      "reason": "The role is not explicitly remote and is restricted to Portugal, which may require specific work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Ashby (careers)",
+      "summary": "This is a Design Engineer role at Ashby, focusing on both design and coding, with responsibilities including working on design problems and enhancing the in-house design system. The role is based in Portugal, and it's unclear if remote work is an option. The tech stack is not explicitly mentioned in the listing.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/ashby/cb45928e-c7c7-4163-84d0-a962755a3593",
+      "title": "Design Engineer, UK",
+      "company": "Ashby",
+      "location": "United Kingdom",
+      "link": "https://jobs.ashbyhq.com/ashby/cb45928e-c7c7-4163-84d0-a962755a3593",
+      "score": 2,
+      "reason": "The role is not fully remote and requires a location in the United Kingdom.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Ashby (careers)",
+      "summary": "This is a Design Engineer role at Ashby, requiring both design and coding skills, with a focus on working on challenging design problems and improving the in-house design system. The main tech responsibilities include UX, UI, and data model design. The role is based in the United Kingdom, not fully remote.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://stripe.com/jobs/search?gh_jid=7993682",
+      "title": "Global Sales Enablement Systems Administrator",
+      "company": "Stripe",
+      "location": "US-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7993682",
+      "score": 2,
+      "reason": "The role is not a technical software development position and the location is restricted to US-Remote, excluding her location.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Stripe (careers)",
+      "summary": "This is a Global Sales Enablement Systems Administrator role at Stripe, responsible for day-to-day administration and maintenance of seller enablement platforms, with a location scope limited to US-Remote. The role does not appear to involve software development or match the candidate's tech stack. It is a fully remote position, but the location restriction and non-technical nature make it a poor fit.",
+      "date_posted": "2026-06-26T17:05:46-04:00",
+      "days_since_posted": 17,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7761616003",
+      "title": "Full Stack Engineer, Guardian Monitoring",
+      "company": "LaunchDarkly",
+      "location": "Remote - US",
+      "link": "https://job-boards.greenhouse.io/launchdarkly/jobs/7761616003",
+      "score": 2,
+      "reason": "The role requires 5+ years of professional software engineering experience, which exceeds the candidate's junior level.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "LaunchDarkly (careers)",
+      "summary": "The role is for a Full Stack Engineer at LaunchDarkly, working on the Guardian Monitoring team to build detection and response systems. The job requires proficiency in TypeScript, React, and Go, and involves designing, building, and shipping full-stack features. The role is remote but limited to the US, which may not be a good fit for the candidate's location.",
+      "date_posted": "2026-07-06T13:51:31-04:00",
+      "days_since_posted": 7,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/sentry/cf1de93c-b062-48dc-a565-e9c248064b77",
+      "title": "Solutions Engineer",
+      "company": "Sentry",
+      "location": "Amsterdam, Netherlands",
+      "link": "https://jobs.ashbyhq.com/sentry/cf1de93c-b062-48dc-a565-e9c248064b77",
+      "score": 2,
+      "reason": "The role is not fully remote and requires being based in Amsterdam, Netherlands.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Sentry (careers)",
+      "summary": "This is a Solutions Engineer role at Sentry, working with enterprise customers across EMEA to implement and onboard Sentry's application monitoring platform. The main responsibilities include driving implementation, onboarding, and enablement, and ensuring customers get the most out of Sentry's capabilities. The role is based in Amsterdam, Netherlands, and is not fully remote.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/openai/bb97fffc-cdda-43a3-a6bc-234f9c031720",
+      "title": "Offensive Security Engineer, Agent Products",
+      "company": "OpenAI",
+      "location": "Remote - US",
+      "link": "https://jobs.ashbyhq.com/openai/bb97fffc-cdda-43a3-a6bc-234f9c031720",
+      "score": 2,
+      "reason": "The role is senior-level and excludes her location due to the US location requirement",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "OpenAI (careers)",
+      "summary": "This is an Offensive Security Engineer role at OpenAI, focused on penetration testing of agent-powered products, requiring strong security and technical skills. The role is remote but limited to the US. The position involves conducting deep penetration tests and driving vulnerability resolution, but it's a senior-level role that may not be a good fit for a junior candidate.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/replit/b7f12834-78d2-424d-bf83-0c942815fbf7",
+      "title": "Software Engineer, Enterprise",
+      "company": "Replit",
+      "location": "Foster City, CA",
+      "link": "https://jobs.ashbyhq.com/replit/b7f12834-78d2-424d-bf83-0c942815fbf7",
+      "score": 1,
+      "reason": "This role is explicitly located in Foster City, CA, and the description implies a need for physical presence or US work authorization, making it a non-starter for the candidate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-14",
+      "source": "Replit (careers)",
+      "summary": "Replit is hiring a Software Engineer for their new Enterprise team to build full-stack features for enterprise customers. The role is based in Foster City, CA, and involves working closely with customers and cross-functional teams. This position is not remote and requires a US location.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
     {
       "url": "https://weworkremotely.com/remote-jobs/kai-partners-technical-solutions-engineer-web-developer",
       "title": "Technical Solutions Engineer/Web Developer",
@@ -119,7 +639,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/unqork-intern-web-application-penetration-tester",
@@ -179,7 +699,7 @@
       "days_since_posted": 60,
       "freshness": "",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/laioutr-gmbh/ai-engineer-full-stack-typescript-nuxt-next-vue-react-berlin-265753",
@@ -199,7 +719,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/mindrift-freelance-full-stack-web-app-developer",
@@ -479,7 +999,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-entry-level-recruitlytixs-hirings-1134679",
@@ -499,7 +1019,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/remote-va-web-developer-ai-specialist",
@@ -519,7 +1039,7 @@
       "days_since_posted": 25,
       "freshness": "",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/hyperdev-intermediate-full-stack-developer",
@@ -539,7 +1059,7 @@
       "days_since_posted": 12,
       "freshness": "",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/win-home-inspection-devops-engineer",
@@ -559,7 +1079,7 @@
       "days_since_posted": 12,
       "freshness": "",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/devops-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-43537",
@@ -579,7 +1099,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-berlin-germany-471527",
@@ -599,7 +1119,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/145790-benefits-operations-specialist-emea",
@@ -619,7 +1139,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2090982",
@@ -639,7 +1159,7 @@
       "days_since_posted": 31,
       "freshness": "",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-graduate-data-scientist-work-force-nexus-1134707",
@@ -659,7 +1179,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-junior-web-designer-arabian-private-holdings-1134699",
@@ -679,7 +1199,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/145940-genai-engineer",
@@ -699,7 +1219,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/142310-junior-sap-integration-developer",
@@ -719,7 +1239,7 @@
       "days_since_posted": 15,
       "freshness": "",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
@@ -739,7 +1259,7 @@
       "days_since_posted": 15,
       "freshness": "",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1",
@@ -759,7 +1279,7 @@
       "days_since_posted": 50,
       "freshness": "",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
@@ -779,7 +1299,7 @@
       "days_since_posted": 264,
       "freshness": "",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-montevideo-2091058",
@@ -799,7 +1319,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remotive.com/remote-jobs/customer-service/customer-operations-writing-specialist-2090942",
@@ -819,7 +1339,7 @@
       "days_since_posted": 11,
       "freshness": "",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/fullstack-software-entwickler-java-angular-nuremberg-63041",
@@ -839,7 +1359,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/1komma50/internship-global-product-management-berlin-370700",
@@ -859,7 +1379,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/base-com-full-stack-developer-react-aws",
@@ -879,7 +1399,7 @@
       "days_since_posted": 12,
       "freshness": "",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/nordason/frontend-developer-e-commerce-hamburg-211075",
@@ -899,7 +1419,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/software-engineer-berlin-167036",
@@ -919,7 +1439,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2090986",
@@ -1039,7 +1559,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/146058-senior-software-engineer-game-engine",
@@ -1059,7 +1579,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/144874-senior-ai-engineer-4",
@@ -1079,7 +1599,7 @@
       "days_since_posted": 13,
       "freshness": "",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/retr-senior-software-engineer",
@@ -1099,7 +1619,7 @@
       "days_since_posted": 4,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/145932-enterprise-core-sales-engineer",
@@ -1119,7 +1639,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-stuttgart-germany-275854",
@@ -1139,7 +1659,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/gradient-labs/jobs/member-of-technical-staff",
@@ -1159,7 +1679,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/databento-product-marketing-specialist",
@@ -1179,7 +1699,7 @@
       "days_since_posted": 12,
       "freshness": "",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
@@ -1199,7 +1719,7 @@
       "days_since_posted": 31,
       "freshness": "",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/145862-enterprise-security-engineer",
@@ -1219,7 +1739,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/146021-group-financial-controller",
@@ -1239,7 +1759,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-mexico-city-2091050",
@@ -1259,7 +1779,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-campinas-2091049",
@@ -1279,7 +1799,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/onetutor/software-engineer-typescript-nestjs-or-react-munich-443607",
@@ -1299,7 +1819,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/cequens/jobs/junior-test-engineer",
@@ -1822,8 +2342,8 @@
       "is_new": false
     }
   ],
-  "count": 91,
-  "keepers": 7,
-  "fresh": 41,
-  "new_today": 40
+  "count": 117,
+  "keepers": 16,
+  "fresh": 50,
+  "new_today": 26
 }
