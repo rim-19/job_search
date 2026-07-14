@@ -32,6 +32,22 @@ greenhouse:
   - {name: "Instacart", slug: "instacart"}
   - {name: "Flexport", slug: "flexport"}
   - {name: "Samsara", slug: "samsara"}
+  # --- added batch: dev tools / infra / data / AI ---
+  - {name: "Figma", slug: "figma"}
+  - {name: "Cloudflare", slug: "cloudflare"}
+  - {name: "Elastic", slug: "elastic"}
+  - {name: "Twilio", slug: "twilio"}
+  - {name: "Fivetran", slug: "fivetran"}
+  - {name: "Cresta", slug: "cresta"}
+  - {name: "Algolia", slug: "algolia"}
+  - {name: "LaunchDarkly", slug: "launchdarkly"}
+  - {name: "Tailscale", slug: "tailscale"}
+  - {name: "Contentful", slug: "contentful"}
+  - {name: "Webflow", slug: "webflow"}
+  - {name: "PlanetScale", slug: "planetscale"}
+  - {name: "AssemblyAI", slug: "assemblyai"}
+  - {name: "CircleCI", slug: "circleci"}
+  - {name: "Calendly", slug: "calendly"}
 
 ashby:
   - {name: "OpenAI", slug: "openai"}
@@ -49,9 +65,36 @@ ashby:
   - {name: "Vanta", slug: "vanta"}
   - {name: "Runway", slug: "runway"}
   - {name: "Notion", slug: "notion"}
+  # --- added batch: AI startups + dev tools (many small) ---
+  - {name: "Cohere", slug: "cohere"}
+  - {name: "Baseten", slug: "baseten"}
+  - {name: "Decagon", slug: "decagon"}
+  - {name: "Deepgram", slug: "deepgram"}
+  - {name: "LangChain", slug: "langchain"}
+  - {name: "Langfuse", slug: "langfuse"}
+  - {name: "Lovable", slug: "lovable"}
+  - {name: "Mercor", slug: "mercor"}
+  - {name: "Modal", slug: "modal"}
+  - {name: "Sierra", slug: "sierra"}
+  - {name: "Synthesia", slug: "synthesia"}
+  - {name: "Tavus", slug: "tavus"}
+  - {name: "Weaviate", slug: "weaviate"}
+  - {name: "Writer", slug: "writer"}
+  - {name: "Dust", slug: "dust"}
+  - {name: "Browserbase", slug: "browserbase"}
+  - {name: "Pinecone", slug: "pinecone"}
+  - {name: "Resend", slug: "resend"}
+  - {name: "WorkOS", slug: "workos"}
+  - {name: "Sentry", slug: "sentry"}
+  - {name: "Temporal", slug: "temporal"}
+  - {name: "Sanity", slug: "sanity"}
+  - {name: "Plaid", slug: "plaid"}
+  - {name: "Harvey", slug: "harvey"}
 
 lever:
   - {name: "Neon", slug: "neon"}
   - {name: "Toptal", slug: "toptal"}
   - {name: "Sword Health", slug: "swordhealth"}
   - {name: "Spotify", slug: "spotify"}
+  # --- added batch ---
+  - {name: "SonarSource", slug: "sonarsource"}
