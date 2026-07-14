@@ -26,11 +26,15 @@ def _escape(text: str) -> str:
 _MAX_COMPANIES = 50  # keep the message under Telegram's 4096-char limit
 
 
-def _company_list(scored: list[dict]) -> tuple[str, int] | str:
-    """One line per scanned offer: "Company — Post title", sorted by company."""
+def _company_list(keepers: list[dict]) -> tuple[str, int] | str:
+    """One line per GOOD/TOP-PICK offer: "Company — Title — score", best first.
+
+    Only listings that passed the keep threshold (good matches 6+, top picks 8+)
+    are included — not every scanned offer. Top picks (>=8) get a star.
+    """
     items = []
     seen = set()
-    for j in scored:
+    for j in keepers:
         company = (j.get("company") or "").strip()
         title = (j.get("title") or "").strip()
         if not (company or title):
@@ -39,14 +43,18 @@ def _company_list(scored: list[dict]) -> tuple[str, int] | str:
         if key in seen:
             continue
         seen.add(key)
-        items.append((company or "—", title or "—"))
+        items.append((int(j.get("score") or 0), company or "—", title or "—"))
 
     if not items:
         return ""
 
-    items.sort(key=lambda t: (t[0].casefold(), t[1].casefold()))
+    # Best score first, then company name.
+    items.sort(key=lambda t: (-t[0], t[1].casefold()))
     shown = items[:_MAX_COMPANIES]
-    lines = [f"• <b>{_escape(c)}</b> — {_escape(t)}" for c, t in shown]
+    lines = []
+    for score, company, title in shown:
+        star = " ⭐" if score >= 8 else ""
+        lines.append(f"• <b>{_escape(company)}</b> — {_escape(title)} — {score}/10{star}")
     body = "\n".join(lines)
     if len(items) > _MAX_COMPANIES:
         body += f"\n<i>… +{len(items) - _MAX_COMPANIES} more</i>"
@@ -80,12 +88,12 @@ def build_message(total_collected: int, new_keepers: list[dict], scored: list[di
         lines.append("")
         lines.append("No brand-new strong matches this run — check the board for the full list.")
 
-    # New offers found this run (company — post title, one per line).
-    result = _company_list(scored)
+    # Only the good matches + top picks (score >= threshold), one per line.
+    result = _company_list(new_keepers)
     if result:
         body, count = result
         lines.append("")
-        lines.append(f"\U0001F3E2 <b>New offers this run ({count}):</b>")
+        lines.append(f"\U0001F3E2 <b>Good matches &amp; top picks ({count}):</b>")
         lines.append(body)
 
     lines.append("")
