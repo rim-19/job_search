@@ -46,5 +46,11 @@ feeds:
 #   7. "prompt engineer" remote junior hiring
 #
 # Paste one RSS URL per line below (leave empty until you've made the alerts).
-google_alerts: []
-  # - "https://www.google.com/alerts/feeds/00000000000000000000/1111111111111111111"
+google_alerts:
+  - "https://www.google.com/alerts/feeds/08615672359013126548/114887671812277763"      # "remote junior developer" hiring
+  - "https://www.google.com/alerts/feeds/08615672359013126548/3920138579708308354"     # "junior AI engineer" remote LangChain
+  - "https://www.google.com/alerts/feeds/08615672359013126548/4592936932748652667"     # "remote LLM developer" entry level
+  - "https://www.google.com/alerts/feeds/08615672359013126548/4985359545156642621"     # "remote React developer" junior hiring
+  - "https://www.google.com/alerts/feeds/08615672359013126548/4723820803490752887"     # "remote AI agents developer" "entry level"
+  - "https://www.google.com/alerts/feeds/08615672359013126548/828803236225531264"      # "remote software developer" "hire worldwide"
+  - "https://www.google.com/alerts/feeds/08615672359013126548/14635556022322437551"    # "prompt engineer" remote junior hiring
