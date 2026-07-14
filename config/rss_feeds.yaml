@@ -54,3 +54,7 @@ google_alerts:
   - "https://www.google.com/alerts/feeds/08615672359013126548/4723820803490752887"     # "remote AI agents developer" "entry level"
   - "https://www.google.com/alerts/feeds/08615672359013126548/828803236225531264"      # "remote software developer" "hire worldwide"
   - "https://www.google.com/alerts/feeds/08615672359013126548/14635556022322437551"    # "prompt engineer" remote junior hiring
+  # LinkedIn jobs (via Google's index — free & ToS-compliant)
+  - "https://www.google.com/alerts/feeds/08615672359013126548/5699163833827950586"     # site:linkedin.com/jobs junior/entry-level
+  - "https://www.google.com/alerts/feeds/08615672359013126548/14192636204307306274"    # site:linkedin.com/jobs react/node/AI
+  - "https://www.google.com/alerts/feeds/08615672359013126548/4237448316562127737"     # site:linkedin.com/jobs AI engineer/LLM
