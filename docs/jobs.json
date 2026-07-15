@@ -1,6 +1,226 @@
 {
-  "generated": "2026-07-14",
+  "generated": "2026-07-15",
   "jobs": [
+    {
+      "url": "https://weworkremotely.com/remote-jobs/arize-ai-open-source-design-engineer",
+      "title": "Open Source Design Engineer",
+      "company": "Arize Ai",
+      "location": "Anywhere in the World",
+      "link": "https://weworkremotely.com/remote-jobs/arize-ai-open-source-design-engineer",
+      "score": 8,
+      "reason": "The role is junior-friendly, fully remote, and has a worldwide location scope with a matching tech stack.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-15",
+      "source": "WeWorkRemotely (Full-Stack)",
+      "summary": "This is a Design Engineer role at Arize AI, focusing on building interfaces for AI development, evaluation, and observability, with responsibilities including product and interface design, and interactive visualizations. The role is fully remote, with a worldwide location scope, and involves working with modern AI technologies. The company is looking for someone to design and ship experiences that help AI teams understand and improve their systems.",
+      "date_posted": "Tue, 30 Jun 2026 20:31:42 +0000",
+      "days_since_posted": 14,
+      "freshness": "",
+      "first_seen": "2026-07-15",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8",
+      "title": "Engineer, Applied AI",
+      "company": "Zapier",
+      "location": "NAMER",
+      "link": "https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8",
+      "score": 4,
+      "reason": "The role is not a junior position and the location is restricted to NAMER, which may not be a perfect match for the candidate's preferences.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-15",
+      "source": "Zapier (careers)",
+      "summary": "The role is an Engineer, Applied AI position at Zapier, focusing on building and evolving the shared infrastructure for AI and machine learning development. The main tech includes AI, machine learning, and platform engineering. The role is remote, but the location is restricted to NAMER, which may not be a perfect fit for the candidate's location in Morocco.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-15",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/planetscale/jobs/4251150009",
+      "title": "Software Engineer - PlanetScale Postgres",
+      "company": "PlanetScale",
+      "location": "Remote",
+      "link": "https://job-boards.greenhouse.io/planetscale/jobs/4251150009",
+      "score": 4,
+      "reason": "The job listing is not a junior-friendly role and requires strong experience with large-scale Postgres deployments.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-15",
+      "source": "PlanetScale (careers)",
+      "summary": "This role is for a Software Engineer at PlanetScale, working on the control plane for Postgres clusters, with responsibilities including building high availability and disaster recovery solutions. The job requires experience with Postgres, low-level operating systems concepts, and distributed systems. The role is fully remote, but may be too senior for the candidate's current experience.",
+      "date_posted": "2026-06-04T06:25:25-04:00",
+      "days_since_posted": 40,
+      "freshness": "",
+      "first_seen": "2026-07-15",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-web-developer-%25E2%2580%2593-internship-remote-at-medinex-workforce-4439850871&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1WjHfk6xO9mq5YUhCmSYV2",
+      "title": "MediNex Workforce hiring Junior Web Developer – Internship Remote in India | LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-web-developer-%25E2%2580%2593-internship-remote-at-medinex-workforce-4439850871&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1WjHfk6xO9mq5YUhCmSYV2",
+      "score": 3,
+      "reason": "The role is explicitly listed as remote in India, which is not a region the candidate can work in without specific work authorization or via an Employer of Record, and the listing does not indicate such support.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-15",
+      "source": "Google Alert 9",
+      "summary": "This is a Junior Full Stack Developer internship role with MediNex Workforce, listed as remote in India. The description mentions WordPress, and the core requirement is for a junior-level developer.",
+      "date_posted": "2026-07-14T13:18:01Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-15",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-full-stack-developer-%25E2%2580%2593-internship-remote-at-medinex-workforce-4439876811&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw3mDC75wZKwcClemYMewjkK",
+      "title": "MediNex Workforce hiring Junior Full Stack Developer – Internship Remote in India",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-full-stack-developer-%25E2%2580%2593-internship-remote-at-medinex-workforce-4439876811&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw3mDC75wZKwcClemYMewjkK",
+      "score": 3,
+      "reason": "The job listing is restricted to India, which excludes the candidate's location.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-15",
+      "source": "Google Alert 9",
+      "summary": "The role is a Junior Full Stack Developer internship, the job is remote but limited to India, and the main responsibilities are not specified in the provided listing.",
+      "date_posted": "2026-07-14T16:53:47Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-15",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/openai/ea339283-7650-4b50-9d24-08d143af260a",
+      "title": "AI Success Engineer - US Remote",
+      "company": "OpenAI",
+      "location": "Remote - US",
+      "link": "https://jobs.ashbyhq.com/openai/ea339283-7650-4b50-9d24-08d143af260a",
+      "score": 3,
+      "reason": "The role is not a junior position and excludes her location by requiring US remote work",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-15",
+      "source": "OpenAI (careers)",
+      "summary": "The AI Success Engineer role at OpenAI is a post-sales technical position that partners with customers to drive adoption and deliver value with OpenAI's platform. The role involves technical depth, program management, and customer advisory, with a focus on US-based customers. This is a fully remote role in the US, which may not be a good fit for the candidate's location.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-15",
+      "is_new": true
+    },
+    {
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554531002",
+      "title": "Forward Deployed Engineer - FDE (Fullstack)",
+      "company": "Databricks",
+      "location": "Munich, Germany",
+      "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554531002",
+      "score": 2,
+      "reason": "The role is not a junior position and requires specific location and work authorization",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-15",
+      "source": "Databricks (careers)",
+      "summary": "This is a Forward Deployed Engineer role at Databricks, requiring experience with data engineering, AI, and application development, with a focus on customer-facing projects. The role is based in Munich, Germany, and is not fully remote. The position involves leading technical projects, designing architectures, and implementing end-to-end systems.",
+      "date_posted": "2026-07-06T20:01:52-04:00",
+      "days_since_posted": 8,
+      "freshness": "",
+      "first_seen": "2026-07-15",
+      "is_new": true
+    },
+    {
+      "url": "https://www.fivetran.com/careers/job?gh_jid=7727110003",
+      "title": "C/C++ Developper - Oracle Databases",
+      "company": "Fivetran",
+      "location": "Novi Sad, South Bačka, Serbia, EMEA",
+      "link": "https://www.fivetran.com/careers/job?gh_jid=7727110003",
+      "score": 2,
+      "reason": "The job listing is for a C/C++ developer with Oracle Databases, which does not match the candidate's tech stack.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-15",
+      "source": "Fivetran (careers)",
+      "summary": "The role is for a C/C++ developer at Fivetran, working with Oracle Databases, and is located in Novi Sad, Serbia. The job requires specific technical skills that do not align with the candidate's profile. The location is in Europe, but the tech stack is not a good match for the candidate.",
+      "date_posted": "2026-07-11T01:05:11-04:00",
+      "days_since_posted": 3,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-15",
+      "is_new": true
+    },
+    {
+      "url": "https://www.fivetran.com/careers/job?gh_jid=7695532003",
+      "title": "Software Engineer II - Oracle Databases",
+      "company": "Fivetran",
+      "location": "Novi Sad, South Bačka, Serbia, EMEA",
+      "link": "https://www.fivetran.com/careers/job?gh_jid=7695532003",
+      "score": 2,
+      "reason": "The role is not a junior position and does not match the candidate's tech stack.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-15",
+      "source": "Fivetran (careers)",
+      "summary": "The role is a Software Engineer II position at Fivetran, focusing on Oracle Databases, and is located in Novi Sad, Serbia. The job requires experience with Oracle Databases, which is not mentioned in the candidate's skills. The position is not explicitly stated as remote, which may be a concern for the candidate.",
+      "date_posted": "2026-07-11T01:05:06-04:00",
+      "days_since_posted": 3,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-15",
+      "is_new": true
+    },
+    {
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8462016002",
+      "title": "Forward Deployed Engineer",
+      "company": "Databricks",
+      "location": "Amsterdam, Netherlands",
+      "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8462016002",
+      "score": 2,
+      "reason": "The role is not a junior position and requires senior-level experience.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-15",
+      "source": "Databricks (careers)",
+      "summary": "This is a Forward Deployed Engineer role at Databricks, involving building and productionizing data and AI solutions for customers. The role is based in Amsterdam, Netherlands, and is not fully remote. The position requires leading design decisions, implementing end-to-end systems, and working with customers to solve complex problems.",
+      "date_posted": "2026-07-01T18:31:34-04:00",
+      "days_since_posted": 13,
+      "freshness": "",
+      "first_seen": "2026-07-15",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7712707003",
+      "title": "Business Development Associate",
+      "company": "Affirm",
+      "location": "Remote US",
+      "link": "https://job-boards.greenhouse.io/affirm/jobs/7712707003",
+      "score": 2,
+      "reason": "The role is not a technical position and excludes her location by requiring US remote work",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-15",
+      "source": "Affirm (careers)",
+      "summary": "This is a Business Development Associate role at Affirm, focused on driving new business and managing sales pipelines, with a remote work requirement limited to the US. The role does not involve technical skills like programming or software development. It is a fully remote position, but the location is restricted to the US.",
+      "date_posted": "2026-07-06T16:29:20-04:00",
+      "days_since_posted": 8,
+      "freshness": "",
+      "first_seen": "2026-07-15",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-devops-mern-stack-associate-%25E2%2580%2593-internship-remote-at-medinex-workforce-4439154493&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0jBRm8xd3Hk2nkODcM6oKw",
       "title": "Junior DevOps / MERN Stack Associate – Internship Remote - LinkedIn",
@@ -19,7 +239,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/harvey/1bb028d2-168e-475b-9f0d-f994daca596d",
@@ -39,7 +259,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/jr-full-stack-engineer-at-bytex-4437232899&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2eIzagFjNIepuZVV3rWIyk",
@@ -59,7 +279,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7946608",
@@ -79,7 +299,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
@@ -99,7 +319,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/langchain/ba447a0b-2f52-484e-b3f6-b15c6445bdf9",
@@ -119,7 +339,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
@@ -139,7 +359,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/contentful/jobs/7557597",
@@ -159,7 +379,7 @@
       "days_since_posted": 19,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/contentful/jobs/7557586",
@@ -179,7 +399,7 @@
       "days_since_posted": 19,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/contentful/jobs/7553930",
@@ -199,7 +419,7 @@
       "days_since_posted": 19,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7741981003",
@@ -219,7 +439,7 @@
       "days_since_posted": 4,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7767264003",
@@ -239,7 +459,7 @@
       "days_since_posted": 7,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/writer/c2e67893-8cda-4db5-b298-98a48952e90c",
@@ -259,7 +479,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/146028-entry-level-communications-specialist",
@@ -279,7 +499,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff",
@@ -299,7 +519,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7750105003",
@@ -319,7 +539,7 @@
       "days_since_posted": 8,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/cursor/0a82f564-de1b-4c72-9ba4-10cf2b63c483",
@@ -339,7 +559,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8565469002",
@@ -359,7 +579,7 @@
       "days_since_posted": 38,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.samsara.com/company/careers/roles/8024110?gh_jid=8024110",
@@ -379,7 +599,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7750116003",
@@ -399,7 +619,7 @@
       "days_since_posted": 7,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7778204003",
@@ -419,7 +639,7 @@
       "days_since_posted": 12,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/openai/d4780eac-03ad-4dae-861f-99af22b4287e",
@@ -439,7 +659,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8041640",
@@ -459,7 +679,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/writer/6bbdb7ac-d081-4788-952b-6648be46a3bc",
@@ -479,7 +699,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/ashby/188cc71b-a625-4022-94dc-7c43fa1a8b06",
@@ -499,7 +719,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/ashby/cb45928e-c7c7-4163-84d0-a962755a3593",
@@ -519,7 +739,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://stripe.com/jobs/search?gh_jid=7993682",
@@ -539,7 +759,7 @@
       "days_since_posted": 17,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7761616003",
@@ -559,7 +779,7 @@
       "days_since_posted": 7,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/sentry/cf1de93c-b062-48dc-a565-e9c248064b77",
@@ -579,7 +799,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/openai/bb97fffc-cdda-43a3-a6bc-234f9c031720",
@@ -599,7 +819,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8039605",
@@ -619,7 +839,7 @@
       "days_since_posted": 4,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/algolia/jobs/6008986004",
@@ -639,7 +859,7 @@
       "days_since_posted": 5,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/algolia/jobs/6111500004",
@@ -659,7 +879,7 @@
       "days_since_posted": 5,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-relytics-hires-1134760",
@@ -679,7 +899,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1",
@@ -699,7 +919,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/apaleo/software-engineer-net-munich-422254",
@@ -719,7 +939,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/algolia/jobs/6115408004",
@@ -739,7 +959,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/algolia/jobs/6009350004",
@@ -759,7 +979,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/algolia/jobs/6115415004",
@@ -779,7 +999,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.samsara.com/company/careers/roles/7848486?gh_jid=7848486",
@@ -799,7 +1019,7 @@
       "days_since_posted": 35,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/langchain/2a1f67e3-7509-4c92-9ec8-2e645d00c3eb",
@@ -819,7 +1039,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7719651003",
@@ -839,7 +1059,7 @@
       "days_since_posted": 26,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/replit/b7f12834-78d2-424d-bf83-0c942815fbf7",
@@ -859,7 +1079,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/algolia/jobs/5839313004",
@@ -879,7 +1099,7 @@
       "days_since_posted": 14,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/algolia/jobs/6009000004",
@@ -899,7 +1119,7 @@
       "days_since_posted": 5,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-representative-entry-level-part-time-or-full-time-at-the-busick-agency-4439412788&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0YEr5uiWlO-qOZdR3h3JW4",
@@ -919,7 +1139,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/146260-software-developer-sr-ai-native-net-azure-cloud-platform",
@@ -939,7 +1159,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/algolia/jobs/6115407004",
@@ -959,7 +1179,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
@@ -979,7 +1199,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-hotel-coordinator-entry-level-at-destination-careers-4437615057&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0-PULwpNMRiRFzUIadjxiE",
@@ -999,7 +1219,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/kai-partners-technical-solutions-engineer-web-developer",
@@ -2822,8 +3042,8 @@
       "is_new": false
     }
   ],
-  "count": 141,
-  "keepers": 17,
-  "fresh": 65,
-  "new_today": 50
+  "count": 152,
+  "keepers": 18,
+  "fresh": 69,
+  "new_today": 11
 }
