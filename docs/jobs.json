@@ -1,6 +1,246 @@
 {
-  "generated": "2026-07-15",
+  "generated": "2026-07-16",
   "jobs": [
+    {
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5115935008",
+      "title": "Research Engineer, Machine Learning (Reinforcement Learning)",
+      "company": "Anthropic",
+      "location": "London, UK",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5115935008",
+      "score": 8,
+      "reason": "The role is a junior-friendly research engineer position with a matching tech stack and a location that overlaps with the candidate's timezone.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-16",
+      "source": "Anthropic (careers)",
+      "summary": "This is a Research Engineer role in Machine Learning at Anthropic, focusing on Reinforcement Learning and collaborating with researchers and engineers to advance AI systems. The role involves implementing novel approaches and contributing to research innovations. The position is based in London, UK, but the company's location field does not explicitly exclude remote work or international candidates.",
+      "date_posted": "2026-07-14T18:35:00-04:00",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-16",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/synthesia/dcc970b0-9043-4fc6-b628-3b8dad021c84",
+      "title": "Webflow Developer / Front-End Engineer",
+      "company": "Synthesia",
+      "location": "London",
+      "link": "https://jobs.ashbyhq.com/synthesia/dcc970b0-9043-4fc6-b628-3b8dad021c84",
+      "score": 7,
+      "reason": "This role is a strong fit due to its remote nature, junior-friendly responsibilities, and alignment with the candidate's tech stack, though the primary location is London, which is manageable within her timezone and potential EOR arrangements.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-16",
+      "source": "Synthesia (careers)",
+      "summary": "This is a fully remote Webflow Developer / Front-End Engineer role at Synthesia, focusing on building and maintaining their marketing website using Webflow, JavaScript, and supporting tools. You'll implement custom front-end functionality, improve SEO and performance, and work with APIs and simple backend services. The company is headquartered in London, but the role is remote and open to global candidates, with a focus on European/GMT timezones.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-16",
+      "is_new": true
+    },
+    {
+      "url": "https://stripe.com/jobs/search?gh_jid=7091959",
+      "title": "Fullstack Engineer, Privy",
+      "company": "Stripe",
+      "location": "NYC-Privy, US-Remote ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7091959",
+      "score": 6,
+      "reason": "The role is not explicitly junior-friendly and the location scope is ambiguous with 'US-Remote' which may imply US-timezone or US work authorization restrictions",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-16",
+      "source": "Stripe (careers)",
+      "summary": "This is a Fullstack Engineer role at Privy, a company building crypto-related products, using tech like Node, React, and AWS. The role involves taking ownership of large areas of Privy's product, architecture, and infrastructure. The job is listed as 'US-Remote' which may imply restrictions on location or timezone.",
+      "date_posted": "2026-07-14T12:26:13-04:00",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-16",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
+      "title": "Machine Learning Engineer",
+      "company": "Twilio",
+      "location": "Remote - Spain",
+      "link": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
+      "score": 6,
+      "reason": "The role is not a junior position and the location is restricted to Spain, but the company is remote-first and the tech stack matches the candidate's skills.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-16",
+      "source": "Twilio (careers)",
+      "summary": "This is a Machine Learning Engineer role at Twilio, designing and engineering AI-powered features for customer conversations, with responsibilities including developing and deploying machine learning solutions. The role is fully remote, but the location field specifies Spain. The company uses a range of technologies, including AI and ML, and is looking for someone to work on complex architectural decisions.",
+      "date_posted": "2026-07-15T10:27:17-04:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-16",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/posthog/43dbf072-0fc1-48c9-8c1e-7416db7d4a14",
+      "title": "ClickHouse Operations Engineer",
+      "company": "PostHog",
+      "location": "Remote",
+      "link": "https://jobs.ashbyhq.com/posthog/43dbf072-0fc1-48c9-8c1e-7416db7d4a14",
+      "score": 4,
+      "reason": "The job listing does not match the candidate's tech stack.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-16",
+      "source": "PostHog (careers)",
+      "summary": "The role is a ClickHouse Operations Engineer at PostHog, involving operations and maintenance of ClickHouse databases, with a fully remote work arrangement. The company uses a variety of technologies, but the listing does not specifically mention the candidate's areas of expertise. The position is open to remote workers, but the tech requirements may not align with the candidate's skills.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-16",
+      "is_new": true
+    },
+    {
+      "url": "https://www.coinbase.com/careers/positions/8031260?gh_jid=8031260",
+      "title": "Machine Learning Engineer, CX Intelligence",
+      "company": "Coinbase",
+      "location": "Remote - Brazil",
+      "link": "https://www.coinbase.com/careers/positions/8031260?gh_jid=8031260",
+      "score": 4,
+      "reason": "The role is not a junior position and has a location restriction to Brazil",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-16",
+      "source": "Coinbase (careers)",
+      "summary": "This is a Machine Learning Engineer role at Coinbase, focusing on designing and scaling agentic systems using advanced orchestration frameworks and building integrations with LLMs and internal APIs. The main tech includes Python, LangGraph, and Model Context Protocol. The role is remote but limited to Brazil, with quarterly in-person working sessions.",
+      "date_posted": "2026-07-07T10:51:52-04:00",
+      "days_since_posted": 8,
+      "freshness": "",
+      "first_seen": "2026-07-16",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/tailscale/jobs/4686399005",
+      "title": "Infrastructure Engineer",
+      "company": "Tailscale",
+      "location": "Remote (United Kingdom)",
+      "link": "https://job-boards.greenhouse.io/tailscale/jobs/4686399005",
+      "score": 4,
+      "reason": "The role is not a junior software developer position and the tech stack does not fully match the candidate's skills.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-16",
+      "source": "Tailscale (careers)",
+      "summary": "This is an Infrastructure Engineer role at Tailscale, involving building and improving internal engineering services and tools, with a focus on infrastructure as code and automation. The role is fully remote, but based in the United Kingdom. The company is looking for a skilled and motivated individual to join their team, with responsibilities including improving observability and collaborating with other engineering teams.",
+      "date_posted": "2026-05-27T14:06:14-04:00",
+      "days_since_posted": 49,
+      "freshness": "",
+      "first_seen": "2026-07-16",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-software-developer-%25E2%2580%2593-internship-remote-at-medinex-workforce-4440262384&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2tl2m-Om0AhZN9vu5abMtb",
+      "title": "MediNex Workforce hiring Junior Software Developer – Internship Remote in India",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-software-developer-%25E2%2580%2593-internship-remote-at-medinex-workforce-4440262384&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2tl2m-Om0AhZN9vu5abMtb",
+      "score": 3,
+      "reason": "The role is explicitly for an internship remote in India, which is not a region the candidate can work in without specific work authorization. While it's junior and remote, the location is a critical blocker.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-16",
+      "source": "Google Alert 9",
+      "summary": "This is a Junior Full Stack Developer internship role with MediNex Workforce, advertised as remote in India. The listing does not specify the exact tech stack but is focused on full-stack development. The primary issue is the location restriction to India, which is not feasible for the candidate.",
+      "date_posted": "2026-07-15T19:24:04Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-16",
+      "is_new": true
+    },
+    {
+      "url": "https://himalayas.app/companies/the-health-management-academy/jobs/product-engineer",
+      "title": "Product Engineer",
+      "company": "The Health Management Academy",
+      "location": "United States",
+      "link": "https://himalayas.app/companies/the-health-management-academy/jobs/product-engineer",
+      "score": 3,
+      "reason": "The job listing is not a good match due to its location being restricted to the United States.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-16",
+      "source": "Himalayas",
+      "summary": "The role is a Product Engineer at The Health Management Academy, focusing on building a learning and development application with AI, and owning features end-to-end. The main tech includes AI-enabled development and UI/UX. The job is located in the United States, which may require specific US work authorization.",
+      "date_posted": "1784150674",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-16",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-front-end-developer-%25E2%2580%2593-internship-remote-at-medinex-workforce-4440262389&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2HWdhj2IN3V9vmAZyfwHCL",
+      "title": "MediNex Workforce hiring Junior Front End Developer – Internship Remote in India",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-front-end-developer-%25E2%2580%2593-internship-remote-at-medinex-workforce-4440262389&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2HWdhj2IN3V9vmAZyfwHCL",
+      "score": 2,
+      "reason": "The role is explicitly remote in India, which is not a region the candidate can work in without specific work authorization or Employer of Record arrangements, and the listing does not indicate such support.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-16",
+      "source": "Google Alert 9",
+      "summary": "This is a Junior Front End Developer internship role with MediNex Workforce. The position is fully remote, but specifically listed as being in India. The core technologies are not detailed in the provided snippet.",
+      "date_posted": "2026-07-15T19:05:56Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-16",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/146254-atlassian-administrator-1726",
+      "title": "Atlassian Administrator 1726",
+      "company": "Softgic",
+      "location": "Anywhere",
+      "link": "https://jobicy.com/jobs/146254-atlassian-administrator-1726",
+      "score": 2,
+      "reason": "The role is not a junior software developer position and does not match the candidate's tech stack.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-16",
+      "source": "Jobicy",
+      "summary": "This is a remote Atlassian Administrator role requiring experience with Atlassian Cloud products, including Jira and Confluence. The position involves administration, configuration, and support of these platforms. The role is fully remote, with no location restrictions, but is not a junior software developer position.",
+      "date_posted": "2026-07-15T20:15:03+00:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-16",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/replit/447a6e11-b06b-4cc5-9203-cd55883f2af4",
+      "title": "Software Engineer, Growth",
+      "company": "Replit",
+      "location": "Foster City, CA",
+      "link": "https://jobs.ashbyhq.com/replit/447a6e11-b06b-4cc5-9203-cd55883f2af4",
+      "score": 2,
+      "reason": "The role is not explicitly remote and is located in the US, which excludes the candidate's location.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-16",
+      "source": "Replit (careers)",
+      "summary": "This is a Software Engineer role at Replit, focusing on growth engineering with responsibilities including experimentation, optimization, and data analysis. The role is based in Foster City, CA, and does not explicitly mention remote work. The tech stack includes SQL, analytics tools, and experimentation frameworks.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-16",
+      "is_new": true
+    },
     {
       "url": "https://jobs.ashbyhq.com/weaviate/9bd576dc-ac45-4e77-b818-fcbf04cd18e6",
       "title": "Applied Research Intern",
@@ -19,7 +259,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/arize-ai-open-source-design-engineer",
@@ -39,7 +279,7 @@
       "days_since_posted": 14,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-jobs-remote-part-time-beginner-friendly-start-asap-at-council-ring-capital-4439908318&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3qV9oSaaucx3jXcKfoEvk7",
@@ -59,7 +299,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/posthog/1803b1de-d33b-4542-8e38-b6c4954cb789",
@@ -79,7 +319,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/planetscale/jobs/4036240009",
@@ -99,7 +339,7 @@
       "days_since_posted": 48,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439047002",
@@ -119,7 +359,7 @@
       "days_since_posted": 13,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/cohere/4a3c3eb2-ae2e-4a86-a677-7bdecbc7d76e",
@@ -139,7 +379,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8",
@@ -159,7 +399,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/planetscale/jobs/4251150009",
@@ -179,7 +419,7 @@
       "days_since_posted": 40,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/aapkapainter/jobs/software-intern",
@@ -199,7 +439,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/resend/61dbb0e7-95a6-4cd9-ab2d-1a5471fe0dd8",
@@ -219,7 +459,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/posthog/af00b414-fdb3-41b5-8843-828b4a0e373a",
@@ -239,7 +479,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/research-assistant-at-alpha-southeast-asia-4437660115&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2vmg5wwbw3A8Ymu4XjKD4w",
@@ -259,7 +499,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-web-developer-%25E2%2580%2593-internship-remote-at-medinex-workforce-4439850871&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1WjHfk6xO9mq5YUhCmSYV2",
@@ -279,7 +519,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-full-stack-developer-%25E2%2580%2593-internship-remote-at-medinex-workforce-4439876811&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw3mDC75wZKwcClemYMewjkK",
@@ -299,7 +539,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/openai/ea339283-7650-4b50-9d24-08d143af260a",
@@ -319,7 +559,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a",
@@ -339,7 +579,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.samsara.com/company/careers/roles/7491153?gh_jid=7491153",
@@ -359,7 +599,7 @@
       "days_since_posted": 33,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://boards.greenhouse.io/figma/jobs/5551697004?gh_jid=5551697004",
@@ -379,7 +619,7 @@
       "days_since_posted": 90,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/linear/0c7c2e26-0a98-42cf-a47c-9a3999fb513b",
@@ -399,7 +639,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-fully-remote-at-jobsinmass-com-4440524102&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1RPDg8L-FoAorq_J8IAJrB",
@@ -419,7 +659,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-consulting-specialist-will-train%2521%2521-at-miller-family-agency-4437679727&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1naIZAFwOBm3kLsIUOPAWV",
@@ -439,7 +679,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/independent-associate-wanted-at-mike-bucci-associates-4423552737&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0MSfUADBid0N_EbHuCLhYu",
@@ -459,7 +699,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4707265005",
@@ -479,7 +719,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/openai/98ad9beb-4f91-496c-bd16-ac0b2a8d5bb2",
@@ -499,7 +739,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554531002",
@@ -519,7 +759,7 @@
       "days_since_posted": 8,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.fivetran.com/careers/job?gh_jid=7727110003",
@@ -539,7 +779,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.fivetran.com/careers/job?gh_jid=7695532003",
@@ -559,7 +799,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8462016002",
@@ -579,7 +819,7 @@
       "days_since_posted": 13,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7712707003",
@@ -599,7 +839,7 @@
       "days_since_posted": 8,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/langate/jobs/middle-net-full-stack-engineer",
@@ -619,7 +859,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/notion/2ca618b4-2223-47ca-b1f0-84ac101fcd90",
@@ -639,7 +879,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/synthesia/713ae2ad-aad2-48c9-987a-0d409ae52b00",
@@ -659,7 +899,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/writer/58aea7b9-69ac-42df-b9ca-bee5c87b354a",
@@ -679,7 +919,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/postman/jobs/7692476003",
@@ -699,7 +939,7 @@
       "days_since_posted": 33,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/postman/jobs/7692473003",
@@ -719,7 +959,7 @@
       "days_since_posted": 42,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/planetscale/jobs/4009746009",
@@ -739,7 +979,7 @@
       "days_since_posted": 55,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7736270003",
@@ -759,7 +999,7 @@
       "days_since_posted": 4,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/postman/jobs/7501797003",
@@ -779,7 +1019,7 @@
       "days_since_posted": 42,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/langchain/5f5f8239-603c-47ca-a1ee-5a7ed34b502d",
@@ -799,7 +1039,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7800006003",
@@ -819,7 +1059,7 @@
       "days_since_posted": 4,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-ai-associate-%25E2%2580%2593-internship-remote-at-medinex-workforce-4439848928%3FrefId%3DZQiUPVr1vZWhd4UH0khutA%253D%253D%26trackingId%3DjfASwHhk8izFCxixXv0Fig%253D%253D&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw0oWhYPouJw-ecPpyrD5i2C",
@@ -839,7 +1079,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/sudvolt-gmbh/werkstudent-softwareentwicklung-interne-tools-automatisierung-munich-274384",
@@ -859,7 +1099,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/replit/fc946efb-f0f1-4f83-9ae1-055a11e7146b",
@@ -879,7 +1119,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149241-canada-sr-application-engineer-salesforce-agentforce-ai",
@@ -899,7 +1139,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/lovable/581951b9-537e-49d5-89fb-dd74cdf3256c",
@@ -919,7 +1159,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/b2venture-gmbh/venture-capital-automation-internship-at-b2venture-early-stage-fund-q1-2027-berlin-455464",
@@ -939,7 +1179,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/flexport/jobs/7311915",
@@ -959,7 +1199,7 @@
       "days_since_posted": 5,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
@@ -979,7 +1219,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/writer/a463ae60-e812-45be-abb7-23842103c07c",
@@ -999,7 +1239,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7579499",
@@ -1019,7 +1259,7 @@
       "days_since_posted": 6,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-specialist-at-codevertex-careers-4437696103&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1NU21o6RoKlJd7EFZ16v7V",
@@ -1039,7 +1279,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/langchain/671f9372-8646-4f6a-a473-61bfa7cafa4b",
@@ -1059,7 +1299,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/sierra/b7d1dbcd-ca72-472f-b15e-5b4b0f886be0",
@@ -1079,7 +1319,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/perplexity/d89e87e0-6ab6-4091-9ab8-f138b32a2bd6",
@@ -1099,7 +1339,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/postman/jobs/7528374003",
@@ -1119,7 +1359,7 @@
       "days_since_posted": 43,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-development-associate-%25E2%2580%2593-entry-level-full-training-provided-at-sureguard-financial-4436221089&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1xlhlLQe6ml8wn0ML28sFT",
@@ -1139,7 +1379,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/openai/cf83e70e-6949-480f-ad97-df0f22cd0283",
@@ -1159,7 +1399,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d",
@@ -1179,7 +1419,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-work-from-home-no-experience-required-at-talentbridge-partners-4439869617&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1IcE_IKQx36Dh4KRlHhUzh",
@@ -1199,7 +1439,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/replit/2f1de5f1-48c2-4104-a697-a51fe1620508",
@@ -1219,7 +1459,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-sales-at-alleviation-enterprise-llc-4440831094&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw29_uTl0BnoRhUGC9e3uI2e",
@@ -1239,7 +1479,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/qa-analys-australia-only-remote-entry-level-at-we-are-bamboo-digital-4437650223&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3xT_Xuiz9qgFOxJjFOdxRu",
@@ -1259,7 +1499,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/harvey/14db71df-d597-4adb-961f-f197eaf174f1",
@@ -1279,7 +1519,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesperson-no-experience-needed-remote-will-train-at-the-mires-agency-4440524936&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3RQ5vMeMgB-es4Ozv1Cftk",
@@ -1299,7 +1539,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/adm-group/jobs/finance-administrator-entry-level-remote-ahmedabad",
@@ -1319,7 +1559,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-devops-mern-stack-associate-%25E2%2580%2593-internship-remote-at-medinex-workforce-4439154493&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0jBRm8xd3Hk2nkODcM6oKw",
@@ -4142,8 +4382,8 @@
       "is_new": false
     }
   ],
-  "count": 207,
-  "keepers": 23,
-  "fresh": 93,
-  "new_today": 66
+  "count": 219,
+  "keepers": 25,
+  "fresh": 100,
+  "new_today": 12
 }
