@@ -1,6 +1,366 @@
 {
-  "generated": "2026-07-18",
+  "generated": "2026-07-19",
   "jobs": [
+    {
+      "url": "https://jobicy.com/jobs/146800-software-engineer-in-test-onsite-or-remote-fr-uk-de-nl",
+      "title": "Software Engineer in Test - Onsite or Remote (FR, UK, DE, NL)",
+      "company": "Dataiku",
+      "location": "Europe,  France,  Germany,  Netherlands,  UK",
+      "link": "https://jobicy.com/jobs/146800-software-engineer-in-test-onsite-or-remote-fr-uk-de-nl",
+      "score": 5,
+      "reason": "The role is for an SDET, which is a slight mismatch from a pure Software Developer role, and the tech stack is not a perfect match, but it is fully remote within a suitable region and junior-friendly.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "Jobicy",
+      "summary": "This is a Software Engineer in Test (SDET) role at Dataiku, focused on ensuring product quality for their AI platform. The position is fully remote and open to candidates in France, the UK, Germany, or the Netherlands, with a tech stack involving modern web technologies like Angular/AngularJS and integration with big data ecosystems.",
+      "date_posted": "2026-07-18T19:40:05+00:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-jobs-remote-part-time-beginner-friendly-start-asap-at-cabinet-conseil-en-sant%25C3%25A9-4441729435&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ylZFXuxC6Ubt0BRhnoKxy",
+      "title": "entry level - virtual jobs ( remote ) - part-time - beginner friendly &amp; start asap - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-jobs-remote-part-time-beginner-friendly-start-asap-at-cabinet-conseil-en-sant%25C3%25A9-4441729435&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ylZFXuxC6Ubt0BRhnoKxy",
+      "score": 4,
+      "reason": "The role is entry-level and remote, but the company is listed as 'Cabinet Conseil en Santé United States' which strongly suggests a US-centric role, potentially excluding the candidate due to location restrictions.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level, virtual, part-time job that is beginner-friendly and available to start immediately. The company is listed as 'Cabinet Conseil en Santé United States', indicating a potential focus on the US market.",
+      "date_posted": "2026-07-18T20:23:13Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/142184-software-engineer-multiple-levels",
+      "title": "Software Engineer (Multiple Levels)",
+      "company": "UpGuard",
+      "location": "Australia",
+      "link": "https://jobicy.com/jobs/142184-software-engineer-multiple-levels",
+      "score": 3,
+      "reason": "The role is located in Australia, which is a significant time zone difference and not explicitly covered by the candidate's preferred remote work regions or Employer of Record capabilities, making it a poor fit.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "Jobicy",
+      "summary": "UpGuard is hiring Software Engineers at multiple levels to work on their AI-driven Cyber Risk Posture Management platform. The role involves presenting security data creatively and crafting integrated solutions. The listing specifies a location in Australia, which may not align with the candidate's remote work preferences.",
+      "date_posted": "2026-06-27T15:46:43+00:00",
+      "days_since_posted": 21,
+      "freshness": "",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/148815-deployed-software-engineer",
+      "title": "Deployed Software Engineer",
+      "company": "Fieldguide",
+      "location": "USA",
+      "link": "https://jobicy.com/jobs/148815-deployed-software-engineer",
+      "score": 2,
+      "reason": "The role is explicitly located in the USA and does not mention global remote hiring or Employer of Record options, making it a location blocker for the candidate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "Jobicy",
+      "summary": "Fieldguide is hiring Deployed Software Engineers to automate and streamline work for audit practitioners. This is a remote-first company based in San Francisco, CA, but the role's location field specifies 'USA', which may exclude candidates not legally authorized to work there.",
+      "date_posted": "2026-07-06T14:34:08+00:00",
+      "days_since_posted": 12,
+      "freshness": "",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/147331-infrastructure-engineer",
+      "title": "Infrastructure Engineer",
+      "company": "Roboflow",
+      "location": "USA",
+      "link": "https://jobicy.com/jobs/147331-infrastructure-engineer",
+      "score": 2,
+      "reason": "The role is explicitly located in the USA and does not mention remote work or Employer of Record options, making it a geographical and logistical blocker for the candidate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "Jobicy",
+      "summary": "This is an Infrastructure Engineer role at Roboflow, focused on building tools for AI and computer vision. The listing is based in the USA and does not specify remote work flexibility or international hiring options.",
+      "date_posted": "2026-06-21T03:30:50+00:00",
+      "days_since_posted": 28,
+      "freshness": "",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/148141-demo-engineer",
+      "title": "Demo Engineer",
+      "company": "Okta",
+      "location": "USA",
+      "link": "https://jobicy.com/jobs/148141-demo-engineer",
+      "score": 2,
+      "reason": "The role is located in the USA and does not explicitly state it hires globally via Employer of Record or as an international contractor, making it a potential location blocker.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "Jobicy",
+      "summary": "This is a Demo Engineer role at Okta, focused on building reusable demonstration assets to showcase Okta's identity security solutions to technical sales teams worldwide. The role is based in the USA and involves working with field teams to understand customer needs and contribute to Okta's go-to-market technology strategy.",
+      "date_posted": "2026-06-30T12:01:15+00:00",
+      "days_since_posted": 18,
+      "freshness": "",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/144461-software-engineer-7",
+      "title": "Software Engineer",
+      "company": "Experian",
+      "location": "Costa Rica",
+      "link": "https://jobicy.com/jobs/144461-software-engineer-7",
+      "score": 2,
+      "reason": "The role is for a mid-level developer and requires experience with .NET, which is not listed as a primary skill for the candidate, and the location in Costa Rica is a potential blocker.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "Jobicy",
+      "summary": "This is a mid-level Software Engineer role at Experian focused on maintaining and refactoring legacy .NET applications. Responsibilities include backend development with .NET Core, system modernization, and working with distributed messaging patterns. The role is located in Costa Rica, which may not align with the candidate's remote work preferences and location flexibility.",
+      "date_posted": "2026-06-23T07:56:42+00:00",
+      "days_since_posted": 25,
+      "freshness": "",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/replit/37f81c18-c742-4f7d-bf81-34c3f5142973",
+      "title": "Software Engineer, Growth Infrastructure",
+      "company": "Replit",
+      "location": "Foster City, CA",
+      "link": "https://jobs.ashbyhq.com/replit/37f81c18-c742-4f7d-bf81-34c3f5142973",
+      "score": 2,
+      "reason": "The job listing is not a good match due to its senior-level requirements and location in Foster City, CA, which excludes the candidate's location.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "Replit (careers)",
+      "summary": "This role is for a Software Engineer in Growth Infrastructure at Replit, requiring experience in building and maintaining technical infrastructure for scalable growth experiments. The main responsibilities include designing and implementing infrastructure, building analytics pipelines, and developing automated workflows. The job is located in Foster City, CA, and does not appear to be a remote position.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/writer/e89c9689-d5ed-4b95-8f3c-b13c6f4c94ba",
+      "title": "AI engineer (UK)",
+      "company": "Writer",
+      "location": "London, UK",
+      "link": "https://jobs.ashbyhq.com/writer/e89c9689-d5ed-4b95-8f3c-b13c6f4c94ba",
+      "score": 2,
+      "reason": "The role is hybrid and requires presence in the London hub, excluding the candidate's fully remote requirement.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "Writer (careers)",
+      "summary": "This is an AI engineer role at Writer, involving the development and deployment of AI applications, with a focus on high-performance and scalability. The role is based in London and can be hybrid, requiring some on-site presence. The position is not fully remote, which may not fit the candidate's requirements.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/linear/d062065e-05bb-42ce-a430-ec205695cc2e",
+      "title": "Product Support Specialist, Pacific/Mountain Time",
+      "company": "Linear",
+      "location": "North America",
+      "link": "https://jobs.ashbyhq.com/linear/d062065e-05bb-42ce-a430-ec205695cc2e",
+      "score": 2,
+      "reason": "The role is not a good fit due to its location restriction to US and Canada Pacific or Mountain Time",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "Linear (careers)",
+      "summary": "This is a Product Support Specialist role at Linear, involving customer support and technical documentation, with a focus on Pacific or Mountain Time zones in the US and Canada. The role is remote but limited to specific time zones. The tech stack is not explicitly mentioned in the listing.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://weworkremotely.com/remote-jobs/supportyourapp-native-swedish-customer-support-consultant-remotely",
+      "title": "(Native Swedish) Customer Support Consultant (remotely)",
+      "company": "Supportyourapp",
+      "location": "Anywhere in the World",
+      "link": "https://weworkremotely.com/remote-jobs/supportyourapp-native-swedish-customer-support-consultant-remotely",
+      "score": 2,
+      "reason": "The role is not a technical development position and does not match the candidate's tech stack.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "WeWorkRemotely (Full-Stack)",
+      "summary": "This is a remote customer support consultant role requiring native Swedish and good English skills, with responsibilities including delivering customer support and handling sensitive data. The role is fully remote and open to candidates from anywhere in the world. The company provides opportunities for professional growth and flexible working hours.",
+      "date_posted": "Tue, 30 Jun 2026 20:33:44 +0000",
+      "days_since_posted": 18,
+      "freshness": "",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-agent-at-medahealth-associates-4442475564&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3rc9YcBpiD_YgKzts7exld",
+      "title": "MedaHealth Associates hiring Entry Level Sales Agent in Orlando, FL | LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-agent-at-medahealth-associates-4442475564&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3rc9YcBpiD_YgKzts7exld",
+      "score": 1,
+      "reason": "This role is for a Sales Agent, not a Software Developer, and requires specific US work authorization, making it a complete mismatch.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level Client Sales Representative role based in Orlando, FL. The position is fully remote but requires specific US work authorization, which is not suitable for the candidate.",
+      "date_posted": "2026-07-18T16:53:50Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-associate-at-rg-t-solutions-4441713270&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3oCR9lfbMjIOx9bGO9Ur-w",
+      "title": "RG&amp;T Solutions hiring Entry Level Sales Associate in Riverside, CA | LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-associate-at-rg-t-solutions-4441713270&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3oCR9lfbMjIOx9bGO9Ur-w",
+      "score": 1,
+      "reason": "This role is for a Sales Associate, not a Software Developer, and is located in Riverside, CA, which is a blocker as it requires US work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level Sales Associate position based in Riverside, CA. The role is listed as remote but requires specific US work authorization, making it unsuitable for the candidate.",
+      "date_posted": "2026-07-18T06:00:58Z",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://authenticjobs.com/entry-level-coding-jobs-are-evolving-with-ai/",
+      "title": "Entry-Level Coding Jobs Are Evolving With AI",
+      "company": "Editorial Staff",
+      "location": "Remote",
+      "link": "https://authenticjobs.com/entry-level-coding-jobs-are-evolving-with-ai/",
+      "score": 1,
+      "reason": "This is an article about entry-level coding jobs and AI, not an actual job opening for a software developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "Authentic Jobs",
+      "summary": "This is an article discussing how AI is changing entry-level coding roles and what skills are becoming more important. It offers advice for candidates and employers on adapting to these changes and building a future-proof career in tech.",
+      "date_posted": "Tue, 08 Jul 2025 19:57:39 +0000",
+      "days_since_posted": 375,
+      "freshness": "",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-marketing-representative-entry-level-at-ls-solutions-4442420789&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2lTYMkDkVm4WAHY2iPEcbX",
+      "title": "LS Solutions hiring Remote Marketing Representative ( Entry Level ) in Fort Worth, TX",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-marketing-representative-entry-level-at-ls-solutions-4442420789&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2lTYMkDkVm4WAHY2iPEcbX",
+      "score": 1,
+      "reason": "This role is for a Marketing Representative, not a Software Developer, and is located in Fort Worth, TX, which is not a suitable remote location for the candidate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level Marketing Representative sales position based in Fort Worth, TX. The role is listed as remote, but the location is not compatible with the candidate's remote work preferences and location restrictions.",
+      "date_posted": "2026-07-18T05:34:16Z",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-pest-control-technician-clifton-heights-pa-at-viking-pest-control-4442490110&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1YCK9Rh-RCJuTvrqH3_gn7",
+      "title": "Entry Level Pest Control Technician- Clifton Heights, PA - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-pest-control-technician-clifton-heights-pa-at-viking-pest-control-4442490110&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1YCK9Rh-RCJuTvrqH3_gn7",
+      "score": 1,
+      "reason": "The job is not a tech role and requires a specific physical location for work.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level pest control technician role at Viking Pest Control, requiring work in Clifton Heights, PA. The job involves pest control services and does not involve any tech skills. The role is listed as remote, but the location field suggests it may require working on-site in Pennsylvania.",
+      "date_posted": "2026-07-18T19:37:27Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-intake-specialist-entry-level-start-immediately-at-first-class-jerk-4441726394&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3kSjJBgC8RduuY5rjRGyh8",
+      "title": "[ REMOTE ] Intake Specialist - ENTRY LEVEL - START IMMEDIATELY - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-intake-specialist-entry-level-start-immediately-at-first-class-jerk-4441726394&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3kSjJBgC8RduuY5rjRGyh8",
+      "score": 1,
+      "reason": "The job listing is for an Intake Specialist, which does not match the candidate's tech stack or experience as a software developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level Intake Specialist role that is fully remote, but it does not specify the required tech skills or responsibilities, and it appears to be unrelated to software development. The role is open to start immediately. The location is listed as remote, but the job description does not provide enough information to determine if it is a good fit for the candidate.",
+      "date_posted": "2026-07-18T14:46:13Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
+    {
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-customer-engagement-the-coca-cola-company-1134955",
+      "title": "Associate Customer Engagement",
+      "company": "The Coca-Cola Company",
+      "location": "Atlanta,",
+      "link": "https://remoteOK.com/remote-jobs/remote-associate-customer-engagement-the-coca-cola-company-1134955",
+      "score": 1,
+      "reason": "The role is not remote and requires working from the Atlanta office.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-19",
+      "source": "RemoteOK",
+      "summary": "This role is for an Associate Customer Engagement at The Coca-Cola Company, requiring in-person work in Atlanta. The position involves delivering customer service and support across multiple communication channels. It is not a remote role and does not match the candidate's requirements for a fully remote junior software developer position.",
+      "date_posted": "2026-07-15T22:55:09+00:00",
+      "days_since_posted": 3,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-19",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://tz.linkedin.com/jobs/view/junior-full-stack-developer-technical-project-assistant-remote-at-desme-technologies-limited-4438774979&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2h6obms-jvFXKK3eG-WFvb",
       "title": "Junior Full-Stack Developer &amp; Technical Project Assistant ( Remote ) - LinkedIn Tanzania",
@@ -19,7 +379,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/hopn-ug/frontend-developer-intern-unpaid-puchheim-124552",
@@ -39,7 +399,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183052008",
@@ -59,7 +419,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://jobright.ai/jobs/info/6a110d60619335383fb365e4%3Fvisit%3Dfrontend-software-engineer-in-new-york-ny&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw31htHLKzMjk4s3xBAavlyT",
@@ -79,7 +439,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/147050-ai-systems-engineering-expert",
@@ -99,7 +459,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-junior-software-engineer-lockwood-publishing-ltd-1134921",
@@ -119,7 +479,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/weaviate/0d1c47c4-bc5b-45d8-8791-8f30f0fb2a12",
@@ -139,7 +499,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522265002",
@@ -159,7 +519,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-prompt-engineer-at-olive-tree-consulting-group-4441178714&ct=ga&cd=CAIyHGVhNWZjNmExYzY5ZDU5MTA6Y29tOmZyOlVTOkw&usg=AOvVaw277yAQgESX_mujMqx9mGZf",
@@ -179,7 +539,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bjak/jobs/applied-ai-engineer-spain",
@@ -199,7 +559,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/inv/jobs/religion-specialist-freelance-ai-trainer-project-994632318",
@@ -219,7 +579,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/142967-python-react-engineer-with-ai-remote-latam",
@@ -239,7 +599,7 @@
       "days_since_posted": 22,
       "freshness": "",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/146757-finnish-tech-linguistic-tester",
@@ -259,7 +619,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522408002",
@@ -279,7 +639,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://stripe.com/jobs/search?gh_jid=8055050",
@@ -299,7 +659,7 @@
       "days_since_posted": 4,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/harvey/4727eb5e-0ff2-4866-bba2-91bb43796d12",
@@ -319,7 +679,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/pakajo-gmbh/backend-developer-php-postgresql-hamburg-472726",
@@ -339,7 +699,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bjak/jobs/applied-ai-engineer-ai-neobank-app-indonesia",
@@ -359,7 +719,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bjak/jobs/applied-ai-engineer-ai-neobank-app-ireland",
@@ -379,7 +739,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bjak/jobs/applied-ai-engineer-ai-neobank-app-malaysia",
@@ -399,7 +759,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bybit/jobs/golang-development-engineer-intern",
@@ -419,7 +779,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/toolplace-gmbh/praktikant-masterand-ai-automation-internal-operations-leipzig-157607",
@@ -439,7 +799,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/sierra/9d9e7d4a-2a27-4f64-9b1f-d79c5d3f129a",
@@ -459,7 +819,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149397-support-engineer-ii-developer-portal",
@@ -479,7 +839,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
@@ -499,7 +859,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/flexible-remote-work-entry-level-build-your-own-schedule-at-lotz-agency-4441995888&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1dAMZZTKPUXeEkcx2frgm0",
@@ -519,7 +879,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-service-representative-hotel-reservations-entry-level-at-professional-travel-group-4441921678&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Xx2hb9qux88dyVOiDTXX7",
@@ -539,7 +899,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff",
@@ -559,7 +919,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/clera/jobs/founding-product-engineer",
@@ -579,7 +939,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bjak/jobs/full-stack-engineer-indonesia",
@@ -599,7 +959,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bjak/jobs/applied-ai-engineer-china",
@@ -619,7 +979,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/linear/4fe443c5-379d-4b1e-bf16-0d4f91918a5f",
@@ -639,7 +999,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/supportyourapp-native-finnish-customer-support-consultant-remotely",
@@ -659,7 +1019,7 @@
       "days_since_posted": 17,
       "freshness": "",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bjak/jobs/applied-ai-engineer-philippines",
@@ -679,7 +1039,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/posthog/0d1b6a32-6a21-4933-a33a-303b0e49302e",
@@ -699,7 +1059,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5231200008",
@@ -719,7 +1079,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8608546002",
@@ -739,7 +1099,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
@@ -759,7 +1119,7 @@
       "days_since_posted": 43,
       "freshness": "",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
@@ -779,7 +1139,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-customer-care-coordinator-at-professional-travel-group-4441471111&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw27bCuXrcKvLxxhU59gPJzI",
@@ -799,7 +1159,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149386-sales-systems-engineer-commercial",
@@ -819,7 +1179,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/vanta/212a94f6-e72b-40a3-b060-6a9bdce7e8d3",
@@ -839,7 +1199,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-service-reservations-associate-entry-level-at-professional-travel-group-4441937116&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw27pMcvPTtLuOnfMUkgVvjs",
@@ -859,7 +1219,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-intake-specialist-entry-level-start-immediately-at-second-half-4441305050&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3t5Uj6SuD6dwJTwz4q39Ju",
@@ -879,7 +1239,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/146131-customer-experience-analyst",
@@ -899,7 +1259,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-success-specialist-remote-at-the-elmer-agency-4441300133&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw14gCcxa19SPGAHbHiWK6Oi",
@@ -919,7 +1279,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-assistance-specialist-work-from-home-at-the-elmer-agency-4441195356&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2KuXBr25tsHVRLYbIMkoIm",
@@ -939,7 +1299,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-support-advisor-remote-at-professional-travel-group-4441937110&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2DxY82aYpKblh_gbqyduuh",
@@ -959,7 +1319,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-travel-assistant-at-professional-travel-group-4441921672&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Jo367LxgCaafcv2JBhd0x",
@@ -979,7 +1339,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-hotel-reservationist-entry-level-at-professional-travel-group-4441922566&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw31LRTrcCxakDG5Nn2e95Ze",
@@ -999,7 +1359,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-service-%25E2%2580%2593-booking-travel-entry-level-at-professional-travel-group-4441937109&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw26ssY-hffL42Piv8siNGXf",
@@ -1019,7 +1379,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/vanta/74b493dc-83b4-4963-9a1e-dab4c7c574af",
@@ -1039,7 +1399,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-digital-media-specialist-rose-klein-amp-marias-1134989",
@@ -1059,7 +1419,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-travel-assistant-at-professional-travel-group-4441927435%3Fposition%3D30%26pageNum%3D0%26refId%3DjX%252F8b7pcABYNhPvUg79olw%253D%253D%26trackingId%3DJ8Hqz6rK5QqB1II1z7qStA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2iT-csTiCNHWwo-HpcbJ-Y",
@@ -1079,7 +1439,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-customer-support-coordinator-vacations-at-professional-travel-group-4441918941&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1S8W82yPNW9nKPcjRJ1q60",
@@ -1099,7 +1459,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-hotel-reservation-specialist-entry-level-at-professional-travel-group-4441939013&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Lnc6lpGNQ141hSUK_4qZ8",
@@ -1119,7 +1479,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-scheduling-booking-assistant-entry-level-at-professional-travel-group-4441929353&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3l9mrOA7rsYydsbwJYsQ0u",
@@ -1139,7 +1499,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-event-travel-planning-coordinator-online-at-professional-travel-group-4441926453&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0dpLRb634l6Fhty8DMOzw3",
@@ -1159,7 +1519,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-event-planner-entry-level-at-professional-travel-group-4441940015&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1T4lTYMSVUhuEN8uyADP5C",
@@ -1179,7 +1539,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/vanta/fb16faba-850b-4694-a279-cda81ee16105",
@@ -1199,7 +1559,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
@@ -1219,7 +1579,7 @@
       "days_since_posted": 9,
       "freshness": "",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/decagon/28366d07-ae89-428c-8593-1840591bfc18",
@@ -1239,7 +1599,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/flexport/jobs/7564336",
@@ -1259,7 +1619,7 @@
       "days_since_posted": 8,
       "freshness": "",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-booking-coordinator-at-professional-travel-group-4441937112&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3kxFGSx6VM_eNMB6nxYAN9",
@@ -1279,7 +1639,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/writer/337d580e-6a1b-4669-856d-6cab511a44ad",
@@ -1299,7 +1659,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/posthog/3f190a45-7810-47f9-b77d-169b806ea266",
@@ -7822,8 +8182,8 @@
       "is_new": false
     }
   ],
-  "count": 391,
+  "count": 409,
   "keepers": 50,
-  "fresh": 192,
-  "new_today": 65
+  "fresh": 200,
+  "new_today": 18
 }
