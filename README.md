@@ -2,7 +2,7 @@
 
 A $0-cost automated agent that runs **every 5 hours** (so you're an early applicant):
 
-1. **Collects** remote dev jobs from many free sources — 5 JSON APIs (Remotive, Arbeitnow, RemoteOK, Jobicy, Himalayas), **The Muse API**, **RSS feeds** (Jobicy, WeWorkRemotely), your own **Google Alerts** RSS feeds, **~40 startup career boards** (Greenhouse / Lever / Ashby), plus **keyword-variant searches**, and optional Playwright scraping.
+1. **Collects** remote dev jobs from many free sources — 5 JSON APIs (Remotive, Arbeitnow, RemoteOK, Jobicy, Himalayas), **The Muse** and **Landing.jobs** APIs, **RSS feeds** (Jobicy, WeWorkRemotely, Jobspresso, Remote Woman, Authentic Jobs), your own **Google Alerts** RSS feeds (incl. LinkedIn-scoped), **~80 startup career boards** (Greenhouse / Lever / Ashby), plus **keyword-variant searches** (junior-dev + adjacent roles like solutions/support/forward-deployed engineer, developer advocate, AI trainer), and optional Playwright scraping.
 2. **Dedupes** within the run by `(title + company + url)`, **and across runs** via the database — the evening run never re-surfaces what the morning already showed.
 3. **Filters** — a rule-based location filter drops obviously country-locked roles (US only, hybrid, onsite…), then **Gemini** reads each description and returns a **score 1–10**, a one-line **reason**, and a 2–3 sentence **summary** — catching hidden restrictions (work-auth/timezone locks).
 4. **Flags recency** — every listing gets `days_since_posted` and a **Fresh** label (≤ 7 days). Nothing is ever discarded; Fresh listings just sort first, older ones show muted with a "posted X days ago" caption.

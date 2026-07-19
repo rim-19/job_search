@@ -16,6 +16,13 @@ feeds:
     url: "https://weworkremotely.com/categories/remote-programming-jobs.rss"
   - name: "WeWorkRemotely (Full-Stack)"
     url: "https://weworkremotely.com/categories/remote-full-stack-programming-jobs.rss"
+  # Added: verified-live free RSS boards.
+  - name: "Jobspresso"
+    url: "https://jobspresso.co/?feed=job_feed"
+  - name: "Remote Woman"
+    url: "https://remotewoman.com/?feed=job_feed"
+  - name: "Authentic Jobs"
+    url: "https://authenticjobs.com/feed/"
 
   # Working Nomads and NoDesk were requested but their public RSS endpoints
   # return 404/403 as of this build. Left here (commented) so they're easy to

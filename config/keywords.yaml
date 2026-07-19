@@ -83,6 +83,15 @@ remote_required: true
 # below are the correct remote-from-anywhere equivalent.
 # ---------------------------------------------------------------------------
 search_variants:
+  # Adjacent, junior-friendly, less-crowded roles that fit an AI/dev background.
+  - '"forward deployed engineer" remote'
+  - '"solutions engineer" remote junior'
+  - '"developer advocate" remote junior'
+  - '"technical support engineer" remote developer'
+  - '"AI trainer" remote coding'
+  - '"associate software engineer" remote'
+  - '"support engineer" remote junior developer'
+  # Core junior-dev variants.
   - '"remote full stack developer" junior'
   - '"entry level developer" "work from anywhere"'
   - '"junior full stack developer" React Node.js remote'
@@ -103,5 +112,6 @@ search_variants:
   - '"remote developer" "international contractor"'
 
 # How many simplified variants to actually fire per search-capable API each run
-# (bounds runtime + politeness). 0 = use all.
-max_search_queries: 8
+# (bounds runtime + politeness). 0 = use all. Raised to cover the adjacent-role
+# variants above plus the core junior-dev ones.
+max_search_queries: 15
