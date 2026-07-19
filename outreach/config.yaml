@@ -1,0 +1,16 @@
+# Outreach settings. Edit the signature to match you.
+
+sender:
+  name: "Rim Elrhezzal"
+  email: "elrhezzalrim@gmail.com"
+  phone: "+212 771-907639"
+  linkedin: "https://linkedin.com/in/rim-elrhezzal"
+  github: "https://github.com/rim-19"
+  portfolio: ""          # optional live portfolio URL
+
+sending:
+  max_per_run: 15        # never send more than this in one 'send' run
+  delay_seconds: 25      # pause between emails (deliverability + politeness)
+  subject_style: "concise and specific to the role/company, professional, no clickbait or ALL CAPS"
+  # Tone guidance handed to the AI when writing each email.
+  tone: "warm, confident, respectful of the recruiter's time; honest about being early-career but leading with concrete projects and stack; a clear, low-pressure ask (to be considered / a short call)"

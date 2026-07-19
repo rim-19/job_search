@@ -1,0 +1,13 @@
+Replace this text with the job offer or context you want the emails to be about.
+
+You can paste an actual job posting here, or write a general pitch like:
+
+"I'm reaching out about junior / entry-level remote software developer roles
+(fully remote, worldwide or Europe/EMEA/Africa timezone). My background is in
+full-stack web development (React, Next.js, Node.js) and AI/LLM applications
+(LangChain, NLP, automation). I'm available immediately and open to contract or
+full-time."
+
+This text is shared across all recruiters in recruiters.csv. Per-recruiter
+details (their name, company, the specific role) come from the CSV and are woven
+into each email automatically, so every email is personalized — not a mass blast.
