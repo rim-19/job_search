@@ -1,6 +1,306 @@
 {
-  "generated": "2026-07-20",
+  "generated": "2026-07-21",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-dusseldorf-germany-dusseldorf-45606",
+      "title": "Software Engineer, Platform - Düsseldorf, Germany",
+      "company": "Speechify",
+      "location": "Dusseldorf, North Rhine-Westphalia, Germany",
+      "link": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-dusseldorf-germany-dusseldorf-45606",
+      "score": 7,
+      "reason": "This role is a good fit as it's fully remote and aligns with her tech stack, but the location field implies a preference for Dusseldorf, Germany, which might not be strictly 'worldwide' as she prefers, though her timezone overlap makes it feasible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-21",
+      "source": "Arbeitnow",
+      "summary": "This is a fully remote Software Engineer, Platform role at Speechify, focusing on building and maintaining backend services like payments, analytics, and APIs. The tech stack includes backend development and API integration, and while the listing mentions Dusseldorf, Germany, the company operates in a 100% distributed setting.",
+      "date_posted": "1784580327",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-hamburg-germany-238356",
+      "title": "Software Engineer, Platform - Hamburg, Germany",
+      "company": "Speechify",
+      "location": "Hamburg, Germany",
+      "link": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-hamburg-germany-238356",
+      "score": 7,
+      "reason": "This role is a strong potential fit as it's fully remote, aligns with her junior level, and the location is within her acceptable working regions (Europe/EMEA).",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-21",
+      "source": "Arbeitnow",
+      "summary": "This is a fully remote Software Engineer, Platform role based in Hamburg, Germany, focusing on backend services like payments, analytics, and APIs. The tech stack includes backend development and API integration, and the company hires globally via Employer of Record or international contractor agreements.",
+      "date_posted": "1784580327",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-munich-germany-304246",
+      "title": "Software Engineer, Platform - Munich, Germany",
+      "company": "Speechify",
+      "location": "Munich, Bavaria, Germany",
+      "link": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-munich-germany-304246",
+      "score": 7,
+      "reason": "This role is a strong fit due to its fully remote nature and alignment with the candidate's technical skills and junior level, though the primary location listed as Munich might imply a preference for European timezones.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-21",
+      "source": "Arbeitnow",
+      "summary": "This is a fully remote Software Engineer, Platform role at Speechify, focusing on building and maintaining backend services like payments, analytics, and APIs. The tech stack includes backend development, and while the listing mentions Munich, the company operates 100% distributed globally, making it a potential fit for remote contractors.",
+      "date_posted": "1784580327",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-berlin-germany-255908",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Berlin, Germany",
+      "company": "Speechify",
+      "location": "Berlin, Germany",
+      "link": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-berlin-germany-255908",
+      "score": 7,
+      "reason": "This role is a good fit as it's fully remote, aligns with her junior level, and the location is compatible with her working remotely from Morocco, though the primary listed location is Berlin.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-21",
+      "source": "Arbeitnow",
+      "summary": "Speechify is hiring a Software Engineer for their Data Infrastructure & Acquisition team, focusing on collecting and ingesting audio data for AI model training. The role involves operating cloud infrastructure (GCP, Terraform) and collaborating with AI scientists. This is a fully remote position, with the primary listed location being Berlin, Germany.",
+      "date_posted": "1784580327",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-hamburg-germany-95082",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Hamburg, Germany",
+      "company": "Speechify",
+      "location": "Hamburg, Germany",
+      "link": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-hamburg-germany-95082",
+      "score": 7,
+      "reason": "This role is a strong fit due to its fully remote nature, alignment with junior/entry-level expectations, and location flexibility that includes her timezone, despite being listed as Hamburg, Germany.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-21",
+      "source": "Arbeitnow",
+      "summary": "This is a fully remote Software Engineer role focused on data infrastructure and acquisition for AI model training. You will be responsible for finding and ingesting audio data, operating cloud infrastructure (GCP, Terraform), and collaborating with AI scientists. The role is listed in Hamburg, Germany, but the company operates 100% distributed and the candidate's timezone aligns well with European hours.",
+      "date_posted": "1784580327",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/acemateai/founding-mobile-engineer-react-native-berlin-187747",
+      "title": "Founding Mobile Engineer (React Native)",
+      "company": "acemate.ai",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/acemateai/founding-mobile-engineer-react-native-berlin-187747",
+      "score": 4,
+      "reason": "The role is not a junior position and the location is listed as Berlin, which may imply onsite work.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-21",
+      "source": "Arbeitnow",
+      "summary": "The role is for a Founding Mobile Engineer using React Native, responsible for driving the product forward and helping the company scale. The company is based in Berlin, but it's unclear if the role is fully remote. The role involves building and owning the mobile app's architecture and user experience.",
+      "date_posted": "1784547036",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/resend/053bde8f-294e-4cce-9d62-2301282120a2",
+      "title": "Backend Engineer (MTA), Core Sending",
+      "company": "Resend",
+      "location": "Americas / Remote / Full-time",
+      "link": "https://jobs.ashbyhq.com/resend/053bde8f-294e-4cce-9d62-2301282120a2",
+      "score": 4,
+      "reason": "The role is not a junior position and requires strong backend engineering experience.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-21",
+      "source": "Resend (careers)",
+      "summary": "This is a backend engineer role at Resend, focusing on building and maintaining email transport infrastructure, with responsibilities including SMTP delivery and routing. The role is fully remote but requires travel and is based in the Americas or European time zones. The tech stack includes distributed systems, queues, and workers.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7804953003",
+      "title": "Analyst II, Full Stack",
+      "company": "Affirm",
+      "location": "Remote US",
+      "link": "https://job-boards.greenhouse.io/affirm/jobs/7804953003",
+      "score": 2,
+      "reason": "The role is explicitly 'Remote US' which is a blocker as the candidate cannot relocate and requires specific US work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-21",
+      "source": "Affirm (careers)",
+      "summary": "This is a full stack analyst role at Affirm, focusing on risk and analytics to optimize business strategy. The position is listed as 'Remote US', requiring work authorization in the United States.",
+      "date_posted": "2026-07-20T21:28:33-04:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/time-to-hire/creative-strategist-100-remote-freelance-35h-woche-t-marktbreit-343705",
+      "title": "Creative Strategist (m/w/d) - 100% remote % freelance - 35h+/Woche & t",
+      "company": "Time to hire",
+      "location": "Marktbreit (remote)",
+      "link": "https://www.arbeitnow.com/jobs/companies/time-to-hire/creative-strategist-100-remote-freelance-35h-woche-t-marktbreit-343705",
+      "score": 2,
+      "reason": "The role is not a technical position and does not match the candidate's skills and experience.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-21",
+      "source": "Arbeitnow",
+      "summary": "The role is a Creative Strategist position that involves creating direct response copy and creative direction for Meta Ads. The role is fully remote and based in Germany, but it does not match the candidate's technical skills. The main responsibilities include developing hooks, scripts, and ad scripts for Meta Ads.",
+      "date_posted": "1784541645",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/144179-golang-engineer",
+      "title": "Golang Engineer",
+      "company": "Plain Concepts",
+      "location": "Brazil",
+      "link": "https://jobicy.com/jobs/144179-golang-engineer",
+      "score": 2,
+      "reason": "The job listing is for a senior-level position and requires Golang expertise, which does not match the candidate's junior level and tech stack.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-21",
+      "source": "Jobicy",
+      "summary": "This is a senior Golang Engineer role at Plain Concepts, requiring expertise in event-driven architectures and AI-assisted software engineering. The job is located in Brazil and involves developing high-performance backend services and designing resilient microservices. The role is not a good fit for a junior developer with a different tech stack.",
+      "date_posted": "2026-07-20T03:10:05+00:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/harvey/aa678bd6-698e-4b83-8475-127e27e3cf51",
+      "title": "Technical Support Engineer - Premium Accounts, Weekend Coverage",
+      "company": "Harvey",
+      "location": "London",
+      "link": "https://jobs.ashbyhq.com/harvey/aa678bd6-698e-4b83-8475-127e27e3cf51",
+      "score": 2,
+      "reason": "The role is not a junior software developer position and requires specific technical account management skills.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-21",
+      "source": "Harvey (careers)",
+      "summary": "This is a Technical Support Engineer role at Harvey, requiring technical expertise to support strategic customers, with a location listed as London, and no clear indication of remote work options or junior-friendly responsibilities.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "url": "https://weworkremotely.com/remote-jobs/chemin-product-translation-reviewer-mandarin-english",
+      "title": "Product Translation Reviewer (Mandarin - English)",
+      "company": "Chemin",
+      "location": "Anywhere in the World",
+      "link": "https://weworkremotely.com/remote-jobs/chemin-product-translation-reviewer-mandarin-english",
+      "score": 2,
+      "reason": "The role does not match the candidate's tech stack and is not a software development position.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-21",
+      "source": "WeWorkRemotely (Programming)",
+      "summary": "This role is for a Product Translation Reviewer, reviewing and improving machine-translated product titles and descriptions from Mandarin to English. The position is fully remote and can be done from anywhere in the world. The main responsibilities include translation, review, and quality assurance of e-commerce product content.",
+      "date_posted": "Tue, 30 Jun 2026 20:31:25 +0000",
+      "days_since_posted": 20,
+      "freshness": "",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8535897002",
+      "title": "Commercial Account Executive - Named, US East",
+      "company": "GitLab",
+      "location": "Remote, US",
+      "link": "https://job-boards.greenhouse.io/gitlab/jobs/8535897002",
+      "score": 1,
+      "reason": "The role is not a technical position and excludes her location by requiring US presence",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-21",
+      "source": "GitLab (careers)",
+      "summary": "This is a Commercial Account Executive role at GitLab, focused on sales and customer management, and is remote but limited to the US East region. The role does not match the candidate's technical skills or location preferences. It is a non-technical position with no mention of programming languages or software development.",
+      "date_posted": "2026-06-05T16:18:10-04:00",
+      "days_since_posted": 45,
+      "freshness": "",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/openai/07d62dc2-9bbc-4149-ba43-d4ab748a21f4",
+      "title": "Forward Deployed Software Engineer - Munich",
+      "company": "OpenAI",
+      "location": "Munich, Germany",
+      "link": "https://jobs.ashbyhq.com/openai/07d62dc2-9bbc-4149-ba43-d4ab748a21f4",
+      "score": 1,
+      "reason": "The role is not fully remote and requires relocation to Munich with a hybrid work model.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-21",
+      "source": "OpenAI (careers)",
+      "summary": "This role is for a Forward Deployed Software Engineer at OpenAI in Munich, Germany, requiring 3 days of in-office work per week. The position involves designing and implementing scalable solutions using OpenAI's APIs to solve customer problems. The role is not fully remote and requires relocation to Munich.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/sbc-steuerberater-rechtsanwalte-gbr/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-darmstadt-73867",
+      "title": "Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter / Trainee Steuerberatung (m/w/d)",
+      "company": "SBC Steuerberater Rechtsanwälte GbR",
+      "location": "Darmstadt",
+      "link": "https://www.arbeitnow.com/jobs/companies/sbc-steuerberater-rechtsanwalte-gbr/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-darmstadt-73867",
+      "score": 1,
+      "reason": "The job listing is not a tech role and requires onsite presence in Darmstadt.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-21",
+      "source": "Arbeitnow",
+      "summary": "This is a tax consulting role at SBC Steuerberater Rechtsanwälte GbR in Darmstadt, involving tasks like financial accounting and tax declarations. The role is not remote and requires presence in Darmstadt. The job does not match the candidate's tech skills or remote work requirements.",
+      "date_posted": "1784559636",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/metzler-gmbh/ai-automation-engineer-reutlingen-365220",
       "title": "AI Automation Engineer",
@@ -19,7 +319,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
@@ -39,7 +339,7 @@
       "days_since_posted": 5,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/linear/62a4524c-75da-499e-b150-7f68ce9f2da3",
@@ -59,7 +359,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/Egooshift/status/2078846416118759600&ct=ga&cd=CAIyHGVhNWZjNmExYzY5ZDU5MTA6Y29tOmZyOlVTOkw&usg=AOvVaw3jvxOJp3iByhW_EpThDl1C",
@@ -79,7 +379,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/writer/f2d02ca2-a915-434a-ace0-1a93d2111716",
@@ -99,7 +399,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/resend/8c290ac4-22b4-4072-86e0-b6f5a97213d6",
@@ -119,7 +419,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8064090",
@@ -139,7 +439,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-junior-qa-tester-work-force-nexus-1134935",
@@ -159,7 +459,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-456113",
@@ -179,7 +479,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/synthesia/73b423b5-0fcc-422e-9490-0bb22bcd5a4e",
@@ -199,7 +499,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://stripe.com/jobs/search?gh_jid=7913410",
@@ -219,7 +519,7 @@
       "days_since_posted": 23,
       "freshness": "",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/hopn-ug/ui-ux-designer-intern-unpaid-puchheim-330030",
@@ -239,7 +539,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
@@ -259,7 +559,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-data-entry-clerk-at-codevertex-careers-4439683171&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0OdGjnGeTOj_j8rSeLx0Q1",
@@ -279,7 +579,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/146338-technical-customer-support-specialist",
@@ -299,7 +599,7 @@
       "days_since_posted": 6,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/148113-accounts-receivable-clerk",
@@ -319,7 +619,7 @@
       "days_since_posted": 20,
       "freshness": "",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7808464",
@@ -339,7 +639,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7923207",
@@ -359,7 +659,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/resend/a95832a8-a2ab-4a63-8303-9989f1fc47d6",
@@ -379,7 +679,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7992719",
@@ -399,7 +699,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://stripe.com/jobs/search?gh_jid=8055930",
@@ -419,7 +719,7 @@
       "days_since_posted": 6,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/elevenlabs/6848ece5-1ce5-4ab4-9dd6-0704cd0f8ecd",
@@ -439,7 +739,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149456-customer-advocacy-intern",
@@ -459,7 +759,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/resend/d5bc5890-847d-4bc5-bbd7-d0d72021ff3c",
@@ -479,7 +779,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/144326-security-engineer-2",
@@ -499,7 +799,7 @@
       "days_since_posted": 29,
       "freshness": "",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/whiterabbit-ai/jobs/research-scientist-intern-2026",
@@ -519,7 +819,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/3daero-gmbh/werkstudent-gn-fur-automatisierungstechnik-hamburg-228897",
@@ -539,7 +839,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/hansesecure-gmbh/junior-software-developer-munchen-452436",
@@ -559,7 +859,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/systems-reliability-engineer",
@@ -579,7 +879,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/gpu-systems-engineer-838775737",
@@ -599,7 +899,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/145933-sales-engineer-mid-market-mexico",
@@ -619,7 +919,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/146474-seo-strategist-canada",
@@ -639,7 +939,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8056292",
@@ -659,7 +959,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7719989003",
@@ -679,7 +979,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/syntivis-ag/seo-aeo-geo-llm-b2b-saas-rosenheim-241606",
@@ -699,7 +999,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/software-development-engineer-in-test",
@@ -719,7 +1019,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-it-support-associate-remote-at-remotehunter-4441786633&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2FGMWDKaUItYJhoR6DoqVB",
@@ -739,7 +1039,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-fully-remote-training-and-support-provided-at-mitru-partners-agency-4439671711&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2FyU2oHdwa7F8ODgTAop5g",
@@ -759,7 +1059,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-jobsinmass-com-4442507876&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0d72hQSHyPfzcMhDpCbd3X",
@@ -779,7 +1079,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-assistant-remote-at-jobsinmass-com-4442527002&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1a3qjodr-t6-v1Fg6xuyHT",
@@ -799,7 +1099,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-entry-level-data-entry-clerk-admin-jobsinmass-com-1135071",
@@ -819,7 +1119,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-entry-level-data-entry-clerk-jobsinmass-com-1135072",
@@ -839,7 +1139,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/fintech-software-developer",
@@ -859,7 +1159,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/143990-seasonal-customer-love-associate-remote-tx-based-2",
@@ -879,7 +1179,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8617875002",
@@ -899,7 +1199,7 @@
       "days_since_posted": 11,
       "freshness": "",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/linear/d37b3d76-3080-47f9-8a19-60505573112c",
@@ -919,7 +1219,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.mongodb.com/careers/job/?gh_jid=7453323",
@@ -939,7 +1239,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/147013-ios-developer-remote-anywhere-in-mexico",
@@ -959,7 +1259,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
@@ -979,7 +1279,7 @@
       "days_since_posted": 17,
       "freshness": "",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8631153002",
@@ -999,7 +1299,7 @@
       "days_since_posted": 7,
       "freshness": "Fresh",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/openai/961f6c58-1572-48a8-bb8b-2bffdf82a5cc",
@@ -1019,7 +1319,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9",
@@ -9942,8 +10242,8 @@
       "is_new": false
     }
   ],
-  "count": 497,
-  "keepers": 60,
-  "fresh": 249,
-  "new_today": 51
+  "count": 512,
+  "keepers": 65,
+  "fresh": 259,
+  "new_today": 15
 }
