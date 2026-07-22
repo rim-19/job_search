@@ -46,5 +46,5 @@ jobs:
         with:
           commit_message: "🎀 daily job update"
           file_pattern: "data/jobs.db docs/jobs.json"
-          commit_user_name: "job-agent-bot"
-          commit_user_email: "actions@github.com"
+          commit_user_name: "Rim Elrhezzal"
+          commit_user_email: "elrhezzalrim@gmail.com"
