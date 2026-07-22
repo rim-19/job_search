@@ -1,6 +1,206 @@
 {
-  "generated": "2026-07-21",
+  "generated": "2026-07-22",
   "jobs": [
+    {
+      "url": "https://himalayas.app/companies/hudson-manpower/jobs/ai-tools-automation-intern-developer",
+      "title": "AI Tools & Automation Intern (Developer)",
+      "company": "Hudson Manpower",
+      "location": "Worldwide",
+      "link": "https://himalayas.app/companies/hudson-manpower/jobs/ai-tools-automation-intern-developer",
+      "score": 9,
+      "reason": "This is an excellent match as it's a junior, fully remote role with strong tech alignment and a location scope that perfectly fits the candidate's capabilities.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-22",
+      "source": "Himalayas",
+      "summary": "This is a fully remote AI Developer Intern role focused on building LLM applications and MCP servers, as well as tracking new AI tools. You'll use Python or JavaScript, work with LLMs, and build POCs. The role is open worldwide and aligns with your remote contractor status.",
+      "date_posted": "1784666205",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-22",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/junior-full-stack-web-developerrrr-at-true-tannage-4440477157&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0RLh9Vi5PvnB1929j5XJlc",
+      "title": "True Tannage hiring Junior full stack web developerrrr in Lahore, Punjab, Pakistan",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/junior-full-stack-web-developerrrr-at-true-tannage-4440477157&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0RLh9Vi5PvnB1929j5XJlc",
+      "score": 8,
+      "reason": "This is a strong match as it's a junior, fully remote role with matching tech, and the location is in her region (Africa/MENA) which is a strong positive.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-22",
+      "source": "Google Alert 9",
+      "summary": "This is a Junior Full-Stack Web Developer position at True Tannage, advertised as fully remote. The role requires experience with React, Next.js, Node.js, and Python. The listing is based in Pakistan, but the remote nature and the candidate's location in Morocco make it a viable opportunity.",
+      "date_posted": "2026-07-21T15:12:39Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-22",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/junior-full-stack-developeer-at-true-tannage-4440441654&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2U9RnQ217Thr34acsKLt9f",
+      "title": "True Tannage hiring Junior full stack developeer in Lahore, Punjab, Pakistan | LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/junior-full-stack-developeer-at-true-tannage-4440441654&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2U9RnQ217Thr34acsKLt9f",
+      "score": 8,
+      "reason": "The role is a junior-friendly, fully remote position with matching tech stack.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-22",
+      "source": "Google Alert 9",
+      "summary": "This is a full-time remote Junior Full Stack Developer role using React, Next.js, Node.js, and Python. The company is hiring remotely, with no specific location restrictions mentioned. The role involves full-stack software engineering responsibilities in a remote setup.",
+      "date_posted": "2026-07-21T10:37:17Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-22",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/149551-performance-engineer-open-source",
+      "title": "Performance Engineer - Open Source",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "link": "https://jobicy.com/jobs/149551-performance-engineer-open-source",
+      "score": 8,
+      "reason": "The role is a fully remote junior-friendly position with a matching tech stack and worldwide location scope.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-22",
+      "source": "Jobicy",
+      "summary": "This is a Performance Engineer role at Canonical Ltd. that involves working on open source software and operating systems, with a focus on software performance, correctness, and efficiency. The role is fully remote and open to candidates from anywhere in the world. The company uses a variety of technologies, including Ubuntu, and has a global distributed team with few office-based roles.",
+      "date_posted": "2026-07-21T16:20:12+00:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-22",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/149580-hebrew-freelance-translator-copy-editor-product-support-marketing-content",
+      "title": "Hebrew Freelance Translator & Copy Editor (Product, Support & Marketing Content)",
+      "company": "Welo Global",
+      "location": "Anywhere",
+      "link": "https://jobicy.com/jobs/149580-hebrew-freelance-translator-copy-editor-product-support-marketing-content",
+      "score": 2,
+      "reason": "The job listing is for a translator and copy editor, which does not match the candidate's tech stack or skills.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-22",
+      "source": "Jobicy",
+      "summary": "This role is for a Hebrew freelance translator and copy editor to support a long-term project with a multinational company. The position is remote and freelance, with an expected volume of 500 to 1,000 words per week. The role does not require programming skills, but rather translation and copy editing expertise.",
+      "date_posted": "2026-07-21T16:21:03+00:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-22",
+      "is_new": true
+    },
+    {
+      "url": "https://himalayas.app/companies/appetiser-apps/jobs/product-designer-ui-ux",
+      "title": "Product Designer (UI/UX)",
+      "company": "Appetiser Apps",
+      "location": "Worldwide",
+      "link": "https://himalayas.app/companies/appetiser-apps/jobs/product-designer-ui-ux",
+      "score": 2,
+      "reason": "The job listing is for a Product Designer role which does not match the candidate's technical skills and experience as a Software Developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-22",
+      "source": "Himalayas",
+      "summary": "This role is for a Product Designer to design user interfaces and user experiences for web and mobile applications, with responsibilities including communicating with clients and stakeholders, analyzing testing data, and creating prototypes. The role is fully remote and open to worldwide candidates. The company is looking for someone with strong technical design skills and a passion for design.",
+      "date_posted": "1784666205",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-22",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8026619",
+      "title": "Enterprise Account Executive",
+      "company": "Twilio",
+      "location": "Remote - United Kingdom",
+      "link": "https://job-boards.greenhouse.io/twilio/jobs/8026619",
+      "score": 2,
+      "reason": "The role is not a technical position and does not match the candidate's tech stack or junior developer profile.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-22",
+      "source": "Twilio (careers)",
+      "summary": "This is an Enterprise Account Executive role at Twilio, focused on sales and customer acquisition in the UK and Northern Europe, with a remote work arrangement in the United Kingdom. The role involves selling communications solutions and managing the sales process. It is a non-technical position with no match to the candidate's programming skills or experience.",
+      "date_posted": "2026-07-20T10:30:28-04:00",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-22",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/plaid/5fc0bf62-9e80-4bbe-82f4-7fdf5461deb9",
+      "title": "Software Engineer",
+      "company": "Plaid",
+      "location": "London Office",
+      "link": "https://jobs.ashbyhq.com/plaid/5fc0bf62-9e80-4bbe-82f4-7fdf5461deb9",
+      "score": 2,
+      "reason": "The role is not fully remote and is restricted to the London office.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-22",
+      "source": "Plaid (careers)",
+      "summary": "This is a Software Engineer role at Plaid, working on Europe-specific payments and credit products, with a focus on building frameworks and tooling. The main tech stack is not specified in the listing. The role is based in the London office, indicating it is not a fully remote position.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-22",
+      "is_new": true
+    },
+    {
+      "url": "https://himalayas.app/companies/clera/jobs/forward-deployed-engineer",
+      "title": "Forward Deployed Engineer",
+      "company": "Clera",
+      "location": "United States",
+      "link": "https://himalayas.app/companies/clera/jobs/forward-deployed-engineer",
+      "score": 1,
+      "reason": "The role requires relocation to Miami, FL and is not fully remote.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-22",
+      "source": "Himalayas",
+      "summary": "This is a Forward Deployed Engineer role at a healthtech company, requiring proficiency in TypeScript, React, and Node.js, with responsibilities including building and shipping features, collaborating with customers, and deploying services on AWS. The role is based in Miami, FL and requires frequent travel. It is not a fully remote position and excludes the candidate's location.",
+      "date_posted": "1784682513",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-22",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7779929003",
+      "title": "Client Success Specialist II",
+      "company": "Affirm",
+      "location": "Remote US",
+      "link": "https://job-boards.greenhouse.io/affirm/jobs/7779929003",
+      "score": 1,
+      "reason": "The role is not a technical position and excludes her location due to requiring US work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-22",
+      "source": "Affirm (careers)",
+      "summary": "This is a Client Success Specialist II role at Affirm, focused on client management and revenue growth, with a remote US location requirement. The role does not involve programming or technical skills. It is not a good fit for a junior software developer looking for a fully remote role with a flexible location.",
+      "date_posted": "2026-06-26T16:19:04-04:00",
+      "days_since_posted": 25,
+      "freshness": "",
+      "first_seen": "2026-07-22",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://t.co/7unKKYdGWM&ct=ga&cd=CAIyHGVhNWZjNmExYzY5ZDU5MTA6Y29tOmZyOlVTOkw&usg=AOvVaw075CN26YiWWLNxIxamo94y",
       "title": "Junior Prompt Engineer – trhnp - t.co / X",
@@ -19,7 +219,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149581-graduate-software-engineer-open-source-and-linux-canonical-ubuntu",
@@ -39,7 +239,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
@@ -59,7 +259,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/cohere/f722247c-291b-44ee-af67-5159b8d5d9b9",
@@ -79,7 +279,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/highlevel-product-solutions-engineer-creator-platform",
@@ -99,7 +299,7 @@
       "days_since_posted": 20,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149550-security-software-engineer",
@@ -119,7 +319,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
@@ -139,7 +339,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/highlevel-product-solution-engineer-mobile-app",
@@ -159,7 +359,7 @@
       "days_since_posted": 21,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-dusseldorf-germany-dusseldorf-45606",
@@ -179,7 +379,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-hamburg-germany-238356",
@@ -199,7 +399,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-munich-germany-304246",
@@ -219,7 +419,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-berlin-germany-255908",
@@ -239,7 +439,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-hamburg-germany-95082",
@@ -259,7 +459,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/148658-customer-solutions-engineer",
@@ -279,7 +479,7 @@
       "days_since_posted": 17,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5343697008",
@@ -299,7 +499,7 @@
       "days_since_posted": 5,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149497-software-engineer-connect-platform",
@@ -319,7 +519,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149499-software-engineer-data",
@@ -339,7 +539,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/acemateai/founding-mobile-engineer-react-native-berlin-187747",
@@ -359,7 +559,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/resend/053bde8f-294e-4cce-9d62-2301282120a2",
@@ -379,7 +579,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/stahlwerk-annahutte-max-aicher-gmbh-co-kg/junior-data-engineer-ainring-376653",
@@ -399,7 +599,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8072907",
@@ -419,7 +619,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149534-alliances-field-engineer",
@@ -439,7 +639,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://stripe.com/jobs/search?gh_jid=7369543",
@@ -459,7 +659,7 @@
       "days_since_posted": 5,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/g2i/jobs/ai-interaction-evaluator-codex-claude-code-up-to-200-hr",
@@ -479,7 +679,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/jr-full-stack-developer-at-techglora-integrated-it-services-4442086976&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0hwpiPQ86QflwvMvncp8Hk",
@@ -499,7 +699,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/openai/621bb104-9daa-4c9e-949a-03d5730334e8",
@@ -519,7 +719,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/morefire-gmbh/junior-seo-geo-consultant-in-einer-besonderen-online-marketing-agentur-cologne-85382",
@@ -539,7 +739,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149545-ubuntu-sales-engineer-entry-level",
@@ -559,7 +759,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7804953003",
@@ -579,7 +779,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/time-to-hire/creative-strategist-100-remote-freelance-35h-woche-t-marktbreit-343705",
@@ -599,7 +799,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/144179-golang-engineer",
@@ -619,7 +819,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/harvey/aa678bd6-698e-4b83-8475-127e27e3cf51",
@@ -639,7 +839,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/chemin-product-translation-reviewer-mandarin-english",
@@ -659,7 +859,7 @@
       "days_since_posted": 20,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/145332-data-analyst-2",
@@ -679,7 +879,7 @@
       "days_since_posted": 16,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7764035003",
@@ -699,7 +899,7 @@
       "days_since_posted": 32,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/flexport/jobs/7311906",
@@ -719,7 +919,7 @@
       "days_since_posted": 11,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/posthog/f8af3807-3595-4580-a65c-dad2e268ace5",
@@ -739,7 +939,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/notion/06e1d3a8-2706-4ed9-9fe6-8b69607de18e",
@@ -759,7 +959,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/harvey/a250a86d-d627-4da5-b26d-b56aa90eaf99",
@@ -779,7 +979,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/openai/0fc4742f-21f9-40a3-925e-adeb0a6920c1",
@@ -799,7 +999,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8051051",
@@ -819,7 +1019,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/harvey/6ffe89d1-f22f-4228-b8fd-e0e69e46e6fb",
@@ -839,7 +1039,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/146038-technical-reporting-accountant",
@@ -859,7 +1059,7 @@
       "days_since_posted": 6,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/supportyourapp-fluent-german-english-l1-customer-support-consultant-eu-remote-1",
@@ -879,7 +1079,7 @@
       "days_since_posted": 20,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7979242",
@@ -899,7 +1099,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997",
@@ -919,7 +1119,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/142673-corporate-sales-engineer-benelux-remote-gbr",
@@ -939,7 +1139,7 @@
       "days_since_posted": 25,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/144246-ai-engineer-latam-remote",
@@ -959,7 +1159,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.elastic.co/jobs?gh_jid=8050495&gh_jid=8050495",
@@ -979,7 +1179,7 @@
       "days_since_posted": 5,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149183-forward-deployed-engineer-ai-business-transformation-technology-creative-network",
@@ -999,7 +1199,7 @@
       "days_since_posted": 9,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
@@ -1019,7 +1219,7 @@
       "days_since_posted": 5,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/resend/0b2481c7-da8b-4581-b5de-5216fb985cd5",
@@ -1039,7 +1239,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/algolia/jobs/5977937004",
@@ -1059,7 +1259,7 @@
       "days_since_posted": 43,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8535897002",
@@ -1079,7 +1279,7 @@
       "days_since_posted": 45,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/openai/07d62dc2-9bbc-4149-ba43-d4ab748a21f4",
@@ -1099,7 +1299,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/sbc-steuerberater-rechtsanwalte-gbr/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-darmstadt-73867",
@@ -1119,7 +1319,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/ramp/0d731586-3626-48fb-9dc5-3061ae5fd240",
@@ -1139,7 +1339,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8617751002",
@@ -1159,7 +1359,7 @@
       "days_since_posted": 4,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/writer/85675eff-52cc-4994-876e-6b73c9006b2c",
@@ -1179,7 +1379,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-re-lytics-hr-1135111",
@@ -1199,7 +1399,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/harvey/3d5dbc06-0e94-4b6d-ab6f-18cb691e03a7",
@@ -1219,7 +1419,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-data-entry-typist-jobsinmass-com-1135070",
@@ -1239,7 +1439,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/142304-ai-sales-executive",
@@ -1259,7 +1459,7 @@
       "days_since_posted": 20,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-data-entry-assistant-jobsinmass-com-1135073",
@@ -1279,7 +1479,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/ashby/e5863f7c-2238-410f-9a72-d40c944d2511",
@@ -1299,7 +1499,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/notion/4716189e-80f9-477f-86e5-0b56ccc954b8",
@@ -1319,7 +1519,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/ashby/36df1986-8af2-4cc4-a96a-4f307d493ac0",
@@ -1339,7 +1539,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/metzler-gmbh/ai-automation-engineer-reutlingen-365220",
@@ -11282,8 +11482,8 @@
       "is_new": false
     }
   ],
-  "count": 564,
-  "keepers": 76,
-  "fresh": 285,
-  "new_today": 67
+  "count": 574,
+  "keepers": 80,
+  "fresh": 293,
+  "new_today": 10
 }
