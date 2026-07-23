@@ -1,6 +1,246 @@
 {
-  "generated": "2026-07-22",
+  "generated": "2026-07-23",
   "jobs": [
+    {
+      "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
+      "title": "Cloud Field Engineer",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "link": "https://jobicy.com/jobs/149523-cloud-field-engineer",
+      "score": 8,
+      "reason": "The role is a fully remote junior-friendly position with matching tech stack and location flexibility.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-23",
+      "source": "Jobicy",
+      "summary": "This Cloud Field Engineer role involves working with Linux, cloud infrastructure, and open source applications, with responsibilities including designing and delivering cloud solutions and coaching colleagues. The role is fully remote, with global travel up to 25% of the time, and requires a university degree in Computer Science or related software engineering expertise. The position involves working with technologies like Kubernetes, OpenStack, and Python.",
+      "date_posted": "2026-07-21T16:19:24+00:00",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-23",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-jobs-remote-part-time-beginner-friendly-start-asap-at-wydawnictwo-agora-4443168422&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1oHa50V8FQYHg3-hX8EJl3",
+      "title": "entry level - virtual jobs ( remote ) - part-time - beginner friendly &amp; start asap - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-jobs-remote-part-time-beginner-friendly-start-asap-at-wydawnictwo-agora-4443168422&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1oHa50V8FQYHg3-hX8EJl3",
+      "score": 7,
+      "reason": "This is a strong fit as it's an entry-level, fully remote role, and the location is open, aligning with the candidate's preferences.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-23",
+      "source": "Google Alert 8",
+      "summary": "This is a part-time, entry-level, and beginner-friendly remote role posted on LinkedIn. The specific company is Wydawnictwo Agora, and the role is advertised as virtual with an immediate start. The location is listed as remote, with no specific geographical restrictions mentioned.",
+      "date_posted": "2026-07-22T15:37:58Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-23",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-jobs-remote-part-time-beginner-friendly-start-asap-at-vibe-coding-news-4441022375&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw224s9G72-TOuUH-uq93yQa",
+      "title": "entry level - virtual jobs ( remote ) - part-time - beginner friendly &amp; start asap - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-jobs-remote-part-time-beginner-friendly-start-asap-at-vibe-coding-news-4441022375&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw224s9G72-TOuUH-uq93yQa",
+      "score": 5,
+      "reason": "The role is entry-level and remote, but the location is listed as 'United States' which is a potential blocker unless they hire globally via Employer of Record, which is not specified.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-23",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level, part-time virtual job that is beginner-friendly and available to start immediately. The listing is from Vibe Coding News in the United States, and it is fully remote.",
+      "date_posted": "2026-07-22T01:56:13Z",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-23",
+      "is_new": true
+    },
+    {
+      "url": "https://himalayas.app/companies/mindrift/jobs/freelance-frontend-developer-landing-pages-websites-5531876643",
+      "title": "Freelance Frontend Developer (Landing Pages & Websites)",
+      "company": "Mindrift",
+      "location": "Philippines",
+      "link": "https://himalayas.app/companies/mindrift/jobs/freelance-frontend-developer-landing-pages-websites-5531876643",
+      "score": 4,
+      "reason": "The job listing is not a strong fit due to the location field being Philippines and the role being freelance with unclear region restrictions.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-23",
+      "source": "Himalayas",
+      "summary": "This is a freelance frontend developer role for building landing pages and websites with HTML/CSS/JavaScript, React/Next.js. The role is part-time and remote, but the location field is listed as Philippines. The company connects specialists with AI projects and is looking for professionals with experience in landing page production and modern frontend frameworks.",
+      "date_posted": "1784770318",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-23",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
+      "title": "Embedded Linux Field Engineer for Devices/IoT",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "link": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
+      "score": 4,
+      "reason": "The job listing does not match the candidate's tech stack and seems to require senior-level expertise.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-23",
+      "source": "Jobicy",
+      "summary": "The role is for an Embedded Linux Field Engineer for Devices/IoT, requiring expertise in Linux and distribution packaging. The position is fully remote and open to global candidates. The company uses Ubuntu and works with various industries, including automotive and consumer electronics.",
+      "date_posted": "2026-07-21T16:19:44+00:00",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-23",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/decagon/ad6db669-0ff9-41c6-b86b-8e567ad7fbbd",
+      "title": "Conversation Designer",
+      "company": "Decagon",
+      "location": "Remote",
+      "link": "https://jobs.ashbyhq.com/decagon/ad6db669-0ff9-41c6-b86b-8e567ad7fbbd",
+      "score": 4,
+      "reason": "The role is not a technical developer position and does not match the candidate's tech stack.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-23",
+      "source": "Decagon (careers)",
+      "summary": "The Conversation Designer role at Decagon involves shaping AI conversation experiences for enterprise customers, working with customers and internal teams to improve agent quality, and building systems to scale expertise. The role is fully remote, but the tech and responsibilities may not align with the candidate's skills. The company is open to remote work, but the position may require different skills than the candidate's current expertise.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-23",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-parasoleil-4443136015&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1HVSgAkOnjgwm_XJAcFaDh",
+      "title": "Parasoleil hiring Entry Level Software Engineer in United States - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-parasoleil-4443136015&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1HVSgAkOnjgwm_XJAcFaDh",
+      "score": 2,
+      "reason": "The role is explicitly for the United States and requires US work authorization, which is a genuine blocker for the candidate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-23",
+      "source": "Google Alert 8",
+      "summary": "This is a full-time, remote Entry Level Software Engineer role with Parasoleil. The listing specifies it is located in the United States, and the description mentions Junior Developer - Python & Go.  The role appears to require US work authorization, making it a potential blocker.",
+      "date_posted": "2026-07-22T10:53:20Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-23",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/openai/f51f750f-a737-4441-8f96-30133a2a8049",
+      "title": "Security Engineer, Infrastructure Security",
+      "company": "OpenAI",
+      "location": "Remote - US",
+      "link": "https://jobs.ashbyhq.com/openai/f51f750f-a737-4441-8f96-30133a2a8049",
+      "score": 2,
+      "reason": "The role is not a junior position and excludes her location by requiring US location",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-23",
+      "source": "OpenAI (careers)",
+      "summary": "This is a Security Engineer role at OpenAI, focusing on infrastructure security with technologies like Kubernetes and CI/CD. The main responsibility is to design and build security controls across diverse layers. The role is remote but limited to the US, which does not fit the candidate's location requirements.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-23",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/147334-sr-software-engineer-ii-ai",
+      "title": "Sr. Software Engineer II - AI",
+      "company": "iHerb",
+      "location": "USA",
+      "link": "https://jobicy.com/jobs/147334-sr-software-engineer-ii-ai",
+      "score": 1,
+      "reason": "The role is senior-level and excludes the candidate's location due to requiring US work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-23",
+      "source": "Jobicy",
+      "summary": "This is a senior software engineer role at iHerb focusing on AI and machine learning, requiring experience with GenAI-powered product experiences and shared AI platform infrastructure. The role is based in the USA and requires US work authorization. It is not a remote or junior-friendly position.",
+      "date_posted": "2026-07-22T18:30:08+00:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-23",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8543383002",
+      "title": "Commercial Account Executive - Named, US West",
+      "company": "GitLab",
+      "location": "Remote, US",
+      "link": "https://job-boards.greenhouse.io/gitlab/jobs/8543383002",
+      "score": 1,
+      "reason": "The role is not a technical position and excludes her location by requiring US presence",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-23",
+      "source": "GitLab (careers)",
+      "summary": "This is a Commercial Account Executive role at GitLab, focused on sales and customer management with no specific technical requirements, and is remote but limited to the US West region, requiring a presence in the US.",
+      "date_posted": "2026-06-05T16:18:10-04:00",
+      "days_since_posted": 47,
+      "freshness": "",
+      "first_seen": "2026-07-23",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/ashby/be52a88a-02c5-445f-a7c6-60c96b80f19c",
+      "title": "High Touch Implementation Specialist - Americas (West)",
+      "company": "Ashby",
+      "location": "Remote - US",
+      "link": "https://jobs.ashbyhq.com/ashby/be52a88a-02c5-445f-a7c6-60c96b80f19c",
+      "score": 1,
+      "reason": "The role is not a junior software development position and requires US timezone presence",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-23",
+      "source": "Ashby (careers)",
+      "summary": "This is a High Touch Implementation Specialist role at Ashby, focusing on project management and customer onboarding, requiring experience in implementation and project management. The role is remote but limited to the US timezone, specifically PST or MST. It does not match the candidate's junior software development profile or preferred location.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-07-23",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-part-time-opportunity-usa-canada-only-at-super-warm-group-ltd-4441062615&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw28FBbq1VtNeGdux9h1-P-Y",
+      "title": "Remote Part-Time Opportunity (USA &amp; Canada Only) - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-part-time-opportunity-usa-canada-only-at-super-warm-group-ltd-4441062615&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw28FBbq1VtNeGdux9h1-P-Y",
+      "score": 1,
+      "reason": "The role is limited to USA and Canada only, excluding the candidate's location.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-07-23",
+      "source": "Google Alert 8",
+      "summary": "This is a remote part-time entry-level consulting specialist role, but it is limited to the USA and Canada. The job description does not specify the main tech or responsibilities. The role is not a good fit for the candidate due to its location restrictions.",
+      "date_posted": "2026-07-22T18:23:32Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-07-23",
+      "is_new": true
+    },
     {
       "url": "https://himalayas.app/companies/hudson-manpower/jobs/ai-tools-automation-intern-developer",
       "title": "AI Tools & Automation Intern (Developer)",
@@ -19,7 +259,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/twilio-frontend-software-engineer",
@@ -39,7 +279,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/stripe-fullstack-engineer-privy",
@@ -59,7 +299,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149552-software-engineer-app-stores",
@@ -79,7 +319,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bjak/jobs/full-stack-engineer-ai-systems-5034081692",
@@ -99,7 +339,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149524-software-engineer-sustaining-engineering",
@@ -119,7 +359,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/junior-full-stack-web-developerrrr-at-true-tannage-4440477157&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0RLh9Vi5PvnB1929j5XJlc",
@@ -139,7 +379,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/junior-full-stack-developeer-at-true-tannage-4440441654&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2U9RnQ217Thr34acsKLt9f",
@@ -159,7 +399,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149551-performance-engineer-open-source",
@@ -179,7 +419,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/twilio-forward-deployed-engineer",
@@ -199,7 +439,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-jobs-remote-part-time-beginner-friendly-start-asap-at-gems-setra-4440179635&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1d3k-hHkRAz2WcCrvW76rC",
@@ -219,7 +459,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
@@ -239,7 +479,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/junior-full-stack-developer-need-at-true-tannage-4440440916&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1cpfvNsWkQlyXnp2MGhzWR",
@@ -259,7 +499,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149543-python-engineer",
@@ -279,7 +519,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149558-microservices-engineer",
@@ -299,7 +539,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.ziprecruiter.com/Jobs/Remote-Junior-Javascript/-in-Cincinnati,OH&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw3q74aAkrYLazys7TXFqOGR",
@@ -319,7 +559,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/junior-full-stack-web-new-developer-at-true-tannage-4440475928&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw28H2UHhSS7KJ2mZdeRvYCI",
@@ -339,7 +579,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/junior-full-stack-web-new-develoepr-at-true-tannage-4440490366&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw3JSZLMkAW-IahskYYsKY29",
@@ -359,7 +599,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-jobs-remote-part-time-beginner-friendly-start-asap-at-bright-future-4-her-4440414231&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw01v-_QyBzEI4h5wANp6kww",
@@ -379,7 +619,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-jobs-remote-part-time-beginner-friendly-start-asap-at-techniques-science-sant%25C3%25A9-4442647569&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2GplbiZ0poUQWV7z91u_gL",
@@ -399,7 +639,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149547-site-reliability-engineer",
@@ -419,7 +659,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149538-golang-engineer-2",
@@ -439,7 +679,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
@@ -459,7 +699,7 @@
       "days_since_posted": 7,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149565-ubuntu-security-engineer",
@@ -479,7 +719,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/cresta/jobs/5113850008",
@@ -499,7 +739,7 @@
       "days_since_posted": 12,
       "freshness": "",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149532-sustaining-operations-engineer",
@@ -519,7 +759,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.lever.co/toptal/f9337467-a05e-49cd-9053-1e8a31586271",
@@ -539,7 +779,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-project-coordinator-at-remotehunter-4442692768&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3xXa_L-mqQLvRdDSUuvtVi",
@@ -559,7 +799,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149580-hebrew-freelance-translator-copy-editor-product-support-marketing-content",
@@ -579,7 +819,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/appetiser-apps/jobs/product-designer-ui-ux",
@@ -599,7 +839,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8026619",
@@ -619,7 +859,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/plaid/5fc0bf62-9e80-4bbe-82f4-7fdf5461deb9",
@@ -639,7 +879,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/gusto-inc-business-money-engineering",
@@ -659,7 +899,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/forex-crypto-trader-entry-level-at-sundayy-4443350413&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2I7OQq-q9TUoph5bosKxtm",
@@ -679,7 +919,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-commercial-underwriter-west-coast",
@@ -699,7 +939,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7627768",
@@ -719,7 +959,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/voids-technology-gmbh/forward-deployed-engineer-integrations-customer-success-hamburg-98920",
@@ -739,7 +979,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149600-software-engineer-2",
@@ -759,7 +999,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149533-ubuntu-linux-kernel-engineer-silicon-enablement",
@@ -779,7 +1019,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/supportyourapp-native-danish-customer-support-consultant-remotely",
@@ -799,7 +1039,7 @@
       "days_since_posted": 21,
       "freshness": "",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8051057",
@@ -819,7 +1059,7 @@
       "days_since_posted": 4,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149184-forward-deployed-engineer-ai-creative-transformation-marketing",
@@ -839,7 +1079,7 @@
       "days_since_posted": 10,
       "freshness": "",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-pega-developer-trainee-at-thunderyard-solutions-4441004856&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1k_qEuokbYELA8tcA9Zk2r",
@@ -859,7 +1099,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/clera/jobs/forward-deployed-engineer",
@@ -879,7 +1119,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7779929003",
@@ -899,7 +1139,7 @@
       "days_since_posted": 25,
       "freshness": "",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149555-graduate-sales-development-representative",
@@ -919,7 +1159,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-cuchiara-company-4442744915&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3TOsgJz4rx93sVeSptp_X_",
@@ -939,7 +1179,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149597-vice-president-software-engineering",
@@ -959,7 +1199,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/openai/04435c05-7a05-4802-894d-c173327fbac8",
@@ -979,7 +1219,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-representative-entry-level-at-kensington-partners-group-4443128218&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw37Sj2U0ryb82k8omhw2D5-",
@@ -999,7 +1239,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8562593002",
@@ -1019,7 +1259,7 @@
       "days_since_posted": 6,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/yiyienglish/jobs/teach-english-from-home-with-yiyi-english-4260208611",
@@ -1039,7 +1279,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://boards.greenhouse.io/figma/jobs/6105678004?gh_jid=6105678004",
@@ -1059,7 +1299,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://t.co/7unKKYdGWM&ct=ga&cd=CAIyHGVhNWZjNmExYzY5ZDU5MTA6Y29tOmZyOlVTOkw&usg=AOvVaw075CN26YiWWLNxIxamo94y",
@@ -12342,8 +12582,8 @@
       "is_new": false
     }
   ],
-  "count": 617,
-  "keepers": 97,
-  "fresh": 332,
-  "new_today": 53
+  "count": 629,
+  "keepers": 99,
+  "fresh": 340,
+  "new_today": 12
 }
