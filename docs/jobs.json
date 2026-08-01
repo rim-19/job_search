@@ -1,6 +1,246 @@
 {
-  "generated": "2026-07-31",
+  "generated": "2026-08-01",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/fioneer/remote-ai-platform-engineer-germany-51162",
+      "title": "AI Platform Engineer (m/f/d)",
+      "company": "Fioneer",
+      "location": "Germany (remote)",
+      "link": "https://www.arbeitnow.com/jobs/companies/fioneer/remote-ai-platform-engineer-germany-51162",
+      "score": 8,
+      "reason": "The role is a junior-friendly, fully remote AI Platform Engineer position with matching tech stack in a region she can work.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-01",
+      "source": "Arbeitnow",
+      "summary": "This role is for an AI Platform Engineer to design, build, and operate cloud platforms for enterprise-grade AI solutions using modern cloud-native technologies. The main responsibilities include developing containerized applications, driving production readiness, and collaborating with AI Engineers. The position is fully remote, based in Germany, but allows remote work, which fits the candidate's location and work preferences.",
+      "date_posted": "1785530451",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-01",
+      "is_new": true
+    },
+    {
+      "url": "https://himalayas.app/companies/micro1/jobs/productivity-software-expert",
+      "title": "Productivity Software Expert",
+      "company": "name",
+      "location": "Worldwide",
+      "link": "https://himalayas.app/companies/micro1/jobs/productivity-software-expert",
+      "score": 8,
+      "reason": "The role is fully remote and worldwide, but the tech stack doesn't perfectly match the candidate's skills.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-01",
+      "source": "Himalayas",
+      "summary": "This is a remote Productivity Software Expert role that involves working on a dynamic project, utilizing productivity tools like MS Office, Google Drive, and Notion. The main responsibilities include delivering high-quality written content, participating in discussions, and coordinating project activities. The role is fully remote and open to candidates worldwide.",
+      "date_posted": "1785537609",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-01",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://pe.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4431682592%3FrefId%3Dx%252BKv9bLjpx5r%252BOBQGeI6%252BA%253D%253D%26trackingId%3DsCRR0swBwzxhSGe4DE89%252FQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2AWN5FxOUcSppttRXw7pqV",
+      "title": "Entry Level Software Developer ( Remote ) - Hire Feed - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://pe.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4431682592%3FrefId%3Dx%252BKv9bLjpx5r%252BOBQGeI6%252BA%253D%253D%26trackingId%3DsCRR0swBwzxhSGe4DE89%252FQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2AWN5FxOUcSppttRXw7pqV",
+      "score": 7,
+      "reason": "This role is a good fit as it's entry-level and remote, but the primary tech stack (Java Spring Boot) is not explicitly listed as a strong skill for the candidate, though she has Java listed.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-01",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level remote Software Developer position focusing on Java Spring Boot. The company is BairesDev, and the role is listed on LinkedIn. While the role is remote, the primary technology mentioned is Java Spring Boot, which is not a primary skill listed on the candidate's CV.",
+      "date_posted": "2026-07-31T01:06:32Z",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-01",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/agentur-philipp-gmbh/machine-learning-engineer-dingolfing-478273",
+      "title": "Machine Learning Engineer (m/w/d)",
+      "company": "Agentur Philipp GmbH",
+      "location": "Dingolfing",
+      "link": "https://www.arbeitnow.com/jobs/companies/agentur-philipp-gmbh/machine-learning-engineer-dingolfing-478273",
+      "score": 7,
+      "reason": "This role is a strong technical and remote fit, but the location is ambiguous as it's listed as 'Dingolfing' which implies onsite in Germany, though the description doesn't explicitly state it's not remote.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-01",
+      "source": "Arbeitnow",
+      "summary": "This Machine Learning Engineer role focuses on taking ML/AI systems from prototype to production, including computer vision, RAG/LLM systems, and Python services. While the listing is in German and mentions 'Dingolfing', it doesn't explicitly state it's not remote, making it a potential fit for a fully remote contractor. Key technologies include Python, PyTorch/TensorFlow, OpenCV, YOLO, OCR, and FastAPI.",
+      "date_posted": "1785513637",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-01",
+      "is_new": true
+    },
+    {
+      "url": "https://weworkremotely.com/remote-jobs/superplane-product-engineer-1",
+      "title": "Product Engineer",
+      "company": "SuperPlane",
+      "location": "Anywhere in the World",
+      "link": "https://weworkremotely.com/remote-jobs/superplane-product-engineer-1",
+      "score": 4,
+      "reason": "The role is not a junior-friendly position and requires mid-level to senior level experience.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-01",
+      "source": "WeWorkRemotely (Full-Stack)",
+      "summary": "This is a remote Product Engineer role at SuperPlane, working on full-stack projects with technologies like React and TypeScript. The company is looking for someone with experience shipping real products and working independently. The role is fully remote, but the company is looking for a mid-level to senior level candidate, which may not be a good fit for a junior developer.",
+      "date_posted": "Fri, 31 Jul 2026 13:30:28 +0000",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-01",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/lovable/722d4ea3-9aa7-460f-802e-ae1ec31170f4",
+      "title": "Software Engineer, Platform (Enterprise)",
+      "company": "Lovable",
+      "location": "London",
+      "link": "https://jobs.ashbyhq.com/lovable/722d4ea3-9aa7-460f-802e-ae1ec31170f4",
+      "score": 4,
+      "reason": "The role is not a junior-friendly position and requires experience with specific technologies not mentioned in the candidate's profile.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-01",
+      "source": "Lovable (careers)",
+      "summary": "This is a software engineer position for building platform infrastructure, requiring experience with cloud infrastructure and programming languages like Go, Rust, or Java. The role is based in London, but it's unclear if remote work is allowed. The company is looking for someone to build systems for enterprise deployments across major cloud providers.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-08-01",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-specialist-entry-level-at-jobright-ai-4446959314&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0b6_mDKUowPbU0zKaDrzD3",
+      "title": "Jobright.ai hiring Data Entry Specialist, Entry Level in United States | LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-specialist-entry-level-at-jobright-ai-4446959314&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0b6_mDKUowPbU0zKaDrzD3",
+      "score": 3,
+      "reason": "The job listing is not a strong tech fit and may require US location or work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-01",
+      "source": "Google Alert 8",
+      "summary": "The role is a Data Entry Specialist position, focusing on maintaining accurate data, and is listed as remote but based in the United States. The main responsibilities involve data entry and processing. The location scope is unclear but may be limited to the US, which could exclude the candidate.",
+      "date_posted": "2026-07-31T14:41:22Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-01",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/149839-fluent-english-french-customer-support-consultant-hospitality-2",
+      "title": "(fluent English & French) Customer Support Consultant, hospitality",
+      "company": "SupportYourApp",
+      "location": "Anywhere",
+      "link": "https://jobicy.com/jobs/149839-fluent-english-french-customer-support-consultant-hospitality-2",
+      "score": 2,
+      "reason": "The role is not a tech/development position and does not match the candidate's skills and experience.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-01",
+      "source": "Jobicy",
+      "summary": "This is a Customer Support Consultant role with a focus on hospitality, requiring fluent English and French, with responsibilities including customer support and guest communication. The role is fully remote and open to anywhere, but the tech stack and responsibilities do not align with the candidate's background. The company uses internal tools such as Hostaway, Duve, Turno, and AppSheet to manage reservations and guest information.",
+      "date_posted": "2026-07-30T11:52:34+00:00",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-01",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/ashby/51061458-3a38-4bea-84f4-7ea0ac3e417f",
+      "title": "Product Support Specialist - EMEA",
+      "company": "Ashby",
+      "location": "United Kingdom",
+      "link": "https://jobs.ashbyhq.com/ashby/51061458-3a38-4bea-84f4-7ea0ac3e417f",
+      "score": 2,
+      "reason": "The role is not a technical development position and requires specific product support experience.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-01",
+      "source": "Ashby (careers)",
+      "summary": "This is a Product Support Specialist role at Ashby, requiring troubleshooting and technical support for a SaaS product, with a focus on customer communication and issue resolution. The role is based in the United Kingdom and follows a non-standard schedule. The position does not appear to be a good technical fit for the candidate's development skills.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-08-01",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/149852-customer-service-coordinator",
+      "title": "Customer Service Coordinator",
+      "company": "Guidewire Software",
+      "location": "Canada",
+      "link": "https://jobicy.com/jobs/149852-customer-service-coordinator",
+      "score": 2,
+      "reason": "The role is not a technical position and excludes her location due to requiring Canada location",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-01",
+      "source": "Jobicy",
+      "summary": "This role is a Customer Service Coordinator at Guidewire Software, focusing on project management and customer advocacy with no specific technical skills mentioned. The position is based in Canada, which may require specific work authorization. The role does not seem to be fully remote or a good technical fit for the candidate.",
+      "date_posted": "2026-07-30T11:52:56+00:00",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-01",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/entry-level-software-develope-australia-only-at-gardening-with-us-4445044643&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2PZZuNAtLypwK-y0nDMB3T",
+      "title": "Gardening With Us hiring ENTRY LEVEL SOFTWARE DEVELOPE -Australia Only in ...",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/entry-level-software-develope-australia-only-at-gardening-with-us-4445044643&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2PZZuNAtLypwK-y0nDMB3T",
+      "score": 1,
+      "reason": "The role is restricted to Australia only, excluding the candidate's location.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-01",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level software developer role at Gardening With Us, working remotely in Australia. The job requires software development skills, but the location is restricted to Australia. The role is not a fit for the candidate due to the location restriction.",
+      "date_posted": "2026-07-31T03:57:06Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-01",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/149871-travel-consultant-german-amadeus",
+      "title": "Travel Consultant (German & Amadeus)",
+      "company": "BCD Travel",
+      "location": "Europe,  Poland",
+      "link": "https://jobicy.com/jobs/149871-travel-consultant-german-amadeus",
+      "score": 1,
+      "reason": "The role is not a tech position and requires onsite work in certain locations.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-01",
+      "source": "Jobicy",
+      "summary": "This is a Travel Consultant role with BCD Travel, requiring travel agent experience and Amadeus GDS skills, with a hybrid remote setup that includes in-office work in certain locations in Europe. The role involves communicating with clients and managing travel reservations. It is not a fully remote position and does not match the candidate's tech skills.",
+      "date_posted": "2026-07-30T14:40:19+00:00",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-01",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/software-engineer-synthetic-monitoring-ireland-remote-17614",
       "title": "Software Engineer - Synthetic Monitoring | Ireland | Remote",
@@ -19,7 +259,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe",
@@ -39,7 +279,7 @@
       "days_since_posted": 9,
       "freshness": "",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
@@ -59,7 +299,7 @@
       "days_since_posted": 23,
       "freshness": "",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/the-marketplace-guys-ug-haftungsbeschrankt/founders-associate-bielefeld-249728",
@@ -79,7 +319,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-llm-engineer-freelancer-monterail-1135638",
@@ -99,7 +339,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/software-engineer-synthetic-monitoring-sweden-remote-31516",
@@ -119,7 +359,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/software-engineer-synthetic-monitoring-spain-remote-26581",
@@ -139,7 +379,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/software-engineer-synthetic-monitoring-germany-remote-441366",
@@ -159,7 +399,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/software-engineer-synthetic-monitoring-uk-remote-435546",
@@ -179,7 +419,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/whiskey-library/jobs/e-commerce-full-stack-developer-4022395983",
@@ -199,7 +439,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-433219",
@@ -219,7 +459,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-native-software-developer-uk-230279",
@@ -239,7 +479,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-essen-492426",
@@ -259,7 +499,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/software-data-engineer-london-333304",
@@ -279,7 +519,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/work-and-study-travel-website-builder-wordpress-specialist",
@@ -299,7 +539,7 @@
       "days_since_posted": 14,
       "freshness": "",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/business-intelligence-analyst-entry-level-healthcare-saas-remote-at-securerx-technologies-inc-4446947869&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0bCpulX3bDfJq4mia5Y88o",
@@ -319,7 +559,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-benefits-representative-coordinator-entry-level-at-globe-ss-partners-at-globe-life-american-income-division-surace-smith-partners-4446795731&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2HUYiGJv9kpnMRWmllIgLk",
@@ -339,7 +579,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7819879003",
@@ -359,7 +599,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-munich-210840",
@@ -379,7 +619,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/ramp/85bb97ba-b1fe-4a3b-be35-df4d40b7455e",
@@ -399,7 +639,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/147974-full-stack-node-js-and-react-engineer",
@@ -419,7 +659,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-intake-specialist-entry-level-start-immediately-at-brussels-sustainable-it-days-4444596994&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3oVcVHSx-Ne0f5UGGFB6np",
@@ -439,7 +679,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/deepgram/d9d5aa44-b675-46e9-b596-45c1c5dca858",
@@ -459,7 +699,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/xm/remote-site-reliability-engineers-sre-402318",
@@ -479,7 +719,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149878-product-owner-2",
@@ -499,7 +739,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/esm-intermediate-web-applications-developer-java-aws-remote",
@@ -519,7 +759,7 @@
       "days_since_posted": 7,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/sierra/0e73be8d-e05f-4c47-aa74-416b2984334c",
@@ -539,7 +779,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/writer/5d63d261-be5e-4d0d-ad66-a42fc9455ada",
@@ -559,7 +799,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/writer/104de3e0-639b-4ff1-95f0-e157d5e85116",
@@ -579,7 +819,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.lever.co/spotify/1e8c984e-fa8e-4dbb-8f74-6f608ae3bfa1",
@@ -599,7 +839,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-project-management-coordinator-arabian-private-holdings-1135692",
@@ -619,7 +859,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/147988-research-scientist-ii",
@@ -639,7 +879,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/junior-it-consultant-essen-276013",
@@ -659,7 +899,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/sentry/554bab60-831e-45b0-9b93-67531b08f020",
@@ -679,7 +919,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/sierra/3437596e-e545-42a9-af82-9947fabf828c",
@@ -699,7 +939,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/atolls/data-engineer-london-350221",
@@ -719,7 +959,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/steady-vision-web-designer",
@@ -739,7 +979,7 @@
       "days_since_posted": 14,
       "freshness": "",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/maven-clinic-content-creative-strategist",
@@ -759,7 +999,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-develope-remote-entry-level-at-everyone-ai-4445055616&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3MYXQbzY52gcbOes4a_ogZ",
@@ -779,7 +1019,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/entry-level-environmental-scientist-gis-specialist-at-geo-enviro-consulting-remediation-4447565103&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw30QQ2JFLjHlTGti2TDoLCy",
@@ -799,7 +1039,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/resend/b4d679e8-f41b-4c59-b091-dc5581345fcb",
@@ -819,7 +1059,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/constellr-gmbh/mission-planning-software-engineer-munich-376211",
@@ -839,7 +1079,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/human-made/jobs/freelance-scrum-master-americas",
@@ -859,7 +1099,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/test-automation-engineer-6678834090",
@@ -879,7 +1119,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/join/backend-engineer-berlin-11307",
@@ -899,7 +1139,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149873-associate-billing-specialist-portugal",
@@ -919,7 +1159,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/hr-support-officer-australia-only-remote-entry-level-at-ha-an-technical-solution-company-limited-4446938963&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Liu3ck0zeZZxPT713OuXG",
@@ -939,7 +1179,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-hospitality-travel-coordinator-entry-level-at-professional-travel-group-4447086575&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2bQdpq2rEV-UH07-V83zV7",
@@ -959,7 +1199,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-service-%25E2%2580%2593-booking-hotels-remote-at-professional-travel-group-4447050292&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3U0d19iOgwMPDSFpHmsF9E",
@@ -979,7 +1219,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-document-control-specialist-at-eurofins-biopharma-product-testing-north-america-4447048236&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw09XyvJbg_RBSUP2b6sd284",
@@ -999,7 +1239,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7812099003",
@@ -1019,7 +1259,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8528922002",
@@ -1039,7 +1279,7 @@
       "days_since_posted": 14,
       "freshness": "",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/health-insurance-advisor-entry-level-remote-at-r-r-healthcare-solutions-4447042139&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0WoEbMJqOEy0FlLCkGD25B",
@@ -1059,7 +1299,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-hr-business-partner-hrbp-entry-level-at-primary-talent-partners-4447097703&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1kwPNoJKhro6jxIOO70xI8",
@@ -1079,7 +1319,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-services-support-advisor-entry-level-at-professional-travel-group-4447078580&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0RBRyF03PkkCelVoFKxd05",
@@ -1099,7 +1339,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/ecopals/mandatory-internship-business-strategy-investor-relations-berlin-174301",
@@ -1119,7 +1359,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/sap-hana-consultant-8148658296",
@@ -1139,7 +1379,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/147983-account-executive-higher-education",
@@ -1159,7 +1399,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/it-support-office-australia-only-remote-entry-level-at-sustainability-times-4445044545&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2c4DZQ1PBo978xxxE0G9D1",
@@ -1179,7 +1419,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149883-instructor-part-time-agile-scrum-master",
@@ -1199,7 +1439,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/ai-cybersecurity-engineer-3913437549",
@@ -1219,7 +1459,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/writer/4c05877a-cb10-4d0e-a05d-430888c43787",
@@ -1239,7 +1479,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.samsara.com/company/careers/roles/7609057?gh_jid=7609057",
@@ -1259,7 +1499,7 @@
       "days_since_posted": 52,
       "freshness": "",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/partspace/remote-enterprise-account-executive-manufacturing-263914",
@@ -1279,7 +1519,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-07-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/backend-engineer-platform-stacks-uk-remote-88951",
@@ -24142,8 +24382,8 @@
       "is_new": false
     }
   ],
-  "count": 1207,
-  "keepers": 182,
-  "fresh": 779,
-  "new_today": 64
+  "count": 1219,
+  "keepers": 186,
+  "fresh": 789,
+  "new_today": 12
 }
