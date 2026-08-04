@@ -45,6 +45,7 @@ HERE = Path(__file__).resolve().parent
 DRAFTS = HERE / "drafts"
 RECRUITERS = HERE / "recruiters.csv"
 JOB_CONTEXT = HERE / "job_context.txt"
+TEMPLATE = HERE / "template.txt"       # if present, used verbatim instead of AI
 CONFIG = HERE / "config.yaml"
 SENT_LOG = HERE / "sent_log.csv"
 CV = ROOT / "config" / "cv.txt"
@@ -171,29 +172,53 @@ def _safe(name: str) -> str:
     return re.sub(r"[^a-z0-9]+", "_", name.lower()).strip("_")[:40]
 
 
+def _first_name(rec: dict) -> str:
+    name = (rec.get("name") or "").strip()
+    return name.split()[0] if name else "there"
+
+
+def render_template(text: str, rec: dict) -> str:
+    """Fill a fixed template's {first_name}/{name}/{company}/{role} placeholders."""
+    return (text
+            .replace("{first_name}", _first_name(rec))
+            .replace("{name}", rec.get("name") or "")
+            .replace("{company}", rec.get("company") or "")
+            .replace("{role}", rec.get("role") or ""))
+
+
 def cmd_draft(_args) -> None:
     cfg = load_config()
-    cv = CV.read_text(encoding="utf-8") if CV.exists() else ""
-    context = JOB_CONTEXT.read_text(encoding="utf-8") if JOB_CONTEXT.exists() else ""
     recruiters = load_recruiters()
     already = load_sent()
     DRAFTS.mkdir(exist_ok=True)
-    sig = signature(cfg["sender"])
+
+    template = TEMPLATE.read_text(encoding="utf-8").strip() if TEMPLATE.exists() else None
+    if template:
+        print("Using fixed template (outreach/template.txt) — same email for all, "
+              "only the name changes. No AI generation.")
+        cv = context = ""
+        sig = ""
+    else:
+        cv = CV.read_text(encoding="utf-8") if CV.exists() else ""
+        context = JOB_CONTEXT.read_text(encoding="utf-8") if JOB_CONTEXT.exists() else ""
+        sig = signature(cfg["sender"])
 
     made = skipped = 0
     for i, rec in enumerate(recruiters, 1):
         if rec["email"].lower() in already:
             skipped += 1
             continue
-        print(f"[{i}/{len(recruiters)}] drafting for {rec['email']} ...")
-        d = draft_email(rec, cv, context, cfg)
-        if not d:
-            continue
+        if template:
+            # Template already contains Subject: ... + body + signature.
+            content = f"To: {rec['email']}\n{render_template(template, rec)}\n"
+        else:
+            print(f"[{i}/{len(recruiters)}] drafting for {rec['email']} ...")
+            d = draft_email(rec, cv, context, cfg)
+            if not d:
+                continue
+            content = f"To: {rec['email']}\nSubject: {d['subject']}\n\n{d['body']}\n\n{sig}\n"
         path = DRAFTS / f"{i:03d}_{_safe(rec['email'])}.txt"
-        path.write_text(
-            f"To: {rec['email']}\nSubject: {d['subject']}\n\n{d['body']}\n\n{sig}\n",
-            encoding="utf-8",
-        )
+        path.write_text(content, encoding="utf-8")
         made += 1
 
     print(f"\nDrafted {made} email(s) into {DRAFTS}"
@@ -230,16 +255,40 @@ def _smtp_login():
     return server, email
 
 
+def _load_attachments(send_cfg: dict) -> list[Path]:
+    paths = []
+    for a in (send_cfg.get("attachments") or []):
+        p = Path(a)
+        if not p.is_absolute():
+            p = ROOT / a
+        if p.exists():
+            paths.append(p)
+        else:
+            print(f"  ! attachment not found (skipping): {p}")
+    return paths
+
+
+def _attach(msg: EmailMessage, paths: list[Path]) -> None:
+    import mimetypes
+    for p in paths:
+        ctype, _ = mimetypes.guess_type(str(p))
+        maintype, subtype = (ctype.split("/", 1) if ctype else ("application", "octet-stream"))
+        msg.add_attachment(p.read_bytes(), maintype=maintype, subtype=subtype, filename=p.name)
+
+
 def cmd_send(args) -> None:
     cfg = load_config()
     sender = cfg["sender"]
     send_cfg = cfg.get("sending", {})
     max_per_run = int(send_cfg.get("max_per_run", 15))
     delay = float(send_cfg.get("delay_seconds", 25))
+    attachments = _load_attachments(send_cfg)
 
     drafts = sorted(DRAFTS.glob("*.txt")) if DRAFTS.exists() else []
     if not drafts:
         sys.exit("No drafts found. Run 'draft' first.")
+    if attachments:
+        print(f"Attaching to every email: {', '.join(p.name for p in attachments)}")
 
     already = load_sent()
     from_hdr = f"{sender.get('name','')} <{os.getenv('SMTP_EMAIL','')}>"
@@ -262,6 +311,8 @@ def cmd_send(args) -> None:
             print("\n" + "=" * 66)
             print(f"To:      {d['to']}")
             print(f"Subject: {d['subject']}")
+            if attachments:
+                print(f"Attach:  {', '.join(p.name for p in attachments)}")
             print("-" * 66)
             print(d["body"])
             print("=" * 66)
@@ -287,6 +338,7 @@ def cmd_send(args) -> None:
             if sender.get("email"):
                 msg["Reply-To"] = sender["email"]
             msg.set_content(d["body"])
+            _attach(msg, attachments)
 
             try:
                 server.send_message(msg)

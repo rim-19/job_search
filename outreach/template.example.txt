@@ -1,0 +1,24 @@
+Subject: <your subject line>
+
+Hi {first_name},
+
+Write your fixed outreach email here. It is sent to every recruiter in
+recruiters.csv with ONLY the placeholders swapped in — no AI rewriting — so you
+control the exact wording.
+
+Placeholders you can use:
+  {first_name}  -> recruiter's first name (or "there" if unknown)
+  {name}        -> full name
+  {company}     -> company
+  {role}        -> role
+
+Include your links and mention the attachment (set in config.yaml > sending.attachments):
+- LinkedIn: ...
+- Portfolio: ...
+
+Best regards,
+Your Name
+City, Country • you@email.com • +phone
+
+# To use: copy this file to `template.txt` and edit it. When template.txt exists,
+# `draft` uses it verbatim instead of AI-generating a different email per recruiter.

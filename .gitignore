@@ -18,8 +18,10 @@ Thumbs.db
 # Playwright browser cache (installed in CI each run)
 # NOTE: data/jobs.db is intentionally NOT ignored — it is the committed source of truth.
 
-# Outreach — keep recruiter emails, drafts, and the sent-log private.
+# Outreach — keep recruiter emails, drafts, resume, and the sent-log private.
 outreach/recruiters.csv
+outreach/template.txt
 outreach/drafts/
+outreach/attachments/
 outreach/sent_log.csv
 outreach/*.sent
