@@ -1,6 +1,246 @@
 {
-  "generated": "2026-08-04",
+  "generated": "2026-08-05",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/ai-engineer-entry-level-at-jobright-ai-4447998791&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3gJtxnucSZVX66rV-rbKbR",
+      "title": "Jobright.ai hiring AI Engineer, Entry Level in United States | LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/ai-engineer-entry-level-at-jobright-ai-4447998791&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3gJtxnucSZVX66rV-rbKbR",
+      "score": 8,
+      "reason": "The role is junior-friendly, fully remote, and has a partial tech match.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-05",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level AI Engineer role at Jobright.ai, focusing on Python and Go development. The position is fully remote and seems to have a global scope. The main responsibility is to work on the Buyers Edge Platform as a Remote Technology Associate.",
+      "date_posted": "2026-08-03T16:14:10Z",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-05",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/engflow/release-engineer-germany-58920",
+      "title": "Release Engineer",
+      "company": "Engflow",
+      "location": "Germany",
+      "link": "https://www.arbeitnow.com/jobs/companies/engflow/release-engineer-germany-58920",
+      "score": 8,
+      "reason": "The role is junior-friendly, fully remote, and located in EMEA, which overlaps with the candidate's timezone.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-05",
+      "source": "Arbeitnow",
+      "summary": "This is a Release Engineer role at EngFlow, responsible for owning the full release lifecycle of their remote execution platform, with a focus on reliability and operational discipline. The role is fully remote, with a location scope of EMEA, and involves working with a range of engineers and technologies. The company uses technologies such as Bazel and operates at AI scale, with a focus on build management and test infrastructure.",
+      "date_posted": "1785886805",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-05",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/data-science-london-154917",
+      "title": "Data Science",
+      "company": "Axle Careers",
+      "location": "London",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/data-science-london-154917",
+      "score": 4,
+      "reason": "The role is not explicitly junior-friendly and the location is listed as London, which may imply a need for UK work authorization or timezone overlap.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-05",
+      "source": "Arbeitnow",
+      "summary": "This is a Data Science role at Axle Careers, involving building and deploying models, working with energy markets and time-series data, and using Python and Docker. The role is based in London, but it's unclear if remote work is allowed. The company uses a tech stack including Python, React, and Docker, with a focus on AI and scalability.",
+      "date_posted": "1785891620",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-05",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/vrey/full-stack-software-engineer-ruby-on-rails-at-solar-startup-berlin-173940",
+      "title": "Full-Stack Software Engineer, Ruby on Rails (m/f/d) at Solar Startup",
+      "company": "VREY",
+      "location": "Berlin HQ",
+      "link": "https://www.arbeitnow.com/jobs/companies/vrey/full-stack-software-engineer-ruby-on-rails-at-solar-startup-berlin-173940",
+      "score": 2,
+      "reason": "The role requires 2+ years of professional experience, which is beyond the candidate's junior/entry-level status, and the location is explicitly tied to Berlin HQ, making it not fully remote.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-05",
+      "source": "Arbeitnow",
+      "summary": "This is a Full-Stack Software Engineer role focused on Ruby on Rails for a solar startup in Berlin. The position requires over 2 years of professional experience in full-stack web application development and is based at their Berlin HQ, implying an onsite or hybrid requirement.",
+      "date_posted": "1785886822",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-05",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/vrey/full-stack-product-engineer-ruby-on-rails-at-solar-startup-berlin-397612",
+      "title": "Full-Stack Product Engineer, Ruby on Rails (m/f/d) at Solar Startup",
+      "company": "VREY",
+      "location": "Berlin HQ",
+      "link": "https://www.arbeitnow.com/jobs/companies/vrey/full-stack-product-engineer-ruby-on-rails-at-solar-startup-berlin-397612",
+      "score": 2,
+      "reason": "This role requires 2+ years of experience and is based in Berlin HQ, making it unsuitable for a junior candidate seeking a fully remote position.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-05",
+      "source": "Arbeitnow",
+      "summary": "This is a Full-Stack Product Engineer role at a solar startup in Berlin, focusing on building web applications with Ruby on Rails. The position requires 2+ years of professional experience and is based at their headquarters in Berlin.",
+      "date_posted": "1785886822",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-05",
+      "is_new": true
+    },
+    {
+      "url": "https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
+      "title": "AI-Assisted Software Engineer, Web Applications",
+      "company": "LMG Staffing Solutions",
+      "location": "Medellin",
+      "link": "https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
+      "score": 2,
+      "reason": "The role is located in Medellin, Colombia, which is outside the candidate's acceptable remote work regions and likely requires local work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-05",
+      "source": "WeWorkRemotely (Full-Stack)",
+      "summary": "This role is for an AI-Assisted Software Engineer focusing on web applications, using Next.js for the front end and Django for the back end. You will integrate AI tools to accelerate development and build clean, scalable solutions. The role is based in Medellin, Colombia.",
+      "date_posted": "Tue, 04 Aug 2026 22:12:17 +0000",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-05",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-italian-speaker-cfo-insights-london-18339",
+      "title": "Management Graduate Program Intake (Italian speaker) CFO Insights",
+      "company": "Cfoinsights",
+      "location": "London",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-italian-speaker-cfo-insights-london-18339",
+      "score": 2,
+      "reason": "The role is not remote and requires physical presence in London.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-05",
+      "source": "Arbeitnow",
+      "summary": "This is a 4-month paid internship program in London, focusing on management and CFO insights, with responsibilities including building and scaling companies. The role requires Italian language skills and is based in London. It is not a remote position and does not match the candidate's requirements for a fully remote role.",
+      "date_posted": "1785891409",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-05",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/graduate-management-associate-at-cfo-insights-london-205124",
+      "title": "Graduate Management Associate at CFO Insights",
+      "company": "Cfoinsights",
+      "location": "London",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/graduate-management-associate-at-cfo-insights-london-205124",
+      "score": 1,
+      "reason": "The role is not remote and requires working in-person in London.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-05",
+      "source": "Arbeitnow",
+      "summary": "This is a Graduate Management Associate role at CFO Insights in London, with no mention of remote work or specific tech responsibilities. The role involves working in-person at the London HQ and taking ownership of a key business area. It is not a remote position and requires physical presence in London.",
+      "date_posted": "1785891409",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-05",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/graduate-associate-program-at-cfo-insights-london-178610",
+      "title": "Graduate Associate Program at CFO Insights",
+      "company": "Cfoinsights",
+      "location": "London",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/graduate-associate-program-at-cfo-insights-london-178610",
+      "score": 1,
+      "reason": "The role is not remote and requires in-person work in London.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-05",
+      "source": "Arbeitnow",
+      "summary": "This is a Graduate Associate role at CFO Insights in London, with responsibilities including operational experience in a start-up, but it requires in-person work and is not remote. The role does not specify the tech stack, but it is focused on finance and business development. The location is London, which is not a good fit for a fully remote candidate.",
+      "date_posted": "1785891409",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-05",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/graduate-conference-production-executive-at-cfo-insights-london-69075",
+      "title": "Graduate Conference Production Executive at CFO Insights",
+      "company": "Cfoinsights",
+      "location": "London",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/graduate-conference-production-executive-at-cfo-insights-london-69075",
+      "score": 1,
+      "reason": "The role is not remote and requires working in-person in London.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-05",
+      "source": "Arbeitnow",
+      "summary": "This is a Graduate Conference Production Executive role at CFO Insights, involving conference production and event management, based in London with no remote work option, and no specific tech stack mentioned.",
+      "date_posted": "1785891409",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-05",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/orbem/expert-hardware-test-engineer-munich-147707",
+      "title": "Expert Hardware Test Engineer (f/m/d)",
+      "company": "Orbem",
+      "location": "Munich",
+      "link": "https://www.arbeitnow.com/jobs/companies/orbem/expert-hardware-test-engineer-munich-147707",
+      "score": 1,
+      "reason": "The role is senior-level and requires onsite presence in Munich.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-05",
+      "source": "Arbeitnow",
+      "summary": "This is a hardware test engineer role at Orbem in Munich, involving designing and executing hardware tests for MRI products. The role requires 5+ years of experience in hardware, reliability, and mechatronics. The position is not remote and is based in Munich, Germany.",
+      "date_posted": "1785877223",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-05",
+      "is_new": true
+    },
+    {
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-designer-haystack-1135900",
+      "title": "Junior Designer",
+      "company": "Haystack",
+      "location": "Ohio, Ohio, United States",
+      "link": "https://remoteOK.com/remote-jobs/remote-junior-designer-haystack-1135900",
+      "score": 1,
+      "reason": "The job listing is for a Junior Designer role that requires a Bachelor's degree in Graphic Design and does not match the candidate's tech stack or job preferences.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-05",
+      "source": "RemoteOK",
+      "summary": "The role is a Junior Designer position at Haystack, focusing on digital design and execution across various platforms. The job requires experience with tools like Figma and Adobe Creative Suite, and is based in Ohio, USA. This is not a remote software development role, and the location and tech do not match the candidate's preferences.",
+      "date_posted": "2026-08-02T01:55:47+00:00",
+      "days_since_posted": 3,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-05",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/netbird/remote-software-engineer-frontend-277207",
       "title": "Software Engineer (Frontend)",
@@ -19,7 +259,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/micro1/jobs/ai-trainer-9049868978",
@@ -39,7 +279,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150131-software-engineer-in-network-infrastructure",
@@ -59,7 +299,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/lupa-pets/product-engineer-london-437411",
@@ -79,7 +319,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote",
@@ -99,7 +339,7 @@
       "days_since_posted": 18,
       "freshness": "",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/augustus/internship-berlin-270668",
@@ -119,7 +359,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/tailscale/remote-software-engineer-ai-enablement-194961",
@@ -139,7 +379,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/replit/2fa2d079-96a5-4d51-8718-04134ed39032",
@@ -159,7 +399,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/munich-electrification/ai-platform-engineer-munich-80479",
@@ -179,7 +419,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/uplane/forward-deployed-engineer-berlin-262638",
@@ -199,7 +439,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/pergolux/marketing-analyst-berlin-89138",
@@ -219,7 +459,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/vrey/full-stack-software-engineer-ruby-on-rails-at-solar-startup-berlin-490930",
@@ -239,7 +479,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/vrey/full-stack-product-engineer-ruby-on-rails-at-solar-startup-berlin-172192",
@@ -259,7 +499,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/co-impact/jobs/internal-systems-engineer-applied-ai",
@@ -279,7 +519,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/algolia/solutions-engineer-italian-speaking-london-352521",
@@ -299,7 +539,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/sereact/internship-teleoperation-data-labeling-stuttgart-140038",
@@ -319,7 +559,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fully-remote-entry-level-travel-booking-at-destination-careers-4446231882&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1NhnwhBktxHOE5LJSnXSIF",
@@ -339,7 +579,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-scandinavian-speaker-united-media-london-262609",
@@ -359,7 +599,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/grid-esports-gmbh/remote-backend-engineer-berlin-296634",
@@ -379,7 +619,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-fully-remote-%252475k-to-%2524150k-at-goldsmith-life-and-legacy-4448315197&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw09Q691CXi3qeHTtYF4ZYL9",
@@ -399,7 +639,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/forward-deployed-engineer-fde-leipzig-48670",
@@ -419,7 +659,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/ai-ml-engineer-all-genders-berlin-23246",
@@ -439,7 +679,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/sosafe/remote-procure-to-pay-specialist-173815",
@@ -459,7 +699,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-potsdam-brandenburg-254850",
@@ -479,7 +719,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-trip-planning-coordinator-entry-level-at-destination-careers-4446209623&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2okESYdS50s2rJfYwnAnIQ",
@@ -499,7 +739,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/ideals/business-development-associate-london-london-united-kingdom-283079",
@@ -519,7 +759,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/the-ohio-state-university/jobs/clinical-research-coordinator-supportive-care-comprehensive-cancer-center",
@@ -539,7 +779,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/graduate-management-associate-at-united-media-london-157508",
@@ -559,7 +799,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-at-united-media-london-375951",
@@ -579,7 +819,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-spanish-speaker-united-media-london-377377",
@@ -599,7 +839,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/graduate-conference-production-executive-at-united-media-london-111226",
@@ -619,7 +859,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-itinerary-coordinator-entry-level-at-destination-careers-4446212552&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0xEMhU6haev9CjxMk2dA1k",
@@ -639,7 +879,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150105-customer-service-associate-bilingual-spanish",
@@ -659,7 +899,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/graduate-management-associate-at-retail-insights-london-144701",
@@ -679,7 +919,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/graduate-associate-program-at-retail-insights-london-196880",
@@ -699,7 +939,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/graduate-associate-content-at-retail-insights-london-70847",
@@ -719,7 +959,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-associate-%25E2%2580%2593-remote-at-the-hunt-agency-inc-4447994954%3FrefId%3DFjdBqaSG87W9LVEJlthtpQ%253D%253D%26trackingId%3Drs4xR3lNkPhDVyeP2tOEUw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1cFf7FqxCK5Sjs9ZUIktgw",
@@ -739,7 +979,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/founder-associate-mba-graduate-london-309277",
@@ -759,7 +999,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/management-graduate-program-at-retail-insights-london-132102",
@@ -779,7 +1019,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/management-graduate-program-intake-spanish-speaker-retail-insights-london-155061",
@@ -799,7 +1039,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/management-graduate-program-intake-scandinavian-speaker-retail-insights-london-386257",
@@ -819,7 +1059,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/management-graduate-program-intake-italian-speaker-retail-insights-london-54940",
@@ -839,7 +1079,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/management-graduate-program-intake-german-speaker-retail-insights-london-495052",
@@ -859,7 +1099,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/management-graduate-program-intake-french-speaker-retail-insights-london-52764",
@@ -879,7 +1119,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/management-graduate-program-intake-danish-speaker-retail-insights-london-434089",
@@ -899,7 +1139,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/graduate-head-hunter-at-retail-insights-london-106708",
@@ -919,7 +1159,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/hr-support-officer-australia-only-remote-entry-level-at-ps-consultancy-4448250944&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2RuBpPDpSiVB-utDC-6S2d",
@@ -939,7 +1179,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8592555002",
@@ -959,7 +1199,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150096-customer-service-specialist-4",
@@ -979,7 +1219,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-full-stack-engineer-250591",
@@ -999,7 +1239,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/attio/graduate-associate-operations-london-402495",
@@ -1019,7 +1259,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/qa-analyst-australia-only-remote-entry-level-at-linyi-silk-road-international-trade-co-ltd-4446613124&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1KI8Ro6StCLyo2XQ1A3zpp",
@@ -1039,7 +1279,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-service-travel-coordinator-entry-level-at-destination-careers-4446246083&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3QChriPE3DoLwgYbx8h_O9",
@@ -1059,7 +1299,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/founders-associate-berlin-380754",
@@ -1079,7 +1319,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150139-associate-inbound-sales-representative",
@@ -1099,7 +1339,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-08-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/hiring-junior-developer-react-js-node-js-express-js-java-%2540aulnova-techsoft-at-aulnova-techsoft-ind-private-limited-4446229212&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3n9zTqtjeTDhrTEnzs_5zR",
@@ -29062,8 +29302,8 @@
       "is_new": false
     }
   ],
-  "count": 1453,
-  "keepers": 224,
-  "fresh": 993,
-  "new_today": 55
+  "count": 1465,
+  "keepers": 226,
+  "fresh": 1005,
+  "new_today": 12
 }
