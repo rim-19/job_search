@@ -1,6 +1,566 @@
 {
-  "generated": "2026-08-06",
+  "generated": "2026-08-07",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-full-stack-frontend-engineer-169326",
+      "title": "Full Stack Frontend Engineer",
+      "company": "Clera",
+      "location": "remote",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-full-stack-frontend-engineer-169326",
+      "score": 9,
+      "reason": "This is a strong match as it's a fully remote junior-level role with a tech stack that aligns well with the candidate's skills, and the location is open worldwide.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Arbeitnow",
+      "summary": "This is a fully remote Full Stack Frontend Engineer role at Clera, an AI-powered SaaS company. You will own frontend development for AI-powered web applications, working with React, TypeScript, and Next.js. The role is open to worldwide remote candidates.",
+      "date_posted": "1786052409",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sevenroomsuk/software-engineer-backend-208406",
+      "title": "Software Engineer, Backend",
+      "company": "Sevenroomsuk",
+      "location": "",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/sevenroomsuk/software-engineer-backend-208406",
+      "score": 8,
+      "reason": "The role is junior-friendly, fully remote, and matches the candidate's tech stack.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Arbeitnow",
+      "summary": "This is a fully remote backend software engineer role at SevenRooms, working with Python, Typescript, and ReactJS to design and develop customer-facing features. The company is open to global talent and is part of the DoorDash team. The role involves partnering with engineers, product managers, and designers to engineer highly performant systems.",
+      "date_posted": "1786053373",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/recraft/junior-machine-learning-engineer-london-253739",
+      "title": "Junior  Machine Learning Engineer",
+      "company": "Recraft",
+      "location": "London, UK",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/recraft/junior-machine-learning-engineer-london-253739",
+      "score": 8,
+      "reason": "The role is junior-friendly, fully remote, and in a region she can work, with matching tech",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Arbeitnow",
+      "summary": "This is a Junior Machine Learning Engineer role at Recraft, involving machine learning model development, data collection, and production deployment, with a focus on AI-driven creative tools. The role is based in London, UK, but appears to be fully remote. The company uses technologies such as machine learning, deep learning, and AI-driven applications.",
+      "date_posted": "1786052408",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-ai-security",
+      "title": "Backend Engineer, AI Security",
+      "company": "Stripe",
+      "location": "Anywhere in the World",
+      "link": "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-ai-security",
+      "score": 8,
+      "reason": "The role is a junior-friendly, fully remote position with matching tech stack and worldwide location scope.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "WeWorkRemotely (Programming)",
+      "summary": "This is a Backend Engineer, AI Security role at Stripe, focusing on building security frameworks and defenses against AI-specific threats. The role is fully remote, with a worldwide location scope, and involves working with AI infrastructure and security primitives. The position is a foundational role, with responsibilities including building security tooling layers and partnering with teams building AI infrastructure and products.",
+      "date_posted": "Wed, 22 Jul 2026 07:01:06 +0000",
+      "days_since_posted": 15,
+      "freshness": "",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8108771",
+      "title": "DevOps Engineer (Observability)",
+      "company": "Twilio",
+      "location": "Remote - Ireland",
+      "link": "https://job-boards.greenhouse.io/twilio/jobs/8108771",
+      "score": 6,
+      "reason": "The role is not a perfect tech fit and has some ambiguity around location and seniority level.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Twilio (careers)",
+      "summary": "This is a DevOps Engineer role at Twilio, focusing on observability and platform engineering, with responsibilities including re-architecting telemetry flows. The role is remote but based in Ireland, which may have some in-person requirements. The company is remote-first but the job description does not explicitly state it is open to global candidates.",
+      "date_posted": "2026-08-06T10:27:25-04:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-full-stack-frontend-engineer-368590",
+      "title": "Full Stack Frontend Engineer",
+      "company": "Clera",
+      "location": "remote",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-full-stack-frontend-engineer-368590",
+      "score": 4,
+      "reason": "The role requires 2+ years of frontend development experience, which exceeds the candidate's junior level.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Arbeitnow",
+      "summary": "The role is for a Full Stack Frontend Engineer at Clera, working on AI-powered web applications with React, TypeScript, and Next.js. The position is fully remote, but requires more experience than the candidate has. The company is building intelligent infrastructure for B2B sales and marketing teams.",
+      "date_posted": "1786041622",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/accountant-at-sigma-pharmaceutical-industries-s-p-i-4448443834&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2MgbML2aIR514r9pqLcBWP",
+      "title": "Sigma Pharmaceutical Industries (S.P.I) hiring [ REMOTE ] Intake Specialist - ENTRY LEVEL",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/accountant-at-sigma-pharmaceutical-industries-s-p-i-4448443834&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2MgbML2aIR514r9pqLcBWP",
+      "score": 4,
+      "reason": "The job listing does not match the candidate's tech stack and is not clearly related to software development.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Google Alert 8",
+      "summary": "This is a remote Intake Specialist role at Sigma Pharmaceutical Industries, with no specified tech stack or responsibilities. The role is entry-level and fully remote, but the industry and job description do not align with the candidate's background in software development. The location is listed as remote, but the company and role details are unclear.",
+      "date_posted": "2026-08-06T19:15:59Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/entry-level-it-helpdesk-technician-remote-canada-at-yelp-4450250789&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0isCfNlSBlX4SAIhAec_7a",
+      "title": "Entry Level IT Helpdesk Technician ( Remote Canada) - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/entry-level-it-helpdesk-technician-remote-canada-at-yelp-4450250789&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0isCfNlSBlX4SAIhAec_7a",
+      "score": 3,
+      "reason": "The role is not a strong tech fit and has a location restriction to Canada.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Google Alert 8",
+      "summary": "The role is an Entry Level IT Helpdesk Technician, focusing on IT support and helpdesk services, and is remote but limited to Canada. The job is based in Toronto, Ontario, and requires working with Canadian time zones. The tech stack is not explicitly mentioned, but it's an IT helpdesk role rather than a software development position.",
+      "date_posted": "2026-08-06T13:49:27Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america",
+      "title": "Data Engineer - Databricks / AWS (Gaming & LiveOps) - Latin America",
+      "company": "Azumo",
+      "location": "Buenos Aires",
+      "link": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america",
+      "score": 3,
+      "reason": "The role is not a good match due to its specific location and tech requirements.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "WeWorkRemotely (Full-Stack)",
+      "summary": "This is a Data Engineer role at Azumo, focusing on building scalable data systems using Databricks and AWS, with a focus on gaming and live operations, and is fully remote but based in Latin America. The main responsibilities include designing and maintaining ETL pipelines and implementing data governance practices. The role requires experience with specific technologies and is not a junior-friendly position in the candidate's region.",
+      "date_posted": "Tue, 04 Aug 2026 22:12:17 +0000",
+      "days_since_posted": 2,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ashby/design-engineer-uk-united-kingdom-460618",
+      "title": "Design Engineer - UK",
+      "company": "Ashby",
+      "location": "United Kingdom",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/ashby/design-engineer-uk-united-kingdom-460618",
+      "score": 2,
+      "reason": "The role is not fully remote and is restricted to the United Kingdom, excluding the candidate's location.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Arbeitnow",
+      "summary": "This is a Design Engineer role at Ashby, requiring both design and coding skills, with a focus on frontend engineering and design system development. The role is based in the United Kingdom and is not fully remote. The company is looking for someone to work on challenging design problems and collaborate with product engineers.",
+      "date_posted": "1786041612",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/software-engineer-ai-governance-united-kingdom-490614",
+      "title": "Software Engineer (AI Governance)",
+      "company": "Coder",
+      "location": "United Kingdom",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/coder/software-engineer-ai-governance-united-kingdom-490614",
+      "score": 2,
+      "reason": "The role requires 3+ years of full-stack experience, which exceeds the candidate's junior level.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Arbeitnow",
+      "summary": "This is a Software Engineer role for AI Governance at Coder, involving full-stack development with technologies like Go, React, and LLM provider APIs. The position is based in the United Kingdom and requires significant experience. The role is not a good fit for a junior developer like Rim Elrhezzal.",
+      "date_posted": "1786052413",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-full-stack-engineer-277955",
+      "title": "Full Stack Engineer",
+      "company": "Clera",
+      "location": "remote",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-full-stack-engineer-277955",
+      "score": 2,
+      "reason": "The role requires 3-7+ years of engineering experience, which is senior-level and exceeds the candidate's junior/entry-level experience.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Arbeitnow",
+      "summary": "The role is for a Full Stack Engineer at a fintech startup, working with Node.js, iOS, and AWS infrastructure. The position requires leading investigations into complex production issues and improving backend service reliability. The role is remote, but the company is based in New York City and the job requires experience that exceeds the candidate's current level.",
+      "date_posted": "1786041622",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-product-engineer-196759",
+      "title": "Founding Product Engineer",
+      "company": "Clera",
+      "location": "remote",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-product-engineer-196759",
+      "score": 2,
+      "reason": "The role is senior-level and requires demonstrated experience leading significant technical initiatives.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Arbeitnow",
+      "summary": "This is a Founding Product Engineer role at a healthtech startup, requiring strong hands-on experience with React and Next.js, and involving ownership of clinician-facing product experience end-to-end. The role is fully remote, but seems to require senior-level experience. The company is building an operating system for independent clinical practices, and the engineer will work closely with founders, designers, and clinicians.",
+      "date_posted": "1786052409",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/145054-software-engineer-net-f-m-d",
+      "title": "Software Engineer (.NET) (f/m/d)",
+      "company": "Apaleo",
+      "location": "Germany",
+      "link": "https://jobicy.com/jobs/145054-software-engineer-net-f-m-d",
+      "score": 2,
+      "reason": "The role is mid-level and requires specific .NET/C# experience, which is not a strong match for the candidate's skills and junior-level preference.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Jobicy",
+      "summary": "This is a mid-level software engineer role at Apaleo, focusing on .NET backend development, and is based in Germany, which may not be a good fit for a junior developer looking for a fully remote role with a different tech stack.",
+      "date_posted": "2026-08-05T06:40:09+00:00",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america",
+      "title": "Java Engineer - Latin America",
+      "company": "Azumo",
+      "location": "Anywhere in the World",
+      "link": "https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america",
+      "score": 2,
+      "reason": "The role is senior-level and requires 4+ years of experience, which does not match the candidate's junior profile.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "WeWorkRemotely (Full-Stack)",
+      "summary": "This is a Java Engineer role at Azumo, focusing on designing and developing scalable backend infrastructure using enterprise class frameworks. The position is fully remote but limited to candidates based in Latin America. The company is looking for candidates with 4+ years of experience in Java and enterprise class frameworks.",
+      "date_posted": "Tue, 04 Aug 2026 22:12:17 +0000",
+      "days_since_posted": 2,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-hotel-reservationist-entry-level-at-professional-travel-group-4449642550&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3U4nO_Flp77LH_thpzk5Dt",
+      "title": "Professional Travel Group hiring Remote | Hotel Reservationist | Entry Level in California ...",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-hotel-reservationist-entry-level-at-professional-travel-group-4449642550&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3U4nO_Flp77LH_thpzk5Dt",
+      "score": 2,
+      "reason": "The role is not a tech position and excludes her location due to being US-timezone-locked",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Google Alert 8",
+      "summary": "The role is a Hotel Reservationist position based in California, USA, with no specific tech requirements mentioned. The job is fully remote but seems to require working in US time zones. This role does not match the candidate's tech skills or preferred location.",
+      "date_posted": "2026-08-05T17:19:20Z",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.samsara.com/company/careers/roles/7624120?gh_jid=7624120",
+      "title": "Associate Sales Engineer, SE Desk (French Bilingual)",
+      "company": "Samsara",
+      "location": "Remote - US",
+      "link": "https://www.samsara.com/company/careers/roles/7624120?gh_jid=7624120",
+      "score": 2,
+      "reason": "The role is not a technical fit and excludes her location due to US location restriction",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Samsara (careers)",
+      "summary": "This is an Associate Sales Engineer role at Samsara, focusing on sales and customer engagement with IoT technology. The main responsibilities include conversations around logistics and system integration. The role is remote but limited to the US, which does not match the candidate's location or technical skills.",
+      "date_posted": "2026-08-06T11:35:06-04:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7822387003",
+      "title": "Machine Learning Engineer II (Underwriting ML)",
+      "company": "Affirm",
+      "location": "Remote US",
+      "link": "https://job-boards.greenhouse.io/affirm/jobs/7822387003",
+      "score": 2,
+      "reason": "The role is not a junior position and requires 2+ years of experience, excluding the candidate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Affirm (careers)",
+      "summary": "This is a Machine Learning Engineer II role at Affirm, focusing on building and improving machine learning systems for underwriting, using Python and other technologies. The role is remote but limited to the US. The position requires developing and iterating on underwriting prediction models and collaborating with cross-functional teams.",
+      "date_posted": "2026-08-06T11:29:14-04:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://authenticjobs.com/how-to-build-an-ai-enhanced-portfolio-that-gets-you-hired/",
+      "title": "How to Build an AI-Enhanced Portfolio That Gets You Hired",
+      "company": "Editorial Staff",
+      "location": "Remote",
+      "link": "https://authenticjobs.com/how-to-build-an-ai-enhanced-portfolio-that-gets-you-hired/",
+      "score": 2,
+      "reason": "The job listing does not describe a specific job role or required skills.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Authentic Jobs",
+      "summary": "This is not a job listing, but rather an article about building an AI-enhanced portfolio. The listing does not specify any tech responsibilities or location scope. It appears to be an editorial piece rather than a job opportunity.",
+      "date_posted": "Thu, 19 Jun 2025 13:23:02 +0000",
+      "days_since_posted": 413,
+      "freshness": "",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-marketing-assistant-at-codevertex-operations-4448401156&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw06blZgNzIVutGGYYxiDRpS",
+      "title": "Entry-Level Marketing Assistant - CodeVertex Operations - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-marketing-assistant-at-codevertex-operations-4448401156&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw06blZgNzIVutGGYYxiDRpS",
+      "score": 1,
+      "reason": "The job listing is for a marketing assistant role, which does not match the candidate's technical skills and experience.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level marketing assistant role at CodeVertex Operations, with remote work arrangements, but it does not involve software development or technical responsibilities, and the job description does not mention specific technologies or programming languages.",
+      "date_posted": "2026-08-06T11:09:32Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-travel-scheduling-coordinator-at-professional-travel-group-4449908714&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2S11pCQnEaWDY0UaL6N13d",
+      "title": "Entry Level | Travel Scheduling Coordinator in California, United States - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-travel-scheduling-coordinator-at-professional-travel-group-4449908714&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2S11pCQnEaWDY0UaL6N13d",
+      "score": 1,
+      "reason": "The role is not a tech position and excludes her location due to being US-timezone-locked",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level Travel Scheduling Coordinator role based in California, United States, with remote work options, but it does not match the candidate's tech skills and is limited to the US timezone. The main responsibilities involve travel scheduling and coordination. The role is fully remote but requires working in the US timezone.",
+      "date_posted": "2026-08-06T07:09:46Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/qa-analyst-australia-only-remote-entry-level-at-centro-de-entrepreneurship-udesa-4449991013%3Fposition%3D53%26pageNum%3D0%26refId%3Dwaiabm0QA2EepKOtjIFD5w%253D%253D%26trackingId%3DRcaNMIRyjZunrl1%252BEAhs%252FQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2pf3OBjTfRW4Dda1CXlsFD",
+      "title": "UdeSA hiring QA Analyst - Australia Only ( Remote , Entry-Level ) in Australia | LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/qa-analyst-australia-only-remote-entry-level-at-centro-de-entrepreneurship-udesa-4449991013%3Fposition%3D53%26pageNum%3D0%26refId%3Dwaiabm0QA2EepKOtjIFD5w%253D%253D%26trackingId%3DRcaNMIRyjZunrl1%252BEAhs%252FQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2pf3OBjTfRW4Dda1CXlsFD",
+      "score": 1,
+      "reason": "The job listing is restricted to Australia only, which genuinely excludes the candidate's location.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Google Alert 8",
+      "summary": "The role is a QA Analyst position, the job description does not specify the main tech or responsibilities, and it is remote but limited to candidates in Australia.",
+      "date_posted": "2026-08-06T04:55:42Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-work-from-home-hotel-coordinator-usa-only-at-wfh-seekers-4449630623&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1IXx0epfpKGGOFKza-A6Pd",
+      "title": "WFH Seekers hiring Entry Level | Work from Home- Hotel Coordinator (USA Only) in United States",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-work-from-home-hotel-coordinator-usa-only-at-wfh-seekers-4449630623&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1IXx0epfpKGGOFKza-A6Pd",
+      "score": 1,
+      "reason": "The role is USA-only and requires specific US work authorization, excluding the candidate's location.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Google Alert 8",
+      "summary": "The role is an entry-level Hotel Coordinator position that is fully remote but only available to candidates in the USA. The job involves supporting hotel operations and does not match the candidate's tech stack. The role is not a fit due to its location restrictions.",
+      "date_posted": "2026-08-05T15:17:46Z",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-reservations-advisor-entry-level-at-professional-travel-group-4449630771&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2LvvUGqb4q2FbPmoLcJB4m",
+      "title": "Travel Reservations Advisor | Entry Level in Georgia, United States | LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-reservations-advisor-entry-level-at-professional-travel-group-4449630771&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2LvvUGqb4q2FbPmoLcJB4m",
+      "score": 1,
+      "reason": "The job listing is not a tech role and does not match the candidate's skills or experience.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Google Alert 8",
+      "summary": "The role is a Travel Reservations Advisor, an entry-level position in customer service, with no specified tech responsibilities, and is based in Georgia, United States, but listed as remote.",
+      "date_posted": "2026-08-05T14:34:57Z",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-life-insurance-sales-agent-fully-remote%2521-at-legacy-telesales-4449011494&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw25WmHb8IyNcpHrPiyb9V3q",
+      "title": "Legacy Telesales hiring Entry-Level Life Insurance Sales Agent - Fully Remote ! in Los Angeles, CA",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-life-insurance-sales-agent-fully-remote%2521-at-legacy-telesales-4449011494&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw25WmHb8IyNcpHrPiyb9V3q",
+      "score": 1,
+      "reason": "The role is not a tech position and requires a specific location for sales purposes",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level life insurance sales agent role that is fully remote, but based in Los Angeles, CA, and does not involve software development or tech skills. The main responsibility is selling life insurance. The role is not a good fit for a software developer with a focus on AI, web development, and programming languages.",
+      "date_posted": "2026-08-05T08:23:32Z",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-ai-engineer-266803",
+      "title": "AI Engineer",
+      "company": "Clera",
+      "location": "remote",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-ai-engineer-266803",
+      "score": 1,
+      "reason": "The role requires relocation to Stockholm and 5+ years of experience, excluding the candidate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Arbeitnow",
+      "summary": "The role is for an AI Engineer at Clera, focusing on backend scalability and LLM optimization. The position requires 5+ years of experience and relocation to Stockholm. The job is not a fit for a junior remote candidate.",
+      "date_posted": "1786041622",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://remoteOK.com/remote-jobs/remote-online-marketing-traineeship-tyroola-com-au-1136162",
+      "title": "Online Marketing Traineeship",
+      "company": "Tyroola.com.au",
+      "location": "Millers Point,",
+      "link": "https://remoteOK.com/remote-jobs/remote-online-marketing-traineeship-tyroola-com-au-1136162",
+      "score": 1,
+      "reason": "The role is not remote and excludes her location.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "RemoteOK",
+      "summary": "This is an online marketing traineeship at Tyroola.com.au, focused on content and onsite optimization, requiring 20 hours of work per week. The role is based in Millers Point, Australia, and involves collaborating with experienced online marketers and IT developers. The position is not remote and is limited to a specific location.",
+      "date_posted": "2026-08-05T01:56:14+00:00",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/ideals/enterprise-account-executive-frankfurt-frankfurt-germany-478026",
+      "title": "Enterprise Account Executive - Frankfurt (m/w/d)",
+      "company": "Ideals",
+      "location": "Frankfurt, Germany",
+      "link": "https://www.arbeitnow.com/jobs/companies/ideals/enterprise-account-executive-frankfurt-frankfurt-germany-478026",
+      "score": 1,
+      "reason": "The role is not a junior software developer position and requires onsite presence in Frankfurt, Germany.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-07",
+      "source": "Arbeitnow",
+      "summary": "This is an Enterprise Account Executive role at Ideals in Frankfurt, Germany, focusing on sales and revenue growth with corporate clients. The role requires onsite presence and does not involve software development. It is not a remote position and does not match the candidate's tech stack or job preferences.",
+      "date_posted": "1786048825",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-07",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/samsara/software-engineer-i-new-grad-london-5453",
       "title": "Software Engineer I (New Grad)",
@@ -19,7 +579,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-355717",
@@ -39,7 +599,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-core-technology",
@@ -59,7 +619,7 @@
       "days_since_posted": 14,
       "freshness": "",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/elevenlabs/9aca205e-b2bc-405b-85d6-3d2aadbe49b1",
@@ -79,7 +639,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/145141-software-developer-ii",
@@ -99,7 +659,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-consulting-specialist-entry-level-training-provided-flexible-schedule-at-the-wayland-agency-4449112114&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3e0A8PAmADvcvLkNPtAyMN",
@@ -119,7 +679,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/diligentcorporation/software-engineer-nodejs-typescript-london-400308",
@@ -139,7 +699,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/vogel/automation-engineer-munchen-454078",
@@ -159,7 +719,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/commercetools/ai-engineer-berlin-37571",
@@ -179,7 +739,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150128-c-golang-software-engineer-working-on-dqlite-a-raft-extension-for-sqlite",
@@ -199,7 +759,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/fireblocks/full-stack-engineer-blockchain-london-78935",
@@ -219,7 +779,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-codevertex-talent-4448014359&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2sm-MajcvTGxC_AJe2uXPE",
@@ -239,7 +799,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/augur/machine-learning-engineer-london-356731",
@@ -259,7 +819,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-birmingham-united-kingdom-292840",
@@ -279,7 +839,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-working-student-product-designer-327145",
@@ -299,7 +859,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/stackfuel/tutor-lehrkraft-business-intelligence-all-genders-berlin-59394",
@@ -319,7 +879,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/software-engineer-berlin-491711",
@@ -339,7 +899,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-full-stack-engineer-383585",
@@ -359,7 +919,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-full-stack-engineer-431587",
@@ -379,7 +939,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/vogel/finance-automation-internship-munchen-236928",
@@ -399,7 +959,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/vogel/forward-deployed-engineer-munchen-303384",
@@ -419,7 +979,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/vogel/growth-operations-internship-munchen-74902",
@@ -439,7 +999,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=8097403",
@@ -459,7 +1019,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-nottingham-united-kingdom-375792",
@@ -479,7 +1039,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-full-stack-ios-engineer-30284",
@@ -499,7 +1059,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-bristol-united-kingdom-222337",
@@ -519,7 +1079,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8108404",
@@ -539,7 +1099,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/commercetools/ai-engineer-munchen-bayern-364858",
@@ -559,7 +1119,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://stripe.com/jobs/search?gh_jid=8097047",
@@ -579,7 +1139,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/langchain/a16d58f7-e210-495c-9e6f-82222267de3a",
@@ -599,7 +1159,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/aurivian-gmbh/e-commerce-entwickler-karlsruhe-296766",
@@ -619,7 +1179,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/plaid/825c384e-613a-4f82-aa87-52fc9b40aa18",
@@ -639,7 +1199,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-pre-sales-deployed-engineer-281425",
@@ -659,7 +1219,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8684061002",
@@ -679,7 +1239,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://stripe.com/jobs/search?gh_jid=7958150",
@@ -699,7 +1259,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-software-engineer-berlin-49318",
@@ -719,7 +1279,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-experience-associate-entry-level-at-professional-travel-group-4449639403&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2afx_o0i8gKVok4ulJyD0w",
@@ -739,7 +1299,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/engineering-intern-berlin-343097",
@@ -759,7 +1319,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-quality-control-analyst-at-noxpharm-4449652502&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3r2lRRBwrZfKKTfeR50ik4",
@@ -779,7 +1339,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/langchain/8b533cc4-6654-44b4-b3fc-004def2a9927",
@@ -799,7 +1359,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/148720-partner-sales-specialist",
@@ -819,7 +1379,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-06",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-412569",
@@ -31162,8 +31722,8 @@
       "is_new": false
     }
   ],
-  "count": 1558,
-  "keepers": 242,
-  "fresh": 1089,
-  "new_today": 41
+  "count": 1586,
+  "keepers": 246,
+  "fresh": 1115,
+  "new_today": 28
 }
