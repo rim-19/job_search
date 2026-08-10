@@ -1,6 +1,226 @@
 {
-  "generated": "2026-08-09",
+  "generated": "2026-08-10",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/nebius/ai-full-stack-developer-236134",
+      "title": "AI Full-Stack Developer",
+      "company": "Nebius",
+      "location": "",
+      "link": "https://www.arbeitnow.com/jobs/companies/nebius/ai-full-stack-developer-236134",
+      "score": 9,
+      "reason": "This is a strong match as it's a junior-level, fully remote role with excellent tech fit and a location scope that aligns with the candidate's ability to work globally via EOR.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-10",
+      "source": "Arbeitnow",
+      "summary": "This is an AI Full-Stack Developer role at Nebius, focused on building AI-driven automation solutions using LLMs, APIs, and agent frameworks to automate internal processes. The position is fully remote and suitable for a junior/entry-level candidate, with the company headquartered in Amsterdam and a global footprint, suggesting a flexible remote work policy.",
+      "date_posted": "1786319732",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
+    {
+      "url": "https://himalayas.app/companies/mindrift/jobs/freelance-full-stack-web-app-developer-4983757503",
+      "title": "Freelance Full-Stack Web App Developer",
+      "company": "Mindrift",
+      "location": "Brazil",
+      "link": "https://himalayas.app/companies/mindrift/jobs/freelance-full-stack-web-app-developer-4983757503",
+      "score": 7,
+      "reason": "This role is a good match due to its junior/entry-level nature, full remote scope, and relevant tech stack, though the Brazil location requires clarification on contractor hiring.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-10",
+      "source": "Himalayas",
+      "summary": "This is a freelance, part-time remote Full-Stack Web App Developer role focused on building interactive browser-based applications. You'll use frontend frameworks like React/Next.js and backend APIs with Python/FastAPI/Flask or Node/Express, integrating databases and AI/LLM services. The role is based in Brazil, but the description implies remote work, which aligns with your preference for worldwide contractor roles.",
+      "date_posted": "1786323986",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/auxiliusai/full-stack-software-engineer-ai-native-startup-munich-453930",
+      "title": "Full-Stack Software Engineer - AI Native Startup (m/f/d)",
+      "company": "Auxilius.ai",
+      "location": "Munich",
+      "link": "https://www.arbeitnow.com/jobs/companies/auxiliusai/full-stack-software-engineer-ai-native-startup-munich-453930",
+      "score": 4,
+      "reason": "The job listing is not fully remote and is restricted to a specific location, Munich.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-10",
+      "source": "Arbeitnow",
+      "summary": "This is a full-stack software engineer role at an AI startup, working with technologies like Spring Boot and React, and focusing on AI-driven development and DevOps. The role is based in Munich and involves collaborating with the team to develop and deploy features. The job requires working on-site, which may not be a good fit for a fully remote candidate.",
+      "date_posted": "1786287626",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/greenventory-gmbh/energy-nerd-developer-freiburg-im-breisgau-28468",
+      "title": "Energy Nerd / Developer - Freiburg im Breisgau",
+      "company": "greenventory GmbH",
+      "location": "Freiburg im Breisgau",
+      "link": "https://www.arbeitnow.com/jobs/companies/greenventory-gmbh/energy-nerd-developer-freiburg-im-breisgau-28468",
+      "score": 2,
+      "reason": "The job listing is not fully remote and requires physical presence in Freiburg im Breisgau.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-10",
+      "source": "Arbeitnow",
+      "summary": "This role is for an Energy Nerd/Developer at greenventory GmbH, focusing on energy system modeling and simulation using Python. The position is based in Freiburg im Breisgau and involves designing algorithms, developing simulation models, and integrating tools into a SaaS platform. The job is not fully remote and requires on-site presence.",
+      "date_posted": "1786273224",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/linear/5b9997fd-7507-4437-8fd7-14178c99ab5d",
+      "title": "Production Designer",
+      "company": "Linear",
+      "location": "Europe",
+      "link": "https://jobs.ashbyhq.com/linear/5b9997fd-7507-4437-8fd7-14178c99ab5d",
+      "score": 2,
+      "reason": "The role is not a software development position and does not match the candidate's tech stack.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-10",
+      "source": "Linear (careers)",
+      "summary": "This is a Production Designer role at Linear, focusing on visual design and branding across web and marketing materials. The role is remote but requires a candidate based in North American or European time zones. The position does not involve software development or match the candidate's technical skills.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/sales-development-representative-berlin-60775",
+      "title": "Sales Development Representative",
+      "company": "Cosuno",
+      "location": "Berlin/Remote",
+      "link": "https://www.arbeitnow.com/jobs/companies/cosuno/sales-development-representative-berlin-60775",
+      "score": 2,
+      "reason": "The role is not a technical position and does not match the candidate's skills or experience.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-10",
+      "source": "Arbeitnow",
+      "summary": "This is a Sales Development Representative role at Cosuno, involving prospecting, qualifying leads, and building relationships with potential customers. The role is based in Berlin but allows for remote work. The position requires strong communication skills and experience in sales, particularly in B2B sales.",
+      "date_posted": "1786264820",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
+    {
+      "url": "https://himalayas.app/companies/homeward/jobs/software-engineer-front-end-latin-america",
+      "title": "Software Engineer, Front-end (Latin America)",
+      "company": "Homeward",
+      "location": "Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Guatemala, Haiti, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, Venezuela",
+      "link": "https://himalayas.app/companies/homeward/jobs/software-engineer-front-end-latin-america",
+      "score": 1,
+      "reason": "The role is restricted to Latin America and excludes her location",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-10",
+      "source": "Himalayas",
+      "summary": "This is a front-end software engineer role at Homeward, working on homebuying and selling experiences with technologies like agile development and continuous integration. The main responsibilities include developing, designing, and debugging software applications. The role is fully remote but limited to Latin America, excluding her location.",
+      "date_posted": "1786323982",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://fr.linkedin.com/jobs/view/director-at-network-rail-wales-western-region-4451316710&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1odMRj8fWYBcJFnsT3ETC9",
+      "title": "IT Support Office - Australia Only ( Remote , Entry-Level )",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://fr.linkedin.com/jobs/view/director-at-network-rail-wales-western-region-4451316710&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1odMRj8fWYBcJFnsT3ETC9",
+      "score": 1,
+      "reason": "The role is restricted to Australia only, which excludes the candidate's location.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-10",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level IT support office role based in Australia, with remote work options, focusing on network support, and is limited to candidates in Australia. The role does not match the candidate's location or work authorization requirements. It is not a suitable fit for the candidate due to its location restrictions.",
+      "date_posted": "2026-08-09T03:07:25Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/145581-enterprise-account-executive-6",
+      "title": "Enterprise Account Executive",
+      "company": "Smartsheet",
+      "location": "UK",
+      "link": "https://jobicy.com/jobs/145581-enterprise-account-executive-6",
+      "score": 1,
+      "reason": "The role is senior-level and requires 7+ years of experience, excluding the candidate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-10",
+      "source": "Jobicy",
+      "summary": "This is an Enterprise Account Executive role at Smartsheet, focused on software and services sales, with responsibilities including leading account teams and developing growth strategies. The role is based in London, UK, with hybrid or remote options, but requires significant experience. The role does not match the candidate's junior-level profile or tech stack.",
+      "date_posted": "2026-08-09T03:40:06+00:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/7735336",
+      "title": "Sales Development Representative (Dutch speaking)",
+      "company": "Flexport",
+      "location": "Amsterdam, Netherlands",
+      "link": "https://job-boards.greenhouse.io/flexport/jobs/7735336",
+      "score": 1,
+      "reason": "The role is not a technical position and requires onsite presence in Amsterdam.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-10",
+      "source": "Flexport (careers)",
+      "summary": "This is a Sales Development Representative role at Flexport, requiring Dutch language skills and based in Amsterdam. The role involves getting in touch with companies to engage them with Flexport's services. This position is not remote and does not match the candidate's technical skills or preferences.",
+      "date_posted": "2026-08-03T08:06:08-04:00",
+      "days_since_posted": 6,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/cursor/61d5c4d4-726e-44fa-b943-6b64ab761a64",
+      "title": "Regional Vice President, Healthcare West",
+      "company": "Cursor (Anysphere)",
+      "location": "Remote",
+      "link": "https://jobs.ashbyhq.com/cursor/61d5c4d4-726e-44fa-b943-6b64ab761a64",
+      "score": 1,
+      "reason": "The role is a senior-level position that does not match the candidate's junior/entry-level experience.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-10",
+      "source": "Cursor (Anysphere) (careers)",
+      "summary": "This is a Regional Vice President role for healthcare sales at a company that automates coding, requiring deep technical fluency and leadership experience. The role involves building and leading a team, setting sales strategies, and engaging with executive-level relationships. The job is remote, but it is not a junior-friendly position and does not match the candidate's tech stack or experience.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-forward-deployment-engineer-250362",
       "title": "Forward Deployment Engineer",
@@ -19,7 +239,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=2578081",
@@ -39,7 +259,7 @@
       "days_since_posted": 215,
       "freshness": "",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/synthesia/d08a4685-89f9-49e2-b203-1482a3db2c4a",
@@ -59,7 +279,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/cresta/jobs/5217865008",
@@ -79,7 +299,7 @@
       "days_since_posted": 5,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
@@ -99,7 +319,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/automation-engineer-influencers-london-303255",
@@ -119,7 +339,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/java-backend-entwickler-spring-boot-camunda-stuttgart-238501",
@@ -139,7 +359,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/986912085551298/posts/2110341049875057/&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw2kSEDwNx8vKEcn38BX6w_l",
@@ -159,7 +379,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/safety-engineer-free-tier-abuse-united-kingdom-294747",
@@ -179,7 +399,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/squarepointcapital/junior-software-developer-front-end-london-montreal-24119",
@@ -199,7 +419,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/travelcircus/junior-backend-engineer-berlin-144087",
@@ -219,7 +439,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/fullstack-developer-chicago-illinois-united-states-london-new-york-ny-united-states-76262",
@@ -239,7 +459,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-product-engineer-42197",
@@ -259,7 +479,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/nba%25E5%25AD%25A3%25E5%2590%258E%25E8%25B5%259B%25E7%259B%25B4%25E6%2592%25AD%25E6%2589%258B%25E6%259C%25BA%25E3%2580%2590%25E5%25AE%2598%25E7%25BD%2591%25EF%25BC%259Akq2.me%25E3%2580%2591%25E9%259B%25B7%25E9%259C%2586%25E7%259B%25B4%25E6%2592%25AD%25E6%25AF%2594%25E8%25B5%259B%25E5%259B%259E%25E6%2594%25BE%25E3%2580%2590%25E5%25AE%2598%25E7%25BD%2591%25EF%25BC%259Akq2.me%25E3%2580%2591nba%25E7%259B%25B4%25E6%2592%25AD%25E5%2590%25A7%25E7%259B%25B4%25E6%2592%25AD%25E5%2590%25A7%25E3%2580%2590%25E5%25AE%2598%25E7%25BD%2591%25EF%25BC%259Akq9.me%25E3%2580%2591%25E6%25A3%25AE%25E6%259E%2597%25E7%258B%25BC%25E7%259B%25B4%25E6%2592%25AD%25E9%2597%25B4%25E6%2580%258E%25E4%25B9%2588%25E8%25BF%259B%25E7%25BE%25A4%25E3%2580%2590%25E5%25AE%2598%25E7%25BD%2591%25EF%25BC%259Akq2.me%25E3%2580%2591-jobs%3Fposition%3D1%26pageNum%3D0&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3YcKBQKNETYYDVI8m0u4rK",
@@ -279,7 +499,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150387-mobility-specialist-apac",
@@ -299,7 +519,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/forward-deployed-engineer-berlin-243536",
@@ -319,7 +539,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-product-engineer-207401",
@@ -339,7 +559,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://stripe.com/jobs/search?gh_jid=8097051",
@@ -359,7 +579,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/founders-associate-berlin-59591",
@@ -379,7 +599,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/software-engineer-ai-tools-chicago-illinois-united-states-new-york-ny-united-states-492050",
@@ -399,7 +619,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150334-customer-support-specialist-3",
@@ -419,7 +639,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://fr.linkedin.com/jobs/view/owner-at-royal-signature-4451083498&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw191FNTD3Ggo-nX4I4g9tlX",
@@ -439,7 +659,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/tacto/venture-development-munich-329720",
@@ -459,7 +679,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/tacto/intern-founders-associate-munich-231774",
@@ -479,7 +699,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150365-go-golang-software-engineer-developer-tooling-and-containers",
@@ -499,7 +719,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/software-engineer-python-chicago-illinois-united-states-london-new-york-ny-united-states-9524",
@@ -519,7 +739,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/flexport/jobs/8099848",
@@ -539,7 +759,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/alteryx/jobs/learning-experience-designer",
@@ -559,7 +779,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/nordware/jobs/desenvolvedor-net-pl",
@@ -579,7 +799,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-product-engineer-38544",
@@ -599,7 +819,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/scaile-technologies-gmbh/founding-engineer-intern-munich-86697",
@@ -619,7 +839,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/research-engineer-london-new-york-ny-united-states-404807",
@@ -639,7 +859,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-cambridge-united-kingdom-45347",
@@ -659,7 +879,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-full-stack-berlin-76444",
@@ -679,7 +899,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-financial-representative-at-primerica-4450536774&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ycIQ6kHbk-uNk-O4v5gKt",
@@ -699,7 +919,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/visiting-finance-analyst-berlin-181258",
@@ -719,7 +939,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/148827-account-executive-canada-enterprise",
@@ -739,7 +959,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150287-customer-acquisition-specialist-fixed-term-contract",
@@ -759,7 +979,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-munich-481984",
@@ -779,7 +999,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-berlin-45168",
@@ -799,7 +1019,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-software-engineer-berlin-313447",
@@ -819,7 +1039,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/148697-competition-associate",
@@ -839,7 +1059,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/146555-legal-innovation-partner",
@@ -859,7 +1079,7 @@
       "days_since_posted": 22,
       "freshness": "",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/flexport/jobs/7372929",
@@ -879,7 +1099,7 @@
       "days_since_posted": 2,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-full-stack-berlin-377666",
@@ -899,7 +1119,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150371-graduate-hr-generalist-apac",
@@ -919,7 +1139,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/software-engineer-infrastructure-berlin-354156",
@@ -939,7 +1159,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-sales-no-experience-needed-insurance-sales-will-train-at-mansfield-agency-4450527684&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1mHM6QpnX02bFsX2PPbcWD",
@@ -959,7 +1179,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/commission-sales-associate-at-the-wellness-shop-4449357174%3Fposition%3D21%26pageNum%3D0%26refId%3D7DI6YWtvjKhy3ongY2qH7g%253D%253D%26trackingId%3DlVXexMOfR2obPDxlrObbSQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1HRjIKhdtgSIRhv3RFmGMG",
@@ -979,7 +1199,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/magnetics/jobs/talent-acquisition-specialist",
@@ -999,7 +1219,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/brand-designer-berlin-150660",
@@ -1019,7 +1239,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/cresta/jobs/5378424008",
@@ -1039,7 +1259,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150357-talent-acquisition-strategist",
@@ -1059,7 +1279,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-codevertex-system-4449261578&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Iwx-o4I-HKcZMQPtr39sZ",
@@ -1079,7 +1299,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-admin-fully-remote-at-codevertex-careers-4450526377&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1r-3gcel5jwZfUcp9EGP1A",
@@ -1099,7 +1319,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ae.linkedin.com/jobs/view/remote-intake-specialist-entry-level-start-immediately-at-omega-grit-omg-4450593572&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0VpJ9FoBq2Yg_7-J5wSah4",
@@ -1119,7 +1339,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/accountant-at-omega-grit-omg-4450593572&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2q9aGSahhrt_DscaX_ME4z",
@@ -1139,7 +1359,7 @@
       "days_since_posted": 1,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/ashby/a854e693-7bca-4f3a-80da-147ab2f48638",
@@ -1159,7 +1379,7 @@
       "days_since_posted": null,
       "freshness": "",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.asana.com/jobs/apply/7392983?gh_jid=7392983",
@@ -1179,7 +1399,7 @@
       "days_since_posted": 3,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/intersystems/product-support-graduate-windsor-242222",
@@ -1199,7 +1419,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/clera/visiting-finance-analyst-berlin-88065",
@@ -1219,7 +1439,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150358-partner-sales-executive-anz-channel",
@@ -1239,7 +1459,7 @@
       "days_since_posted": 0,
       "freshness": "Fresh",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569548002",
@@ -1259,7 +1479,7 @@
       "days_since_posted": 9,
       "freshness": "",
       "first_seen": "2026-08-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://wellfound.com/jobs/4562447-junior-ai-engineer&ct=ga&cd=CAIyHGMxZjM1NmU5OTA0ZWNlZWQ6Y29tOmZyOlVTOkw&usg=AOvVaw2ccuAJHXsa-XJrDH82Z1Ra",
@@ -35462,8 +35682,8 @@
       "is_new": false
     }
   ],
-  "count": 1773,
-  "keepers": 276,
-  "fresh": 1283,
-  "new_today": 63
+  "count": 1784,
+  "keepers": 278,
+  "fresh": 1292,
+  "new_today": 11
 }
