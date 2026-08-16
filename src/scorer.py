@@ -148,7 +148,9 @@ GEOGRAPHIC RULES (hard requirement):
 
 DETERMINISTIC GEO HINT (from the rules above — trust unless the text clearly contradicts): remote_type={geo_remote}, scope={geo_scope}, eligible={geo_elig} ({geo_reason})
 
-ROLE TARGETING: primary fit = full-stack / backend / software / web / application / AI / LLM / generative-AI developer at junior / entry / intern / graduate level (score these highest). Language-specific titles (Python/Node/Java/C# Developer) are only a secondary fit — fine if junior and the stack matches, but she is NOT a single-language specialist.
+ROLE TARGETING: primary fit = full-stack / backend / software / web / application / AI / LLM / generative-AI developer at junior / entry / graduate level (score these highest). Language-specific titles (Python/Node/Java/C# Developer) are only a secondary fit — fine if junior and the stack matches, but she is NOT a single-language specialist.
+
+PERMANENT ROLES OUTRANK INTERNSHIPS: prefer permanent / full-time (CDI, full-time, graduate, junior) roles. Internships / PFE / "stage" are still valid and eligible (she is open to them), but rank them BELOW a comparable full-time junior role: an internship should score roughly 10-15 points lower than the same role offered full-time, and should only reach APPLY_NOW (85+) if it is an exceptional paid, remote AI/dev internship.
 
 JOB:
 Title: {title}
