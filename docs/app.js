@@ -9,7 +9,18 @@ const LS = {
   cover: (url) => "rim-cover:" + url,
   kit: (url) => "rim-kit:" + url,
 };
-const STATUSES = ["Not Applied", "Applied", "Interviewing", "Rejected", "Saved"];
+// Application-tracking pipeline (item 31).
+const STATUSES = ["Not Applied", "To Apply", "Applied", "Contacted", "Follow Up",
+  "Response", "Interview", "Technical", "Offer", "Rejected", "Ghosted", "Saved"];
+const APPLIED_STATES = ["Applied", "Contacted", "Follow Up", "Response",
+  "Interview", "Technical", "Offer"];
+const PRIORITY_META = {
+  APPLY_NOW: { label: "🔥 Apply now", cls: "p-now" },
+  APPLY: { label: "🟢 Apply", cls: "p-apply" },
+  CONSIDER: { label: "🟡 Consider", cls: "p-consider" },
+  SKIP: { label: "🔴 Skip", cls: "p-skip" },
+};
+const PRANK = { APPLY_NOW: 0, APPLY: 1, CONSIDER: 2, SKIP: 3 };
 const GEMINI_MODEL = "gemini-2.5-flash-lite";
 const GROQ_MODEL = "llama-3.3-70b-versatile";
 
@@ -38,7 +49,8 @@ function esc(s) {
   return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;")
     .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
-const scoreClass = (n) => n >= 7 ? "high" : n >= 5 ? "mid" : "low";
+// 0-100 scale now.
+const scoreClass = (n) => n >= 85 ? "high" : n >= 55 ? "mid" : "low";
 function agoText(days) {
   if (days == null) return "";
   if (days === 0) return "today";
@@ -46,12 +58,14 @@ function agoText(days) {
   if (days <= 30) return `${days} days ago`;
   return `${Math.round(days / 30)} mo ago`;
 }
+// Default "smart" sort: priority, then fresh, then score, then recency.
 function sortKey(j) {
+  const pr = PRANK[j.priority] ?? 3;
   const fresh = j.freshness === "Fresh" ? 0 : 1;
   const days = j.days_since_posted == null ? 10000 : j.days_since_posted;
-  return [fresh, -(j.score || 0), days];
+  return [pr, fresh, -(j.score || 0), days];
 }
-function cmp(a, b) { const x = sortKey(a), y = sortKey(b); for (let i = 0; i < 3; i++) { if (x[i] !== y[i]) return x[i] - y[i]; } return 0; }
+function cmp(a, b) { const x = sortKey(a), y = sortKey(b); for (let i = 0; i < 4; i++) { if (x[i] !== y[i]) return x[i] - y[i]; } return 0; }
 
 /* ---------- card ---------- */
 function card(job) {
@@ -63,12 +77,21 @@ function card(job) {
   if (st === "Rejected") cls.push("rejected");
 
   const score = Number(job.score) || 0;
+  const prio = PRIORITY_META[job.priority] || null;
+  const rt = (job.remote_type || "").toUpperCase();
+  const rtEmoji = rt === "REMOTE" ? "🌍" : (rt === "HYBRID" || rt === "ONSITE") ? "🏢" : "📍";
+
   const badges = [];
+  if (prio) badges.push(`<span class="badge prio ${prio.cls}">${prio.label}</span>`);
   if (job.is_new) badges.push(`<span class="badge new">NEW ✨</span>`);
   if (job.freshness === "Fresh") badges.push(`<span class="badge fresh">🌟 Fresh</span>`);
-  badges.push(`<span class="badge loc">📍 ${esc(job.location || "Remote")}</span>`);
+  if (rt && rt !== "UNKNOWN") badges.push(`<span class="badge rt">${rtEmoji} ${esc(rt.toLowerCase())}</span>`);
+  badges.push(`<span class="badge loc">📍 ${esc(job.location || job.geographic_scope || "Remote")}</span>`);
+  if (job.eligible_for_rim === "true") badges.push(`<span class="badge elig ok">✓ eligible</span>`);
+  else if (job.eligible_for_rim === "uncertain") badges.push(`<span class="badge elig maybe">? verify</span>`);
   badges.push(`<span class="badge src">${esc(job.source || "web")}</span>`);
 
+  const gaps = Array.isArray(job.gaps) ? job.gaps : [];
   const ago = agoText(job.days_since_posted);
   const options = STATUSES.map(s => `<option${s === st ? " selected" : ""}>${s}</option>`).join("");
 
@@ -76,7 +99,7 @@ function card(job) {
   el.className = cls.join(" ");
   el.innerHTML = `
     <div class="card-head">
-      <div class="score ${scoreClass(score)}" title="match score">${score}</div>
+      <div class="score ${scoreClass(score)}" title="match score out of 100">${score}</div>
       <div class="card-head-main">
         <h2>${esc(job.title)}</h2>
         <div class="company">${esc(job.company) || "—"}</div>
@@ -85,7 +108,9 @@ function card(job) {
     </div>
     ${ago ? `<div class="meta-line">🗓️ posted ${ago}</div>` : ""}
     <p class="summary">${esc(job.summary || job.reason || "")}</p>
-    ${job.reason && job.summary ? `<p class="reason">match: ${esc(job.reason)}</p>` : ""}
+    ${job.reason ? `<p class="reason">✓ ${esc(job.reason)}</p>` : ""}
+    ${gaps.length ? `<p class="gaps">⚠ ${gaps.map(esc).join(" · ")}</p>` : ""}
+    ${job.recommended_project ? `<p class="project">💡 Lead with: <b>${esc(job.recommended_project)}</b></p>` : ""}
     <div class="card-foot">
       <a class="btn primary" href="${esc(job.link || job.url)}" target="_blank" rel="noopener">Apply 💌</a>
       <button class="btn ghost cover-btn">✍️ Cover letter</button>
@@ -102,35 +127,55 @@ function card(job) {
 }
 
 /* ---------- filters + render ---------- */
-function filters() {
-  return {
-    q: document.getElementById("search").value.trim().toLowerCase(),
-    min: Number(document.getElementById("score-filter").value),
-    status: document.getElementById("status-filter").value,
-    newOnly: document.getElementById("new-only").checked,
-    freshOnly: document.getElementById("fresh-only").checked,
-  };
+const val = (id) => { const e = document.getElementById(id); return e ? e.value : ""; };
+const checked = (id) => { const e = document.getElementById(id); return e ? e.checked : false; };
+
+function geoMatch(j, geo) {
+  const loc = (j.location || "").toLowerCase();
+  const scope = (j.geographic_scope || "").toUpperCase();
+  const rt = (j.remote_type || "").toUpperCase();
+  switch (geo) {
+    case "morocco": return scope === "MOROCCO" || loc.includes("morocco") || loc.includes("maroc");
+    case "casarabat": return loc.includes("casablanca") || loc.includes("rabat");
+    case "remote": return rt === "REMOTE";
+    case "onsite": return rt === "ONSITE" || rt === "HYBRID";
+    case "worldwide": return scope === "WORLDWIDE";
+    case "eligible": return j.eligible_for_rim === "true";
+    default: return true;
+  }
 }
+
 function render() {
-  const f = filters();
-  let list = ALL.filter(j => (Number(j.score) || 0) >= f.min);
-  if (f.q) list = list.filter(j => (j.title || "").toLowerCase().includes(f.q) || (j.company || "").toLowerCase().includes(f.q));
-  if (f.status) list = list.filter(j => statusFor(j) === f.status);
-  if (f.newOnly) list = list.filter(j => j.is_new);
-  if (f.freshOnly) list = list.filter(j => j.freshness === "Fresh");
-  list.sort(cmp);
+  const q = val("search").trim().toLowerCase();
+  const min = Number(val("score-filter") || 0);
+  const status = val("status-filter");
+  const priority = val("priority-filter");
+  const geo = val("geo-filter");
+  const sort = val("sort");
+  let list = ALL.filter(j => (Number(j.score) || 0) >= min);
+  if (q) list = list.filter(j => (j.title || "").toLowerCase().includes(q) || (j.company || "").toLowerCase().includes(q));
+  if (status) list = list.filter(j => statusFor(j) === status);
+  if (priority) list = list.filter(j => (j.priority || "") === priority);
+  if (geo) list = list.filter(j => geoMatch(j, geo));
+  if (checked("new-only")) list = list.filter(j => j.is_new);
+  if (checked("fresh-only")) list = list.filter(j => j.freshness === "Fresh");
+
+  if (sort === "score") list.sort((a, b) => (b.score || 0) - (a.score || 0));
+  else if (sort === "newest" || sort === "fresh") list.sort((a, b) => (a.days_since_posted ?? 1e5) - (b.days_since_posted ?? 1e5));
+  else if (sort === "company") list.sort((a, b) => (a.company || "").localeCompare(b.company || ""));
+  else list.sort(cmp); // smart (priority + fresh)
 
   const c = document.getElementById("cards");
   c.innerHTML = "";
   list.forEach(j => c.appendChild(card(j)));
   const empty = document.getElementById("empty");
   empty.hidden = list.length !== 0;
-  if (!list.length) empty.textContent = ALL.length ? "no jobs match your filters — try “everything” 🎀" : "no jobs yet — the agent runs twice daily 🎀";
+  if (!list.length) empty.textContent = ALL.length ? "no jobs match your filters 🎀" : "no jobs yet — the agent runs every 5 hours 🎀";
 }
 function refreshStats() {
-  const n = (id, v) => document.getElementById(id).textContent = v;
+  const n = (id, v) => { const e = document.getElementById(id); if (e) e.textContent = v; };
   n("stat-total", ALL.length);
-  n("stat-keepers", ALL.filter(j => (Number(j.score) || 0) >= 6).length);
+  n("stat-keepers", ALL.filter(j => j.priority === "APPLY_NOW" || j.priority === "APPLY").length);
   n("stat-fresh", ALL.filter(j => j.freshness === "Fresh").length);
   n("stat-new", ALL.filter(j => j.is_new).length);
 }
@@ -328,7 +373,10 @@ async function init() {
 
   refreshStats();
   render();
-  ["search", "score-filter", "status-filter", "new-only", "fresh-only"].forEach(id =>
-    document.getElementById(id).addEventListener("input", render));
+  ["search", "score-filter", "status-filter", "priority-filter", "geo-filter",
+   "sort", "new-only", "fresh-only"].forEach(id => {
+    const e = document.getElementById(id);
+    if (e) e.addEventListener("input", render);
+  });
 }
 init();

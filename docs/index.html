@@ -41,7 +41,7 @@
 
     <div class="stats" id="stats">
       <div class="stat"><span class="num" id="stat-total">–</span><span class="lbl">scanned</span></div>
-      <div class="stat good"><span class="num" id="stat-keepers">–</span><span class="lbl">good 🌸</span></div>
+      <div class="stat good"><span class="num" id="stat-keepers">–</span><span class="lbl">apply 🔥</span></div>
       <div class="stat"><span class="num" id="stat-fresh">–</span><span class="lbl">fresh 🌟</span></div>
       <div class="stat"><span class="num" id="stat-new">–</span><span class="lbl">new today 💗</span></div>
     </div>
@@ -68,18 +68,45 @@
   <main>
     <section class="controls">
       <input type="search" id="search" placeholder="🔍 search title or company…" />
+      <select id="priority-filter">
+        <option value="">all priorities</option>
+        <option value="APPLY_NOW">🔥 Apply now</option>
+        <option value="APPLY">🟢 Apply</option>
+        <option value="CONSIDER">🟡 Consider</option>
+        <option value="SKIP">🔴 Skip</option>
+      </select>
+      <select id="geo-filter">
+        <option value="">anywhere</option>
+        <option value="eligible">✓ eligible only</option>
+        <option value="remote">🌍 remote</option>
+        <option value="worldwide">worldwide</option>
+        <option value="morocco">🇲🇦 Morocco</option>
+        <option value="casarabat">Casablanca / Rabat</option>
+        <option value="onsite">on-site / hybrid</option>
+      </select>
       <select id="score-filter">
-        <option value="6">💗 good matches (6+)</option>
-        <option value="8">🌟 top picks (8+)</option>
-        <option value="0">🎀 everything</option>
+        <option value="0">any score</option>
+        <option value="85">🔥 85+</option>
+        <option value="70">🟢 70+</option>
+        <option value="55">🟡 55+</option>
       </select>
       <select id="status-filter">
         <option value="">all statuses</option>
         <option value="Not Applied">Not Applied</option>
+        <option value="To Apply">To Apply</option>
         <option value="Applied">Applied</option>
-        <option value="Interviewing">Interviewing</option>
+        <option value="Contacted">Contacted</option>
+        <option value="Interview">Interview</option>
+        <option value="Offer">Offer</option>
         <option value="Rejected">Rejected</option>
+        <option value="Ghosted">Ghosted</option>
         <option value="Saved">Saved</option>
+      </select>
+      <select id="sort">
+        <option value="smart">✨ smart sort</option>
+        <option value="score">highest score</option>
+        <option value="newest">newest</option>
+        <option value="company">company A–Z</option>
       </select>
       <label class="toggle"><input type="checkbox" id="new-only" /> new today</label>
       <label class="toggle"><input type="checkbox" id="fresh-only" /> fresh only</label>

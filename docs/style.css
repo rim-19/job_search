@@ -125,10 +125,20 @@ main { max-width: 920px; margin: 0 auto; padding: 16px; }
 .badge.new { background: var(--pink); color: #fff; }
 .badge.loc { background: #eef4ff; color: #3f5b93; }
 .badge.src { background: #f4eefb; color: #7a5aa6; }
+.badge.rt { background: #e9f7ff; color: #2c6f8f; }
+.badge.prio { font-weight: 800; }
+.badge.prio.p-now { background: #ffe0e6; color: #c62b4a; }
+.badge.prio.p-apply { background: #e2f7ea; color: #1a7a48; }
+.badge.prio.p-consider { background: #fff3d6; color: #9a6b00; }
+.badge.prio.p-skip { background: #eceff2; color: #7b8794; }
+.badge.elig.ok { background: #e2f7ea; color: #1a7a48; }
+.badge.elig.maybe { background: #fff3d6; color: #9a6b00; }
 
 .meta-line { font-size: 0.78rem; color: var(--ink-soft); margin-top: 8px; }
 .summary { margin: 10px 0 0; font-size: 0.92rem; color: var(--ink); }
-.reason { margin: 8px 0 0; font-size: 0.82rem; color: var(--ink-soft); font-style: italic; }
+.reason { margin: 8px 0 0; font-size: 0.82rem; color: var(--green); }
+.gaps { margin: 4px 0 0; font-size: 0.82rem; color: var(--gold); }
+.project { margin: 4px 0 0; font-size: 0.82rem; color: var(--pink-deep); }
 
 .card-foot { display: flex; align-items: center; gap: 8px; margin-top: 14px; flex-wrap: wrap; }
 .btn {
