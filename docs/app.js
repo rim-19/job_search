@@ -205,17 +205,23 @@ const modal = () => document.getElementById("modal");
 function closeModal() { modal().hidden = true; document.getElementById("modal-body").innerHTML = ""; document.getElementById("modal-actions").innerHTML = ""; }
 
 // Two document kinds share the same modal + LLM plumbing.
+function jobBlock(job) {
+  const gaps = Array.isArray(job.gaps) && job.gaps.length ? job.gaps.join("; ") : "none noted";
+  return `Title: ${job.title}
+Company: ${job.company}
+Location: ${job.location}
+Description/summary: ${job.summary || job.reason || ""}
+Most relevant project to lead with: ${job.recommended_project || "pick the best fit"}
+Known gaps to address honestly (do not overclaim): ${gaps}`;
+}
 function coverPrompt(job) {
-  return `You are helping a junior software developer apply to a remote job. Write a full, tailored cover letter (not a short note): a proper greeting, 3-4 paragraphs, and a sign-off. Reference specific details from the job and match them to concrete experience from the CV. Confident and warm, honest about being early-career, leading with relevant projects and stack. Return ONLY the letter text, no preamble.
+  return `You are helping a junior software developer apply to a remote job. Write a full, tailored cover letter (not a short note): a proper greeting, 3-4 paragraphs, and a sign-off. Reference specific details from the job and match them to concrete experience from the CV. Lead with the "most relevant project" below. If there are gaps, address them honestly and briefly (frame as eagerness to learn) — never invent experience. Confident, warm, honest about being early-career. Return ONLY the letter text, no preamble.
 
 === CV ===
 ${getCV()}
 
 === JOB ===
-Title: ${job.title}
-Company: ${job.company}
-Location: ${job.location}
-Description/summary: ${job.summary || job.reason || ""}`;
+${jobBlock(job)}`;
 }
 function kitPrompt(job) {
   return `You are helping a junior software developer apply FAST to a remote job. Produce a concise "application kit" she can copy-paste. Use PLAIN TEXT with these clearly-labelled sections:
@@ -223,16 +229,13 @@ function kitPrompt(job) {
 1) TAILORED CV SUMMARY — 3 sentences positioning her for THIS role.
 2) MATCHING SKILLS — 4-5 bullet points, each linking one of her real skills/projects to something this job needs.
 3) COMMON QUESTIONS — short first-person answers (2-3 sentences each) to: "Why do you want this role?", "Why are you a good fit?", "Tell us about a relevant project.", "What are your salary expectations?" (give a reasonable remote-junior range in USD and say flexible), "When can you start?" (immediately, flexible).
-Be specific to the job and honest about being early-career. Return ONLY the kit text.
+Be specific to the job and honest about being early-career. Lead the matching skills with the "most relevant project" below, and address any listed gaps honestly (never invent experience). Return ONLY the kit text.
 
 === CV ===
 ${getCV()}
 
 === JOB ===
-Title: ${job.title}
-Company: ${job.company}
-Location: ${job.location}
-Description/summary: ${job.summary || job.reason || ""}`;
+${jobBlock(job)}`;
 }
 const DOC_KINDS = {
   cover: { label: "Cover letter", cache: (u) => LS.cover(u), pdf: "cover_letter", build: coverPrompt, spin: "writing your cover letter…" },
