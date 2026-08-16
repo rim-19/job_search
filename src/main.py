@@ -29,9 +29,8 @@ logging.basicConfig(
 )
 log = logging.getLogger("main")
 
-# Lowered to 6: as a junior, casting a wider net (worth-a-look roles) beats
-# waiting for perfect 7+ matches. Override with KEEP_THRESHOLD.
-KEEP_THRESHOLD = int(os.getenv("KEEP_THRESHOLD", "6"))
+# 0-100 scale now. 55 = the CONSIDER threshold; anything below is SKIP.
+KEEP_THRESHOLD = int(os.getenv("KEEP_THRESHOLD", "55"))
 
 
 def run() -> None:
@@ -80,8 +79,13 @@ def run() -> None:
     exported = site_builder.export()
     log.info("STAGE export: docs/jobs.json now holds %d listings", exported)
 
-    # 8. Notify — only NEW keepers (score >= threshold), Fresh first
-    new_keepers = [j for j in new_listings if j.get("score", 0) >= KEEP_THRESHOLD]
+    # 8. Notify — only NEW keepers: priority APPLY_NOW / APPLY / CONSIDER
+    #    (SKIP and geographically-ineligible roles are never surfaced).
+    new_keepers = [
+        j for j in new_listings
+        if j.get("priority") in ("APPLY_NOW", "APPLY", "CONSIDER")
+        and j.get("eligible_for_rim") != "false"
+    ]
     notifier.notify(total_collected=len(listings), new_keepers=new_keepers, scored=scored)
 
     elapsed = (datetime.now(timezone.utc) - started).total_seconds()

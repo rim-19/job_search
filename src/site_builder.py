@@ -30,13 +30,22 @@ def export() -> int:
     for j in jobs:
         j["is_new"] = bool(latest) and (j.get("first_seen") == latest)
 
+    def pcount(p):
+        return sum(1 for j in jobs if (j.get("priority") or "") == p)
+
     payload = {
         "generated": latest,
         "jobs": jobs,
         "count": len(jobs),
-        "keepers": sum(1 for j in jobs if (j.get("score") or 0) >= 7),
+        # 0-100 scale now: "keepers" = CONSIDER+ (score >= 55).
+        "keepers": sum(1 for j in jobs if (j.get("score") or 0) >= 55),
         "fresh": sum(1 for j in jobs if j.get("freshness") == "Fresh"),
         "new_today": sum(1 for j in jobs if j.get("is_new")),
+        "apply_now": pcount("APPLY_NOW"),
+        "apply": pcount("APPLY"),
+        "consider": pcount("CONSIDER"),
+        "morocco": sum(1 for j in jobs if (j.get("geographic_scope") or "") == "MOROCCO"),
+        "eligible": sum(1 for j in jobs if (j.get("eligible_for_rim") or "") == "true"),
     }
     JOBS_JSON.write_text(
         json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8"

@@ -23,6 +23,13 @@ feeds:
     url: "https://remotewoman.com/?feed=job_feed"
   - name: "Authentic Jobs"
     url: "https://authenticjobs.com/feed/"
+  # Morocco source: Dreamjob.ma (WordPress RSS, verified live). Tech-filtered
+  # search feeds — Moroccan dev/IT jobs. geo.py then keeps only remote or
+  # Casablanca/Rabat on-site/hybrid roles.
+  - name: "Dreamjob.ma (dev)"
+    url: "https://www.dreamjob.ma/?s=developpeur&feed=rss2"
+  - name: "Dreamjob.ma (IT)"
+    url: "https://www.dreamjob.ma/?s=informatique&feed=rss2"
 
   # Working Nomads and NoDesk were requested but their public RSS endpoints
   # return 404/403 as of this build. Left here (commented) so they're easy to

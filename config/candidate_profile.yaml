@@ -1,0 +1,118 @@
+# Structured candidate profile — the single source of truth for role targeting,
+# positioning, tech, projects, and geographic eligibility. Consumed by scorer.py
+# (prompt + rule filter) and geo.py. The CV text (config/cv.txt) is the evidence
+# base; this file is the machine-readable targeting layer on top of it.
+
+positioning:
+  primary: "AI + Full-Stack Software Developer"
+  # How to describe the candidate — NOT as a single-language specialist.
+  secondary:
+    - Full-Stack Developer
+    - Backend Developer
+    - Software Developer
+    - Web Developer
+    - AI Developer
+    - LLM Developer
+    - Generative AI Developer
+    - AI Application Developer
+    - Junior Developer
+  # She knows these but must NOT be positioned as a specialist in any one.
+  not_positioned_as:
+    - Python Developer
+    - Node.js Developer
+    - Java Developer
+    - C# Developer
+    - React Developer
+
+# Target role titles, tiered. Filtering happens on actual requirements, not the
+# title alone — "Engineer" in a title is NEVER an automatic reject.
+target_roles:
+  primary:
+    - Full-Stack Developer
+    - Junior Full-Stack Developer
+    - Backend Developer
+    - Junior Backend Developer
+    - Software Developer
+    - Junior Software Developer
+    - Web Developer
+    - Junior Web Developer
+    - Application Developer
+    - Junior Application Developer
+    - AI Developer
+    - Junior AI Developer
+    - LLM Developer
+    - Generative AI Developer
+    - AI Application Developer
+    - AI Software Developer
+    - Junior Developer
+    - Entry-Level Developer
+    - Early-Career Developer
+  intern:
+    - Software Development Intern
+    - Full-Stack Intern
+    - Backend Intern
+    - Web Development Intern
+    - AI Intern
+    - AI Development Intern
+    - Developer Intern
+    - Graduate Developer
+    - Associate Developer
+  # Considered ONLY when the actual responsibilities match.
+  secondary:
+    - Solutions Developer
+    - Solutions Engineer
+    - Forward-Deployed Developer
+    - Automation Developer
+    - Developer Advocate
+    - Technical Support Engineer
+    - AI Trainer
+    - AI Automation
+    - Integration Developer
+
+# Technologies actually on the CV — do not invent beyond these.
+tech:
+  programming: [Python, JavaScript, TypeScript, Java, "C#", C, HTML, CSS]
+  frontend: [React, Next.js, Tailwind CSS, Vite]
+  backend: [Node.js, Express, FastAPI, REST APIs]
+  databases: [PostgreSQL, MySQL, SQLite, Supabase, pgvector, Turso]
+  ai_llm: [LLM applications, RAG, embeddings, vector search, pgvector, FAISS,
+           LangChain, prompt engineering, LLM fine-tuning, LoRA, NLP,
+           AI automation, AI agents]
+  devops: [Git, GitHub, GitHub Actions, CI/CD, Docker, Vercel, pytest]
+
+# Projects as evidence, with the capabilities each one proves. scorer.py asks the
+# model to pick the single most relevant project per job from this set.
+projects:
+  - name: "Nexus AI"
+    proves: "RAG, retrieval, vector search, embeddings, pgvector, FastAPI, Next.js"
+  - name: "PromptCheck"
+    proves: "LLM testing, prompt engineering, developer tooling, CI/CD, PyPI package"
+  - name: "Noesis"
+    proves: "AI learning app, voice (STT/TTS), AI tutor/agent, Next.js, LLM fallback"
+  - name: "Cupid"
+    proves: "e-commerce, backend, Stripe payments, PostgreSQL, React, Node/Express"
+  - name: "HR-Genius"
+    proves: "HR automation, AI workflows, document generation, chat + voice interface"
+  - name: "Ghazala AI"
+    proves: "LLM fine-tuning, custom language model, education domain"
+  - name: "MultiMind AI"
+    proves: "multi-topic chatbot, API integration, Node.js"
+
+links:
+  linkedin: "https://linkedin.com/in/rim-elrhezzal"
+  github: "https://github.com/rim-19"
+  portfolio: "https://rim-elrhezzal-portfolio.vercel.app/"
+
+# Geographic eligibility — a HARD requirement. See src/geo.py for the logic.
+geography:
+  home_country: Morocco
+  timezone: "UTC+0/+1 (GMT/WET, ~CET-1)"
+  # Onsite / hybrid roles are only acceptable in these Moroccan cities.
+  onsite_hybrid_cities_allowed: [casablanca, rabat]
+  # Moroccan cities to REJECT for onsite/hybrid (remote from these is fine).
+  onsite_hybrid_cities_rejected:
+    [tangier, tanger, marrakech, marrakesh, fes, fez, "fès", agadir, meknes,
+     "meknès", oujda, kenitra, tetouan, "tétouan", safi, "beni mellal", nador,
+     "el jadida", mohammedia, temara, "salé", sale]
+  # Remote from anywhere in Morocco is acceptable if genuinely remote.
+  morocco_remote_ok: true
