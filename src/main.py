@@ -18,7 +18,7 @@ load_dotenv()
 
 from .collectors import (  # noqa: E402
     api_sources, muse_source, rss_sources, landing_jobs, startup_boards,
-    playwright_sources,
+    morocco_scrape, playwright_sources,
 )
 from . import dedupe, scorer, recency, db, site_builder, notifier  # noqa: E402
 
@@ -50,6 +50,7 @@ def run() -> None:
     listings += rss_sources.fetch_all()
     listings += landing_jobs.fetch_all()
     listings += startup_boards.fetch_all()
+    listings += morocco_scrape.fetch_all()
     listings += playwright_sources.fetch_all()
     log.info("STAGE collect: %d raw listings", len(listings))
 

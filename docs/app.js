@@ -180,6 +180,50 @@ function refreshStats() {
   n("stat-new", ALL.filter(j => j.is_new).length);
 }
 
+/* ---------- analytics ---------- */
+function initAnalytics() {
+  const panel = document.getElementById("analytics");
+  const btn = document.getElementById("analytics-btn");
+  if (!panel || !btn) return;
+  btn.addEventListener("click", () => {
+    panel.hidden = !panel.hidden;
+    if (!panel.hidden) renderAnalytics();
+  });
+}
+function renderAnalytics() {
+  const isApplied = (j) => APPLIED_STATES.includes(statusFor(j));
+  const inStage = (j, arr) => arr.includes(statusFor(j));
+  const stages = [
+    ["Found", ALL.length],
+    ["To apply", ALL.filter(j => ["To Apply", "Not Applied", "Saved"].includes(statusFor(j)) && (j.priority === "APPLY_NOW" || j.priority === "APPLY")).length],
+    ["Applied", ALL.filter(isApplied).length],
+    ["Interview", ALL.filter(j => inStage(j, ["Interview", "Technical", "Offer"])).length],
+    ["Offer", ALL.filter(j => statusFor(j) === "Offer").length],
+  ];
+  const max = Math.max(1, ...stages.map(s => s[1]));
+  document.getElementById("funnel").innerHTML = stages.map(([label, n]) => `
+    <div class="fstage">
+      <div class="fbar-wrap"><div class="fbar" style="width:${Math.round(n / max * 100)}%"></div></div>
+      <div class="flabel">${label}</div><div class="fnum">${n}</div>
+    </div>`).join("");
+
+  // By source: total + applied.
+  const bySrc = {};
+  ALL.forEach(j => {
+    const s = j.source || "web";
+    (bySrc[s] = bySrc[s] || { total: 0, applied: 0 });
+    bySrc[s].total++; if (isApplied(j)) bySrc[s].applied++;
+  });
+  document.getElementById("by-source").innerHTML = Object.entries(bySrc)
+    .sort((a, b) => b[1].total - a[1].total).slice(0, 12)
+    .map(([s, v]) => `<div class="an-row"><span>${esc(s)}</span><span class="mono">${v.total}${v.applied ? ` · ${v.applied} applied` : ""}</span></div>`).join("");
+
+  // By priority.
+  const P = ["APPLY_NOW", "APPLY", "CONSIDER", "SKIP"];
+  document.getElementById("by-priority").innerHTML = P
+    .map(p => `<div class="an-row"><span>${(PRIORITY_META[p] || {}).label || p}</span><span class="mono">${ALL.filter(j => j.priority === p).length}</span></div>`).join("");
+}
+
 /* ---------- settings drawer ---------- */
 function initSettings() {
   const drawer = document.getElementById("settings");
@@ -363,6 +407,7 @@ function savePDF(job, text, spec) {
 /* ---------- init ---------- */
 async function init() {
   initSettings();
+  initAnalytics();
   document.getElementById("modal-close").addEventListener("click", closeModal);
   modal().addEventListener("click", (e) => { if (e.target === modal()) closeModal(); });
   document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !modal().hidden) closeModal(); });

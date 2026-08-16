@@ -83,19 +83,30 @@ def load_recruiters() -> list[dict]:
 
 
 def load_sent() -> set[str]:
+    """Emails already contacted (any job) — used to skip drafting."""
     if not SENT_LOG.exists():
         return set()
     with SENT_LOG.open(encoding="utf-8", newline="") as f:
         return {r["email"].lower() for r in csv.DictReader(f) if r.get("email")}
 
 
-def log_sent(email: str, subject: str) -> None:
+def load_sent_pairs() -> set[tuple[str, str]]:
+    """(email, job) pairs already sent — for per-opportunity duplicate protection."""
+    if not SENT_LOG.exists():
+        return set()
+    with SENT_LOG.open(encoding="utf-8", newline="") as f:
+        return {(r["email"].lower(), (r.get("job") or "").lower())
+                for r in csv.DictReader(f) if r.get("email")}
+
+
+def log_sent(email: str, subject: str, job: str = "") -> None:
     new = not SENT_LOG.exists()
     with SENT_LOG.open("a", encoding="utf-8", newline="") as f:
         w = csv.writer(f)
         if new:
-            w.writerow(["email", "sent_at_utc", "subject"])
-        w.writerow([email, datetime.now(timezone.utc).isoformat(timespec="seconds"), subject])
+            w.writerow(["email", "job", "sent_at_utc", "subject"])
+        w.writerow([email, job,
+                    datetime.now(timezone.utc).isoformat(timespec="seconds"), subject])
 
 
 def signature(sender: dict) -> str:
@@ -208,15 +219,19 @@ def cmd_draft(_args) -> None:
         if rec["email"].lower() in already:
             skipped += 1
             continue
+        # Optional per-opportunity id, so the same recruiter can be contacted
+        # about different jobs without tripping the duplicate check.
+        job = (rec.get("job_url") or rec.get("job") or "").strip()
+        job_hdr = f"Job: {job}\n" if job else ""
         if template:
             # Template already contains Subject: ... + body + signature.
-            content = f"To: {rec['email']}\n{render_template(template, rec)}\n"
+            content = f"To: {rec['email']}\n{job_hdr}{render_template(template, rec)}\n"
         else:
             print(f"[{i}/{len(recruiters)}] drafting for {rec['email']} ...")
             d = draft_email(rec, cv, context, cfg)
             if not d:
                 continue
-            content = f"To: {rec['email']}\nSubject: {d['subject']}\n\n{d['body']}\n\n{sig}\n"
+            content = f"To: {rec['email']}\n{job_hdr}Subject: {d['subject']}\n\n{d['body']}\n\n{sig}\n"
         path = DRAFTS / f"{i:03d}_{_safe(rec['email'])}.txt"
         path.write_text(content, encoding="utf-8")
         made += 1
@@ -233,12 +248,14 @@ def _parse_draft(path: Path) -> dict | None:
     text = path.read_text(encoding="utf-8")
     to = re.search(r"^To:\s*(.+)$", text, re.MULTILINE)
     subj = re.search(r"^Subject:\s*(.+)$", text, re.MULTILINE)
+    job = re.search(r"^Job:\s*(.+)$", text, re.MULTILINE)
     if not (to and subj):
         return None
     # Body is everything after the first blank line following the headers.
     parts = text.split("\n\n", 1)
     body = parts[1].strip() if len(parts) > 1 else ""
-    return {"to": to.group(1).strip(), "subject": subj.group(1).strip(), "body": body}
+    return {"to": to.group(1).strip(), "subject": subj.group(1).strip(),
+            "job": job.group(1).strip() if job else "", "body": body}
 
 
 def _smtp_login():
@@ -290,7 +307,7 @@ def cmd_send(args) -> None:
     if attachments:
         print(f"Attaching to every email: {', '.join(p.name for p in attachments)}")
 
-    already = load_sent()
+    pairs = load_sent_pairs()
     from_hdr = f"{sender.get('name','')} <{os.getenv('SMTP_EMAIL','')}>"
     server = email_addr = None
     sent = 0
@@ -304,8 +321,12 @@ def cmd_send(args) -> None:
             if not d:
                 print(f"  ! could not parse {path.name}, skipping")
                 continue
-            if d["to"].lower() in already:
-                print(f"  - {d['to']} already emailed, skipping")
+            pair = (d["to"].lower(), (d.get("job") or "").lower())
+            if pair in pairs:
+                # Duplicate-contact protection (item 38): same contact + same
+                # opportunity already emailed. Warn and do NOT auto-send.
+                print(f"  ⚠ An email has already been sent to {d['to']} for this "
+                      f"opportunity — skipping.")
                 continue
 
             print("\n" + "=" * 66)
@@ -342,8 +363,8 @@ def cmd_send(args) -> None:
 
             try:
                 server.send_message(msg)
-                log_sent(d["to"], d["subject"])
-                already.add(d["to"].lower())
+                log_sent(d["to"], d["subject"], d.get("job", ""))
+                pairs.add(pair)
                 path.rename(path.with_suffix(".sent"))
                 sent += 1
                 print(f"  ✓ sent to {d['to']}")
