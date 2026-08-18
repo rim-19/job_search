@@ -1,6 +1,39 @@
 {
-  "generated": "2026-08-17",
+  "generated": "2026-08-18",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/titanom-technologies/software-engineer-web-development-germering-370582",
+      "title": "Software Engineer, Web Development",
+      "company": "Titanom Technologies",
+      "location": "Germering, Germany",
+      "link": "https://www.arbeitnow.com/jobs/companies/titanom-technologies/software-engineer-web-development-germering-370582",
+      "score": 25,
+      "reason": "The job is located in Germany and requires on-site presence, making the candidate geographically ineligible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-18",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Software Engineer focused on web development and AI features, utilizing technologies like TypeScript, Next.js, React, and Python. It involves building scalable architectures and integrating ML APIs.",
+      "date_posted": "1786998039",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is in Germany, requiring EU work authorization which the candidate does not possess.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/titanom-technologies/software-engineer-web-development-germering-370582",
+      "is_new": true
+    },
     {
       "url": "https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform",
       "title": "AI/ML Engineer for an AI-Driven E-Commerce Platform",
@@ -32,7 +65,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150846-software-engineer-3",
@@ -67,7 +100,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://jobicy.com/jobs/150846-software-engineer-3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.dreamjob.ma/emploi-public/la-frmf-recherche-des-experts-it-a-sale-et-rabat/",
@@ -100,7 +133,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.dreamjob.ma/emploi-public/la-frmf-recherche-des-experts-it-a-sale-et-rabat/",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/haiar-gmbh/backend-software-engineer-ai-systems-munster-362795",
@@ -133,7 +166,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/haiar-gmbh/backend-software-engineer-ai-systems-munster-362795",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://himalayas.app/%40rishuthakur&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw3eZUentkT7eczv2Qt66UNR",
@@ -166,7 +199,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://himalayas.app/%40rishuthakur&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw3eZUentkT7eczv2Qt66UNR",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developr-remote-entry-level-at-startup-mahakumbh-4455161140&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1h72-noUNw9sHX0OPEvjcR",
@@ -202,7 +235,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developr-remote-entry-level-at-startup-mahakumbh-4455161140&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1h72-noUNw9sHX0OPEvjcR",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150845-full-stack-developer-java-react-f-m-d",
@@ -238,7 +271,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/150845-full-stack-developer-java-react-f-m-d",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.dreamjob.ma/emploi/circet-morocco-recrute-des-developpeurs-fullstack-a-casablanca/",
@@ -273,7 +306,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.dreamjob.ma/emploi/circet-morocco-recrute-des-developpeurs-fullstack-a-casablanca/",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.rekrute.com/offre-emploi-oracle-epm-resources-recrutement-dxc---cdg-rabat-185488.html",
@@ -309,7 +342,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.rekrute.com/offre-emploi-oracle-epm-resources-recrutement-dxc---cdg-rabat-185488.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.dreamjob.ma/emploi/best-biscuits-maroc-recrute-7-profils-a-had-soualem/",
@@ -345,7 +378,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.dreamjob.ma/emploi/best-biscuits-maroc-recrute-7-profils-a-had-soualem/",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.dreamjob.ma/emploi/4-postes-a-saisir-chez-ifrc-dans-la-transformation-digitale/",
@@ -380,7 +413,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.dreamjob.ma/emploi/4-postes-a-saisir-chez-ifrc-dans-la-transformation-digitale/",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.dreamjob.ma/emploi/maroc-telecom-recrute-6-profils-tech-a-rabat/",
@@ -416,7 +449,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.dreamjob.ma/emploi/maroc-telecom-recrute-6-profils-tech-a-rabat/",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/primion-technology-gmbh/remote-fullstack-developer-system-modernization-strategic-delivery-282401",
@@ -451,7 +484,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/primion-technology-gmbh/remote-fullstack-developer-system-modernization-strategic-delivery-282401",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/neural-frames/product-engineer-growth-ai-music-video-platform-berlin-86165",
@@ -484,7 +517,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/neural-frames/product-engineer-growth-ai-music-video-platform-berlin-86165",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.dreamjob.ma/emploi/infotel-lance-un-recrutement-pour-plusieurs-developpeurs-full-stack/",
@@ -519,7 +552,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.dreamjob.ma/emploi/infotel-lance-un-recrutement-pour-plusieurs-developpeurs-full-stack/",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-353000",
@@ -552,7 +585,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-353000",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/synthesia/56fe08af-6704-4b1f-a157-00561e4c5991",
@@ -588,7 +621,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/synthesia/56fe08af-6704-4b1f-a157-00561e4c5991",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/frobese-gmbh-informatikservices/fullstack-entwicklerin-im-finanzdienstleistungsumfeld-hanover-227937",
@@ -624,7 +657,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/frobese-gmbh-informatikservices/fullstack-entwicklerin-im-finanzdienstleistungsumfeld-hanover-227937",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/full-stack-developer-junior%25E2%2580%2593mid-remote-%25E2%2580%2593-india-%2524300%25E2%2580%2593%2524500-month-real-projects-real-growth-at-zangula-4451775178&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw3cbqId_I8wJdZo8V7baQrt",
@@ -657,7 +690,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/full-stack-developer-junior%25E2%2580%2593mid-remote-%25E2%2580%2593-india-%2524300%25E2%2580%2593%2524500-month-real-projects-real-growth-at-zangula-4451775178&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw3cbqId_I8wJdZo8V7baQrt",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/martech-engineer-london-307233",
@@ -690,7 +723,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/martech-engineer-london-307233",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/almedia/ua-trainee-berlin-387712",
@@ -726,7 +759,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/almedia/ua-trainee-berlin-387712",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/stretto-inc/jobs/software-engineer",
@@ -759,7 +792,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/stretto-inc/jobs/software-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150844-mid-level-front-end-engineer",
@@ -792,7 +825,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/150844-mid-level-front-end-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-quality-checker-intechnative-1136776",
@@ -828,7 +861,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://remoteOK.com/remote-jobs/remote-quality-checker-intechnative-1136776",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/virtu/software-engineer-java-london-49415",
@@ -861,7 +894,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/virtu/software-engineer-java-london-49415",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/nogigiddy-chat-support-agent-remote-entry-level-no-degree-required-15-18-per-hour-at-online-jobs-philippines-work-at-home-4451745740&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2YGgoG1P2-onXz7xFIu-cj",
@@ -894,7 +927,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/nogigiddy-chat-support-agent-remote-entry-level-no-degree-required-15-18-per-hour-at-online-jobs-philippines-work-at-home-4451745740&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2YGgoG1P2-onXz7xFIu-cj",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/qa-analys-australia-only-remote-entry-level-at-vakansiyalar-v%25C9%2599-i%25C5%259F-elanlar%25C4%25B1-asimos-az-4441141623&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0_AtsiarsnW2Xonj4kT52h",
@@ -927,7 +960,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/qa-analys-australia-only-remote-entry-level-at-vakansiyalar-v%25C9%2599-i%25C5%259F-elanlar%25C4%25B1-asimos-az-4441141623&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0_AtsiarsnW2Xonj4kT52h",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-geotechnical-engineer-373705",
@@ -960,7 +993,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-geotechnical-engineer-373705",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-benefits-specialist-entry-level-we-train-at-the-mires-agency-4455133765&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2GDHWAcByqytWcmAKe0TVa",
@@ -993,7 +1026,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-benefits-specialist-entry-level-we-train-at-the-mires-agency-4455133765&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2GDHWAcByqytWcmAKe0TVa",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-civil-engineer-296837",
@@ -1026,7 +1059,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-civil-engineer-296837",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-sales-at-alleviation-enterprise-llc-4451765716&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw06okvSxpt7p_QHiYbiwZkj",
@@ -1062,7 +1095,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-sales-at-alleviation-enterprise-llc-4451765716&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw06okvSxpt7p_QHiYbiwZkj",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/financial-advisor-entry-level-remote-at-steadfast-financial-group-4453949192&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2yfl2a__NzsKwPkO5XR0RP",
@@ -1095,7 +1128,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/financial-advisor-entry-level-remote-at-steadfast-financial-group-4453949192&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2yfl2a__NzsKwPkO5XR0RP",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.dreamjob.ma/emploi/4-postes-ouverts-chez-parthenon-holding-et-ses-filiales/",
@@ -1131,7 +1164,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.dreamjob.ma/emploi/4-postes-ouverts-chez-parthenon-holding-et-ses-filiales/",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-valuer-gold-loan-idfc-first-bank-1136788",
@@ -1167,7 +1200,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://remoteOK.com/remote-jobs/remote-valuer-gold-loan-idfc-first-bank-1136788",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/hr-support-officer-australia-only-remote-entry-level-at-agile-automations-4455151833&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2qR6jdHY3BtSDEY656bLQc",
@@ -1200,7 +1233,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/hr-support-officer-australia-only-remote-entry-level-at-agile-automations-4455151833&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2qR6jdHY3BtSDEY656bLQc",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-hotel-reservationist-entry-level-at-travel-career-hub-4452204110&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ilyzbmcGMgYXz-K8TwcuX",
@@ -1233,7 +1266,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-hotel-reservationist-entry-level-at-travel-career-hub-4452204110&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ilyzbmcGMgYXz-K8TwcuX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/graduate-sales-executive-at-united-media-london-404608",
@@ -1266,7 +1299,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/graduate-sales-executive-at-united-media-london-404608",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-sales-executive-at-setsales-london-366770",
@@ -1299,7 +1332,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-sales-executive-at-setsales-london-366770",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/software-engineer-ii-fullstack-international-70045",
@@ -74694,10 +74727,10 @@
       "is_new": false
     }
   ],
-  "count": 2262,
+  "count": 2263,
   "keepers": 354,
-  "fresh": 1711,
-  "new_today": 38,
+  "fresh": 1712,
+  "new_today": 1,
   "apply_now": 3,
   "apply": 1,
   "consider": 3,
