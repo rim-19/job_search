@@ -25,12 +25,13 @@ const GEMINI_MODEL = "gemini-2.5-flash-lite";
 const GROQ_MODEL = "llama-3.3-70b-versatile";
 
 // Rim's CV pre-filled as a convenient default (editable in Settings).
-const DEFAULT_CV = `Rim Elrhezzal — Junior Software Developer (Casablanca, Morocco)
-Skills: Python, JavaScript, TypeScript, HTML, CSS, C#, C, Java; React.js, Next.js, Node.js, Express, LangChain; PostgreSQL, SQLite; NLP, LLM fine-tuning, prompt engineering, automation, API integration; Stripe.
-Experience: Web Development Intern at Indusfer (2026) — built ResumeIQ, an AI-powered CV analysis platform.
-Projects: MultiMind AI (multi-topic chatbot, Node.js); Ghazala AI (LLM exam generator, fine-tuning); HR-Genius (AI + workflow automation for HR, chat & voice); Cupid (e-commerce bookshop with React, Node/Express, PostgreSQL, Stripe).
-Education: Higher Diploma in Application Development (BTS). Certifications: Prompt Engineering (AWS), Generative AI (IBM), AI for Beginners (HP LIFE).
-Languages: Arabic (native), French (professional), English (full professional). Seeking junior, fully-remote, worldwide roles.`;
+const DEFAULT_CV = `Rim Elrhezzal — AI + Full-Stack Software Developer (Casablanca, Morocco). elrhezzalrim@gmail.com | linkedin.com/in/rim-elrhezzal | github.com/rim-19 | rim-elrhezzal-portfolio.vercel.app
+Summary: Early-career developer specializing in AI-first, full-stack apps; builds LLM products end to end (RAG, conversational/autonomous agents, fine-tuned models).
+Skills: Python, JavaScript, TypeScript, Java, C#, C, HTML, CSS; React, Next.js, Tailwind, Vite; Node.js, Express, FastAPI, REST APIs; PostgreSQL, MySQL, SQLite, Supabase (pgvector), Turso; RAG, LLM fine-tuning (LoRA), NLP, vector search & embeddings (pgvector, FAISS), LangChain, prompt engineering, AI agents, automation; Git, GitHub Actions (CI/CD), Docker, Vercel, Stripe, pytest.
+Experience: Software Developer at North&West (2026, client projects + internal prospecting tools); Web Dev Intern at Indusfer (2026, built ResumeIQ AI CV-analysis platform).
+Projects: Nexus AI (production RAG platform, FastAPI/Next.js/Supabase pgvector, hybrid retrieval + reranking + multi-provider LLM fallback); PromptCheck (open-source Python CLI on PyPI for LLM prompt testing & drift detection, GitHub Actions CI); Noesis (voice/chat learning app, agentic tutor, ElevenLabs voice, Turso); Cupid (e-commerce, React/Node/Express/PostgreSQL/Stripe); HR-Genius (AI + workflow automation for HR); Ghazala AI (LoRA fine-tuned exam generator); MultiMind AI (multi-topic chatbot).
+Education: Higher Diploma in Application Development (BTS). Certifications: Foundations of Prompt Engineering (AWS), Generative AI (IBM), AI for Beginners (HP LIFE).
+Languages: Arabic (native), English (full professional), French (professional). Seeking junior/entry-level developer roles, remote worldwide or Morocco (Casablanca/Rabat).`;
 
 let ALL = [];
 
