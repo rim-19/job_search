@@ -1,6 +1,41 @@
 {
-  "generated": "2026-08-18",
+  "generated": "2026-08-19",
   "jobs": [
+    {
+      "url": "https://weworkremotely.com/remote-jobs/sur-full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Sur",
+      "location": "Anywhere in the World",
+      "link": "https://weworkremotely.com/remote-jobs/sur-full-stack-developer",
+      "score": 45,
+      "reason": "The role's 3+ years of experience requirement for both frontend and backend development is a significant mismatch for a junior candidate, despite the AI focus and remote nature.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-19",
+      "source": "WeWorkRemotely (Full-Stack)",
+      "summary": "This role is for a Full Stack Developer with a strong emphasis on AI internal tools, requiring 3+ years of experience in both React/NextJS and Python/Django. While the candidate has relevant AI and full-stack skills, the experience requirement is too high for a junior position.",
+      "date_posted": "Tue, 18 Aug 2026 20:35:57 +0000",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "priority": "CONSIDER",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate meets geographic and remote work requirements.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": 3,
+      "education_requirement": "equivalent_allowed",
+      "gaps": [
+        "Experience requirement (3+ years) exceeds junior level."
+      ],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://weworkremotely.com/remote-jobs/sur-full-stack-developer",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-159693",
       "title": "(Junior) Data Engineer - Data Platform (m/f/d)",
@@ -35,7 +70,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-159693",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-edinburgh-477888",
@@ -68,7 +103,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-edinburgh-477888",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-construction-job-vacancy-4452557997&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0YD_Hd812UGg6EDDQNN8-z",
@@ -103,7 +138,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-construction-job-vacancy-4452557997&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0YD_Hd812UGg6EDDQNN8-z",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150975-backend-software-engineer-2",
@@ -139,7 +174,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/150975-backend-software-engineer-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/titanom-technologies/software-engineer-web-development-germering-370582",
@@ -172,7 +207,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/titanom-technologies/software-engineer-web-development-germering-370582",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-le-de-tour-france-4455534969&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3-LI9L-xawGyUYfRFC4TSr",
@@ -208,7 +243,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-le-de-tour-france-4455534969&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3-LI9L-xawGyUYfRFC4TSr",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-full-stack-integration-developer-w2-only-at-kpg99-inc-4455343080&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2TvOZ54U1WXa87NinokHLe",
@@ -243,7 +278,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-full-stack-integration-developer-w2-only-at-kpg99-inc-4455343080&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2TvOZ54U1WXa87NinokHLe",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/recruiter-entry-level-training-provided-at-relevant-search-4454263150&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0PtlOywNsRgwR3f4dOE5Gh",
@@ -278,7 +313,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/recruiter-entry-level-training-provided-at-relevant-search-4454263150&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0PtlOywNsRgwR3f4dOE5Gh",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-consulting-specialist-no-experience-required-at-miller-family-agency-4455307885%3Fposition%3D42%26pageNum%3D0%26refId%3Df4j2lOUiO7YJQgM4zROb%252BQ%253D%253D%26trackingId%3DkQMniiaef%252FM4VtvlnQatqQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0WsKp4b8fKoaROQknSMEpF",
@@ -313,7 +348,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-consulting-specialist-no-experience-required-at-miller-family-agency-4455307885%3Fposition%3D42%26pageNum%3D0%26refId%3Df4j2lOUiO7YJQgM4zROb%252BQ%253D%253D%26trackingId%3DkQMniiaef%252FM4VtvlnQatqQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0WsKp4b8fKoaROQknSMEpF",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150972-customer-onboarding-specialist",
@@ -349,7 +384,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/150972-customer-onboarding-specialist",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/hr-support-officer-remote-entry-level-at-classified-jobs-pakistan-job-ke-liye-hrpostingpartner-com-4454266839&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0MDZtkTqTtS7rU0GonMYQ1",
@@ -384,7 +419,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/hr-support-officer-remote-entry-level-at-classified-jobs-pakistan-job-ke-liye-hrpostingpartner-com-4454266839&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0MDZtkTqTtS7rU0GonMYQ1",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-travel-advisor-%25E2%2580%2594-remote-at-ekj-travel-beyond-4455290620&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2lOUR2PT9IM3Qgh4_76_70",
@@ -417,7 +452,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-travel-advisor-%25E2%2580%2594-remote-at-ekj-travel-beyond-4455290620&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2lOUR2PT9IM3Qgh4_76_70",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/sales-representative-remote-entry-level-with-trainings-at-max-spencer-company-4454274623&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0TlZljGOGIpHWbJCz0LESU",
@@ -453,7 +488,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/sales-representative-remote-entry-level-with-trainings-at-max-spencer-company-4454274623&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0TlZljGOGIpHWbJCz0LESU",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-online-reservations-specialist-entry-level-at-travel-career-hub-4452270603&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3FtMecce0P7UK0K1gSkevd",
@@ -486,7 +521,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-online-reservations-specialist-entry-level-at-travel-career-hub-4452270603&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3FtMecce0P7UK0K1gSkevd",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/graduate-sales-executive-at-retail-insights-london-349541",
@@ -519,7 +554,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/graduate-sales-executive-at-retail-insights-london-349541",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/client-sales-representative-entry-level-and-fully-remote-at-summit-sky-consulting-4454285070&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2W_QxmNHDcztL7aKVUej_t",
@@ -552,7 +587,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/client-sales-representative-entry-level-and-fully-remote-at-summit-sky-consulting-4454285070&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2W_QxmNHDcztL7aKVUej_t",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-representative%25E2%2580%2593-uncapped-commission-base-%252B-commission-at-unishippers-hudson-group-4454276595&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0yTXPPDAiarOoyXwLti343",
@@ -585,7 +620,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-representative%25E2%2580%2593-uncapped-commission-base-%252B-commission-at-unishippers-hudson-group-4454276595&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0yTXPPDAiarOoyXwLti343",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/graduate-sales-executive-cfo-insights-london-411296",
@@ -618,7 +653,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/graduate-sales-executive-cfo-insights-london-411296",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-90k-350k-at-longview-wealth-group-4454273760&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw29A5YyLPvvbVK1UOOBgVzR",
@@ -654,7 +689,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-90k-350k-at-longview-wealth-group-4454273760&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw29A5YyLPvvbVK1UOOBgVzR",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-barnes-life-solutions-4455322473&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3PLyhVv-WcdEmJava6y24_",
@@ -690,7 +725,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-barnes-life-solutions-4455322473&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3PLyhVv-WcdEmJava6y24_",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-flexible-schedule-at-barnes-life-solutions-4455309589&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Jb24wZ3YB10X7BtCo1Fgk",
@@ -723,7 +758,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-flexible-schedule-at-barnes-life-solutions-4455309589&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Jb24wZ3YB10X7BtCo1Fgk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-consultant-%25E2%2580%2593-remote-at-the-hunt-agency-inc-4454267958&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0rT1Chyit9yMOYQGdtzjFS",
@@ -756,7 +791,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-consultant-%25E2%2580%2593-remote-at-the-hunt-agency-inc-4454267958&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0rT1Chyit9yMOYQGdtzjFS",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform",
@@ -75451,13 +75486,13 @@
       "is_new": false
     }
   ],
-  "count": 2284,
+  "count": 2285,
   "keepers": 354,
-  "fresh": 1733,
-  "new_today": 22,
+  "fresh": 1734,
+  "new_today": 1,
   "apply_now": 3,
   "apply": 1,
-  "consider": 4,
+  "consider": 5,
   "morocco": 7,
-  "eligible": 7
+  "eligible": 8
 }
