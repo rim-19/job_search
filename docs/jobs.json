@@ -1,6 +1,41 @@
 {
-  "generated": "2026-08-19",
+  "generated": "2026-08-20",
   "jobs": [
+    {
+      "url": "https://jobicy.com/jobs/151128-sr-software-engineer",
+      "title": "Sr. Software Engineer",
+      "company": "Socket",
+      "location": "Anywhere",
+      "link": "https://jobicy.com/jobs/151128-sr-software-engineer",
+      "score": 30,
+      "reason": "The job title 'Sr. Software Engineer' and description indicating an 'early member of the team' who will 'form the defining DNA' and 'set up foundational frameworks' strongly suggest a senior-level role requiring significant experience, which does not align with the candidate's early-career profile.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-20",
+      "source": "Jobicy",
+      "summary": "This role is for a Senior Software Engineer at Socket, a company focused on open-source security. The position involves building the Socket web application end-to-end, collaborating with design and engineering teams, and shaping the company's culture and foundational frameworks. It requires a fast-paced, impactful contribution.",
+      "date_posted": "2026-08-19T14:48:58+00:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role explicitly targets senior engineers with significant experience, contradicting candidate's early-career profile.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "SENIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Seniority mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://jobicy.com/jobs/151128-sr-software-engineer",
+      "is_new": true
+    },
     {
       "url": "https://weworkremotely.com/remote-jobs/valsoft-corporation-ai-native-full-stack-product-engineer",
       "title": "AI-Native Full Stack Product Engineer",
@@ -32,7 +67,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://weworkremotely.com/remote-jobs/valsoft-corporation-ai-native-full-stack-product-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/entry-level-software-developer-junior-developer-software-developer-at-vu-earth-sciences-4452865169&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0DVY5lTY664-_8PAAIEWxh",
@@ -65,7 +100,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/entry-level-software-developer-junior-developer-software-developer-at-vu-earth-sciences-4452865169&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0DVY5lTY664-_8PAAIEWxh",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai-1",
@@ -98,7 +133,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai-1",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-product-engineer-391562",
@@ -131,7 +166,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/0g/remote-product-engineer-391562",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developerr-remote-entry-level-at-yashwantrao-mohite-college-of-arts-science-and-commerce-pune-4455594042&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3SW2Sour8CxZhzKHaCd1TC",
@@ -164,7 +199,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developerr-remote-entry-level-at-yashwantrao-mohite-college-of-arts-science-and-commerce-pune-4455594042&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3SW2Sour8CxZhzKHaCd1TC",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-force-maritime-des-fusiliers-marins-et-commandos-4452888559&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1M3GmJSj7q6Gz31KmrUwsR",
@@ -197,7 +232,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-force-maritime-des-fusiliers-marins-et-commandos-4452888559&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1M3GmJSj7q6Gz31KmrUwsR",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/charisma-tec-junior-devops-engineer-ci-cd-developer-tooling-remote-m-f-d",
@@ -233,7 +268,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/charisma-tec-junior-devops-engineer-ci-cd-developer-tooling-remote-m-f-d",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/frontend-software-engineer-100-remote-united-kindom-470934",
@@ -266,7 +301,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/frontend-software-engineer-100-remote-united-kindom-470934",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/sur-full-stack-developer",
@@ -301,7 +336,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://weworkremotely.com/remote-jobs/sur-full-stack-developer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/alphacoders-gmbh/software-developer-cloud-services-bonn-103572",
@@ -334,7 +369,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/alphacoders-gmbh/software-developer-cloud-services-bonn-103572",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/attio/product-engineer-united-kingdom-150195",
@@ -370,7 +405,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/attio/product-engineer-united-kingdom-150195",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/letly/software-engineer-london-375270",
@@ -403,7 +438,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/letly/software-engineer-london-375270",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-105141",
@@ -439,7 +474,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-105141",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/bsi-software/software-engineer-all-genders-de-darmstadt-33666",
@@ -472,7 +507,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/bsi-software/software-engineer-all-genders-de-darmstadt-33666",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/bsi-software/web-frontend-developer-all-genders-de-hamburg-156047",
@@ -509,7 +544,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/bsi-software/web-frontend-developer-all-genders-de-hamburg-156047",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151020-infrastructure-engineer-brazil",
@@ -542,7 +577,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151020-infrastructure-engineer-brazil",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/andela-product-designer",
@@ -578,7 +613,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/andela-product-designer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-adumeau-perception-engineering-%25E2%2580%25A2-private-assets-4456156729&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1xfNXI5XfE1cOJsrxBH7pF",
@@ -613,7 +648,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-adumeau-perception-engineering-%25E2%2580%25A2-private-assets-4456156729&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1xfNXI5XfE1cOJsrxBH7pF",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-quikthreads-gift-shop-4454457127&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0VBCrg9HKi1BOCqb7sZcGd",
@@ -649,7 +684,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-quikthreads-gift-shop-4454457127&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0VBCrg9HKi1BOCqb7sZcGd",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/trainee-entry-level-recruitment-and-data-entry-support-at-talent-junction-llc-4454772989&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0yhwEGeaeikFM-2njJmkub",
@@ -682,7 +717,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/trainee-entry-level-recruitment-and-data-entry-support-at-talent-junction-llc-4454772989&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0yhwEGeaeikFM-2njJmkub",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-freelance-translator-at-northplus-health-system-4452815580&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3LIkivRJQmLrsSsAwq3m_R",
@@ -715,7 +750,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-freelance-translator-at-northplus-health-system-4452815580&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3LIkivRJQmLrsSsAwq3m_R",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/media-sales-marketing-associate-entry-level-remote-commission-at-arketekxr-4455972740&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2rNnwuspsliHs4k_WsJntZ",
@@ -748,7 +783,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/media-sales-marketing-associate-entry-level-remote-commission-at-arketekxr-4455972740&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2rNnwuspsliHs4k_WsJntZ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-insurance-sales-representative-entry-level-training-at-mitru-partners-agency-4452828595&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0sGiWRqbHUtXGUqq9_enjh",
@@ -783,7 +818,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-insurance-sales-representative-entry-level-training-at-mitru-partners-agency-4452828595&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0sGiWRqbHUtXGUqq9_enjh",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-159693",
@@ -76235,10 +76270,10 @@
       "is_new": false
     }
   ],
-  "count": 2307,
+  "count": 2308,
   "keepers": 362,
-  "fresh": 1756,
-  "new_today": 23,
+  "fresh": 1757,
+  "new_today": 1,
   "apply_now": 6,
   "apply": 3,
   "consider": 8,
