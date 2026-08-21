@@ -1,6 +1,110 @@
 {
-  "generated": "2026-08-20",
+  "generated": "2026-08-21",
   "jobs": [
+    {
+      "url": "https://jobs.ashbyhq.com/posthog/2ef3a11c-e7cc-4d67-861f-45168eb84b87",
+      "title": "UX Engineer",
+      "company": "PostHog",
+      "location": "Remote",
+      "link": "https://jobs.ashbyhq.com/posthog/2ef3a11c-e7cc-4d67-861f-45168eb84b87",
+      "score": 75,
+      "reason": "The role is remote and the candidate's skills in AI/LLM, full-stack development (React/Next.js, Node.js/Express, FastAPI), and databases align well with PostHog's product focus, particularly their AI initiatives. While the title is 'UX Engineer', the description emphasizes product development and AI",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-21",
+      "source": "PostHog (careers)",
+      "summary": "This remote role at PostHog aligns with the candidate's AI-first, full-stack development expertise. The company's focus on AI devtools and autonomous product development strongly matches the candidate's project experience in RAG, AI agents, and LLM fine-tuning.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "priority": "APPLY",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate is based in Morocco and the role is remote worldwide, fitting geographic and remote work requirements.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": 2,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://jobs.ashbyhq.com/posthog/2ef3a11c-e7cc-4d67-861f-45168eb84b87",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-technical-support-engineer-89334",
+      "title": "Technical Support Engineer",
+      "company": "Constructor",
+      "location": "Remote - EMEA",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-technical-support-engineer-89334",
+      "score": 45,
+      "reason": "The role is for a Technical Support Engineer, which is not a primary target role for the candidate who is an AI + Full-Stack Software Developer. While the candidate has technical skills, the focus is on support rather than development.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-21",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Technical Support Engineer in the EMEA region, focusing on customer enablement and issue resolution. The candidate is an AI + Full-Stack Software Developer with a strong technical background, but the role's primary function is support, not development.",
+      "date_posted": "1787251224",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "priority": "CONSIDER",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Geographically eligible for remote EMEA, but the role is not a primary fit.",
+      "geographic_scope": "EMEA",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Role is primarily technical support, not a development role."
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-technical-support-engineer-89334",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/ai-enablement-engineer-london-250867",
+      "title": "AI Enablement Engineer",
+      "company": "Skin Analytics",
+      "location": "London",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/ai-enablement-engineer-london-250867",
+      "score": 15,
+      "reason": "The job title explicitly states 'Senior AI Enablement Engineer' and the description emphasizes enabling teams and maximizing value, indicating a senior level of experience that the candidate does not possess. Additionally, the location in London is not feasible for the candidate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-21",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Senior AI Enablement Engineer at Skin Analytics, a health tech company focused on AI in dermatology. The position requires significant experience in enabling AI-assisted software development and is based in London.",
+      "date_posted": "1787262019",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role requires senior-level experience and is located in London, UK, which is outside the candidate's geographic constraints.",
+      "geographic_scope": "UK_ONLY",
+      "remote_type": "UNKNOWN",
+      "seniority": "SENIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Seniority mismatch",
+        "Geographic mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/ai-enablement-engineer-london-250867",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-product-engineer-26924",
       "title": "Product Engineer",
@@ -32,7 +136,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-product-engineer-26924",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-ibloom-learning-ibloom-io-4456420603&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw125d7Y81JR_RYO5sTWqLcS",
@@ -65,7 +169,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-ibloom-learning-ibloom-io-4456420603&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw125d7Y81JR_RYO5sTWqLcS",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-full-stack-developer-at-prameela-onesuite-pvt-ltd-4452812312&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw17Mg93eOWqXZkcNiqhZKgC",
@@ -100,7 +204,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-full-stack-developer-at-prameela-onesuite-pvt-ltd-4452812312&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw17Mg93eOWqXZkcNiqhZKgC",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-ibloom-learning-ibloom-io-4456477004&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2vl7C60f3FxsupOn_l8IGb",
@@ -133,7 +237,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-ibloom-learning-ibloom-io-4456477004&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2vl7C60f3FxsupOn_l8IGb",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/greenventory-gmbh/software-engineerin-frontend-focused-freiburg-im-breisgau-143894",
@@ -169,7 +273,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/greenventory-gmbh/software-engineerin-frontend-focused-freiburg-im-breisgau-143894",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151128-sr-software-engineer",
@@ -204,7 +308,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151128-sr-software-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/full-stack-developer-ai-integration-aachen-382792",
@@ -237,7 +341,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/full-stack-developer-ai-integration-aachen-382792",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/full-stack-developer-ai-integration-aachen-84885",
@@ -273,7 +377,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/full-stack-developer-ai-integration-aachen-84885",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/souk/full-stack-engineer-london-182572",
@@ -309,7 +413,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/souk/full-stack-engineer-london-182572",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-pune-hr-tribe-4453804759&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3v8scTJdr70gIbBPJBCzTw",
@@ -344,7 +448,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-pune-hr-tribe-4453804759&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3v8scTJdr70gIbBPJBCzTw",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/base-com-full-stack-developer-bl-paczka",
@@ -377,7 +481,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/base-com-full-stack-developer-bl-paczka",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-consultant-2026-27-graduate-berlin-305630",
@@ -410,7 +514,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-consultant-2026-27-graduate-berlin-305630",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151168-fullstack-engineer",
@@ -446,7 +550,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151168-fullstack-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151154-ai-tooling-engineer",
@@ -479,7 +583,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151154-ai-tooling-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://bd.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-warehouse-ai-4454940735&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1s893Wcm_wZPY-L9ugl6hk",
@@ -514,7 +618,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://bd.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-warehouse-ai-4454940735&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1s893Wcm_wZPY-L9ugl6hk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/software-engineer-frontend-payments-london-116974",
@@ -550,7 +654,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/software-engineer-frontend-payments-london-116974",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/vrchat-com/jobs/engineer-ii-trust-and-safety",
@@ -583,7 +687,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/vrchat-com/jobs/engineer-ii-trust-and-safety",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-core-education-technologies-limited-4455486310&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3GE_azaVCYl_B4yDu_9Ys3",
@@ -618,7 +722,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-core-education-technologies-limited-4455486310&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3GE_azaVCYl_B4yDu_9Ys3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-representative-entry-level-at-kensington-partners-group-4454994066&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0t97HL1VRKn65JvDsRAsbf",
@@ -654,7 +758,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-representative-entry-level-at-kensington-partners-group-4454994066&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0t97HL1VRKn65JvDsRAsbf",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151177-1-on-1-math-tutor-grades-5-8",
@@ -687,7 +791,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151177-1-on-1-math-tutor-grades-5-8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-financial-associate-entry-level-training-provided-at-jones-solutions-agency-4456375894&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2F5X7yQ4rAfaf1jeBhoi9O",
@@ -722,7 +826,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-financial-associate-entry-level-training-provided-at-jones-solutions-agency-4456375894&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2F5X7yQ4rAfaf1jeBhoi9O",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/wfh-customer-support-representative-%25E2%2580%2593-entry-level-globe-life-ail-at-nwarkansas-4453839129&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0C-9RvwA_-AKB6nH1vrqcQ",
@@ -757,7 +861,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/wfh-customer-support-representative-%25E2%2580%2593-entry-level-globe-life-ail-at-nwarkansas-4453839129&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0C-9RvwA_-AKB6nH1vrqcQ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://sa.linkedin.com/jobs/view/entry-level-administrative-assistant-remote-at-pulsemedianl-4456455095&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2XmGU-8AkT43P8Zo4Y9gXO",
@@ -790,7 +894,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://sa.linkedin.com/jobs/view/entry-level-administrative-assistant-remote-at-pulsemedianl-4456455095&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2XmGU-8AkT43P8Zo4Y9gXO",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-sales-opportunity-open-to-recent-graduates-at-wilbur-smith-agency-4455419163&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0br4DSOwKHC83x1PxYZ7Od",
@@ -823,7 +927,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-sales-opportunity-open-to-recent-graduates-at-wilbur-smith-agency-4455419163&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0br4DSOwKHC83x1PxYZ7Od",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-representative-no-experience-required-full-training-at-legacy-harbor-advisors-4454997041&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0PfaMr72xe7VlTOObZjn6k",
@@ -856,7 +960,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-representative-no-experience-required-full-training-at-legacy-harbor-advisors-4454997041&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0PfaMr72xe7VlTOObZjn6k",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/valsoft-corporation-ai-native-full-stack-product-engineer",
@@ -77092,13 +77196,13 @@
       "is_new": false
     }
   ],
-  "count": 2332,
-  "keepers": 366,
-  "fresh": 1781,
-  "new_today": 25,
+  "count": 2335,
+  "keepers": 367,
+  "fresh": 1783,
+  "new_today": 3,
   "apply_now": 8,
-  "apply": 5,
-  "consider": 8,
+  "apply": 6,
+  "consider": 9,
   "morocco": 7,
-  "eligible": 20
+  "eligible": 22
 }
