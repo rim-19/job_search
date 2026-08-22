@@ -1,6 +1,39 @@
 {
-  "generated": "2026-08-21",
+  "generated": "2026-08-22",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-software-engineers-hamburg-403221",
+      "title": "Hackers wanted – Software Engineers",
+      "company": "freiheit.com technologies",
+      "location": "Hamburg",
+      "link": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-software-engineers-hamburg-403221",
+      "score": 30,
+      "reason": "The job is located in Hamburg, Germany, which is not a location the candidate can relocate to or work from remotely as per their geographic constraints.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-22",
+      "source": "Arbeitnow",
+      "summary": "This role is for Software Engineers at freiheit.com technologies, focusing on building custom, large-scale software platforms. The company emphasizes a strong engineering culture and has offices in Hamburg and Lisbon.",
+      "date_posted": "1787333051",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Hamburg is not within the candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "UNKNOWN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-software-engineers-hamburg-403221",
+      "is_new": true
+    },
     {
       "url": "https://jobs.ashbyhq.com/posthog/2ef3a11c-e7cc-4d67-861f-45168eb84b87",
       "title": "UX Engineer",
@@ -32,7 +65,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://jobs.ashbyhq.com/posthog/2ef3a11c-e7cc-4d67-861f-45168eb84b87",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/synthesia/6730e2e5-0d32-4919-a438-625f1673b70c",
@@ -68,7 +101,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://jobs.ashbyhq.com/synthesia/6730e2e5-0d32-4919-a438-625f1673b70c",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/dualentry/jobs/backend-software-engineer-mid-level-4842320061",
@@ -103,7 +136,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/dualentry/jobs/backend-software-engineer-mid-level-4842320061",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-technical-support-engineer-89334",
@@ -138,7 +171,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-technical-support-engineer-89334",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/coin-market-cap-devops-engineer-contractor",
@@ -173,7 +206,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/coin-market-cap-devops-engineer-contractor",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/wizinc/expert-backend-engineer-london-462220",
@@ -206,7 +239,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/wizinc/expert-backend-engineer-london-462220",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/nemox-gmbh/founding-engineer-full-stack-ai-munich-366587",
@@ -242,7 +275,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/nemox-gmbh/founding-engineer-full-stack-ai-munich-366587",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/agentic-ai-developer-intern-junior-developer-remote-%25E2%2580%2594-india-bangladesh-pakistan-at-clariza-ai-4448119325&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw2WC938v8QIQMF7KZD28I9p",
@@ -275,7 +308,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/agentic-ai-developer-intern-junior-developer-remote-%25E2%2580%2594-india-bangladesh-pakistan-at-clariza-ai-4448119325&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw2WC938v8QIQMF7KZD28I9p",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/ai-enablement-engineer-london-250867",
@@ -311,7 +344,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/ai-enablement-engineer-london-250867",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-talento-pricetravel-holding-4454165102&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3wVE_6PQcC4J9-WCi1n-V3",
@@ -346,7 +379,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-talento-pricetravel-holding-4454165102&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3wVE_6PQcC4J9-WCi1n-V3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-gladex-travel-and-tours-corp-4454160137&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1YCM6f-kh1rCX5a0mgGzAR",
@@ -382,7 +415,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-gladex-travel-and-tours-corp-4454160137&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1YCM6f-kh1rCX5a0mgGzAR",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151305-support-engineer-apac",
@@ -418,7 +451,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151305-support-engineer-apac",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-core-ims-learning-4456092769&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3NQK54MczS6oF6Knq0eO43",
@@ -453,7 +486,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-core-ims-learning-4456092769&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3NQK54MczS6oF6Knq0eO43",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-viernheim-hesse-52419",
@@ -486,7 +519,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-viernheim-hesse-52419",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151300-support-engineer-amer",
@@ -522,7 +555,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151300-support-engineer-amer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/elevate-and-delegate/jobs/seo-expert",
@@ -558,7 +591,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/elevate-and-delegate/jobs/seo-expert",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-biyaheko-ph-4454198199&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Q8-OfZ8T5PoYBcNsIIvcX",
@@ -594,7 +627,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-biyaheko-ph-4454198199&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Q8-OfZ8T5PoYBcNsIIvcX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-g-spa-travel-s-a-s-4454168064&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2si0Z_NWLxIcdWsQf2cQlJ",
@@ -627,7 +660,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-g-spa-travel-s-a-s-4454168064&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2si0Z_NWLxIcdWsQf2cQlJ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-stop-tobacco-bangladesh-4454168200&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2zeOrlvVZPYRnBpqvE7K9U",
@@ -662,7 +695,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-stop-tobacco-bangladesh-4454168200&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2zeOrlvVZPYRnBpqvE7K9U",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-part-time-remote-at-nexxaworks-4453897471&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3T1gf99vi0JdwGQkC6Qb5R",
@@ -697,7 +730,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-part-time-remote-at-nexxaworks-4453897471&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3T1gf99vi0JdwGQkC6Qb5R",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-admin-fully-remote-at-work-and-study-travel-jobs-4453892653&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3oWr8Umdo-iCyH00ksggYR",
@@ -733,7 +766,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-admin-fully-remote-at-work-and-study-travel-jobs-4453892653&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3oWr8Umdo-iCyH00ksggYR",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-work-and-study-travel-jobs-4454151921&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0EsAd7TQdTAlwuC5O4RD_W",
@@ -768,7 +801,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-work-and-study-travel-jobs-4454151921&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0EsAd7TQdTAlwuC5O4RD_W",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-100%2525-remote-at-xplore-world-agency-4454159174&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0riR_4zEW3gkqKSpQEf31b",
@@ -804,7 +837,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-100%2525-remote-at-xplore-world-agency-4454159174&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0riR_4zEW3gkqKSpQEf31b",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-at-dinamic-as-group-4454151917&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0WkIu9ZTyoNatkQ8oMEAhB",
@@ -837,7 +870,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-at-dinamic-as-group-4454151917&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0WkIu9ZTyoNatkQ8oMEAhB",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-data-entry-clerk-entry-level-at-work-and-study-travel-jobs-4454101512&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0E2QuO9UQmuf2rbiE_LKRg",
@@ -872,7 +905,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-data-entry-clerk-entry-level-at-work-and-study-travel-jobs-4454101512&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0E2QuO9UQmuf2rbiE_LKRg",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-cruise-coordinator-at-sky-land-and-ocean-travel-4457085275&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2W7ZC1ksaH1bC7-qMidZUQ",
@@ -908,7 +941,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-cruise-coordinator-at-sky-land-and-ocean-travel-4457085275&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2W7ZC1ksaH1bC7-qMidZUQ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-data-entry-clerk-remote-at-holidays-travel-ecuador-agencia-de-viajes-iata-4454151923&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1_8HuZh-3jCXbHJq-6JOri",
@@ -941,7 +974,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-data-entry-clerk-remote-at-holidays-travel-ecuador-agencia-de-viajes-iata-4454151923&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1_8HuZh-3jCXbHJq-6JOri",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-product-engineer-26924",
@@ -78034,10 +78067,10 @@
       "is_new": false
     }
   ],
-  "count": 2359,
+  "count": 2360,
   "keepers": 368,
-  "fresh": 1806,
-  "new_today": 27,
+  "fresh": 1807,
+  "new_today": 1,
   "apply_now": 8,
   "apply": 6,
   "consider": 11,
