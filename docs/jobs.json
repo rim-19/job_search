@@ -1,6 +1,39 @@
 {
-  "generated": "2026-08-22",
+  "generated": "2026-08-23",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-100%2525-remote-at-one-new-creation-4454687507&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3k4yxicggKK153JuFc2Ifr",
+      "title": "Entry Level Data Entry Clerk (100% Remote )",
+      "company": "One New Creation - LinkedIn",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-100%2525-remote-at-one-new-creation-4454687507&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3k4yxicggKK153JuFc2Ifr",
+      "score": 5,
+      "reason": "This role is for a Data Entry Clerk, which is not a technical software development or AI role, and therefore does not align with the candidate's skills and career goals.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-23",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer specializing in AI-first applications. This role is for a Data Entry Clerk, which is entirely outside the candidate's technical expertise and career aspirations.",
+      "date_posted": "2026-08-22T09:02:22Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is not a technical fit and does not align with candidate's specialization.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-100%2525-remote-at-one-new-creation-4454687507&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3k4yxicggKK153JuFc2Ifr",
+      "is_new": true
+    },
     {
       "url": "https://weworkremotely.com/remote-jobs/business-web-solutions-web-developer-intern",
       "title": "Web Developer Intern",
@@ -32,7 +65,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/business-web-solutions-web-developer-intern",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-104347",
@@ -67,7 +100,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-104347",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/neko-health/data-scientist-london-347976",
@@ -103,7 +136,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/neko-health/data-scientist-london-347976",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-software-engineers-hamburg-403221",
@@ -136,7 +169,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-software-engineers-hamburg-403221",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/nuuenergy/founding-engineer-fullstack-munchen-19035",
@@ -169,7 +202,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/nuuenergy/founding-engineer-fullstack-munchen-19035",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/mindrift/jobs/freelance-frontend-developer-landing-pages-websites",
@@ -202,7 +235,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/mindrift/jobs/freelance-frontend-developer-landing-pages-websites",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/mindrift/jobs/chatbot-developer-whatsapp-telegram-discord-freelance-4204662169",
@@ -235,7 +268,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/mindrift/jobs/chatbot-developer-whatsapp-telegram-discord-freelance-4204662169",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/yoko-co-front-end-wordpress-developer",
@@ -270,7 +303,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/yoko-co-front-end-wordpress-developer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/mindrift/jobs/chatbot-developer-whatsapp-telegram-discord-freelance-2492594796",
@@ -303,7 +336,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/mindrift/jobs/chatbot-developer-whatsapp-telegram-discord-freelance-2492594796",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/cc-staffing-international/jobs/software-developer-php-fully-remote",
@@ -339,7 +372,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/cc-staffing-international/jobs/software-developer-php-fully-remote",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/sharkninjaoperatingllc/principle-mobile-software-engineer-battersea-power-station-428291",
@@ -375,7 +408,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/sharkninjaoperatingllc/principle-mobile-software-engineer-battersea-power-station-428291",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/wisevu/jobs/wordpress-website-developer-4016445121",
@@ -411,7 +444,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/wisevu/jobs/wordpress-website-developer-4016445121",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-entry-level-remote-at-draftomat-4455023751%3Fposition%3D21%26pageNum%3D0%26refId%3DNhnrbT9L0jhmaNAKJU4OUw%253D%253D%26trackingId%3D1x%252BPYfh7nzFHoz8XbbjBNA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1YNF8LPiviOTy6wSlBKnPv",
@@ -447,7 +480,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-entry-level-remote-at-draftomat-4455023751%3Fposition%3D21%26pageNum%3D0%26refId%3DNhnrbT9L0jhmaNAKJU4OUw%253D%253D%26trackingId%3D1x%252BPYfh7nzFHoz8XbbjBNA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1YNF8LPiviOTy6wSlBKnPv",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-remote-entry-level-at-smartly-technologies-4454678528&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0n0FymmyM7LXuh52ewV-zf",
@@ -480,7 +513,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-remote-entry-level-at-smartly-technologies-4454678528&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0n0FymmyM7LXuh52ewV-zf",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-data-entry-clerk-remote-at-jewelry-store-marketers-4454650566&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1-L6CpLyZIrlnPYkMY7-7q",
@@ -516,7 +549,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-data-entry-clerk-remote-at-jewelry-store-marketers-4454650566&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1-L6CpLyZIrlnPYkMY7-7q",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151319-associate-billing-specialist-portugal-2",
@@ -551,7 +584,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151319-associate-billing-specialist-portugal-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-100%2525-remote-entry-level-at-biyaheko-ph-4454683574&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1v8xJCqnZn2LQIyYaoOG3N",
@@ -587,7 +620,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-100%2525-remote-entry-level-at-biyaheko-ph-4454683574&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1v8xJCqnZn2LQIyYaoOG3N",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-entry-level-remote-at-customand-4454652557&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3WDvPt3Pmb3PJhryHQ_AM-",
@@ -620,7 +653,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-entry-level-remote-at-customand-4454652557&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3WDvPt3Pmb3PJhryHQ_AM-",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-talento-pricetravel-holding-4454661569&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3_hB8ycFBWRDC6kBGOA4av",
@@ -656,7 +689,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-talento-pricetravel-holding-4454661569&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3_hB8ycFBWRDC6kBGOA4av",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-remote-entry-level-at-g-spa-travel-s-a-s-4454656615&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2aHrsyzLh_DI9XEWOU24ig",
@@ -691,7 +724,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-remote-entry-level-at-g-spa-travel-s-a-s-4454656615&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2aHrsyzLh_DI9XEWOU24ig",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-data-entry-clerk-remote-at-one-new-creation-4455025698&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0uliHx9ldRugSEYrxNjt4G",
@@ -727,7 +760,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-data-entry-clerk-remote-at-one-new-creation-4455025698&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0uliHx9ldRugSEYrxNjt4G",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-data-entry-clerk-entry-level-at-biyaheko-ph-4454649606&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1SqnblyAjG_h_W4R1L4Xsh",
@@ -763,7 +796,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-data-entry-clerk-entry-level-at-biyaheko-ph-4454649606&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1SqnblyAjG_h_W4R1L4Xsh",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-100%2525-remote-at-dinamic-as-group-4454665473&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2QOHlwmNzhuLUwunT71S15",
@@ -799,7 +832,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-100%2525-remote-at-dinamic-as-group-4454665473&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2QOHlwmNzhuLUwunT71S15",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-assistant-remote-at-fly-my-group-4454680576&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1UMTh3nmzNLYFSjrRYxfx3",
@@ -834,7 +867,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-assistant-remote-at-fly-my-group-4454680576&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1UMTh3nmzNLYFSjrRYxfx3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-smartly-technologies-4455037565&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0WafShlo1xR6HpxIClZYI5",
@@ -870,7 +903,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-smartly-technologies-4455037565&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0WafShlo1xR6HpxIClZYI5",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/posthog/2ef3a11c-e7cc-4d67-861f-45168eb84b87",
@@ -78905,10 +78938,10 @@
       "is_new": false
     }
   ],
-  "count": 2384,
+  "count": 2385,
   "keepers": 369,
-  "fresh": 1829,
-  "new_today": 25,
+  "fresh": 1830,
+  "new_today": 1,
   "apply_now": 9,
   "apply": 6,
   "consider": 12,
