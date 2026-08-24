@@ -1,6 +1,42 @@
 {
-  "generated": "2026-08-23",
+  "generated": "2026-08-24",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-marketing-assistant-at-lorygen-group-4455805502&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2vdhjMt-hkFmPmcb2dI-Of",
+      "title": "Entry-Level Marketing Assistant",
+      "company": "Lorygen Group — United States | LinkedIn Jobs",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-marketing-assistant-at-lorygen-group-4455805502&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2vdhjMt-hkFmPmcb2dI-Of",
+      "score": 5,
+      "reason": "The role is for a Marketing Assistant, which is not a technical role and does not align with the candidate's skills or career aspirations as an AI + Full-Stack Software Developer. Furthermore, the role is US-only, making the candidate geographically ineligible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-24",
+      "source": "Google Alert 8",
+      "summary": "This is an Entry-Level Marketing Assistant role at Lorygen Group. The position is 100% remote within the United States and offers full-time employment. The candidate is a software developer specializing in AI and full-stack applications.",
+      "date_posted": "2026-08-23T20:05:24Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is US-only and requires US work authorization, which the candidate cannot provide.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical skills mismatch",
+        "Geographic ineligibility (US-only)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-marketing-assistant-at-lorygen-group-4455805502&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2vdhjMt-hkFmPmcb2dI-Of",
+      "is_new": true
+    },
     {
       "url": "https://himalayas.app/companies/mindrift/jobs/freelance-full-stack-web-app-developer-3522056606",
       "title": "Freelance Full-Stack Web App Developer",
@@ -34,7 +70,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://himalayas.app/companies/mindrift/jobs/freelance-full-stack-web-app-developer-3522056606",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/charles-technology-africa-web-developer",
@@ -70,7 +106,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/charles-technology-africa-web-developer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/amx-consulting-personio/remote-working-student-junior-solutions-consultant-370366",
@@ -106,7 +142,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/amx-consulting-personio/remote-working-student-junior-solutions-consultant-370366",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/stadium-aws-devops-engineer",
@@ -142,7 +178,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/stadium-aws-devops-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/dijital-team-pty-ltd/jobs/full-stack-developer-react-angular",
@@ -178,7 +214,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/dijital-team-pty-ltd/jobs/full-stack-developer-react-angular",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-berlin-germany-51685",
@@ -211,7 +247,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-berlin-germany-51685",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1137069",
@@ -248,7 +284,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1137069",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/paperless-environments/jobs/full-stack-reactjs-c-net-developer-2134149986",
@@ -281,7 +317,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/paperless-environments/jobs/full-stack-reactjs-c-net-developer-2134149986",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-full-stack-developer-at-asynx-devs-private-limited-4382287076&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1ctnM8FG6S23T7l6NeDRiI",
@@ -316,7 +352,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-full-stack-developer-at-asynx-devs-private-limited-4382287076&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1ctnM8FG6S23T7l6NeDRiI",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-core-elite-consulting-4454689336&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw06VoopRKE9QqZWtlBrwoW8",
@@ -351,7 +387,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-core-elite-consulting-4454689336&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw06VoopRKE9QqZWtlBrwoW8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/cloover/ai-engineering-automation-specialist-on-site-berlin-204043",
@@ -384,7 +420,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/cloover/ai-engineering-automation-specialist-on-site-berlin-204043",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-emplea-pe-4456681600&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1kWjB5P0knhMCKNm8_fHhT",
@@ -419,7 +455,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-emplea-pe-4456681600&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1kWjB5P0knhMCKNm8_fHhT",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-software-engineer-london-368153",
@@ -452,7 +488,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-software-engineer-london-368153",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-quantitative-researcher-2027-start-london-60886",
@@ -488,7 +524,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-quantitative-researcher-2027-start-london-60886",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-lernx-hiring-june-ro24-4455069491&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2vpgW9ZoaAil9GQXytvoHs",
@@ -523,7 +559,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-lernx-hiring-june-ro24-4455069491&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2vpgW9ZoaAil9GQXytvoHs",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/doctoral-researcher-css-125-intern-koln-369565",
@@ -559,7 +595,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/doctoral-researcher-css-125-intern-koln-369565",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/harvey/e2166814-1a5a-4f20-b077-9e994146c7d1",
@@ -595,7 +631,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/harvey/e2166814-1a5a-4f20-b077-9e994146c7d1",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/momentum-financial-services-group/jobs/qa-test-engineering-intern",
@@ -628,7 +664,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/momentum-financial-services-group/jobs/qa-test-engineering-intern",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-smartly-technologies-4455034601&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0KE8q0IKmPKtPe4M0Z7HQQ",
@@ -663,7 +699,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-smartly-technologies-4455034601&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0KE8q0IKmPKtPe4M0Z7HQQ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/wing-assistant-full-stack-developer-1",
@@ -699,7 +735,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/wing-assistant-full-stack-developer-1",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4457888139&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1R2NclH9x1UnZLdiTLLjNE",
@@ -732,7 +768,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4457888139&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1R2NclH9x1UnZLdiTLLjNE",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-100%2525-remote-at-one-new-creation-4454687507&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3k4yxicggKK153JuFc2Ifr",
@@ -765,7 +801,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-100%2525-remote-at-one-new-creation-4454687507&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3k4yxicggKK153JuFc2Ifr",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-100%2525-remote-at-start-club-corp-4455031652&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw31CRJi8KxYgBL5_PhHr3Xb",
@@ -801,7 +837,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-100%2525-remote-at-start-club-corp-4455031652&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw31CRJi8KxYgBL5_PhHr3Xb",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-start-club-corp-4454676505&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ZS1KjB2GpsM0yLrb2bQC2",
@@ -837,7 +873,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-start-club-corp-4454676505&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ZS1KjB2GpsM0yLrb2bQC2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-data-entry-clerk-entry-level-at-talento-pricetravel-holding-4454662564&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2_mfS5doPZxX7SzIsO4UQA",
@@ -870,7 +906,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-data-entry-clerk-entry-level-at-talento-pricetravel-holding-4454662564&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2_mfS5doPZxX7SzIsO4UQA",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/business-web-solutions-web-developer-intern",
@@ -79776,10 +79812,10 @@
       "is_new": false
     }
   ],
-  "count": 2409,
+  "count": 2410,
   "keepers": 370,
-  "fresh": 1852,
-  "new_today": 25,
+  "fresh": 1853,
+  "new_today": 1,
   "apply_now": 9,
   "apply": 7,
   "consider": 12,
