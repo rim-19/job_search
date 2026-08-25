@@ -1,6 +1,112 @@
 {
-  "generated": "2026-08-24",
+  "generated": "2026-08-25",
   "jobs": [
+    {
+      "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
+      "title": "Full Stack Web Engineer (Python & React)",
+      "company": "Oowlish Technology",
+      "location": "Argentina,  Brazil,  Mexico",
+      "link": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
+      "score": 15,
+      "reason": "Geographically ineligible and the role targets a senior level, while the candidate is early-career.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-25",
+      "source": "Jobicy",
+      "summary": "This role is for an experienced Senior Web Application Engineer requiring on-site presence in Latin America, making it a poor fit for the candidate's geographic constraints and early-career status.",
+      "date_posted": "2026-08-24T17:36:32+00:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "The role requires on-site presence in Argentina, Brazil, or Mexico, which is outside the candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "SENIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic Ineligibility",
+        "Seniority Mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/entry-level-data-backend-engineer-trust-safety-remote-canada-at-yelp-4458281140&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ckWEItcJr_4YIbwY4iLts",
+      "title": "Entry Level Data Backend Engineer - Trust &amp; Safety ( Remote - Canada) - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/entry-level-data-backend-engineer-trust-safety-remote-canada-at-yelp-4458281140&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ckWEItcJr_4YIbwY4iLts",
+      "score": 10,
+      "reason": "The job is located in Canada, which is outside the candidate's geographic eligibility due to work authorization requirements.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-25",
+      "source": "Google Alert 8",
+      "summary": "This role is for an Entry Level Data Backend Engineer in Canada. While the technical focus on backend and junior level is a partial fit, the geographic restriction makes the candidate ineligible.",
+      "date_posted": "2026-08-24T19:32:16Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Canada, which requires work authorization the candidate does not have.",
+      "geographic_scope": "CANADA_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/entry-level-data-backend-engineer-trust-safety-remote-canada-at-yelp-4458281140&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ckWEItcJr_4YIbwY4iLts",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/part-time-sales-rep-entry-level-paid-weekly-at-vector-marketing-4455843067&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0iaNgD70Uv19IQ1gryRhD_",
+      "title": "Vector Marketing hiring Part Time Sales Rep - Entry Level - Paid Weekly in Houston, TX",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/part-time-sales-rep-entry-level-paid-weekly-at-vector-marketing-4455843067&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0iaNgD70Uv19IQ1gryRhD_",
+      "score": 5,
+      "reason": "The job is for a Sales Representative role, which does not align with the candidate's technical skills and career aspirations as an AI + Full-Stack Software Developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-25",
+      "source": "Google Alert 8",
+      "summary": "This role is for a Part-Time Sales Representative in Houston, TX. The candidate is an AI + Full-Stack Software Developer seeking technical roles.",
+      "date_posted": "2026-08-24T06:17:22Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is in Houston, TX, which is not within the candidate's acceptable geographic scope.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Role type mismatch (Sales vs. Development)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/part-time-sales-rep-entry-level-paid-weekly-at-vector-marketing-4455843067&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0iaNgD70Uv19IQ1gryRhD_",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-cascade-water-solutions-4456839618&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3bKVqv-dQOawnmRpoVE07E",
       "title": "Graduate Developer ( Remote , Entry-Level )",
@@ -32,7 +138,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-cascade-water-solutions-4456839618&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3bKVqv-dQOawnmRpoVE07E",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151461-product-engineer-full-stack",
@@ -67,7 +173,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://jobicy.com/jobs/151461-product-engineer-full-stack",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151465-machine-learning-engineer-6",
@@ -102,7 +208,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://jobicy.com/jobs/151465-machine-learning-engineer-6",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/lucid-labs/ai-engineer-berlin-57173",
@@ -135,7 +241,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/lucid-labs/ai-engineer-berlin-57173",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/hob-by-horse-gmbh/fullstack-shopify-developer-osnabruck-471541",
@@ -170,7 +276,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/hob-by-horse-gmbh/fullstack-shopify-developer-osnabruck-471541",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/clinician-nexus/jobs/machine-learning-engineer-data-scientist-6983873364",
@@ -205,7 +311,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/clinician-nexus/jobs/machine-learning-engineer-data-scientist-6983873364",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-jobs-no-experience-needed-start-asap-apply-today-at-remotehunter-4456826726&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0TVSc-wbJuIAa-JtZRmjY4",
@@ -240,7 +346,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-jobs-no-experience-needed-start-asap-apply-today-at-remotehunter-4456826726&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0TVSc-wbJuIAa-JtZRmjY4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-entry-level-assistant-marketing-at-seronda-network-4455808495&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw30rijUqlW_omANLoEdzEeZ",
@@ -273,7 +379,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-entry-level-assistant-marketing-at-seronda-network-4455808495&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw30rijUqlW_omANLoEdzEeZ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-smartly-technologies-4455804493&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0nG0hs6hrHIWQxzsAzzVCy",
@@ -309,7 +415,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-smartly-technologies-4455804493&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0nG0hs6hrHIWQxzsAzzVCy",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/321-med-gmbh/werkstudent-software-testing-qualitatssicherung-munchen-munich-379163",
@@ -345,7 +451,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/321-med-gmbh/werkstudent-software-testing-qualitatssicherung-munchen-munich-379163",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/fcamara/jobs/engenheiro-de-software-ai-native-dominio-em-python",
@@ -378,7 +484,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/fcamara/jobs/engenheiro-de-software-ai-native-dominio-em-python",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/149642-customer-engineer-2",
@@ -413,7 +519,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/149642-customer-engineer-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-associate-at-customand-4455075502&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Pg1gpI7mz8R-VdsQL1F9d",
@@ -446,7 +552,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-associate-at-customand-4455075502&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Pg1gpI7mz8R-VdsQL1F9d",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-admin-fully-remote-at-start-club-corp-4455804558%3Fposition%3D32%26pageNum%3D0%26refId%3DANse%252FxXS6wIIFWTddKiYYg%253D%253D%26trackingId%3DevTI4yT%252FW9aBIvMhm48upA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1muhVjOhNT9WT5bD7avEtG",
@@ -482,7 +588,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-admin-fully-remote-at-start-club-corp-4455804558%3Fposition%3D32%26pageNum%3D0%26refId%3DANse%252FxXS6wIIFWTddKiYYg%253D%253D%26trackingId%3DevTI4yT%252FW9aBIvMhm48upA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1muhVjOhNT9WT5bD7avEtG",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-administrative-assistant-at-draftomat-4455801566&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Ny2VeF1-qmVf1onDWacVy",
@@ -518,7 +624,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-administrative-assistant-at-draftomat-4455801566&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Ny2VeF1-qmVf1onDWacVy",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-assistant-remote-at-one-new-creation-4455810494&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2QRVmnCTy1IjK9X1dn-o7f",
@@ -554,7 +660,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-assistant-remote-at-one-new-creation-4455810494&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2QRVmnCTy1IjK9X1dn-o7f",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/people-everywhere/jobs/chief-technology-officer",
@@ -587,7 +693,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/people-everywhere/jobs/chief-technology-officer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-assistant-at-jewelry-store-marketers-4455097612&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2HRbBtgheDRXk4SNian7Q8",
@@ -622,7 +728,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-assistant-at-jewelry-store-marketers-4455097612&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2HRbBtgheDRXk4SNian7Q8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-marketing-assistant-at-lorygen-group-4455805502&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2vdhjMt-hkFmPmcb2dI-Of",
@@ -658,7 +764,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-marketing-assistant-at-lorygen-group-4455805502&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2vdhjMt-hkFmPmcb2dI-Of",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-100%2525-remote-at-xplore-world-agency-4455810488&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Z3jSGmCKcJles4t8t-J85",
@@ -691,7 +797,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-100%2525-remote-at-xplore-world-agency-4455810488&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Z3jSGmCKcJles4t8t-J85",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-entry-level-remote-at-harvest-advertising-inc-4455099520&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw17Nc7RTU97_BEi-IABMimX",
@@ -726,7 +832,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-entry-level-remote-at-harvest-advertising-inc-4455099520&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw17Nc7RTU97_BEi-IABMimX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-admin-fully-remote-at-think-tell-junction-4455807473&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw35MXKWaj872GO-_6-xLc3S",
@@ -762,7 +868,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-clerk-admin-fully-remote-at-think-tell-junction-4455807473&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw35MXKWaj872GO-_6-xLc3S",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-toolad-4455802474&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw20F37TjV_iLZQRgdfxmT7l",
@@ -797,7 +903,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-toolad-4455802474&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw20F37TjV_iLZQRgdfxmT7l",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-entry-level-remote-at-hustle-notice-biz-4455849154&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1h7LISHodYWXdqI-yubaVI",
@@ -833,7 +939,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-entry-level-remote-at-hustle-notice-biz-4455849154&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1h7LISHodYWXdqI-yubaVI",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-financial-professional-remote-at-prestige-partners-4458173004&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3A7RtSHWvHbs4lT4MyVwZx",
@@ -869,7 +975,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-financial-professional-remote-at-prestige-partners-4458173004&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3A7RtSHWvHbs4lT4MyVwZx",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/mindrift/jobs/freelance-full-stack-web-app-developer-3522056606",
@@ -80646,10 +80752,10 @@
       "is_new": false
     }
   ],
-  "count": 2434,
+  "count": 2437,
   "keepers": 373,
-  "fresh": 1877,
-  "new_today": 25,
+  "fresh": 1880,
+  "new_today": 3,
   "apply_now": 10,
   "apply": 9,
   "consider": 12,
