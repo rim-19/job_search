@@ -1,6 +1,74 @@
 {
-  "generated": "2026-08-25",
+  "generated": "2026-08-26",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/ai-consultant-entry-level-at-jobright-ai-4457125726&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1vnfVWI4_aqDMk5b4Pk0VR",
+      "title": "Jobright.ai hiring AI Consultant, Entry Level in Canada | LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/ai-consultant-entry-level-at-jobright-ai-4457125726&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1vnfVWI4_aqDMk5b4Pk0VR",
+      "score": 20,
+      "reason": "The candidate is not eligible for this role due to geographic restrictions, as the position is based in Canada and the candidate cannot relocate or obtain Canadian work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-26",
+      "source": "Google Alert 8",
+      "summary": "This entry-level AI Consultant role focuses on identifying AI and automation opportunities and developing solutions. While the AI focus aligns with the candidate's interests, the geographic requirement makes it ineligible.",
+      "date_posted": "2026-08-24T23:49:47Z",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is in Canada, candidate cannot relocate and does not meet work authorization requirements.",
+      "geographic_scope": "CANADA_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/ai-consultant-entry-level-at-jobright-ai-4457125726&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1vnfVWI4_aqDMk5b4Pk0VR",
+      "is_new": true
+    },
+    {
+      "url": "https://himalayas.app/companies/wals-professional-services/jobs/technical-weclapp-consultant-m-w-d",
+      "title": "Technical weclapp Consultant (m/w/d)",
+      "company": "Wals Professional Services",
+      "location": "Austria",
+      "link": "https://himalayas.app/companies/wals-professional-services/jobs/technical-weclapp-consultant-m-w-d",
+      "score": 15,
+      "reason": "The job is located in Austria and requires on-site presence, making the candidate geographically ineligible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-26",
+      "source": "Himalayas",
+      "summary": "This role is for a Technical weclapp Consultant in Austria. It involves ERP project consulting with a focus on e-commerce clients and technical implementation. The candidate is not eligible due to the location and on-site requirement.",
+      "date_posted": "1787689967",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Austria, which is not within the candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "UNKNOWN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://himalayas.app/companies/wals-professional-services/jobs/technical-weclapp-consultant-m-w-d",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-level-up-academy-4457419173&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1G3Osj_aA12JSplJB3qLY9",
       "title": "Graduate Developer ( Remote , Entry-Level ) - Jobs - LinkedIn",
@@ -32,7 +100,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-level-up-academy-4457419173&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1G3Osj_aA12JSplJB3qLY9",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151468-dont-see-what-youre-looking-for",
@@ -67,7 +135,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://jobicy.com/jobs/151468-dont-see-what-youre-looking-for",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/productsup/full-stack-cms-developer-berlin-13833",
@@ -103,7 +171,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/productsup/full-stack-cms-developer-berlin-13833",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/software-development-engineer-in-test-264538",
@@ -139,7 +207,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/software-development-engineer-in-test-264538",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/databricks/forward-deployed-engineer-berlin-munich-440770",
@@ -172,7 +240,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/databricks/forward-deployed-engineer-berlin-munich-440770",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-147389",
@@ -205,7 +273,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-147389",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-398719",
@@ -241,7 +309,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-398719",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
@@ -277,7 +345,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/bloxd/new-grad-software-engineer-united-kingdom-9531",
@@ -310,7 +378,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/bloxd/new-grad-software-engineer-united-kingdom-9531",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151472-software-engineer-8",
@@ -346,7 +414,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151472-software-engineer-8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/entry-level-machine-learning-engineer-remote-canada-at-yelp-4458281136&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0N-D7aIBHdC_Xx0IDkmDkk",
@@ -379,7 +447,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/entry-level-machine-learning-engineer-remote-canada-at-yelp-4458281136&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0N-D7aIBHdC_Xx0IDkmDkk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-level-up-academy-4456537702&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1uW8vDpR1NUMeM6v08jq9S",
@@ -414,7 +482,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-level-up-academy-4456537702&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1uW8vDpR1NUMeM6v08jq9S",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/entry-level-data-backend-engineer-trust-safety-remote-canada-at-yelp-4458281140&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ckWEItcJr_4YIbwY4iLts",
@@ -449,7 +517,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/entry-level-data-backend-engineer-trust-safety-remote-canada-at-yelp-4458281140&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ckWEItcJr_4YIbwY4iLts",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/freelance-analyst-%25E2%2580%2593-entry-level-remote-at-jobs-ai-4343203885&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1E_S0WgcfOWlbbjbqOJtV4",
@@ -484,7 +552,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/freelance-analyst-%25E2%2580%2593-entry-level-remote-at-jobs-ai-4343203885&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1E_S0WgcfOWlbbjbqOJtV4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/infstones/jobs/blockchain-site-reliability-engineer-2570623074",
@@ -517,7 +585,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/infstones/jobs/blockchain-site-reliability-engineer-2570623074",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-government-of-up-4456534703&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1KQZhfBXNLwkdDb82ioN4Y",
@@ -552,7 +620,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-government-of-up-4456534703&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1KQZhfBXNLwkdDb82ioN4Y",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-start-immediately-at-pmp-drive-systems-a-d-lakta%25C5%25A1i-4458221578&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0oHwaedtR37yFkrk57CzHR",
@@ -588,7 +656,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-start-immediately-at-pmp-drive-systems-a-d-lakta%25C5%25A1i-4458221578&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0oHwaedtR37yFkrk57CzHR",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-financial-services-associate-2026-graduates-remote-across-us-at-pyramid-consulting-inc-4458764970&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2iGVHvX86IvHunlDfvPTe8",
@@ -621,7 +689,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-financial-services-associate-2026-graduates-remote-across-us-at-pyramid-consulting-inc-4458764970&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2iGVHvX86IvHunlDfvPTe8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/part-time-sales-rep-entry-level-paid-weekly-at-vector-marketing-4455843067&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0iaNgD70Uv19IQ1gryRhD_",
@@ -656,7 +724,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/part-time-sales-rep-entry-level-paid-weekly-at-vector-marketing-4455843067&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0iaNgD70Uv19IQ1gryRhD_",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-client-care-no-experience-will-train%2521-at-the-stephens-agency-4458190440&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0VQox1X-aotip5DDpsGCEi",
@@ -692,7 +760,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-client-care-no-experience-will-train%2521-at-the-stephens-agency-4458190440&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0VQox1X-aotip5DDpsGCEi",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/trading212/graduate-trading-operations-analyst-berlin-57235",
@@ -725,7 +793,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/trading212/graduate-trading-operations-analyst-berlin-57235",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-support-specialist-%25E2%2580%2593-entry-level-at-the-leber-agency-4458100817&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0_5XAnkS3VqUky4ygKSbtC",
@@ -761,7 +829,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-support-specialist-%25E2%2580%2593-entry-level-at-the-leber-agency-4458100817&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0_5XAnkS3VqUky4ygKSbtC",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-part-time-entry-level-financial-consultant-at-sheppard-financial-group-4456899892&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw062blZm6Za-YlvAU-dYegD",
@@ -798,7 +866,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-part-time-entry-level-financial-consultant-at-sheppard-financial-group-4456899892&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw062blZm6Za-YlvAU-dYegD",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-financial-professional-at-infinite-wise-solutions-4457105357&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3wzL8Wcx7KQ17_1i51nwHp",
@@ -834,7 +902,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-financial-professional-at-infinite-wise-solutions-4457105357&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3wzL8Wcx7KQ17_1i51nwHp",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-specialist-no-experience-needed-at-the-elmer-agency-4457110259&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2nbtaVuTj1VyVYrWl6ji74",
@@ -870,7 +938,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-specialist-no-experience-needed-at-the-elmer-agency-4457110259&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2nbtaVuTj1VyVYrWl6ji74",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-financial-professional-entry-level-at-the-mires-agency-4458183569&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3gWT9fXkswt89YWA_M-UjY",
@@ -905,7 +973,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-financial-professional-entry-level-at-the-mires-agency-4458183569&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3gWT9fXkswt89YWA_M-UjY",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-assistant-remote-at-one-new-creation-4455857091%3FrefId%3Dk7XS7KIU5QyPkjqN%252BsVmJw%253D%253D%26trackingId%3DKYKwxFpc49JtQ3FNfNgidA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2BgsB3-sRhcHTSV_5pJsK7",
@@ -938,7 +1006,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-assistant-remote-at-one-new-creation-4455857091%3FrefId%3Dk7XS7KIU5QyPkjqN%252BsVmJw%253D%253D%26trackingId%3DKYKwxFpc49JtQ3FNfNgidA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2BgsB3-sRhcHTSV_5pJsK7",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-health-insurance-advisor-at-ushealth-advisors-4458222153&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3t6XZ3ytztTEXHTYaMOyGO",
@@ -974,7 +1042,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-health-insurance-advisor-at-ushealth-advisors-4458222153&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3t6XZ3ytztTEXHTYaMOyGO",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-cascade-water-solutions-4456839618&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3bKVqv-dQOawnmRpoVE07E",
@@ -81621,10 +81689,10 @@
       "is_new": false
     }
   ],
-  "count": 2462,
+  "count": 2464,
   "keepers": 376,
-  "fresh": 1905,
-  "new_today": 28,
+  "fresh": 1907,
+  "new_today": 2,
   "apply_now": 11,
   "apply": 9,
   "consider": 15,
