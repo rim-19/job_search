@@ -1,6 +1,181 @@
 {
-  "generated": "2026-08-28",
+  "generated": "2026-08-29",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore-early-careers/2027-graduate-programme-bristol-cambridge-london-83095",
+      "title": "2027 Graduate Programme",
+      "company": "Graphcore Early Careers",
+      "location": "Bristol; Cambridge; London",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/graphcore-early-careers/2027-graduate-programme-bristol-cambridge-london-83095",
+      "score": 35,
+      "reason": "This graduate program is based in the UK and requires on-site presence, making the candidate geographically ineligible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-29",
+      "source": "Arbeitnow",
+      "summary": "This is a graduate program in the UK for early-career engineers. It offers opportunities in Software and AI/Machine Learning, which align with the candidate's skills. However, the on-site requirement in the UK makes the candidate ineligible.",
+      "date_posted": "1787964953",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "The job is located in the UK, and the candidate cannot relocate or work without UK work authorization.",
+      "geographic_scope": "UK_ONLY",
+      "remote_type": "ONSITE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "required",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore-early-careers/2027-graduate-programme-bristol-cambridge-london-83095",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/intrinsicrobotics/fullstack-software-engineer-robotic-solutions-development-munich-402055",
+      "title": "Fullstack Software Engineer, Robotic Solutions Development",
+      "company": "intrinsicrobotics",
+      "location": "Munich",
+      "link": "https://www.arbeitnow.com/jobs/companies/intrinsicrobotics/fullstack-software-engineer-robotic-solutions-development-munich-402055",
+      "score": 15,
+      "reason": "The candidate is not eligible due to the location requirement of Munich, and the role specifies 'Senior Software Engineer' which likely exceeds the candidate's early-career experience level.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-29",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Senior Software Engineer in Munich, Germany, focusing on robotic solutions. The candidate is based in Morocco and cannot relocate, and the seniority level is likely too high.",
+      "date_posted": "1787961307",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in Munich, candidate is based in Morocco and cannot relocate.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "SENIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic Ineligibility",
+        "Seniority Mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/intrinsicrobotics/fullstack-software-engineer-robotic-solutions-development-munich-402055",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-client-support-associate-entry-level-work-from-home-at-remotehunter-4458970084&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2spVeLFTBsEM_XXcpSp3R-",
+      "title": "Virtual Client Support Associate | Entry-Level | Work From Home",
+      "company": "RemoteHunter - LinkedIn",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-client-support-associate-entry-level-work-from-home-at-remotehunter-4458970084&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2spVeLFTBsEM_XXcpSp3R-",
+      "score": 10,
+      "reason": "This role is for a client support associate and does not leverage the candidate's AI and full-stack development skills. Additionally, the role is based in the United States, making the candidate geographically ineligible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-29",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer seeking technical roles. This position is for a Virtual Client Support Associate, which is a non-technical role. The job is also located in the United States, which is outside the candidate's geographic eligibility.",
+      "date_posted": "2026-08-28T12:18:35Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "The role is for a Virtual Client Support Associate, which does not align with the candidate's technical skills and career aspirations as an AI + Full-Stack Software Developer. The role is also US-base",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Role does not match technical profile",
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-client-support-associate-entry-level-work-from-home-at-remotehunter-4458970084&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2spVeLFTBsEM_XXcpSp3R-",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/fresher-full-stack-developer-entry-junior-level-at-te-rau-hihiri-4459457031%3Fposition%3D7%26pageNum%3D0%26refId%3D1RLVB1jtsg5P98nspmc%252BXg%253D%253D%26trackingId%3DQQ9fH%252BwB9O1wtmainOoAkA%253D%253D&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1pN3NaT3foACXPaNlA-r_S",
+      "title": "Te Rau Hihiri hiring Fresher Full Stack Developer (Entry / Junior Level) in Australia",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/fresher-full-stack-developer-entry-junior-level-at-te-rau-hihiri-4459457031%3Fposition%3D7%26pageNum%3D0%26refId%3D1RLVB1jtsg5P98nspmc%252BXg%253D%253D%26trackingId%3DQQ9fH%252BwB9O1wtmainOoAkA%253D%253D&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1pN3NaT3foACXPaNlA-r_S",
+      "score": 10,
+      "reason": "The candidate is geographically ineligible for this role, which is based in Australia and requires relocation or a significant timezone difference.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-29",
+      "source": "Google Alert 9",
+      "summary": "This is a full-time remote role for a Fresher Full Stack Developer. The candidate is an AI + Full-Stack Software Developer with experience in modern full-stack technologies and AI/LLM applications.",
+      "date_posted": "2026-08-29T01:04:17Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Candidate is based in Morocco and cannot relocate; the role is in Australia.",
+      "geographic_scope": "OTHER",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/fresher-full-stack-developer-entry-junior-level-at-te-rau-hihiri-4459457031%3Fposition%3D7%26pageNum%3D0%26refId%3D1RLVB1jtsg5P98nspmc%252BXg%253D%253D%26trackingId%3DQQ9fH%252BwB9O1wtmainOoAkA%253D%253D&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1pN3NaT3foACXPaNlA-r_S",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-work-from-home-at-heritage-insurance-group-4459418390&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0zWMCSovpCwOVntHMrzXlk",
+      "title": "Entry Level Sales**Work From Home**",
+      "company": "Heritage Insurance Group - LinkedIn",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-work-from-home-at-heritage-insurance-group-4459418390&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0zWMCSovpCwOVntHMrzXlk",
+      "score": 5,
+      "reason": "This role is for an Entry Level Sales agent and does not align with the candidate's technical skills or career aspirations as an AI + Full-Stack Software Developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-29",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer seeking junior/entry-level roles. This job posting is for an Entry Level Sales agent, which is not a technical position.",
+      "date_posted": "2026-08-28T19:27:22Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is for Sales, not Software Development.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Role type mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-work-from-home-at-heritage-insurance-group-4459418390&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0zWMCSovpCwOVntHMrzXlk",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/fresher-full-stack-developer-entry-junior-level-at-uv-hr-talent-solutions-4457722646&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2LhW1VzdSBtSzZu_73W2YA",
       "title": "Fresher Full Stack Developer (Entry / Junior Level) - LinkedIn",
@@ -32,7 +207,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/fresher-full-stack-developer-entry-junior-level-at-uv-hr-talent-solutions-4457722646&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2LhW1VzdSBtSzZu_73W2YA",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.rekrute.com/offre-emploi-offre-de-stage-pfe-specialiste-en-intelligence-artificielle-casablanca-a-sidi-maarouf-recrutement-od-services-casablanca-185797.html",
@@ -65,7 +240,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.rekrute.com/offre-emploi-offre-de-stage-pfe-specialiste-en-intelligence-artificielle-casablanca-a-sidi-maarouf-recrutement-od-services-casablanca-185797.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-bouge-ta-finance-4458058119&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Ag7285bUqtWjdlo1LTXFN",
@@ -98,7 +273,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-bouge-ta-finance-4458058119&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Ag7285bUqtWjdlo1LTXFN",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.rekrute.com/offre-emploi-offre-de-stage-pfe-developpement-web-symfony-angular-docker-recrutement-od-services-casablanca-185767.html",
@@ -133,7 +308,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.rekrute.com/offre-emploi-offre-de-stage-pfe-developpement-web-symfony-angular-docker-recrutement-od-services-casablanca-185767.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/management-graduate-program-intake-scandinavian-speaker-united-media-london-83085",
@@ -166,7 +341,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/management-graduate-program-intake-scandinavian-speaker-united-media-london-83085",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/management-graduate-program-intake-german-speaker-united-media-london-97572",
@@ -199,7 +374,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/management-graduate-program-intake-german-speaker-united-media-london-97572",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/reiz-tech-uab/jobs/sr-php-developer-laravel-or-symfony-2365293251",
@@ -236,7 +411,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/reiz-tech-uab/jobs/sr-php-developer-laravel-or-symfony-2365293251",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-financial-solutions-analyst-entry-level-at-smart-capital-center-4459886870&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1OjDFGLvVqLsdagNLe8Upk",
@@ -272,7 +447,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-financial-solutions-analyst-entry-level-at-smart-capital-center-4459886870&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1OjDFGLvVqLsdagNLe8Upk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/management-graduate-program-at-united-media-london-337931",
@@ -308,7 +483,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/management-graduate-program-at-united-media-london-337931",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/csv-analyst-entry-level-at-united-consulting-hub-4459371655&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ik3GrG5Sa01TiMrnqE2U9",
@@ -343,7 +518,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/csv-analyst-entry-level-at-united-consulting-hub-4459371655&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ik3GrG5Sa01TiMrnqE2U9",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/management-graduate-program-intake-danish-speaker-united-media-london-362289",
@@ -380,7 +555,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/management-graduate-program-intake-danish-speaker-united-media-london-362289",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/management-graduate-program-intake-italian-speaker-united-media-london-426331",
@@ -417,7 +592,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/management-graduate-program-intake-italian-speaker-united-media-london-426331",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151895-service-desk-system-administrator",
@@ -450,7 +625,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151895-service-desk-system-administrator",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/financial-analyst-entry-level-remote-at-quik-hire-staffing-4459860070&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2cjTcEG2whe6iIqAAY-gN4",
@@ -486,7 +661,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/financial-analyst-entry-level-remote-at-quik-hire-staffing-4459860070&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2cjTcEG2whe6iIqAAY-gN4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-work-from-home-at-the-mires-agency-4459698410&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3XhJDAYM7A7m9fd9gbBjvA",
@@ -522,7 +697,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-work-from-home-at-the-mires-agency-4459698410&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3XhJDAYM7A7m9fd9gbBjvA",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-claims-processor-entry-level-at-teksystems-4460390454&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw34XkfC1x9Dmyzkcdas4hqi",
@@ -558,7 +733,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-claims-processor-entry-level-at-teksystems-4460390454&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw34XkfC1x9Dmyzkcdas4hqi",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-planner-entry-level-training-provided-at-careers-in-travel-destination-pros-4458043899&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3DNIr5ZMsdDmrRKBD4h2P2",
@@ -594,7 +769,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-planner-entry-level-training-provided-at-careers-in-travel-destination-pros-4458043899&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3DNIr5ZMsdDmrRKBD4h2P2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/hr-support-officer-australia-only-remote-entry-level-at-laborat%25C3%25B3rio-de-controle-biol%25C3%25B3gico-de-pragas-florestais-4458699314&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0GjtOjZU48tNRB-um-bAwy",
@@ -627,7 +802,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/hr-support-officer-australia-only-remote-entry-level-at-laborat%25C3%25B3rio-de-controle-biol%25C3%25B3gico-de-pragas-florestais-4458699314&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0GjtOjZU48tNRB-um-bAwy",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/memodio/flutter-nodejs-fullstack-engineer-fully-remote-potsdam-193068",
@@ -83773,10 +83948,10 @@
       "is_new": false
     }
   ],
-  "count": 2524,
+  "count": 2529,
   "keepers": 383,
-  "fresh": 1965,
-  "new_today": 18,
+  "fresh": 1970,
+  "new_today": 5,
   "apply_now": 13,
   "apply": 13,
   "consider": 16,
