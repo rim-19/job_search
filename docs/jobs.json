@@ -1,6 +1,75 @@
 {
-  "generated": "2026-08-29",
+  "generated": "2026-08-30",
   "jobs": [
+    {
+      "url": "https://himalayas.app/companies/mindrift/jobs/freelance-agent-evaluation-engineer-8060690246",
+      "title": "Freelance Agent Evaluation Engineer",
+      "company": "Mindrift",
+      "location": "Philippines",
+      "link": "https://himalayas.app/companies/mindrift/jobs/freelance-agent-evaluation-engineer-8060690246",
+      "score": 15,
+      "reason": "The candidate is geographically ineligible as the role is based in the Philippines and requires relocation, which the candidate cannot do. Additionally, the role requires 5+ years of experience, which is beyond the candidate's early-career profile.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-30",
+      "source": "Himalayas",
+      "summary": "This role is for a Freelance Agent Evaluation Engineer in the Philippines, focusing on testing and evaluating AI coding agents. It requires 5+ years of software development experience and specific technical skills in Python, JavaScript/TypeScript, Docker, Postgres, Kafka, and Redis.",
+      "date_posted": "1788058101",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in the Philippines, candidate is in Morocco and cannot relocate.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "UNKNOWN",
+      "seniority": "MID",
+      "min_years": 5,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic location",
+        "Years of experience"
+      ],
+      "recommended_project": "",
+      "application_url": "https://himalayas.app/companies/mindrift/jobs/freelance-agent-evaluation-engineer-8060690246",
+      "is_new": true
+    },
+    {
+      "url": "https://himalayas.app/companies/shi-international-corp/jobs/software-engineer-ai",
+      "title": "Software Engineer - AI",
+      "company": "SHI International Corp.",
+      "location": "United States",
+      "link": "https://himalayas.app/companies/shi-international-corp/jobs/software-engineer-ai",
+      "score": 15,
+      "reason": "The job is located in the United States, and the candidate cannot relocate or work without US work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-30",
+      "source": "Himalayas",
+      "summary": "This role is for a Software Engineer focused on AI at SHI International Corp. in the United States. It involves developing Python services, APIs, and AI-enabled applications, integrating AI capabilities like RAG and agents.",
+      "date_posted": "1788058321",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is in the United States, which requires work authorization the candidate does not possess.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "UNKNOWN",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://himalayas.app/companies/shi-international-corp/jobs/software-engineer-ai",
+      "is_new": true
+    },
     {
       "url": "https://jobicy.com/jobs/152053-support-engineer-emea",
       "title": "Support Engineer (EMEA)",
@@ -35,7 +104,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152053-support-engineer-emea",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore-early-careers/2027-graduate-programme-bristol-cambridge-london-83095",
@@ -68,7 +137,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore-early-careers/2027-graduate-programme-bristol-cambridge-london-83095",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/epicgames/web-engineer-intern-london-162230",
@@ -104,7 +173,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/epicgames/web-engineer-intern-london-162230",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/intrinsicrobotics/fullstack-software-engineer-robotic-solutions-development-munich-402055",
@@ -140,7 +209,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/intrinsicrobotics/fullstack-software-engineer-robotic-solutions-development-munich-402055",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/server-support-enginee-remote-entry-level-at-te-llevo-4460555763&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0lNPAZzDEF31QliDiE6z22",
@@ -176,7 +245,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/server-support-enginee-remote-entry-level-at-te-llevo-4460555763&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0lNPAZzDEF31QliDiE6z22",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151881-lifecycle-marketing-automation-specialist",
@@ -212,7 +281,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151881-lifecycle-marketing-automation-specialist",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/android-engineer-london-28972",
@@ -248,7 +317,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/android-engineer-london-28972",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-gametraq-4458052887&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Af8IJ1-BZGrd2JQm2d84_",
@@ -284,7 +353,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-gametraq-4458052887&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Af8IJ1-BZGrd2JQm2d84_",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/ai-engineer-entry-level-canada-at-jobright-ai-4459449156&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0GLCLdMsGTwFh7-WOnmU1K",
@@ -319,7 +388,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/ai-engineer-entry-level-canada-at-jobright-ai-4459449156&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0GLCLdMsGTwFh7-WOnmU1K",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-client-support-associate-entry-level-work-from-home-at-remotehunter-4458970084&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2spVeLFTBsEM_XXcpSp3R-",
@@ -355,7 +424,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-client-support-associate-entry-level-work-from-home-at-remotehunter-4458970084&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2spVeLFTBsEM_XXcpSp3R-",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/fresher-full-stack-developer-entry-junior-level-at-te-rau-hihiri-4459457031%3Fposition%3D7%26pageNum%3D0%26refId%3D1RLVB1jtsg5P98nspmc%252BXg%253D%253D%26trackingId%3DQQ9fH%252BwB9O1wtmainOoAkA%253D%253D&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1pN3NaT3foACXPaNlA-r_S",
@@ -390,7 +459,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/fresher-full-stack-developer-entry-junior-level-at-te-rau-hihiri-4459457031%3Fposition%3D7%26pageNum%3D0%26refId%3D1RLVB1jtsg5P98nspmc%252BXg%253D%253D%26trackingId%3DQQ9fH%252BwB9O1wtmainOoAkA%253D%253D&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1pN3NaT3foACXPaNlA-r_S",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-per%25C3%25BA-te-quiero-limpio-4460568005&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1f-_16RmZhwlx7ycFXu5Xz",
@@ -425,7 +494,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-per%25C3%25BA-te-quiero-limpio-4460568005&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1f-_16RmZhwlx7ycFXu5Xz",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-per%25C3%25BA-te-quiero-limpio-4460568005&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw1f-_16RmZhwlx7ycFXu5Xz",
@@ -460,7 +529,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-per%25C3%25BA-te-quiero-limpio-4460568005&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw1f-_16RmZhwlx7ycFXu5Xz",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151937-software-engineer-ii-ai-agentic-systems",
@@ -493,7 +562,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151937-software-engineer-ii-ai-agentic-systems",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151897-learning-management-system-administrator",
@@ -529,7 +598,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151897-learning-management-system-administrator",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-cour-d-appel-de-bruxelles-hof-van-beroep-te-brussel-4458455341&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0FoMl9x9kw6oGwiHUqPy28",
@@ -564,7 +633,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-cour-d-appel-de-bruxelles-hof-van-beroep-te-brussel-4458455341&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0FoMl9x9kw6oGwiHUqPy28",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-happybow%2521-4459440846&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3-MEbWpe2tSUT34NcwceND",
@@ -599,7 +668,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-happybow%2521-4459440846&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3-MEbWpe2tSUT34NcwceND",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/andercore/talent-marketing-internship-berlin-217056",
@@ -635,7 +704,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/andercore/talent-marketing-internship-berlin-217056",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/virtual-assistant-entry-level-at-jobright-ai-4459432182&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw15XmrJ4J-7c0n05Imi_TG1",
@@ -671,7 +740,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/virtual-assistant-entry-level-at-jobright-ai-4459432182&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw15XmrJ4J-7c0n05Imi_TG1",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-work-from-home-at-heritage-insurance-group-4459418390&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0zWMCSovpCwOVntHMrzXlk",
@@ -706,7 +775,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-work-from-home-at-heritage-insurance-group-4459418390&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0zWMCSovpCwOVntHMrzXlk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.dreamjob.ma/stage/15-stages-pre-embauche-ouverts-chez-hegelmann-group-a-temara/",
@@ -739,7 +808,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.dreamjob.ma/stage/15-stages-pre-embauche-ouverts-chez-hegelmann-group-a-temara/",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-live-chat-agent-at-pnw-adventures-llc-4460592051&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2vxrChTf_xdOBrh0AoregK",
@@ -774,7 +843,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-live-chat-agent-at-pnw-adventures-llc-4460592051&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2vxrChTf_xdOBrh0AoregK",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://gr.linkedin.com/jobs/view/norwegian-speaking-customer-support-agent-%25E2%2580%2593-entry-level-greece-remote-at-rdn-cons-4460538779&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ciqWm6hnHq0EKPE8Q4u8V",
@@ -810,7 +879,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://gr.linkedin.com/jobs/view/norwegian-speaking-customer-support-agent-%25E2%2580%2593-entry-level-greece-remote-at-rdn-cons-4460538779&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ciqWm6hnHq0EKPE8Q4u8V",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-start-immediately-at-tech-saraz-4458995117&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2PyLbZE5QZ7H6aK50yPCKX",
@@ -845,7 +914,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-start-immediately-at-tech-saraz-4458995117&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2PyLbZE5QZ7H6aK50yPCKX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-booking-coordinator-entry-level-at-careers-in-travel-destination-pros-4458051854&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw12fcpAz89j3C9qAGJEoSKY",
@@ -881,7 +950,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-booking-coordinator-entry-level-at-careers-in-travel-destination-pros-4458051854&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw12fcpAz89j3C9qAGJEoSKY",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-vacation-planning-coordinator-entry-level-at-careers-in-travel-destination-pros-4458049932&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw13ZtVEDWnbTTFwIZCj2Hud",
@@ -917,7 +986,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-vacation-planning-coordinator-entry-level-at-careers-in-travel-destination-pros-4458049932&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw13ZtVEDWnbTTFwIZCj2Hud",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-representative-%25E2%2580%2593-financial-services-entry-level-welcome-at-the-roethlisberger-life-group-4458991395&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2EgPz5aeSRgMtf5k9MAuOV",
@@ -952,7 +1021,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-representative-%25E2%2580%2593-financial-services-entry-level-welcome-at-the-roethlisberger-life-group-4458991395&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2EgPz5aeSRgMtf5k9MAuOV",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/fresher-full-stack-developer-entry-junior-level-at-uv-hr-talent-solutions-4457722646&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2LhW1VzdSBtSzZu_73W2YA",
@@ -84726,10 +84795,10 @@
       "is_new": false
     }
   ],
-  "count": 2551,
+  "count": 2553,
   "keepers": 383,
-  "fresh": 1992,
-  "new_today": 27,
+  "fresh": 1994,
+  "new_today": 2,
   "apply_now": 13,
   "apply": 13,
   "consider": 17,
