@@ -1,6 +1,75 @@
 {
-  "generated": "2026-08-30",
+  "generated": "2026-08-31",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-java-python-software-engineering-remote-at-medinex-workforce-4459728676&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0lWqkNZNcF90qwRKZxNVRK",
+      "title": "MediNex Workforce hiring Software Developer Intern | Entry Level | Fresher | Java, Python ...",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-java-python-software-engineering-remote-at-medinex-workforce-4459728676&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0lWqkNZNcF90qwRKZxNVRK",
+      "score": 88,
+      "reason": "This role is a perfect fit for an entry-level intern with a strong AI and full-stack background, aligning well with the candidate's positioning and project experience.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-31",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level Software Developer Intern role with a focus on AI and full-stack development, which directly matches the candidate's stated positioning and technical skills. The remote nature and the mention of Java and Python in the tech stack are suitable.",
+      "date_posted": "2026-08-30T06:59:23Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "priority": "APPLY_NOW",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Matches geographic and seniority requirements.",
+      "geographic_scope": "MOROCCO",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-java-python-software-engineering-remote-at-medinex-workforce-4459728676&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0lWqkNZNcF90qwRKZxNVRK",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-476344",
+      "title": "Trainee Frontend Development (m/w/d)",
+      "company": "Brandung",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-476344",
+      "score": 30,
+      "reason": "The candidate is not eligible due to the location requirement (Berlin, Germany) which is not within their acceptable geographic scope. The role is also on-site, and the candidate's experience is more aligned with full-stack development rather than purely frontend.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-08-31",
+      "source": "Arbeitnow",
+      "summary": "This is a trainee frontend development role in Berlin. The candidate is not eligible due to geographic restrictions and the on-site nature of the position. While the tech stack has some overlap, the primary disqualifier is location.",
+      "date_posted": "1788120545",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in Berlin, Germany, requiring on-site presence, which is outside candidate's acceptable geographic scope.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic location mismatch",
+        "On-site requirement"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-476344",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-node-js-python-rest-apis-remote-at-medinex-workforce-4459485806&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Yyrqkaa_SztWfH9WQv8IP",
       "title": "Backend Developer Intern | Entry Level | Fresher | Node.js, Python, REST APIs / Remote",
@@ -32,7 +101,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-node-js-python-rest-apis-remote-at-medinex-workforce-4459485806&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Yyrqkaa_SztWfH9WQv8IP",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-django-rest-api-remote-at-medinex-workforce-4459743003&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0tlHah7Kc2P2GH_H1EYfhc",
@@ -65,7 +134,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-django-rest-api-remote-at-medinex-workforce-4459743003&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0tlHah7Kc2P2GH_H1EYfhc",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-science-intern-entry-level-fresher-python-statistics-machine-learning-remote-at-medinex-workforce-4459716899&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ZXEbWdHJMbDvj-d_4hGIG",
@@ -98,7 +167,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-science-intern-entry-level-fresher-python-statistics-machine-learning-remote-at-medinex-workforce-4459716899&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ZXEbWdHJMbDvj-d_4hGIG",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/micro1/jobs/open-source-contributor-4150550716",
@@ -131,7 +200,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/micro1/jobs/open-source-contributor-4150550716",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/web-developer-intern-entry-level-fresher-html-css-javascript-web-development-remote-at-medinex-workforce-4459726758&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1lmRcyEKmiRewKKVHjqES3",
@@ -164,7 +233,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/web-developer-intern-entry-level-fresher-html-css-javascript-web-development-remote-at-medinex-workforce-4459726758&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1lmRcyEKmiRewKKVHjqES3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-oda-e-inxhinier%25C3%25ABve-t%25C3%25AB-republik%25C3%25ABs-s%25C3%25AB-kosov%25C3%25ABs-4460857510&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Qg7z0YQAoRfzM-mHIbvNj",
@@ -199,7 +268,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-oda-e-inxhinier%25C3%25ABve-t%25C3%25AB-republik%25C3%25ABs-s%25C3%25AB-kosov%25C3%25ABs-4460857510&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Qg7z0YQAoRfzM-mHIbvNj",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/devops-intern-entry-level-fresher-docker-git-ci-cd-remote-at-medinex-workforce-4459722408&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1njNdrjvNZef3N0bgDZIpW",
@@ -234,7 +303,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/devops-intern-entry-level-fresher-docker-git-ci-cd-remote-at-medinex-workforce-4459722408&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1njNdrjvNZef3N0bgDZIpW",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/micro1/jobs/github-contributor-2145210908",
@@ -267,7 +336,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/micro1/jobs/github-contributor-2145210908",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/ecosio/jobs/full-stack-developer-java-react-f-m-d",
@@ -302,7 +371,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/ecosio/jobs/full-stack-developer-java-react-f-m-d",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/mindrift/jobs/freelance-agent-evaluation-engineer-8060690246",
@@ -338,7 +407,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/mindrift/jobs/freelance-agent-evaluation-engineer-8060690246",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/shi-international-corp/jobs/software-engineer-ai",
@@ -371,7 +440,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/shi-international-corp/jobs/software-engineer-ai",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/dijital-team-pty-ltd/jobs/ai-solutions-engineer",
@@ -404,7 +473,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/dijital-team-pty-ltd/jobs/ai-solutions-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-analytics-intern-entry-level-fresher-excel-sql-power-bi-remote-at-medinex-workforce-4459718370&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0SqArgOzhhfpi8H58Be2fW",
@@ -440,7 +509,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-analytics-intern-entry-level-fresher-excel-sql-power-bi-remote-at-medinex-workforce-4459718370&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0SqArgOzhhfpi8H58Be2fW",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-cour-d-appel-de-bruxelles-hof-van-beroep-te-brussel-4460878304&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0JtJM4faB9DDEP61z6vidC",
@@ -475,7 +544,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-cour-d-appel-de-bruxelles-hof-van-beroep-te-brussel-4460878304&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0JtJM4faB9DDEP61z6vidC",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/fresher-full-stack-developer-entry-junior-level-at-per%25C3%25BA-te-quiero-limpio-4460586151&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1qsfJC8eewB9J5wrnHOjp9",
@@ -510,7 +579,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/fresher-full-stack-developer-entry-junior-level-at-per%25C3%25BA-te-quiero-limpio-4460586151&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1qsfJC8eewB9J5wrnHOjp9",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/spiralyze/jobs/junior-talent-acquisition-specialist-5772648605",
@@ -546,7 +615,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/spiralyze/jobs/junior-talent-acquisition-specialist-5772648605",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152011-backend-developer-net-azure",
@@ -579,7 +648,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152011-backend-developer-net-azure",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/financial-analyst-intern-entry-level-fresher-financial-analysis-excel-reporting-remote-at-medinex-workforce-4459707558&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3TtxdXHlXn4tJ6_OmgT4U-",
@@ -615,7 +684,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/financial-analyst-intern-entry-level-fresher-financial-analysis-excel-reporting-remote-at-medinex-workforce-4459707558&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3TtxdXHlXn4tJ6_OmgT4U-",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/business-analyst-intern-entry-level-reporting-%25E2%2580%25A2-analysis-remote-at-wake-up-whistle-4459490721&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw00vnuscqVxj_5cWhOjqXj7",
@@ -648,7 +717,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/business-analyst-intern-entry-level-reporting-%25E2%2580%25A2-analysis-remote-at-wake-up-whistle-4459490721&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw00vnuscqVxj_5cWhOjqXj7",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/sales-representative-remote-entry-level-with-trainings-at-stratford-davis-staffing-4459490940&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2pnxMuEBsiTE3NNFnWVxG1",
@@ -684,7 +753,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/sales-representative-remote-entry-level-with-trainings-at-stratford-davis-staffing-4459490940&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2pnxMuEBsiTE3NNFnWVxG1",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/global-university-systems-gmbh/examination-and-graduate-record-coordinator-potsdam-gisma-247092",
@@ -717,7 +786,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/global-university-systems-gmbh/examination-and-graduate-record-coordinator-potsdam-gisma-247092",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-representative-remote-at-stratford-davis-staffing-4459702857&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0jZ9JLBjxOPDFcNnqippvI",
@@ -753,7 +822,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-representative-remote-at-stratford-davis-staffing-4459702857&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0jZ9JLBjxOPDFcNnqippvI",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-korean-bilingual-quality-control-coordinator-at-jnd-inc-4459702313&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3MmcsldI2-gTsazp_27hFv",
@@ -789,7 +858,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-korean-bilingual-quality-control-coordinator-at-jnd-inc-4459702313&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3MmcsldI2-gTsazp_27hFv",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152053-support-engineer-emea",
@@ -85516,13 +85585,13 @@
       "is_new": false
     }
   ],
-  "count": 2574,
-  "keepers": 388,
-  "fresh": 2015,
-  "new_today": 23,
-  "apply_now": 14,
+  "count": 2576,
+  "keepers": 389,
+  "fresh": 2017,
+  "new_today": 2,
+  "apply_now": 15,
   "apply": 16,
   "consider": 18,
-  "morocco": 10,
-  "eligible": 46
+  "morocco": 11,
+  "eligible": 47
 }
