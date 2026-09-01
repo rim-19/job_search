@@ -1,6 +1,42 @@
 {
-  "generated": "2026-08-31",
+  "generated": "2026-09-01",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/ui-ux-design-intern-entry-level-fresher-figma-wireframing-user-research-remote-at-medinex-workforce-4459780187&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1dC1xnhvfFvj5G4g7EE1St",
+      "title": "UI/UX Design Intern | Entry Level | Fresher | Figma, Wireframing, User Research / Remote",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/ui-ux-design-intern-entry-level-fresher-figma-wireframing-user-research-remote-at-medinex-workforce-4459780187&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1dC1xnhvfFvj5G4g7EE1St",
+      "score": 15,
+      "reason": "The candidate is not eligible for this role due to geographic restrictions, as the job is located in India and the candidate cannot relocate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-01",
+      "source": "Google Alert 8",
+      "summary": "This is a UI/UX Design Intern role requiring skills in Figma, Wireframing, and User Research. The candidate's profile is focused on AI and Full-Stack Development, with no explicit mention of UI/UX design skills or interest.",
+      "date_posted": "2026-08-31T05:21:19Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is in India, candidate is based in Morocco and cannot relocate.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Lack of UI/UX design skills and experience.",
+        "Geographic ineligibility."
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/ui-ux-design-intern-entry-level-fresher-figma-wireframing-user-research-remote-at-medinex-workforce-4459780187&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1dC1xnhvfFvj5G4g7EE1St",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-ai-generative-ai-python-remote-at-medinex-workforce-4459757924&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Z40YkBuj6G01uMi7zz0f8",
       "title": "Artificial Intelligence Intern | Entry Level | Fresher | AI, Generative AI, Python / Remote",
@@ -32,7 +68,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-ai-generative-ai-python-remote-at-medinex-workforce-4459757924&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Z40YkBuj6G01uMi7zz0f8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-java-python-software-engineering-remote-at-medinex-workforce-4459728676&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0lWqkNZNcF90qwRKZxNVRK",
@@ -65,7 +101,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-java-python-software-engineering-remote-at-medinex-workforce-4459728676&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0lWqkNZNcF90qwRKZxNVRK",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/front-end-developer-intern-entry-level-fresher-html-css-javascript-react-remote-at-medinex-workforce-4459775312&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1FEHPxDW8VGdxpYtGp5AqA",
@@ -98,7 +134,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/front-end-developer-intern-entry-level-fresher-html-css-javascript-react-remote-at-medinex-workforce-4459775312&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1FEHPxDW8VGdxpYtGp5AqA",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/sql-developer-intern-entry-level-fresher-sql-mysql-database-management-remote-at-medinex-workforce-4459721977&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1OHRrzNBI_QwjxKMkmrSMT",
@@ -134,7 +170,7 @@
       ],
       "recommended_project": "Cupid",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/sql-developer-intern-entry-level-fresher-sql-mysql-database-management-remote-at-medinex-workforce-4459721977&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1OHRrzNBI_QwjxKMkmrSMT",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-476344",
@@ -170,7 +206,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-476344",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/html-css-developer-intern-entry-level-fresher-html5-css3-responsive-design-remote-at-medinex-workforce-4459739023&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2-Bby4_vgTtOkaexzPLRhx",
@@ -206,7 +242,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/html-css-developer-intern-entry-level-fresher-html5-css3-responsive-design-remote-at-medinex-workforce-4459739023&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2-Bby4_vgTtOkaexzPLRhx",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/medivise-healthcare-gmbh/software-developer-all-genders-junior-bis-mid-level-berlin-83581",
@@ -241,7 +277,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/medivise-healthcare-gmbh/software-developer-all-genders-junior-bis-mid-level-berlin-83581",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/ai-trainer-entry-level-at-jobright-ai-4459753293&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ccHnoIxdbokG8ke5MOQ0i",
@@ -276,7 +312,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/ai-trainer-entry-level-at-jobright-ai-4459753293&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ccHnoIxdbokG8ke5MOQ0i",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-consulting-specialist-training-provided-entry-level-at-the-wayland-agency-4459214572&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1JRnlHqi4RAp5v0SkBXb_u",
@@ -309,7 +345,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-consulting-specialist-training-provided-entry-level-at-the-wayland-agency-4459214572&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1JRnlHqi4RAp5v0SkBXb_u",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152140-site-reliability-engineer-sre-feeld",
@@ -344,7 +380,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152140-site-reliability-engineer-sre-feeld",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/ui-ux-design-intern-entry-level-fresher-figma-wireframing-user-research-remote-at-crossing-infotech-4459745103&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0e76gVdBtVAORdR20LvHqw",
@@ -379,7 +415,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/ui-ux-design-intern-entry-level-fresher-figma-wireframing-user-research-remote-at-crossing-infotech-4459745103&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0e76gVdBtVAORdR20LvHqw",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-network-security-vulnerability-assessment-information-security-remote-at-medinex-workforce-4459729687&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3S_7RAeBXfuCk8Z70qrcJF",
@@ -414,7 +450,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-network-security-vulnerability-assessment-information-security-remote-at-medinex-workforce-4459729687&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3S_7RAeBXfuCk8Z70qrcJF",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/business-analyst-intern-entry-level-fresher-business-analysis-excel-reporting-remote-at-medinex-workforce-4459721940&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw20ggQKYMwG5umSTAb5lrTq",
@@ -447,7 +483,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/business-analyst-intern-entry-level-fresher-business-analysis-excel-reporting-remote-at-medinex-workforce-4459721940&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw20ggQKYMwG5umSTAb5lrTq",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/flexible-remote-work-entry-level-build-your-own-schedule-at-lotz-agency-4461232896&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0mmXdSvKZ_R-BIAKTzT5KA",
@@ -480,7 +516,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/flexible-remote-work-entry-level-build-your-own-schedule-at-lotz-agency-4461232896&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0mmXdSvKZ_R-BIAKTzT5KA",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152106-associate-infrastructure-engineer",
@@ -515,7 +551,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152106-associate-infrastructure-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152101-data-scientist-2",
@@ -550,7 +586,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152101-data-scientist-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/home-depot-u-s-a-inc/jobs/software-engineer-ii-frontend-react",
@@ -585,7 +621,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/home-depot-u-s-a-inc/jobs/software-engineer-ii-frontend-react",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-tf-log-consultoria-4461031537&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0JM0ajuiuldez7YYTwrlCK",
@@ -620,7 +656,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-tf-log-consultoria-4461031537&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0JM0ajuiuldez7YYTwrlCK",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152175-product-security-engineer",
@@ -656,7 +692,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152175-product-security-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152071-jr-accounting-associate",
@@ -692,7 +728,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152071-jr-accounting-associate",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-life-insurance-agent-at-gibbons-group-4459767119&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3FUu803C32uTysTWmnw0Q0",
@@ -727,7 +763,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-life-insurance-agent-at-gibbons-group-4459767119&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3FUu803C32uTysTWmnw0Q0",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-advisor-%25E2%2580%2593-flexible-schedule-training-provided-at-miller-family-agency-4461068943&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0aZHvCHvyXLq7Q-hL_lOLg",
@@ -763,7 +799,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-advisor-%25E2%2580%2593-flexible-schedule-training-provided-at-miller-family-agency-4461068943&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0aZHvCHvyXLq7Q-hL_lOLg",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152104-international-video-remote-interpreters",
@@ -796,7 +832,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152104-international-video-remote-interpreters",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152113-international-audio-remote-danish-interpreters",
@@ -829,7 +865,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152113-international-audio-remote-danish-interpreters",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-node-js-python-rest-apis-remote-at-medinex-workforce-4459485806&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Yyrqkaa_SztWfH9WQv8IP",
@@ -86346,10 +86382,10 @@
       "is_new": false
     }
   ],
-  "count": 2598,
+  "count": 2599,
   "keepers": 391,
-  "fresh": 2039,
-  "new_today": 24,
+  "fresh": 2040,
+  "new_today": 1,
   "apply_now": 16,
   "apply": 17,
   "consider": 19,
