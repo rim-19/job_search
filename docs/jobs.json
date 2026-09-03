@@ -1,6 +1,111 @@
 {
-  "generated": "2026-09-02",
+  "generated": "2026-09-03",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/software-engineer-ii-full-stack-web-engineering-462983",
+      "title": "Software Engineer II - Full Stack - Web Engineering",
+      "company": "Elastic",
+      "location": "",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/elastic/software-engineer-ii-full-stack-web-engineering-462983",
+      "score": 78,
+      "reason": "This role is a strong fit for a junior full-stack developer with AI/LLM experience, and the candidate's skills and project work align well with the requirements. The remote nature of the role is also a good match.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-03",
+      "source": "Arbeitnow",
+      "summary": "This is a Software Engineer II role on the Web Engineering team at Elastic, focusing on building features, systems, and infrastructure for the elastic.co website. It requires a full-stack engineer comfortable with React, backend services, and shipping to production.",
+      "date_posted": "1788386104",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "priority": "APPLY",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate meets geographic and seniority requirements.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/software-engineer-ii-full-stack-web-engineering-462983",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/fullstack-entwickler-nestjs-angular-stuttgart-498575",
+      "title": "Fullstack Entwickler NestJS / Angular (m/w/d)",
+      "company": "Rockstardevelopers GmbH",
+      "location": "Stuttgart (remote)",
+      "link": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/fullstack-entwickler-nestjs-angular-stuttgart-498575",
+      "score": 60,
+      "reason": "The role is a Fullstack Developer position with a focus on Node.js and Angular, which has some overlap with the candidate's backend (Node.js, Express, FastAPI) and frontend (React, Next.js) skills. However, Angular is not listed in the candidate's explicit skills, and the AI/LLM component is absent.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-03",
+      "source": "Arbeitnow",
+      "summary": "This is a Fullstack Developer role requiring Node.js and Angular expertise. The candidate has strong Node.js backend experience and some frontend skills, but Angular is not a direct match. The role is remote but based in Germany, creating potential geographic eligibility concerns.",
+      "date_posted": "1788381037",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "priority": "CONSIDER",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate is based in Morocco and the role is remote, but the company is German (EU). The job description mentions \"remote (Stuttgart)\" which implies it might be tied to a German office, and the candi",
+      "geographic_scope": "EMEA",
+      "remote_type": "REMOTE",
+      "seniority": "EARLY_CAREER",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Angular frontend framework not explicitly listed in candidate's skills.",
+        "No AI/LLM component in the job description.",
+        "Potential EU work authorization requirement for remote work."
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/fullstack-entwickler-nestjs-angular-stuttgart-498575",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-gpti-grupo-de-profissionais-de-ti-4459923101&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2brrWhKsX0CcQEYj4riAyW",
+      "title": "Grupo de Profissionais de TI hiring Graduate Developer ( Remote , Entry-Level ) in Australia",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-gpti-grupo-de-profissionais-de-ti-4459923101&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2brrWhKsX0CcQEYj4riAyW",
+      "score": 10,
+      "reason": "The job is located in Australia, which is not within the candidate's geographic eligibility for remote work.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-03",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level remote Graduate Developer role. The candidate is a full-stack developer with AI/LLM specialization, but the geographic location of this role makes them ineligible.",
+      "date_posted": "2026-09-02T11:51:28Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Candidate is based in Morocco and cannot relocate. The role is in Australia, which is outside of the candidate's geographic eligibility.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic Ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-gpti-grupo-de-profissionais-de-ti-4459923101&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2brrWhKsX0CcQEYj4riAyW",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-fullstack-software-engineer-core-437469",
       "title": "Fullstack Software Engineer - Core",
@@ -32,7 +137,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-fullstack-software-engineer-core-437469",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/jr-full-stack-developer-web-content-seo-at-ruh-ai-4460617211&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw3IV6200cXSq3WeUWZVKChr",
@@ -65,7 +170,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/jr-full-stack-developer-web-content-seo-at-ruh-ai-4460617211&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw3IV6200cXSq3WeUWZVKChr",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-184220",
@@ -98,7 +203,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-184220",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/headspin/jobs/associate-software-engineer",
@@ -131,7 +236,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://himalayas.app/companies/headspin/jobs/associate-software-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152328-sdet-ii",
@@ -166,7 +271,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152328-sdet-ii",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-analyst-intern-entry-level-fresher-python-sql-power-bi-remote-at-medinex-workforce-4460699399&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1XiJu0E7qFVQN2qFfdgu_s",
@@ -202,7 +307,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-analyst-intern-entry-level-fresher-python-sql-power-bi-remote-at-medinex-workforce-4460699399&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1XiJu0E7qFVQN2qFfdgu_s",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-cloud-master-ti-4459276711&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2_hR9jB1gqS4Ef3Tou-IVN",
@@ -237,7 +342,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-cloud-master-ti-4459276711&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2_hR9jB1gqS4Ef3Tou-IVN",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-ti-de-salto-4461709146&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1EpJQ5uH34aNsmJyku1nKg",
@@ -272,7 +377,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-ti-de-salto-4461709146&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1EpJQ5uH34aNsmJyku1nKg",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152344-sr-software-engineer-3",
@@ -308,7 +413,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152344-sr-software-engineer-3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/compliance-analyst-entry-level-at-jobright-ai-4460648760&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Rf5IMRRYtajA8SK_-Uc-R",
@@ -344,7 +449,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/compliance-analyst-entry-level-at-jobright-ai-4460648760&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Rf5IMRRYtajA8SK_-Uc-R",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152333-qa-analyst-future-roles",
@@ -377,7 +482,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152333-qa-analyst-future-roles",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152330-quality-engineer-2",
@@ -410,7 +515,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152330-quality-engineer-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-financial-associate-entry-level-training-provided-at-r-o-a-agency-4460223377&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw119mcpaDVQxJwg4zHFDNeB",
@@ -446,7 +551,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-financial-associate-entry-level-training-provided-at-r-o-a-agency-4460223377&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw119mcpaDVQxJwg4zHFDNeB",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/client-relations-advisor-%25E2%2580%2593-entry-level-training-provided-at-miller-family-agency-4461778092%3Fposition%3D56%26pageNum%3D0%26refId%3Dkvbvgyz0aKdPsIyniJORAQ%253D%253D%26trackingId%3DmAuR3O9xj7r%252Bse0YWT9gUg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2uOpOXO0MZyuLaEdxKLYNu",
@@ -481,7 +586,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/client-relations-advisor-%25E2%2580%2593-entry-level-training-provided-at-miller-family-agency-4461778092%3Fposition%3D56%26pageNum%3D0%26refId%3Dkvbvgyz0aKdPsIyniJORAQ%253D%253D%26trackingId%3DmAuR3O9xj7r%252Bse0YWT9gUg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2uOpOXO0MZyuLaEdxKLYNu",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-cruise-coordinator-at-caribbean-and-cruise-experience-4462020705&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw39IMj2YS0deweCy1dBTKP4",
@@ -516,7 +621,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-cruise-coordinator-at-caribbean-and-cruise-experience-4462020705&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw39IMj2YS0deweCy1dBTKP4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-intake-specialist-entry-level-start-immediately-at-rise-creative-agency-4460608606&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3jrTuNGhHLYgnlwfHsndxM",
@@ -552,7 +657,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-intake-specialist-entry-level-start-immediately-at-rise-creative-agency-4460608606&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3jrTuNGhHLYgnlwfHsndxM",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/it-support-specialist-entry-level-at-altaquotayoga-4461722614&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2DHg5gfyKiTY8La9Uoi3NK",
@@ -587,7 +692,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/it-support-specialist-entry-level-at-altaquotayoga-4461722614&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2DHg5gfyKiTY8La9Uoi3NK",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-travel-advisor-%25E2%2580%2594-remote-at-isaiah-newport-travel-4462011582&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3xN-O2hqGNeSwtVcBrOhG_",
@@ -623,7 +728,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-travel-advisor-%25E2%2580%2594-remote-at-isaiah-newport-travel-4462011582&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3xN-O2hqGNeSwtVcBrOhG_",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fully-remote-entry-level-sales%25C2%25A0-at-heritage-insurance-group-4460604951&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1M9e0E5HVWBMx0rJ4aMW9c",
@@ -659,7 +764,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fully-remote-entry-level-sales%25C2%25A0-at-heritage-insurance-group-4460604951&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1M9e0E5HVWBMx0rJ4aMW9c",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-hotel-reservationist-entry-level-at-professional-travel-group-4461755419&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1qVZKnaqfevibDAIyZGlXk",
@@ -694,7 +799,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-hotel-reservationist-entry-level-at-professional-travel-group-4461755419&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1qVZKnaqfevibDAIyZGlXk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152300-full-stack-product-engineer-intern-agent-native",
@@ -87876,13 +87981,13 @@
       "is_new": false
     }
   ],
-  "count": 2642,
-  "keepers": 400,
-  "fresh": 2080,
-  "new_today": 20,
+  "count": 2645,
+  "keepers": 402,
+  "fresh": 2083,
+  "new_today": 3,
   "apply_now": 23,
-  "apply": 18,
-  "consider": 23,
+  "apply": 19,
+  "consider": 24,
   "morocco": 14,
-  "eligible": 63
+  "eligible": 65
 }
