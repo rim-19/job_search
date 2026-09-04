@@ -1,6 +1,75 @@
 {
-  "generated": "2026-09-03",
+  "generated": "2026-09-04",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-jobdo-ti-diciamo-come-e-dove-candidarti-per-ottenere-il-colloquio-4461366610&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw1VNRlQwffAgtXU1hcbKT1L",
+      "title": "Junior Developer (Entry-Level / Junior)",
+      "company": "JobDo: Ti diciamo come e dove candidarti per ...",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-jobdo-ti-diciamo-come-e-dove-candidarti-per-ottenere-il-colloquio-4461366610&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw1VNRlQwffAgtXU1hcbKT1L",
+      "score": 88,
+      "reason": "This is a full-time remote Junior Developer role that aligns well with the candidate's full-stack and AI/LLM skills, and she is geographically eligible for worldwide remote positions.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-04",
+      "source": "Google Alert 1",
+      "summary": "This is a full-time remote Junior Developer role focused on web development. The candidate is an AI + Full-Stack Software Developer with experience in modern web technologies and AI/LLM applications, making her a strong fit for this entry-level position.",
+      "date_posted": "2026-09-03T02:37:38Z",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "priority": "APPLY_NOW",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Meets geographic and seniority requirements.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-jobdo-ti-diciamo-come-e-dove-candidarti-per-ottenere-il-colloquio-4461366610&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw1VNRlQwffAgtXU1hcbKT1L",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/152401-qa-tester-future-roles",
+      "title": "QA Tester (Future Roles)",
+      "company": "Testlio",
+      "location": "Anywhere",
+      "link": "https://jobicy.com/jobs/152401-qa-tester-future-roles",
+      "score": 10,
+      "reason": "The candidate is not eligible due to geographic restrictions, and the role is for QA testing, which does not align with the candidate's AI + Full-Stack Software Developer profile.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-04",
+      "source": "Jobicy",
+      "summary": "This role is for a QA Tester, which is not aligned with the candidate's specialization in AI and Full-Stack development. Furthermore, the geographic requirements exclude the candidate.",
+      "date_posted": "2026-09-03T13:54:46+00:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic location mismatch: Candidate is in Morocco, but the role is restricted to specific countries including Argentina, Brazil, Canada, Czech Republic, Estonia, India, Ireland, Mexico, Poland, Po",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Role type mismatch",
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://jobicy.com/jobs/152401-qa-tester-future-roles",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-asesores-y-consultores-en-prevision-y-riesgos-sa-de-cv-4461356515&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Dxf4XBN0UFLPPTrmiriuS",
       "title": "Graduate Developer ( Remote , Entry-Level ) - LinkedIn",
@@ -32,7 +101,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-asesores-y-consultores-en-prevision-y-riesgos-sa-de-cv-4461356515&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Dxf4XBN0UFLPPTrmiriuS",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/software-engineer-ii-full-stack-web-engineering-462983",
@@ -65,7 +134,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/software-engineer-ii-full-stack-web-engineering-462983",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/fullstack-entwickler-nestjs-angular-stuttgart-498575",
@@ -102,7 +171,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/fullstack-entwickler-nestjs-angular-stuttgart-498575",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/glassflow/full-stack-engineer-javascript-berlin-176003",
@@ -137,7 +206,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/glassflow/full-stack-engineer-javascript-berlin-176003",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/agentur-fur-haushaltshilfe-gmbh/softwareentwickler-neuss-149860",
@@ -172,7 +241,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/agentur-fur-haushaltshilfe-gmbh/softwareentwickler-neuss-149860",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/devops-engineer-100-remote-united-kindom-290590",
@@ -205,7 +274,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/devops-engineer-100-remote-united-kindom-290590",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4462408435&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw25RYCfdRq_y2AA6z5Ks0vY",
@@ -240,7 +309,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4462408435&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw25RYCfdRq_y2AA6z5Ks0vY",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-jobs-no-experience-needed-start-asap-apply-today-at-remotehunter-4461327892%3Fposition%3D59%26pageNum%3D0%26refId%3D8G7BgqQ4EcbIpS0yaQsTXQ%253D%253D%26trackingId%3Dwa64xlWoYuEegCYbz4ow%252Fg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1f5Owhfm0tbbZ6F7i72rpL",
@@ -275,7 +344,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-jobs-no-experience-needed-start-asap-apply-today-at-remotehunter-4461327892%3Fposition%3D59%26pageNum%3D0%26refId%3D8G7BgqQ4EcbIpS0yaQsTXQ%253D%253D%26trackingId%3Dwa64xlWoYuEegCYbz4ow%252Fg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1f5Owhfm0tbbZ6F7i72rpL",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/expert-communication-systems-gmbh/solutions-engineer-munich-44078",
@@ -311,7 +380,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/expert-communication-systems-gmbh/solutions-engineer-munich-44078",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/atvari-gmbh/nix-nixos-nixpkgs-software-engineering-intern-luneburg-296907",
@@ -344,7 +413,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/atvari-gmbh/nix-nixos-nixpkgs-software-engineering-intern-luneburg-296907",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152458-aem-developer",
@@ -377,7 +446,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152458-aem-developer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-gpti-grupo-de-profissionais-de-ti-4459923101&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2brrWhKsX0CcQEYj4riAyW",
@@ -412,7 +481,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-gpti-grupo-de-profissionais-de-ti-4459923101&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2brrWhKsX0CcQEYj4riAyW",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/gameloft/jobs/manual-qa-junior",
@@ -447,7 +516,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/gameloft/jobs/manual-qa-junior",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-grupo-universal-textil-4460457203&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3HLiPJpJgFwchqj4ia8AIG",
@@ -483,7 +552,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-grupo-universal-textil-4460457203&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3HLiPJpJgFwchqj4ia8AIG",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152452-product-engineer-internal-tools-latam",
@@ -519,7 +588,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152452-product-engineer-internal-tools-latam",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-agent-at-the-weiner-group-4460985628&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ZPGpCwDpy9_1xyO3kgpf-",
@@ -554,7 +623,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-agent-at-the-weiner-group-4460985628&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ZPGpCwDpy9_1xyO3kgpf-",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-support-specialist-training-provided-at-the-elmer-agency-4460294033%3FrefId%3DLJxf7JjlKQm%252Fm3884Ip5qQ%253D%253D%26trackingId%3De2Dbz0Be5ESqRJ%252FCYKeSug%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0pmOMTso6LfcmyH1dqSmYV",
@@ -590,7 +659,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-support-specialist-training-provided-at-the-elmer-agency-4460294033%3FrefId%3DLJxf7JjlKQm%252Fm3884Ip5qQ%253D%253D%26trackingId%3De2Dbz0Be5ESqRJ%252FCYKeSug%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0pmOMTso6LfcmyH1dqSmYV",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/health-insurance-advisor-entry-level-remote-at-r-r-healthcare-solutions-4447042139%3Fposition%3D33%26pageNum%3D0%26refId%3DhlfdOWnbXwp08OEoj6TTLg%253D%253D%26trackingId%3D1R%252BPDq%252FBCMyqwTuE2UWEqA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Lc0KK0gU5gjY7lV5CGJCy",
@@ -626,7 +695,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/health-insurance-advisor-entry-level-remote-at-r-r-healthcare-solutions-4447042139%3Fposition%3D33%26pageNum%3D0%26refId%3DhlfdOWnbXwp08OEoj6TTLg%253D%253D%26trackingId%3D1R%252BPDq%252FBCMyqwTuE2UWEqA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Lc0KK0gU5gjY7lV5CGJCy",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-at-nwarkansas-4459966786&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3iPAQaaFGcKXkd3a4H4lXh",
@@ -659,7 +728,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-at-nwarkansas-4459966786&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3iPAQaaFGcKXkd3a4H4lXh",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/customer-service-representative-entry-level-at-jobright-ai-4461319547&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Squb1NbTlOFcHb2r6zjpy",
@@ -695,7 +764,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/customer-service-representative-entry-level-at-jobright-ai-4461319547&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Squb1NbTlOFcHb2r6zjpy",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-recruiter-with-training%2521-at-gpac-4459936135&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw099IDufuK9rW-9nFt7qzO8",
@@ -730,7 +799,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-recruiter-with-training%2521-at-gpac-4459936135&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw099IDufuK9rW-9nFt7qzO8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-fullstack-software-engineer-core-437469",
@@ -88607,13 +88676,13 @@
       "is_new": false
     }
   ],
-  "count": 2663,
-  "keepers": 403,
-  "fresh": 2101,
-  "new_today": 21,
-  "apply_now": 24,
+  "count": 2665,
+  "keepers": 404,
+  "fresh": 2103,
+  "new_today": 2,
+  "apply_now": 25,
   "apply": 19,
   "consider": 24,
   "morocco": 14,
-  "eligible": 66
+  "eligible": 67
 }
