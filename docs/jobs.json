@@ -1,6 +1,74 @@
 {
-  "generated": "2026-09-04",
+  "generated": "2026-09-05",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/yext/software-engineer-london-380457",
+      "title": "Software Engineer",
+      "company": "Yext",
+      "location": "London",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/yext/software-engineer-london-380457",
+      "score": 40,
+      "reason": "The role is located in London, UK, which is outside the candidate's geographic eligibility due to potential work authorization requirements.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-05",
+      "source": "Arbeitnow",
+      "summary": "This is a Full Stack Software Engineer role at Yext, focusing on custom web and backend solutions for enterprise clients. The candidate has relevant full-stack and AI/LLM skills, but the location is a hard constraint.",
+      "date_posted": "1788569720",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is London, UK, which requires UK work authorization that the candidate does not appear to have.",
+      "geographic_scope": "EMEA",
+      "remote_type": "UNKNOWN",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/yext/software-engineer-london-380457",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-entry-level-fresher-python-machine-learning-predictive-analytics-remote-at-crossing-infotech-4461129697&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1wlIR7ABuSd6itXJyz9Yze",
+      "title": "Entry Level | Fresher | Python, Machine Learning, Predictive Analytics / Remote",
+      "company": "Crossing Infotech",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-entry-level-fresher-python-machine-learning-predictive-analytics-remote-at-crossing-infotech-4461129697&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1wlIR7ABuSd6itXJyz9Yze",
+      "score": 30,
+      "reason": "The job is located in India, which is outside the candidate's acceptable remote work locations.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-05",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level Machine Learning Intern role requiring Python and predictive analytics. The candidate has AI/LLM skills and Python experience, but the geographic location is a hard constraint.",
+      "date_posted": "2026-09-04T07:56:07Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is India, which is not within the candidate's acceptable geographic scope.",
+      "geographic_scope": "OTHER",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic Ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-entry-level-fresher-python-machine-learning-predictive-analytics-remote-at-crossing-infotech-4461129697&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1wlIR7ABuSd6itXJyz9Yze",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-jobdo-ti-diciamo-come-e-dove-candidarti-per-ottenere-il-colloquio-4461366610&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw1VNRlQwffAgtXU1hcbKT1L",
       "title": "Junior Developer (Entry-Level / Junior)",
@@ -32,7 +100,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-jobdo-ti-diciamo-come-e-dove-candidarti-per-ottenere-il-colloquio-4461366610&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw1VNRlQwffAgtXU1hcbKT1L",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-tato-produ%25C3%25A7%25C3%25A3o-educa%25C3%25A7%25C3%25A3o-e-cultura-4460782030&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw0JT_npkJvAB_c_zZUdg0Is",
@@ -65,7 +133,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-tato-produ%25C3%25A7%25C3%25A3o-educa%25C3%25A7%25C3%25A3o-e-cultura-4460782030&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw0JT_npkJvAB_c_zZUdg0Is",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/full-stack-intern-junior-software-developer-at-pranissa-4461687998&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw20uncXEHQtxRQ7roTH-t94",
@@ -98,7 +166,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/full-stack-intern-junior-software-developer-at-pranissa-4461687998&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw20uncXEHQtxRQ7roTH-t94",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/thrivecart/software-engineer-london-322848",
@@ -133,7 +201,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/thrivecart/software-engineer-london-322848",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/lyto-brands-group-gmbh/ai-product-engineer-internal-tools-automation-fully-remote-dusseldorf-81871",
@@ -166,7 +234,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/lyto-brands-group-gmbh/ai-product-engineer-internal-tools-automation-fully-remote-dusseldorf-81871",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8775415002",
@@ -202,7 +270,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/gitlab/jobs/8775415002",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-edinburgh-145631",
@@ -235,7 +303,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-edinburgh-145631",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/tenchi-security-devops-engineer",
@@ -270,7 +338,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/tenchi-security-devops-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/junior-web-developer-full-stack-angular-php-at-payquad-solutions-4461660438&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0zisk8R3ZrlNaHeUCVqY8b",
@@ -305,7 +373,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/junior-web-developer-full-stack-angular-php-at-payquad-solutions-4461660438&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0zisk8R3ZrlNaHeUCVqY8b",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152431-software-engineer-9",
@@ -341,7 +409,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152431-software-engineer-9",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-79481",
@@ -374,7 +442,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-79481",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-457689",
@@ -407,7 +475,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-457689",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/yldcom/polyglot-engineer-js-python-go-london-268184",
@@ -443,7 +511,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/yldcom/polyglot-engineer-js-python-go-london-268184",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-react-%252B-next-js-developer-at-canestate-inc-4460702093&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2NEpJ6aKwGp2MMepApOiDd",
@@ -478,7 +546,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-react-%252B-next-js-developer-at-canestate-inc-4460702093&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2NEpJ6aKwGp2MMepApOiDd",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-consulting-specialist-no-experience-required-at-miller-family-agency-4462874407&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3mH8LaN_sxtTcSNzCWJkKI",
@@ -514,7 +582,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-consulting-specialist-no-experience-required-at-miller-family-agency-4462874407&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3mH8LaN_sxtTcSNzCWJkKI",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cloud-computing-intern-entry-level-fresher-aws-linux-cloud-fundamentals-remote-at-medinex-workforce-4462788826&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0ez30RM7o7WOuHkKQ_jYTe",
@@ -547,7 +615,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cloud-computing-intern-entry-level-fresher-aws-linux-cloud-fundamentals-remote-at-medinex-workforce-4462788826&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0ez30RM7o7WOuHkKQ_jYTe",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150130-site-reliability-engineer-in-network-infrastructure",
@@ -583,7 +651,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/150130-site-reliability-engineer-in-network-infrastructure",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-agatto-agricultura-4463169057&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2gy0tpyCBkyzmGwD6msRAK",
@@ -618,7 +686,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-agatto-agricultura-4463169057&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2gy0tpyCBkyzmGwD6msRAK",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152389-sales-engineer-5",
@@ -654,7 +722,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152389-sales-engineer-5",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152401-qa-tester-future-roles",
@@ -690,7 +758,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152401-qa-tester-future-roles",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-development-specialist-remote-at-the-elmer-agency-4461665485&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw35-nOUk73xVS5ARFG9a4hN",
@@ -726,7 +794,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-development-specialist-remote-at-the-elmer-agency-4461665485&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw35-nOUk73xVS5ARFG9a4hN",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/audif1/aero-software-developer-bicester-united-kingdom-289895",
@@ -759,7 +827,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/audif1/aero-software-developer-bicester-united-kingdom-289895",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-berlin-berlin-272997",
@@ -792,7 +860,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-berlin-berlin-272997",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/digital-marketing-intern-entry-level-fresher-seo-social-media-google-analytics-remote-at-medinex-workforce-4461957477&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2rsC6GMer89C0P6bNPeWzh",
@@ -827,7 +895,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/digital-marketing-intern-entry-level-fresher-seo-social-media-google-analytics-remote-at-medinex-workforce-4461957477&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2rsC6GMer89C0P6bNPeWzh",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-marketing-coordinator-%25E2%2580%2594-remote-at-listlab-4460427271&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw05UsK3ZKy_NsuUzUPOGHDu",
@@ -860,7 +928,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-marketing-coordinator-%25E2%2580%2594-remote-at-listlab-4460427271&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw05UsK3ZKy_NsuUzUPOGHDu",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-office-coordinator-at-asurion-protection-services-llc-4462790708&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1bMUUyqEjBnd7FHA5byz2C",
@@ -896,7 +964,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-office-coordinator-at-asurion-protection-services-llc-4462790708&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1bMUUyqEjBnd7FHA5byz2C",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-asesores-y-consultores-en-prevision-y-riesgos-sa-de-cv-4461356515&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Dxf4XBN0UFLPPTrmiriuS",
@@ -89504,10 +89572,10 @@
       "is_new": false
     }
   ],
-  "count": 2689,
+  "count": 2691,
   "keepers": 408,
-  "fresh": 2126,
-  "new_today": 26,
+  "fresh": 2128,
+  "new_today": 2,
   "apply_now": 26,
   "apply": 22,
   "consider": 24,
