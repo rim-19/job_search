@@ -1,6 +1,110 @@
 {
-  "generated": "2026-09-05",
+  "generated": "2026-09-06",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-engineer-fullstack-software-engineer-emea-paris-440935",
+      "title": "Applied AI Engineer, Fullstack Software Engineer - EMEA",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-engineer-fullstack-software-engineer-emea-paris-440935",
+      "score": 65,
+      "reason": "The role is a good technical fit for an AI + Full-Stack Developer, but the location in Paris makes it less ideal for the candidate who cannot relocate. The seniority level seems appropriate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-06",
+      "source": "Arbeitnow",
+      "summary": "This role aligns well with the candidate's AI and full-stack development skills, particularly in areas like RAG and LLM integration. However, the requirement for the candidate to be based in Paris and work on-site or hybrid is a significant geographic mismatch, as they cannot relocate.",
+      "date_posted": "1788658805",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-06",
+      "last_seen": "2026-09-06",
+      "priority": "CONSIDER",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate is based in Morocco and can work remotely within MENA/EMEA if no EU work authorization is required. Paris location is not ideal for on-site/hybrid.",
+      "geographic_scope": "EMEA",
+      "remote_type": "REMOTE",
+      "seniority": "EARLY_CAREER",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic mismatch: Role is based in Paris, candidate cannot relocate."
+      ],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-engineer-fullstack-software-engineer-emea-paris-440935",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/software-engineer-enterprise-agents-paris-272961",
+      "title": "Software Engineer, Enterprise Agents",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/mistralai/software-engineer-enterprise-agents-paris-272961",
+      "score": 40,
+      "reason": "The candidate is geographically ineligible as the role is based in Paris and requires on-site presence, while the candidate cannot relocate and is restricted to specific remote work regions.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-06",
+      "source": "Arbeitnow",
+      "summary": "This role at Mistral.ai focuses on building enterprise agent systems, which aligns with the candidate's AI/LLM and full-stack development skills. However, the on-site requirement in Paris makes the candidate ineligible.",
+      "date_posted": "1788658805",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-06",
+      "last_seen": "2026-09-06",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location: Paris, France. Candidate cannot relocate and requires remote work within specific regions.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "EARLY_CAREER",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/mistralai/software-engineer-enterprise-agents-paris-272961",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/medical-coding-billing-intern-entry-level-fresher-medical-terminology-claims-healthcare-documentation-remote-at-medinex-workforce-4462612630&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1IOpbgkY7HQLVEiD7VD5lH",
+      "title": "Medical Coding &amp; Billing Intern | Entry Level | Fresher | LinkedIn Jobs - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/medical-coding-billing-intern-entry-level-fresher-medical-terminology-claims-healthcare-documentation-remote-at-medinex-workforce-4462612630&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1IOpbgkY7HQLVEiD7VD5lH",
+      "score": 15,
+      "reason": "This internship is not relevant to the candidate's specialization in AI and Full-Stack development, and the domain (Medical Coding & Billing) is outside her technical expertise.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-06",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer seeking roles in software development. This internship is in Medical Coding & Billing, which is a completely different field and does not leverage her skills.",
+      "date_posted": "2026-09-05T15:44:53Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-06",
+      "last_seen": "2026-09-06",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "The role is an internship in Medical Coding & Billing, which does not align with the candidate's AI + Full-Stack Software Developer profile or technical skills.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Domain mismatch",
+        "Skill mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/medical-coding-billing-intern-entry-level-fresher-medical-terminology-claims-healthcare-documentation-remote-at-medinex-workforce-4462612630&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1IOpbgkY7HQLVEiD7VD5lH",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-ui-solutions-munich-415043",
       "title": "FullStack Engineer - Prospect UI Solutions",
@@ -32,7 +136,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-ui-solutions-munich-415043",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-software-developer-remote-at-cv-bridge-ltd-4461129444&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2uPXCk8-6PdhjcN_MNek12",
@@ -65,7 +169,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-software-developer-remote-at-cv-bridge-ltd-4461129444&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2uPXCk8-6PdhjcN_MNek12",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/agent-engineer-london-united-kingdom-352641",
@@ -100,7 +204,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/agent-engineer-london-united-kingdom-352641",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152574-solution-engineer-3",
@@ -133,7 +237,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://jobicy.com/jobs/152574-solution-engineer-3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/yext/software-engineer-london-380457",
@@ -166,7 +270,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/yext/software-engineer-london-380457",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/software-engineer-net-c-london-314586",
@@ -201,7 +305,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/software-engineer-net-c-london-314586",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-entry-level-fresher-python-machine-learning-predictive-analytics-remote-at-crossing-infotech-4461129697&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1wlIR7ABuSd6itXJyz9Yze",
@@ -236,7 +340,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-entry-level-fresher-python-machine-learning-predictive-analytics-remote-at-crossing-infotech-4461129697&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1wlIR7ABuSd6itXJyz9Yze",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/data-engineer-472202",
@@ -269,7 +373,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/data-engineer-472202",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/ygo/remote-cloud-security-engineer-220555",
@@ -305,7 +409,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/ygo/remote-cloud-security-engineer-220555",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7985794003",
@@ -341,7 +445,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7985794003",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/plaid/remote-technical-support-engineer-241358",
@@ -377,7 +481,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/plaid/remote-technical-support-engineer-241358",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesforce-developer-at-finspectra-4461999226&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3UHxA0mH22KltZqBLOAydq",
@@ -413,7 +517,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesforce-developer-at-finspectra-4461999226&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3UHxA0mH22KltZqBLOAydq",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/junior-software-developer-at-helic-co-4463388052&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0i646qG5i9zq8sl44IIVj9",
@@ -448,7 +552,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/junior-software-developer-at-helic-co-4463388052&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0i646qG5i9zq8sl44IIVj9",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/security-engineer-detection-and-response-uk-london-268604",
@@ -481,7 +585,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/writer/security-engineer-detection-and-response-uk-london-268604",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/canopy-growth-corporation/jobs/full-stack-developer",
@@ -516,7 +620,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/canopy-growth-corporation/jobs/full-stack-developer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-investor-solutions-edinburgh-383916",
@@ -552,7 +656,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-investor-solutions-edinburgh-383916",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/andercore/sr-backend-engineer-berlin-26161",
@@ -588,7 +692,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/andercore/sr-backend-engineer-berlin-26161",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/blackfluo-ai/jobs/product-engineer-full-remote-2495845468",
@@ -624,7 +728,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/blackfluo-ai/jobs/product-engineer-full-remote-2495845468",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-insurance-entry-level-we-train-at-the-stephens-agency-4463359207&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3k7ctslkyr69sXsg1uGAvr",
@@ -660,7 +764,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-insurance-entry-level-we-train-at-the-stephens-agency-4463359207&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3k7ctslkyr69sXsg1uGAvr",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-verdiza-agricultura-cient%25C3%25ADfica-4463312631&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Ra8Cahz7oAH_Su-vyIACT",
@@ -695,7 +799,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-verdiza-agricultura-cient%25C3%25ADfica-4463312631&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Ra8Cahz7oAH_Su-vyIACT",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-verdiza-agricultura-cient%25C3%25ADfica-4463194436&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3qxrG-z-B6w96lbocr3i2k",
@@ -730,7 +834,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-remote-entry-level-at-verdiza-agricultura-cient%25C3%25ADfica-4463194436&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3qxrG-z-B6w96lbocr3i2k",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/pergolux/commercial-expansion-intern-berlin-77265",
@@ -766,7 +870,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/pergolux/commercial-expansion-intern-berlin-77265",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-tax-preparer-%25E2%2580%2593-remote-training-provided-at-lqs-tax-solution-4456116534&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3xA3Vy0tGyCdnKnFjAimFf",
@@ -802,7 +906,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-tax-preparer-%25E2%2580%2593-remote-training-provided-at-lqs-tax-solution-4456116534&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3xA3Vy0tGyCdnKnFjAimFf",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-benefits-advisor-entry-level-at-health-insurance-with-sherri-4463396719&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw27oob2uBVnHhjR8Kj3ivSk",
@@ -838,7 +942,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-benefits-advisor-entry-level-at-health-insurance-with-sherri-4463396719&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw27oob2uBVnHhjR8Kj3ivSk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-agent-at-insuratec-4461980823&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw220logtgVl7YLv7maAHhAv",
@@ -874,7 +978,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-agent-at-insuratec-4461980823&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw220logtgVl7YLv7maAHhAv",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-work-from-home-at-the-roethlisberger-life-group-4462310653&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw25pqlJnE_YnJx-DdT1Hs7e",
@@ -910,7 +1014,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-work-from-home-at-the-roethlisberger-life-group-4462310653&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw25pqlJnE_YnJx-DdT1Hs7e",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/access-control-technician-entry-level-to-experienced-at-teksystems-4463186765&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw15wkXZBOLWviJtaAAGZkkI",
@@ -946,7 +1050,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/access-control-technician-entry-level-to-experienced-at-teksystems-4463186765&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw15wkXZBOLWviJtaAAGZkkI",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-jobdo-ti-diciamo-come-e-dove-candidarti-per-ottenere-il-colloquio-4461366610&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw1VNRlQwffAgtXU1hcbKT1L",
@@ -90451,13 +90555,13 @@
       "is_new": false
     }
   ],
-  "count": 2716,
-  "keepers": 412,
-  "fresh": 2153,
-  "new_today": 27,
+  "count": 2719,
+  "keepers": 413,
+  "fresh": 2156,
+  "new_today": 3,
   "apply_now": 28,
   "apply": 22,
-  "consider": 26,
+  "consider": 27,
   "morocco": 15,
-  "eligible": 75
+  "eligible": 76
 }
