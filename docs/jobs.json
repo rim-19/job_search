@@ -1,6 +1,41 @@
 {
-  "generated": "2026-09-06",
+  "generated": "2026-09-07",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://himalayas.app/companies/luxury-presence/jobs/junior-web-builder-fully-remote-ph-based-only-fresh-grads-welcome-to-apply&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw2XNwwCavgUdk2QSn68zurm",
+      "title": "Junior Web Builder (Fully Remote, PH-Based Only, Fresh Grads Welcome to Apply)",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://himalayas.app/companies/luxury-presence/jobs/junior-web-builder-fully-remote-ph-based-only-fresh-grads-welcome-to-apply&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw2XNwwCavgUdk2QSn68zurm",
+      "score": 25,
+      "reason": "The job is explicitly restricted to candidates based in the Philippines, making the candidate geographically ineligible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-07",
+      "source": "Google Alert 1",
+      "summary": "This role is for a Junior Web Builder, advertised as fully remote but restricted to applicants based in the Philippines. The candidate is based in Morocco and cannot relocate, making this position unsuitable.",
+      "date_posted": "2026-09-06T09:02:46Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is explicitly stated as PH-Based Only, which is outside the candidate's geographic eligibility.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic restriction to Philippines"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://himalayas.app/companies/luxury-presence/jobs/junior-web-builder-fully-remote-ph-based-only-fresh-grads-welcome-to-apply&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw2XNwwCavgUdk2QSn68zurm",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-mern-stack-react-node-js-remote-at-medinex-workforce-4462678438&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Pv8BGQrTxWRw6JW9tUMxB",
       "title": "Full Stack Developer Intern | Entry Level | Fresher | MERN Stack, React, Node.js / Remote",
@@ -32,7 +67,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-mern-stack-react-node-js-remote-at-medinex-workforce-4462678438&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Pv8BGQrTxWRw6JW9tUMxB",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-ai-generative-ai-python-remote-at-crossing-infotech-4462645027&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0uMlxAOD2NJR3qjO_2zOBj",
@@ -65,7 +100,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-ai-generative-ai-python-remote-at-crossing-infotech-4462645027&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0uMlxAOD2NJR3qjO_2zOBj",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-engineer-fullstack-software-engineer-emea-paris-440935",
@@ -100,7 +135,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-engineer-fullstack-software-engineer-emea-paris-440935",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/software-engineer-enterprise-agents-paris-272961",
@@ -133,7 +168,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mistralai/software-engineer-enterprise-agents-paris-272961",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-90580",
@@ -166,7 +201,7 @@
       "gaps": [],
       "recommended_project": "HR-Genius",
       "application_url": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-90580",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a",
@@ -202,7 +237,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/medical-coding-billing-intern-entry-level-fresher-medical-terminology-claims-healthcare-documentation-remote-at-medinex-workforce-4462612630&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1IOpbgkY7HQLVEiD7VD5lH",
@@ -238,7 +273,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/medical-coding-billing-intern-entry-level-fresher-medical-terminology-claims-healthcare-documentation-remote-at-medinex-workforce-4462612630&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1IOpbgkY7HQLVEiD7VD5lH",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/pre-sales-intern-remote-freshers-entry-level-candidates-at-genesis-code-4461490029&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2juiOFNWl8A3cCvw_Vg6IH",
@@ -273,7 +308,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/pre-sales-intern-remote-freshers-entry-level-candidates-at-genesis-code-4461490029&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2juiOFNWl8A3cCvw_Vg6IH",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/apex-ai/software-engineer-software-platform-middleware-early-career-munich-409502",
@@ -308,7 +343,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/apex-ai/software-engineer-software-platform-middleware-early-career-munich-409502",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-full-stack-practice-se-margo-paris-322707",
@@ -341,7 +376,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-full-stack-practice-se-margo-paris-322707",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/python-engineer-new-grad-at-jobright-ai-4461993958&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw37ir966st3Ah1Yy2U4hxfS",
@@ -376,7 +411,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/python-engineer-new-grad-at-jobright-ai-4461993958&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw37ir966st3Ah1Yy2U4hxfS",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-ai-ml-ai-platform-london-276160",
@@ -412,7 +447,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-ai-ml-ai-platform-london-276160",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultant-developpeur-marketing-technology-crm-data-3-a-5-ans-dexperience-paris-295267",
@@ -448,7 +483,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultant-developpeur-marketing-technology-crm-data-3-a-5-ans-dexperience-paris-295267",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152583-data-analyst-supply-chain",
@@ -481,7 +516,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152583-data-analyst-supply-chain",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152598-junior-web-builder-fully-remote-ph-based-only-fresh-grads-welcome-to-apply",
@@ -516,7 +551,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152598-junior-web-builder-fully-remote-ph-based-only-fresh-grads-welcome-to-apply",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-network-security-risk-assessment-linux-remote-at-crossing-infotech-4462642051&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0W0kV_a1n3HZ1EmuuJnX8r",
@@ -551,7 +586,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-network-security-risk-assessment-linux-remote-at-crossing-infotech-4462642051&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0W0kV_a1n3HZ1EmuuJnX8r",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-network-security-vulnerability-assessment-information-security-remote-at-crossing-infotech-4462624185&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3RV4LwTfuHRQ4roqVKwb2g",
@@ -586,7 +621,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-network-security-vulnerability-assessment-information-security-remote-at-crossing-infotech-4462624185&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3RV4LwTfuHRQ4roqVKwb2g",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/sezzle/jobs/software-engineer-ii-mexico-7711450803",
@@ -622,7 +657,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/sezzle/jobs/software-engineer-ii-mexico-7711450803",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/148512-technical-support-specialist-remote-entry-level-no-degree-required-15-18",
@@ -658,7 +693,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/148512-technical-support-specialist-remote-entry-level-no-degree-required-15-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/148570-autocad-drafter-entry-level",
@@ -694,7 +729,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/148570-autocad-drafter-entry-level",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/148515-chat-support-agent-remote-entry-level-no-degree-required-15-18-per-hour",
@@ -730,7 +765,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/148515-chat-support-agent-remote-entry-level-no-degree-required-15-18-per-hour",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-hotel-reservationist-entry-level-at-careers-in-travel-destination-pros-4461400759&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0j5xF1XFQ4naLe4Ifmwl1h",
@@ -766,7 +801,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-hotel-reservationist-entry-level-at-careers-in-travel-destination-pros-4461400759&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0j5xF1XFQ4naLe4Ifmwl1h",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152604-international-audio-video-remote-armenian-interpreter",
@@ -799,7 +834,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152604-international-audio-video-remote-armenian-interpreter",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/hireframe/jobs/entry-level-accountant",
@@ -835,7 +870,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/hireframe/jobs/entry-level-accountant",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152600-international-audio-video-remote-arabic-interpreters",
@@ -868,7 +903,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152600-international-audio-video-remote-arabic-interpreters",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152597-international-audio-video-remote-afghani-dari-interpreter",
@@ -901,7 +936,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152597-international-audio-video-remote-afghani-dari-interpreter",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-ui-solutions-munich-415043",
@@ -91353,10 +91388,10 @@
       "is_new": false
     }
   ],
-  "count": 2742,
+  "count": 2743,
   "keepers": 415,
-  "fresh": 2178,
-  "new_today": 26,
+  "fresh": 2179,
+  "new_today": 1,
   "apply_now": 29,
   "apply": 23,
   "consider": 27,
