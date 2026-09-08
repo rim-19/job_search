@@ -1,6 +1,72 @@
 {
-  "generated": "2026-09-07",
+  "generated": "2026-09-08",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-335224",
+      "title": "Stage Software Engineer - Paris - H/F/X",
+      "company": "Artefactlinkedin",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-335224",
+      "score": 20,
+      "reason": "The role is an internship located in Paris, France, which is not geographically eligible for the candidate. The candidate cannot relocate and does not have EU work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-08",
+      "source": "Arbeitnow",
+      "summary": "This is an internship position for a Software Engineer at Artefact in Paris. The role involves participating in the design and implementation of technical solutions, software architecture, and DevOps practices.",
+      "date_posted": "1788821711",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is in Paris, France, which requires EU work authorization and is outside the candidate's acceptable geographic scope.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-335224",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-open-to-opportunities-4461874415&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw07hfjZICqhFTa9tiA779Nt",
+      "title": "Open to opportunities hiring Graduate Developer ( Remote , Entry-Level ) in Australia",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-open-to-opportunities-4461874415&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw07hfjZICqhFTa9tiA779Nt",
+      "score": 10,
+      "reason": "The candidate is not eligible for this role due to strict geographic restrictions, as the position is based in Australia and the candidate cannot relocate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-08",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level, remote Graduate Developer role. The candidate is an AI + Full-Stack Software Developer with relevant skills in Python, JavaScript, React, Node.js, and AI/LLM technologies.",
+      "date_posted": "2026-09-07T03:40:08Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is in Australia, candidate cannot relocate and has specific geographic restrictions.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-open-to-opportunities-4461874415&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw07hfjZICqhFTa9tiA779Nt",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-european-union-delegation-to-south-africa-4464063397&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw13RpEvnIIsB_TylCNqbe2e",
       "title": "Junior Developer ( Entry-Level / Junior)",
@@ -32,7 +98,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/junior-developer-entry-level-junior-at-european-union-delegation-to-south-africa-4464063397&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw13RpEvnIIsB_TylCNqbe2e",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/greenpocket/react-developerin-im-kolner-startup-cologne-477894",
@@ -68,7 +134,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/greenpocket/react-developerin-im-kolner-startup-cologne-477894",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152707-fullstack-software-engineer-core",
@@ -103,7 +169,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152707-fullstack-software-engineer-core",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/greenpocket/full-stack-kotlin-java-entwicklerin-im-kolner-startup-cologne-124198",
@@ -138,7 +204,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/greenpocket/full-stack-kotlin-java-entwicklerin-im-kolner-startup-cologne-124198",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://himalayas.app/companies/luxury-presence/jobs/junior-web-builder-fully-remote-ph-based-only-fresh-grads-welcome-to-apply&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw2XNwwCavgUdk2QSn68zurm",
@@ -173,7 +239,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://himalayas.app/companies/luxury-presence/jobs/junior-web-builder-fully-remote-ph-based-only-fresh-grads-welcome-to-apply&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw2XNwwCavgUdk2QSn68zurm",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-core-java-spring-boot-rest-apis-remote-at-medinex-workforce-4462674432&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2bvMp8RqVK0JD8iPSHpX3f",
@@ -208,7 +274,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-core-java-spring-boot-rest-apis-remote-at-medinex-workforce-4462674432&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2bvMp8RqVK0JD8iPSHpX3f",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/prompt-engineer-early-career-canada-at-jobright-ai-4462636083&ct=ga&cd=CAIyHGVhNWZjNmExYzY5ZDU5MTA6Y29tOmZyOlVTOkw&usg=AOvVaw0OVRkjfECyNyKLygAY4hSq",
@@ -243,7 +309,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/prompt-engineer-early-career-canada-at-jobright-ai-4462636083&ct=ga&cd=CAIyHGVhNWZjNmExYzY5ZDU5MTA6Y29tOmZyOlVTOkw&usg=AOvVaw0OVRkjfECyNyKLygAY4hSq",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-open-to-opportunities-4462924135&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw290o7Rd2eSqhjff-g9Ao30",
@@ -276,7 +342,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/graduate-developer-remote-entry-level-at-open-to-opportunities-4462924135&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw290o7Rd2eSqhjff-g9Ao30",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/highlevel/jobs/full-stack-builder-team-of-one-9961208303",
@@ -311,7 +377,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/highlevel/jobs/full-stack-builder-team-of-one-9961208303",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-start-immediately-at-those-who-swift-4461848375&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw22aqDfHdVy0G87UvkV25bd",
@@ -346,7 +412,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-start-immediately-at-those-who-swift-4461848375&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw22aqDfHdVy0G87UvkV25bd",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-hr-specialist-at-anheuser-busch-entertainment-4461872641&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3AqCgCxZOdUfiPjO7u5apF",
@@ -381,7 +447,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-hr-specialist-at-anheuser-busch-entertainment-4461872641&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3AqCgCxZOdUfiPjO7u5apF",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-insurance-assistant-entry-level-at-the-stephens-agency-4463741299&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3XhQ8IjbtJje6iXFucNB8o",
@@ -416,7 +482,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-insurance-assistant-entry-level-at-the-stephens-agency-4463741299&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3XhQ8IjbtJje6iXFucNB8o",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-representative-career-change-opportunity-remote-cb-at-globe-life-american-income-division-fisher-organization-4464072395&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ekSxMaUnFvnP_0U9_pd3Z",
@@ -449,7 +515,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-representative-career-change-opportunity-remote-cb-at-globe-life-american-income-division-fisher-organization-4464072395&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ekSxMaUnFvnP_0U9_pd3Z",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-intake-specialist-entry-level-start-immediately-at-swift-talent-chile-4461859129%3Fposition%3D40%26pageNum%3D0%26refId%3DZG0YNcRZSIx2ftZBUBvGZA%253D%253D%26trackingId%3DI8BaY2TANQYDvWPChO%252FWmw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw39_gFEVpilYdPbxiHZ0js9",
@@ -482,7 +548,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-intake-specialist-entry-level-start-immediately-at-swift-talent-chile-4461859129%3Fposition%3D40%26pageNum%3D0%26refId%3DZG0YNcRZSIx2ftZBUBvGZA%253D%253D%26trackingId%3DI8BaY2TANQYDvWPChO%252FWmw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw39_gFEVpilYdPbxiHZ0js9",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/remote-data-entry-clerk-administrative-assistant-jobs-part-time-entry-level-at-geelong-careers-4464036277&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw30NJsNmqqmjvTps-MlVaPk",
@@ -518,7 +584,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/remote-data-entry-clerk-administrative-assistant-jobs-part-time-entry-level-at-geelong-careers-4464036277&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw30NJsNmqqmjvTps-MlVaPk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-agent-%25E2%2580%2593-no-experience-required-at-miller-family-agency-4464073793&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0bNXBAcoqCsc8p5I3xNe4_",
@@ -554,7 +620,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-agent-%25E2%2580%2593-no-experience-required-at-miller-family-agency-4464073793&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0bNXBAcoqCsc8p5I3xNe4_",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-sales-client-support-at-the-stephens-agency-4463742287&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Y5Nz8nHcUUW0QFtIaXO83",
@@ -589,7 +655,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-sales-client-support-at-the-stephens-agency-4463742287&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Y5Nz8nHcUUW0QFtIaXO83",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-consultant-%25E2%2580%2593-work-from-home-at-miller-family-agency-4464067797&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3g6QubNACaoWeg56gX9Ad5",
@@ -625,7 +691,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-consultant-%25E2%2580%2593-work-from-home-at-miller-family-agency-4464067797&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3g6QubNACaoWeg56gX9Ad5",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-%252475k-%2524150k-at-paramount-financial-recruiting-4462673491&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1QWur_-BPglrpfA_D3dvUQ",
@@ -660,7 +726,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-%252475k-%2524150k-at-paramount-financial-recruiting-4462673491&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1QWur_-BPglrpfA_D3dvUQ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-relations-work-from-home-at-the-stephens-agency-4464034214&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2PncsddIB9QK8Wlo1YefJ6",
@@ -697,7 +763,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-relations-work-from-home-at-the-stephens-agency-4464034214&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2PncsddIB9QK8Wlo1YefJ6",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/call-center-representative-entry-level-at-nathan%25E2%2580%2599s-wakin%25E2%2580%2599-bacon-4461820386&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1jz4eUdn46rL67eaCT0p98",
@@ -730,7 +796,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/call-center-representative-entry-level-at-nathan%25E2%2580%2599s-wakin%25E2%2580%2599-bacon-4461820386&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1jz4eUdn46rL67eaCT0p98",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesperson-remote-no-experience-required-at-sphinx-life-solutions-4464048075&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3qDEWhtj0lrpNOWN-DhAx4",
@@ -766,7 +832,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesperson-remote-no-experience-required-at-sphinx-life-solutions-4464048075&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3qDEWhtj0lrpNOWN-DhAx4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-pest-control-technician-union-city-nj-at-viking-pest-control-4464055233&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0C_HWQxk-Jfj1n5EO761L2",
@@ -799,7 +865,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-pest-control-technician-union-city-nj-at-viking-pest-control-4464055233&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0C_HWQxk-Jfj1n5EO761L2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-mern-stack-react-node-js-remote-at-medinex-workforce-4462678438&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Pv8BGQrTxWRw6JW9tUMxB",
@@ -92153,10 +92219,10 @@
       "is_new": false
     }
   ],
-  "count": 2765,
+  "count": 2767,
   "keepers": 416,
-  "fresh": 2201,
-  "new_today": 23,
+  "fresh": 2203,
+  "new_today": 2,
   "apply_now": 29,
   "apply": 24,
   "consider": 27,
