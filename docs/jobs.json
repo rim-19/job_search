@@ -1,6 +1,489 @@
 {
-  "generated": "2026-09-10",
+  "generated": "2026-09-11",
   "jobs": [
+    {
+      "url": "https://himalayas.app/companies/dura-digital/jobs/ai-engineer",
+      "title": "AI Engineer",
+      "company": "Dura Digital",
+      "location": "Worldwide",
+      "link": "https://himalayas.app/companies/dura-digital/jobs/ai-engineer",
+      "score": 88,
+      "reason": "This role is a strong match for the candidate's AI-first, full-stack development skills and entry-level seniority, with a worldwide remote scope that aligns with her location.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-11",
+      "source": "Himalayas",
+      "summary": "The candidate is an AI + Full-Stack Software Developer with experience in building LLM products end-to-end, including RAG and AI agents. The 'AI Engineer' title and description align well with her technical skills and project experience, and the worldwide remote location is suitable.",
+      "date_posted": "1789095229",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "priority": "APPLY_NOW",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate meets geographic and seniority requirements.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://himalayas.app/companies/dura-digital/jobs/ai-engineer",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/backend-engineer-wallets-100-remote-london-355455",
+      "title": "Backend Engineer - Wallets (100% Remote)",
+      "company": "Tether Operations Limited",
+      "location": "Remote job",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/backend-engineer-wallets-100-remote-london-355455",
+      "score": 75,
+      "reason": "This role aligns well with the candidate's full-stack development skills and interest in backend roles, with a remote-first approach that fits her location.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-11",
+      "source": "Arbeitnow",
+      "summary": "The candidate is an early-career AI + Full-Stack Software Developer with strong backend skills in Node.js and Express, and experience with PostgreSQL, which are relevant to this Backend Engineer role. The remote nature of the job is a perfect fit for her geographic constraints.",
+      "date_posted": "1789086614",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "priority": "APPLY",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate is based in Morocco and the role is remote worldwide, fitting the geographic rules.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "Cupid",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/backend-engineer-wallets-100-remote-london-355455",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-189755",
+      "title": "Product Engineer (m/f/d)",
+      "company": "Buying Labs Gmbh 1",
+      "location": "Hamburg HQ",
+      "link": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-189755",
+      "score": 70,
+      "reason": "The role is remote within EMEA, which is potentially eligible. The candidate has strong AI/LLM and full-stack skills, aligning well with the job description's focus on building AI into products end-to-end. The seniority level appears to be a good match for an early-career developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-11",
+      "source": "Arbeitnow",
+      "summary": "This Product Engineer role at Buying Labs Gmbh is a good potential fit due to its remote EMEA possibility and focus on building AI-powered features end-to-end. The candidate's AI/LLM and full-stack development skills align well with the job requirements.",
+      "date_posted": "1789114172",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "priority": "APPLY",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Remote within EMEA is acceptable if no EU work authorization is required and timezone is workable.",
+      "geographic_scope": "EMEA",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": 2,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "The job location is Hamburg HQ, which is not ideal, but remote is mentioned as a possibility. The exact timezone requirements for remote work are not specified, which could be a concern.",
+        "The term 'Product Engineer' can sometimes imply more experience than 'Junior Developer', but the description emphasizes building and end-to-end ownership which fits an early-career profile.",
+        "The need for EU work authorization is not explicitly stated, but is a potential concern for remote EMEA roles."
+      ],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-189755",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/woltglobal2/software-engineer-backend-bi-platform-london-290051",
+      "title": "Software Engineer, Backend (BI Platform)",
+      "company": "Woltglobal2",
+      "location": "London",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/woltglobal2/software-engineer-backend-bi-platform-london-290051",
+      "score": 15,
+      "reason": "The candidate is not eligible due to the job's on-site requirement in London, which conflicts with her inability to relocate and her specified geographic preferences.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-11",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Backend Software Engineer focused on BI platforms. The candidate is an AI + Full-Stack Software Developer with experience in backend technologies but is geographically ineligible for this London-based position.",
+      "date_posted": "1789088112",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in London, candidate cannot relocate and requires remote work within specific regions.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/woltglobal2/software-engineer-backend-bi-platform-london-290051",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-booking-scheduling-specialist-entry-level-at-destination-wedding-knots-4463945258&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1x44iNrzi7O1i5VSqLCFul",
+      "title": "Remote Booking &amp; Scheduling Specialist | Entry Level",
+      "company": "Destination Wedding Knots",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-booking-scheduling-specialist-entry-level-at-destination-wedding-knots-4463945258&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1x44iNrzi7O1i5VSqLCFul",
+      "score": 10,
+      "reason": "This role is for a Booking & Scheduling Specialist, which is not a technical position and does not align with the candidate's AI and Full-Stack Software Developer profile.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-11",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer seeking junior/entry-level technical roles. This position is non-technical and unrelated to her specialization.",
+      "date_posted": "2026-09-11T05:19:39Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is not technical and does not align with candidate's skills or career goals.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Role is non-technical."
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-booking-scheduling-specialist-entry-level-at-destination-wedding-knots-4463945258&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1x44iNrzi7O1i5VSqLCFul",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/full-stack-engineer-creative-studio-united-kingdom-73069",
+      "title": "Full-Stack Engineer - Creative Studio",
+      "company": "Elevenlabs",
+      "location": "United Kingdom",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/full-stack-engineer-creative-studio-united-kingdom-73069",
+      "score": 10,
+      "reason": "The candidate is not eligible due to the job's location in the United Kingdom, as they cannot relocate and have strict geographic limitations.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-11",
+      "source": "Arbeitnow",
+      "summary": "This role is not a good fit due to geographic restrictions. The candidate is based in Morocco and cannot relocate, while the job is located in the UK.",
+      "date_posted": "1789076403",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Job is in the UK, candidate cannot relocate and requires remote work within specific regions.",
+      "geographic_scope": "UK_ONLY",
+      "remote_type": "UNKNOWN",
+      "seniority": "EARLY_CAREER",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/full-stack-engineer-creative-studio-united-kingdom-73069",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-care-coordinator-online-at-professional-travel-group-4465870019&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ji35RVysrXoWk3VMqxR5R",
+      "title": "Entry Level | Customer Care Coordinator | Online",
+      "company": "Professional Travel Group - LinkedIn",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-care-coordinator-online-at-professional-travel-group-4465870019&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ji35RVysrXoWk3VMqxR5R",
+      "score": 10,
+      "reason": "This role is for a Customer Care Coordinator, which is entirely unrelated to the candidate's specialization as an AI + Full-Stack Software Developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-11",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer with experience in building LLM products and modern full-stack applications. This role is not technical and does not align with her skills or career goals.",
+      "date_posted": "2026-09-10T22:12:18Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is not technical and does not align with candidate's AI + Full-Stack Software Developer profile.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical skills mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-care-coordinator-online-at-professional-travel-group-4465870019&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ji35RVysrXoWk3VMqxR5R",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-reservations-guest-support-specialist-%25E2%2580%2593-entry-level-at-destination-wedding-knots-4463958172%3Fposition%3D50%26pageNum%3D0%26refId%3DqfYlzeEn0Udcd5ofkPItjA%253D%253D%26trackingId%3DZ4t92gmj2mlszwLlW5JVlg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ITN8PnBdmBASFsb3X1MAh",
+      "title": "Online Reservations &amp; Guest Support Specialist – Entry Level - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-reservations-guest-support-specialist-%25E2%2580%2593-entry-level-at-destination-wedding-knots-4463958172%3Fposition%3D50%26pageNum%3D0%26refId%3DqfYlzeEn0Udcd5ofkPItjA%253D%253D%26trackingId%3DZ4t92gmj2mlszwLlW5JVlg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ITN8PnBdmBASFsb3X1MAh",
+      "score": 10,
+      "reason": "This role is for an Online Reservations & Guest Support Specialist, which does not align with the candidate's technical profile as an AI + Full-Stack Software Developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-11",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer with a strong technical background in Python, JavaScript, React, Node.js, and AI/LLM technologies. This role is for a customer support specialist, not a developer position.",
+      "date_posted": "2026-09-11T05:26:48Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Job title and description do not align with the candidate's technical skills and career aspirations.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical skills mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-reservations-guest-support-specialist-%25E2%2580%2593-entry-level-at-destination-wedding-knots-4463958172%3Fposition%3D50%26pageNum%3D0%26refId%3DqfYlzeEn0Udcd5ofkPItjA%253D%253D%26trackingId%3DZ4t92gmj2mlszwLlW5JVlg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ITN8PnBdmBASFsb3X1MAh",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-entry-level-scheduling-coordinator-at-professional-travel-group-4465852915&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1nQ1fKKi6Vgfka8I_HLIoi",
+      "title": "Online Entry-Level | Scheduling Coordinator",
+      "company": "Professional Travel Group - LinkedIn",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-entry-level-scheduling-coordinator-at-professional-travel-group-4465852915&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1nQ1fKKi6Vgfka8I_HLIoi",
+      "score": 5,
+      "reason": "This role is for a Scheduling Coordinator and is not technical, making it an unsuitable match for an AI + Full-Stack Software Developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-11",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer seeking junior/entry-level roles. This position for a Scheduling Coordinator is not technical and does not align with her skills or career aspirations.",
+      "date_posted": "2026-09-10T21:58:10Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is not technical and does not align with candidate's AI/Full-Stack developer profile.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical skills mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-entry-level-scheduling-coordinator-at-professional-travel-group-4465852915&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1nQ1fKKi6Vgfka8I_HLIoi",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-representative-weekly-pay-%2524120k-at-direct-fairways-4457066351&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0vzDLDOBkS6Twwj_CbfvuB",
+      "title": "Entry Level Sales Representative | Weekly Pay | $120K",
+      "company": "Direct Fairways — Tempe, AZ",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-representative-weekly-pay-%2524120k-at-direct-fairways-4457066351&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0vzDLDOBkS6Twwj_CbfvuB",
+      "score": 5,
+      "reason": "The candidate is a software developer specializing in AI and full-stack development, and this role is for an Entry Level Sales Representative, which is not a technical fit.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-11",
+      "source": "Google Alert 8",
+      "summary": "This role is for a sales representative and does not align with the candidate's technical skills and career aspirations as an AI + Full-Stack Software Developer.",
+      "date_posted": "2026-09-10T20:34:38Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is in Sales, not Software Development.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical skills mismatch",
+        "Career path mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-representative-weekly-pay-%2524120k-at-direct-fairways-4457066351&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0vzDLDOBkS6Twwj_CbfvuB",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-theme-park-travel-assistant-at-destination-wedding-knots-4463962021&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3jHgpu9QMiBnf3tUjegUxY",
+      "title": "Destination Wedding Knots hiring Entry Level Theme Park Travel Assistant in Georgia, United States",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-theme-park-travel-assistant-at-destination-wedding-knots-4463962021&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3jHgpu9QMiBnf3tUjegUxY",
+      "score": 5,
+      "reason": "The candidate is not eligible due to the geographic location of the role, which is in the United States and requires the candidate to be based there, contradicting the candidate's fixed location in Morocco.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-11",
+      "source": "Google Alert 8",
+      "summary": "This role is for an Entry Level Theme Park Travel Assistant in Georgia, United States. The candidate is an AI + Full-Stack Software Developer based in Morocco and cannot relocate.",
+      "date_posted": "2026-09-11T05:18:49Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in the United States, candidate is based in Morocco and cannot relocate.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic Ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-theme-park-travel-assistant-at-destination-wedding-knots-4463962021&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3jHgpu9QMiBnf3tUjegUxY",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-service-travel-coordinator-entry-level-at-destination-wedding-knots-4463958174&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1aFyyPcjGelTTJ9HVFWqxd",
+      "title": "Destination Wedding Knots hiring Remote | Client Service Travel Coordinator | Entry Level ...",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-service-travel-coordinator-entry-level-at-destination-wedding-knots-4463958174&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1aFyyPcjGelTTJ9HVFWqxd",
+      "score": 5,
+      "reason": "This role is for a Client Service Travel Coordinator, which is entirely unrelated to the candidate's specialization as an AI + Full-Stack Software Developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-11",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer with experience in building LLM products end-to-end. They are seeking junior/entry-level developer roles.",
+      "date_posted": "2026-09-11T04:54:07Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is not technical and does not align with the candidate's AI + Full-Stack Software Developer profile.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-service-travel-coordinator-entry-level-at-destination-wedding-knots-4463958174&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1aFyyPcjGelTTJ9HVFWqxd",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-hotel-reservations-specialist-entry-level-at-destination-wedding-knots-4463952246&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0vyIPFdL3k_iOqxeFxFChE",
+      "title": "Destination Wedding Knots hiring Remote Hotel Reservations Specialist | Entry Level in ...",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-hotel-reservations-specialist-entry-level-at-destination-wedding-knots-4463952246&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0vyIPFdL3k_iOqxeFxFChE",
+      "score": 5,
+      "reason": "This role is for a Hotel Reservations Specialist, which is completely unrelated to the candidate's technical skills and career aspirations as an AI + Full-Stack Software Developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-11",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer. This role is for a Hotel Reservations Specialist. There is no technical overlap or relevance.",
+      "date_posted": "2026-09-11T04:31:13Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is not technical and does not align with candidate's AI/Full-Stack Developer profile.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "No technical relevance"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-hotel-reservations-specialist-entry-level-at-destination-wedding-knots-4463952246&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0vyIPFdL3k_iOqxeFxFChE",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/travel-specialist-work-from-home-entry-level-at-destination-wedding-knots-4463948273&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0glR6jytVkIurFe668_Bf5",
+      "title": "Travel Specialist | Work From Home | Entry Level",
+      "company": "Destination Wedding Knots - LinkedIn",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/travel-specialist-work-from-home-entry-level-at-destination-wedding-knots-4463948273&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0glR6jytVkIurFe668_Bf5",
+      "score": 5,
+      "reason": "This role is for a 'Travel Specialist' and is not a software development position, making it a poor technical and career fit.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-11",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer seeking junior roles. This position is for a Travel Specialist, which is unrelated to her technical skills and career aspirations.",
+      "date_posted": "2026-09-11T04:26:06Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is not technical and does not align with candidate's skills or career goals.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical skills mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/travel-specialist-work-from-home-entry-level-at-destination-wedding-knots-4463948273&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0glR6jytVkIurFe668_Bf5",
+      "is_new": true
+    },
     {
       "url": "https://www.rekrute.com/offre-emploi-stage-pfe-recrutement-cnexia-rabat-186223.html",
       "title": "Stage Pfe",
@@ -32,7 +515,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.rekrute.com/offre-emploi-stage-pfe-recrutement-cnexia-rabat-186223.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-sql-apis-remote-at-medinex-workforce-4464109218&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1WdE0JtR9O2LhWb9-xlrro",
@@ -65,7 +548,7 @@
       "gaps": [],
       "recommended_project": "Cupid",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-sql-apis-remote-at-medinex-workforce-4464109218&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1WdE0JtR9O2LhWb9-xlrro",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/typeform/jobs/full-stack-developer",
@@ -100,7 +583,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/typeform/jobs/full-stack-developer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/software-development-engineer-%25E2%2580%2594-entry-level-at-rob-bliss-creative-4463556908&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3KeMXTYGa1-44QSbo3i9Vz",
@@ -135,7 +618,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/software-development-engineer-%25E2%2580%2594-entry-level-at-rob-bliss-creative-4463556908&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3KeMXTYGa1-44QSbo3i9Vz",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-full-stack-developer-1-2-years-experience-at-dreamware-ventures-llp-4465688408&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw14YbQ50EIb5dLBjLJU8pl4",
@@ -170,7 +653,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-full-stack-developer-1-2-years-experience-at-dreamware-ventures-llp-4465688408&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw14YbQ50EIb5dLBjLJU8pl4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/hallo-welt-gmbh/frontend-software-developer-webstack-regensburg-95321",
@@ -207,7 +690,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/hallo-welt-gmbh/frontend-software-developer-webstack-regensburg-95321",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
@@ -243,7 +726,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-engineer-munchen-294114",
@@ -276,7 +759,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-engineer-munchen-294114",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/business-analyst-intern-entry-level-fresher-excel-sql-business-analysis-remote-at-medinex-workforce-4463540587&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw24zLokm-Ao0CUzsi-SM6Zb",
@@ -309,7 +792,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/business-analyst-intern-entry-level-fresher-excel-sql-business-analysis-remote-at-medinex-workforce-4463540587&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw24zLokm-Ao0CUzsi-SM6Zb",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/stage-data-scientist-data-analyst-h-f-paris-411891",
@@ -344,7 +827,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/stage-data-scientist-data-analyst-h-f-paris-411891",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152857-technical-support-engineer-voice-video-api",
@@ -379,7 +862,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152857-technical-support-engineer-voice-video-api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/customer-success-remote-will-train-entry-level-at-the-mires-agency-4465063589&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3XQGObj-F-edXOHQvxnq-H",
@@ -415,7 +898,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/customer-success-remote-will-train-entry-level-at-the-mires-agency-4465063589&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3XQGObj-F-edXOHQvxnq-H",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/customer-support-specialist-entry-level-at-jobright-ai-4463505603&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2B186PbDL5zcMmGJZ_rXr-",
@@ -451,7 +934,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/customer-support-specialist-entry-level-at-jobright-ai-4463505603&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2B186PbDL5zcMmGJZ_rXr-",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152843-fpa-associate",
@@ -487,7 +970,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152843-fpa-associate",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/lab-technician-intern-entry-level-fresher-laboratory-operations-diagnostics-documentation-remote-at-medinex-workforce-4464108234&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1hl2laZBljEyhGQdM0_OHI",
@@ -523,7 +1006,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/lab-technician-intern-entry-level-fresher-laboratory-operations-diagnostics-documentation-remote-at-medinex-workforce-4464108234&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1hl2laZBljEyhGQdM0_OHI",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/financial-analyst-intern-entry-level-fresher-excel-financial-analysis-reporting-remote-at-medinex-workforce-4464123248&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3D-0FZzlsCYn50qWDWKs-3",
@@ -559,7 +1042,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/financial-analyst-intern-entry-level-fresher-excel-financial-analysis-reporting-remote-at-medinex-workforce-4464123248&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3D-0FZzlsCYn50qWDWKs-3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-entry-level-scheduling-coordinating-reservations-at-careers-in-travel-destination-pros-4463031853&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0CBJC_T_3f79sHhXVIrjDo",
@@ -596,7 +1079,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-entry-level-scheduling-coordinating-reservations-at-careers-in-travel-destination-pros-4463031853&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0CBJC_T_3f79sHhXVIrjDo",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/associate-attorney-entry-level-0-3-yrs-san-diego-at-law-offices-of-jon-jacobs-lemonbuyback-com-4459407848&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0woU7ypE4JPybDXYSsF-5S",
@@ -632,7 +1115,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/associate-attorney-entry-level-0-3-yrs-san-diego-at-law-offices-of-jon-jacobs-lemonbuyback-com-4459407848&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0woU7ypE4JPybDXYSsF-5S",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-vacation-coordinator-entry-level-at-careers-in-travel-destination-pros-4463021967&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0TZfhTXKAPxpMM7uIbNhYD",
@@ -668,7 +1151,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-vacation-coordinator-entry-level-at-careers-in-travel-destination-pros-4463021967&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0TZfhTXKAPxpMM7uIbNhYD",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-booking-agent-%25E2%2580%2593-hotels-travel-at-careers-in-travel-destination-pros-4463037774&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2PUb0RRvF-KcCVB7h_JHOq",
@@ -703,7 +1186,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-booking-agent-%25E2%2580%2593-hotels-travel-at-careers-in-travel-destination-pros-4463037774&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2PUb0RRvF-KcCVB7h_JHOq",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-hospitality-support-coordinator-at-careers-in-travel-destination-pros-4463037639&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3FqdYeAnlvasclv-XVh-6M",
@@ -738,7 +1221,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-hospitality-support-coordinator-at-careers-in-travel-destination-pros-4463037639&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3FqdYeAnlvasclv-XVh-6M",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-entry-level-fresher-python-machine-learning-scikit-learn-remote-at-medinex-workforce-4463235131&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2fr0AgAHwvRuBUKVb7I9JH",
@@ -94525,13 +95008,13 @@
       "is_new": false
     }
   ],
-  "count": 2833,
-  "keepers": 421,
-  "fresh": 2266,
-  "new_today": 21,
-  "apply_now": 30,
-  "apply": 26,
+  "count": 2847,
+  "keepers": 424,
+  "fresh": 2280,
+  "new_today": 14,
+  "apply_now": 31,
+  "apply": 28,
   "consider": 29,
   "morocco": 17,
-  "eligible": 84
+  "eligible": 87
 }
