@@ -1,6 +1,111 @@
 {
-  "generated": "2026-09-11",
+  "generated": "2026-09-12",
   "jobs": [
+    {
+      "url": "https://himalayas.app/companies/micro1/jobs/puzzle-solver-coding",
+      "title": "Puzzle Solver (Coding)",
+      "company": "micro1",
+      "location": "Worldwide",
+      "link": "https://himalayas.app/companies/micro1/jobs/puzzle-solver-coding",
+      "score": 88,
+      "reason": "This role is a strong fit for an entry-level developer with a broad technical skillset and experience in problem-solving and algorithmic thinking, aligning well with the candidate's AI + Full-Stack profile and project experience.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-12",
+      "source": "Himalayas",
+      "summary": "This role is a great match for the candidate's AI + Full-Stack developer profile, requiring strong coding and problem-solving skills. The flexible, remote, and worldwide nature of the position aligns perfectly with the candidate's geographic preferences and desire for entry-level opportunities.",
+      "date_posted": "1789164194",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "priority": "APPLY_NOW",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate meets all geographic and seniority requirements.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://himalayas.app/companies/micro1/jobs/puzzle-solver-coding",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/153014-binance-accelerator-program-applied-ai-application-engineer",
+      "title": "Binance Accelerator Program - Applied AI Application Engineer",
+      "company": "Binance",
+      "location": "APAC",
+      "link": "https://jobicy.com/jobs/153014-binance-accelerator-program-applied-ai-application-engineer",
+      "score": 15,
+      "reason": "The role is an internship in the APAC region, which is outside the candidate's specified geographic eligibility. While the technical focus on AI and application development aligns, the location is a hard disqualifier.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-12",
+      "source": "Jobicy",
+      "summary": "This is a 3-6 month internship program at Binance focused on Applied AI Agent Engineering. It is designed for early-career talent and recent graduates to gain experience in the digital assets space within the APAC region.",
+      "date_posted": "2026-09-11T12:59:22+00:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: APAC is not within the candidate's eligible geographic scope.",
+      "geographic_scope": "OTHER",
+      "remote_type": "UNKNOWN",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "required",
+      "gaps": [
+        "Geographic location (APAC)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://jobicy.com/jobs/153014-binance-accelerator-program-applied-ai-application-engineer",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/internship-radiation-testing-of-electronic-components-and-test-automation-munich-472060",
+      "title": "Internship - Radiation Testing of Electronic Components and Test Automation",
+      "company": "The Exploration Company",
+      "location": "Munich, Germany",
+      "link": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/internship-radiation-testing-of-electronic-components-and-test-automation-munich-472060",
+      "score": 15,
+      "reason": "The role is located in Munich, Germany, which is outside the candidate's acceptable geographic scope and requires EU work authorization. The technical focus is also heavily on hardware and radiation testing, which is not a primary area of expertise for the candidate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-12",
+      "source": "Arbeitnow",
+      "summary": "This internship focuses on radiation testing of electronic components and test automation in aerospace. The candidate's skills are primarily in AI and full-stack software development, with limited overlap in hardware testing and specific domain knowledge.",
+      "date_posted": "1789170004",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Munich, Germany, which is outside of the candidate's acceptable geographic scope and requires EU work authorization.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "required",
+      "gaps": [
+        "Geographic ineligibility (Munich, Germany)",
+        "Technical mismatch (focus on hardware/radiation testing vs. AI/software)",
+        "Work authorization requirement (EU)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/internship-radiation-testing-of-electronic-components-and-test-automation-munich-472060",
+      "is_new": true
+    },
     {
       "url": "https://himalayas.app/companies/dura-digital/jobs/ai-engineer",
       "title": "AI Engineer",
@@ -32,7 +137,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://himalayas.app/companies/dura-digital/jobs/ai-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/talent-sam/jobs/back-end-developer-7915206276",
@@ -65,7 +170,7 @@
       "gaps": [],
       "recommended_project": "Cupid",
       "application_url": "https://himalayas.app/companies/talent-sam/jobs/back-end-developer-7915206276",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/backend-engineer-wallets-100-remote-london-355455",
@@ -98,7 +203,7 @@
       "gaps": [],
       "recommended_project": "Cupid",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/backend-engineer-wallets-100-remote-london-355455",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-189755",
@@ -135,7 +240,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-189755",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/semdor-pharma-group-gmbh/fullstack-developer-koln-120219",
@@ -170,7 +275,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/semdor-pharma-group-gmbh/fullstack-developer-koln-120219",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/woltglobal2/software-engineer-backend-bi-platform-london-290051",
@@ -203,7 +308,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/woltglobal2/software-engineer-backend-bi-platform-london-290051",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/full-stack-engineer-united-kingdom-2851",
@@ -239,7 +344,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/full-stack-engineer-united-kingdom-2851",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-booking-scheduling-specialist-entry-level-at-destination-wedding-knots-4463945258&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1x44iNrzi7O1i5VSqLCFul",
@@ -274,7 +379,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-booking-scheduling-specialist-entry-level-at-destination-wedding-knots-4463945258&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1x44iNrzi7O1i5VSqLCFul",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/full-stack-engineer-creative-studio-united-kingdom-73069",
@@ -307,7 +412,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/full-stack-engineer-creative-studio-united-kingdom-73069",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-care-coordinator-online-at-professional-travel-group-4465870019&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ji35RVysrXoWk3VMqxR5R",
@@ -342,7 +447,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-care-coordinator-online-at-professional-travel-group-4465870019&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ji35RVysrXoWk3VMqxR5R",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-reservations-guest-support-specialist-%25E2%2580%2593-entry-level-at-destination-wedding-knots-4463958172%3Fposition%3D50%26pageNum%3D0%26refId%3DqfYlzeEn0Udcd5ofkPItjA%253D%253D%26trackingId%3DZ4t92gmj2mlszwLlW5JVlg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ITN8PnBdmBASFsb3X1MAh",
@@ -377,7 +482,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-reservations-guest-support-specialist-%25E2%2580%2593-entry-level-at-destination-wedding-knots-4463958172%3Fposition%3D50%26pageNum%3D0%26refId%3DqfYlzeEn0Udcd5ofkPItjA%253D%253D%26trackingId%3DZ4t92gmj2mlszwLlW5JVlg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ITN8PnBdmBASFsb3X1MAh",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-itinerary-coordinator-entry-level-at-destination-wedding-knots-4463952248&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0nYC3a10ShnGRMsGiqihzy",
@@ -413,7 +518,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-itinerary-coordinator-entry-level-at-destination-wedding-knots-4463952248&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0nYC3a10ShnGRMsGiqihzy",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-entry-level-scheduling-coordinator-at-professional-travel-group-4465852915&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1nQ1fKKi6Vgfka8I_HLIoi",
@@ -448,7 +553,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-entry-level-scheduling-coordinator-at-professional-travel-group-4465852915&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1nQ1fKKi6Vgfka8I_HLIoi",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-representative-weekly-pay-%2524120k-at-direct-fairways-4457066351&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0vzDLDOBkS6Twwj_CbfvuB",
@@ -484,7 +589,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-representative-weekly-pay-%2524120k-at-direct-fairways-4457066351&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0vzDLDOBkS6Twwj_CbfvuB",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-theme-park-travel-assistant-at-destination-wedding-knots-4463962021&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3jHgpu9QMiBnf3tUjegUxY",
@@ -519,7 +624,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-theme-park-travel-assistant-at-destination-wedding-knots-4463962021&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3jHgpu9QMiBnf3tUjegUxY",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-service-travel-coordinator-entry-level-at-destination-wedding-knots-4463958174&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1aFyyPcjGelTTJ9HVFWqxd",
@@ -552,7 +657,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-service-travel-coordinator-entry-level-at-destination-wedding-knots-4463958174&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1aFyyPcjGelTTJ9HVFWqxd",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-hotel-reservations-specialist-entry-level-at-destination-wedding-knots-4463952246&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0vyIPFdL3k_iOqxeFxFChE",
@@ -587,7 +692,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-hotel-reservations-specialist-entry-level-at-destination-wedding-knots-4463952246&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0vyIPFdL3k_iOqxeFxFChE",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/travel-specialist-work-from-home-entry-level-at-destination-wedding-knots-4463948273&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0glR6jytVkIurFe668_Bf5",
@@ -622,7 +727,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/travel-specialist-work-from-home-entry-level-at-destination-wedding-knots-4463948273&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0glR6jytVkIurFe668_Bf5",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.rekrute.com/offre-emploi-stage-pfe-recrutement-cnexia-rabat-186223.html",
@@ -95148,13 +95253,13 @@
       "is_new": false
     }
   ],
-  "count": 2851,
-  "keepers": 425,
-  "fresh": 2284,
-  "new_today": 18,
-  "apply_now": 32,
+  "count": 2854,
+  "keepers": 426,
+  "fresh": 2287,
+  "new_today": 3,
+  "apply_now": 33,
   "apply": 28,
   "consider": 29,
   "morocco": 17,
-  "eligible": 88
+  "eligible": 89
 }
