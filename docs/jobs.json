@@ -1,6 +1,107 @@
 {
-  "generated": "2026-09-12",
+  "generated": "2026-09-13",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-ai-python-machine-learning-generative-ai-remote-at-crossing-infotech-4465412208&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw08lW0s_OPFktUJEy8B4l_-",
+      "title": "Artificial Intelligence Intern | Entry Level | Fresher | AI, Python, Machine Learning, Generative AI",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-ai-python-machine-learning-generative-ai-remote-at-crossing-infotech-4465412208&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw08lW0s_OPFktUJEy8B4l_-",
+      "score": 92,
+      "reason": "This is an excellent fit for an AI Intern role, aligning perfectly with the candidate's AI/LLM specialization, junior/entry-level aspirations, and remote work preference. The technical requirements (AI, Python, Generative AI) are directly addressed by her projects and skills.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-13",
+      "source": "Google Alert 8",
+      "summary": "This Artificial Intelligence Intern position is a strong match for the candidate's AI-first development focus and her experience with LLM technologies like RAG and generative AI. The remote nature and entry-level seniority align perfectly with her career goals and geographic constraints.",
+      "date_posted": "2026-09-12T09:03:33Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "priority": "APPLY_NOW",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Meets all geographic and seniority requirements.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-ai-python-machine-learning-generative-ai-remote-at-crossing-infotech-4465412208&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw08lW0s_OPFktUJEy8B4l_-",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-spring-boot-sql-rest-api-remote-at-crossing-infotech-4465420225&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0CFilGBs8u1-a2udzdky0M",
+      "title": "Java Developer Intern | Entry Level | Fresher | Java, Spring Boot, SQL, REST API | Remote",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-spring-boot-sql-rest-api-remote-at-crossing-infotech-4465420225&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0CFilGBs8u1-a2udzdky0M",
+      "score": 60,
+      "reason": "This is an internship role, which the candidate is open to, but the primary tech stack (Java, Spring Boot) is not a strong match for her stated skills, although she has general programming experience.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-13",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level Java Developer Intern role requiring Java, Spring Boot, SQL, and REST API knowledge. The candidate is an AI + Full-Stack Software Developer with experience in Python, JavaScript, and various backend/frontend technologies, but not specifically Java.",
+      "date_posted": "2026-09-12T08:43:23Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "priority": "CONSIDER",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate is open to remote roles worldwide and is based in Morocco, which fits the geographic rules.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Limited direct experience with Java and Spring Boot."
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-spring-boot-sql-rest-api-remote-at-crossing-infotech-4465420225&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0CFilGBs8u1-a2udzdky0M",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-engineer-ai-for-mistral-paris-166874",
+      "title": "Applied AI Engineer, AI for Mistral",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-engineer-ai-for-mistral-paris-166874",
+      "score": 35,
+      "reason": "The role is located in Paris, which is not a viable location for the candidate, and it is likely to require EU work authorization, which the candidate does not possess.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-13",
+      "source": "Arbeitnow",
+      "summary": "This role is for an Applied AI Engineer at Mistral.ai in Paris. The candidate is an AI + Full-Stack Software Developer but is geographically ineligible for this position.",
+      "date_posted": "1789231205",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location (Paris) and potential work authorization requirements are not met.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-engineer-ai-for-mistral-paris-166874",
+      "is_new": true
+    },
     {
       "url": "https://himalayas.app/companies/micro1/jobs/puzzle-solver-coding",
       "title": "Puzzle Solver (Coding)",
@@ -32,7 +133,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/micro1/jobs/puzzle-solver-coding",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-python-java-sql-git-remote-at-crossing-infotech-4465119165&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0qOCkDq57eq4UGY2oN-EB7",
@@ -65,7 +166,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-python-java-sql-git-remote-at-crossing-infotech-4465119165&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0qOCkDq57eq4UGY2oN-EB7",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/eight-advisory-sas/forward-deployment-engineer-alternance-paris-407732",
@@ -98,7 +199,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/eight-advisory-sas/forward-deployment-engineer-alternance-paris-407732",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-software-data-ai-engineer-development-data-ai-bad-homburg-260868",
@@ -133,7 +234,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-software-data-ai-engineer-development-data-ai-bad-homburg-260868",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-scientist-entry-level-remote-at-torentify-4466094576&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2w_WxeQLHBEuptGb5uAJMO",
@@ -168,7 +269,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-scientist-entry-level-remote-at-torentify-4466094576&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2w_WxeQLHBEuptGb5uAJMO",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153014-binance-accelerator-program-applied-ai-application-engineer",
@@ -203,7 +304,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153014-binance-accelerator-program-applied-ai-application-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/internship-radiation-testing-of-electronic-components-and-test-automation-munich-472060",
@@ -240,7 +341,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/internship-radiation-testing-of-electronic-components-and-test-automation-munich-472060",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-analyst-entry-level-remote-at-torentify-4466096426&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0CEAbP2g0H907wFR99qT-r",
@@ -276,7 +377,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-analyst-entry-level-remote-at-torentify-4466096426&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0CEAbP2g0H907wFR99qT-r",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.dreamjob.ma/stage/offres-de-stage-a-la-sorec-a-rabat-pour-profils-bac2/",
@@ -311,7 +412,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.dreamjob.ma/stage/offres-de-stage-a-la-sorec-a-rabat-pour-profils-bac2/",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/writer/069a0e75-8c96-438b-be2d-6fa9b3b86701",
@@ -344,7 +445,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/writer/069a0e75-8c96-438b-be2d-6fa9b3b86701",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/stage-de-fin-detudes-consultante-developpeurse-martech-paris-409102",
@@ -377,7 +478,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/stage-de-fin-detudes-consultante-developpeurse-martech-paris-409102",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/bounti/product-engineer-full-stack-berlin-mitte-146616",
@@ -413,7 +514,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/bounti/product-engineer-full-stack-berlin-mitte-146616",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153044-associate-software-engineer-marketplace",
@@ -446,7 +547,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153044-associate-software-engineer-marketplace",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-travel-consultant-entry-level-at-destination-wedding-knots-4464222393&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0oR3xJYQ8Rhxbgv66xagai",
@@ -482,7 +583,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-travel-consultant-entry-level-at-destination-wedding-knots-4464222393&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0oR3xJYQ8Rhxbgv66xagai",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/juriste-stagiaire-stage-de-janvier-a-juillet-2027-paris-288274",
@@ -517,7 +618,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/doctrine/juriste-stagiaire-stage-de-janvier-a-juillet-2027-paris-288274",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-events-coordinator-%25E2%2580%2593-entry-level-at-destination-wedding-knots-4464235210&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2EX_DfD8L3cxW2QMEloIQS",
@@ -553,7 +654,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-events-coordinator-%25E2%2580%2593-entry-level-at-destination-wedding-knots-4464235210&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2EX_DfD8L3cxW2QMEloIQS",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-online-hotel-reservationist-at-destination-wedding-knots-4463996345&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1sdvy9ZTogvEMx2cAZS1KG",
@@ -589,7 +690,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-online-hotel-reservationist-at-destination-wedding-knots-4463996345&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1sdvy9ZTogvEMx2cAZS1KG",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-online-scheduling-coordinator-at-destination-wedding-knots-4464207126&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw03BUFjHAQWB3GD_NqGxOuc",
@@ -624,7 +725,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-online-scheduling-coordinator-at-destination-wedding-knots-4464207126&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw03BUFjHAQWB3GD_NqGxOuc",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-data-entry-clerk-at-a-helping-hand-renovation-llc-4466066471&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2rgHU62iHsFnuOzWnSThV2",
@@ -660,7 +761,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-data-entry-clerk-at-a-helping-hand-renovation-llc-4466066471&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2rgHU62iHsFnuOzWnSThV2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-professional-entry-level-will-train-at-anderson-agency-llc-4466088450&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3-ipvXnvoA9cxw9TLJ7s_6",
@@ -696,7 +797,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-professional-entry-level-will-train-at-anderson-agency-llc-4466088450&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3-ipvXnvoA9cxw9TLJ7s_6",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-vacation-support-specialist-work-from-home-at-destination-wedding-knots-4463993386&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0PZKIQ2plvOTUo_ib8yGOc",
@@ -729,7 +830,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-vacation-support-specialist-work-from-home-at-destination-wedding-knots-4463993386&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0PZKIQ2plvOTUo_ib8yGOc",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-assistant-at-a-full-renovation-llc-4466077768&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0JAyW2FHsbhRh1wWwbNimh",
@@ -765,7 +866,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-assistant-at-a-full-renovation-llc-4466077768&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0JAyW2FHsbhRh1wWwbNimh",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-specialist-at-a-full-renovation-llc-4466083712&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0CNjZx0LeJVhBixyRLC0Mq",
@@ -801,7 +902,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-specialist-at-a-full-renovation-llc-4466083712&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0CNjZx0LeJVhBixyRLC0Mq",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-administrative-assistant-at-a-helping-hand-renovation-llc-4466065809&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3mWPEG42PTltnCRn3sGYvE",
@@ -837,7 +938,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-administrative-assistant-at-a-helping-hand-renovation-llc-4466065809&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3mWPEG42PTltnCRn3sGYvE",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-recruiter-at-gpac-4464251067&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2SlN7ZciiL1souOPnefy8i",
@@ -873,7 +974,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-recruiter-at-gpac-4464251067&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2SlN7ZciiL1souOPnefy8i",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-hotel-reservationist-entry-level-at-destination-wedding-knots-4464229385&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3MxN9549kiSxtvL3g0dAcn",
@@ -906,7 +1007,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-hotel-reservationist-entry-level-at-destination-wedding-knots-4464229385&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3MxN9549kiSxtvL3g0dAcn",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/sonymusicentertainment/assistante-graphiste-f-h-nb-stage-europe-paris-290302",
@@ -939,7 +1040,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/sonymusicentertainment/assistante-graphiste-f-h-nb-stage-europe-paris-290302",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/dura-digital/jobs/ai-engineer",
@@ -96088,13 +96189,13 @@
       "is_new": false
     }
   ],
-  "count": 2878,
-  "keepers": 427,
-  "fresh": 2310,
-  "new_today": 27,
-  "apply_now": 34,
+  "count": 2881,
+  "keepers": 429,
+  "fresh": 2313,
+  "new_today": 3,
+  "apply_now": 35,
   "apply": 28,
-  "consider": 29,
+  "consider": 30,
   "morocco": 18,
-  "eligible": 90
+  "eligible": 92
 }
