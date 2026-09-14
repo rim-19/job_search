@@ -1,6 +1,41 @@
 {
-  "generated": "2026-09-13",
+  "generated": "2026-09-14",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-336556",
+      "title": "Stage Software Engineer - Paris - H/F/X",
+      "company": "Artefactjobs",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-336556",
+      "score": 20,
+      "reason": "The job is located in Paris, France, and requires on-site presence, which is outside the candidate's geographic eligibility and requires work authorization they likely do not possess.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-14",
+      "source": "Arbeitnow",
+      "summary": "This is an internship role for a Software Engineer in Paris. The candidate is based in Morocco and cannot relocate or work on-site in France.",
+      "date_posted": "1789307705",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is in Paris, France, which requires EU work authorization, which the candidate does not have.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-336556",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-ai-python-machine-learning-generative-ai-remote-at-crossing-infotech-4465412208&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw08lW0s_OPFktUJEy8B4l_-",
       "title": "Artificial Intelligence Intern | Entry Level | Fresher | AI, Python, Machine Learning, Generative AI",
@@ -32,7 +67,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-ai-python-machine-learning-generative-ai-remote-at-crossing-infotech-4465412208&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw08lW0s_OPFktUJEy8B4l_-",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ae.linkedin.com/jobs/view/junior-full-stack-engineer-node-be-focused-at-stiryum-4464259664&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1O2Wk8k1I3HcABXooWRSKw",
@@ -65,7 +100,7 @@
       "gaps": [],
       "recommended_project": "Cupid",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ae.linkedin.com/jobs/view/junior-full-stack-engineer-node-be-focused-at-stiryum-4464259664&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1O2Wk8k1I3HcABXooWRSKw",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/mern-stack-developer-intern-entry-level-fresher-mongodb-express-js-react-js-node-js-remote-at-crossing-infotech-4465409274&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1mkfe0uBXMdo0LolP06hIt",
@@ -98,7 +133,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/mern-stack-developer-intern-entry-level-fresher-mongodb-express-js-react-js-node-js-remote-at-crossing-infotech-4465409274&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1mkfe0uBXMdo0LolP06hIt",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-spring-boot-sql-rest-api-remote-at-crossing-infotech-4465420225&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0CFilGBs8u1-a2udzdky0M",
@@ -133,7 +168,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-spring-boot-sql-rest-api-remote-at-crossing-infotech-4465420225&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0CFilGBs8u1-a2udzdky0M",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/head-of-engineering-at-palo-it/forward-deployed-engineer-paris-83080",
@@ -169,7 +204,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/head-of-engineering-at-palo-it/forward-deployed-engineer-paris-83080",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/nerdware/ai-engineer-nurnberg-427997",
@@ -202,7 +237,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/nerdware/ai-engineer-nurnberg-427997",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-engineer-ai-for-mistral-paris-166874",
@@ -235,7 +270,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-engineer-ai-for-mistral-paris-166874",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/devops-engineer-intern-entry-level-fresher-aws-azure-linux-ci-cd-docker-remote-at-crossing-infotech-4465106870&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw38ICbZG625aARRc008cmdE",
@@ -271,7 +306,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/devops-engineer-intern-entry-level-fresher-aws-azure-linux-ci-cd-docker-remote-at-crossing-infotech-4465106870&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw38ICbZG625aARRc008cmdE",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/junior-software-developer-at-helic-co-4466487659&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw26rKCxbp4_D7hPCuoAndE6",
@@ -306,7 +341,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/junior-software-developer-at-helic-co-4466487659&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw26rKCxbp4_D7hPCuoAndE6",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/palo-it/forward-deployed-engineer-paris-83080",
@@ -342,7 +377,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/palo-it/forward-deployed-engineer-paris-83080",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153136-compliance-engineer-intern",
@@ -378,7 +413,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153136-compliance-engineer-intern",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/ui-ux-design-intern-entry-level-fresher-figma-wireframing-prototyping-user-research-remote-at-crossing-infotech-4465415214&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1B-qxgS8VRYZsUQipQXgb-",
@@ -413,7 +448,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/ui-ux-design-intern-entry-level-fresher-figma-wireframing-prototyping-user-research-remote-at-crossing-infotech-4465415214&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1B-qxgS8VRYZsUQipQXgb-",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/lab-technician-intern-entry-level-fresher-laboratory-operations-documentation-quality-control-remote-at-crossing-infotech-4465402271&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1n1_w76WY4BNeViuqFQZQu",
@@ -446,7 +481,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/lab-technician-intern-entry-level-fresher-laboratory-operations-documentation-quality-control-remote-at-crossing-infotech-4465402271&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1n1_w76WY4BNeViuqFQZQu",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-backend-engineergo-berlin-147504",
@@ -483,7 +518,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-backend-engineergo-berlin-147504",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/senior-full-stack-engineer-ai-cost-visibility-greenhouse/full-stack-engineer-cloud-saas-integrations-423100",
@@ -516,7 +551,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/senior-full-stack-engineer-ai-cost-visibility-greenhouse/full-stack-engineer-cloud-saas-integrations-423100",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/stage-data-analyst-paris-hfx-greenhouse/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-336556",
@@ -552,7 +587,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/stage-data-analyst-paris-hfx-greenhouse/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-336556",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/financial-analyst-intern-entry-level-fresher-financial-analysis-excel-reporting-remote-at-crossing-infotech-4465411234&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0s52H44HQXh3vkt5ki6Cbn",
@@ -588,7 +623,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/financial-analyst-intern-entry-level-fresher-financial-analysis-excel-reporting-remote-at-crossing-infotech-4465411234&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0s52H44HQXh3vkt5ki6Cbn",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/conduct/backend-engineer-london-286984",
@@ -624,7 +659,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/conduct/backend-engineer-london-286984",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-analyst-entry-level-remote-at-torentify-4466772509&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ypjlwH-WBu4Fzx-gQz1rU",
@@ -660,7 +695,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-analyst-entry-level-remote-at-torentify-4466772509&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ypjlwH-WBu4Fzx-gQz1rU",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/doitintl/full-stack-engineer-cloud-saas-integrations-423100",
@@ -693,7 +728,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/doitintl/full-stack-engineer-cloud-saas-integrations-423100",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/customer-service-and-email-process-intern-entry-level-fresher-customer-support-email-crm-remote-at-crossing-infotech-4465199300&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0S1cuxmosIXrr8ulQyvDLr",
@@ -728,7 +763,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/customer-service-and-email-process-intern-entry-level-fresher-customer-support-email-crm-remote-at-crossing-infotech-4465199300&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0S1cuxmosIXrr8ulQyvDLr",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-analytical-chemist-at-virtue-america-4466373832&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw18GNdV_MFir9y2XpMUFb5G",
@@ -761,7 +796,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-analytical-chemist-at-virtue-america-4466373832&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw18GNdV_MFir9y2XpMUFb5G",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-sales-at-alleviation-enterprise-llc-4464724759&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Dqk-4aBHF74tlnU27eKxb",
@@ -796,7 +831,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-sales-at-alleviation-enterprise-llc-4464724759&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Dqk-4aBHF74tlnU27eKxb",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/micro1/jobs/puzzle-solver-coding",
@@ -96885,10 +96920,10 @@
       "is_new": false
     }
   ],
-  "count": 2901,
+  "count": 2902,
   "keepers": 431,
-  "fresh": 2333,
-  "new_today": 23,
+  "fresh": 2334,
+  "new_today": 1,
   "apply_now": 36,
   "apply": 29,
   "consider": 30,
