@@ -1,6 +1,74 @@
 {
-  "generated": "2026-09-15",
+  "generated": "2026-09-16",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-401395",
+      "title": "Product Engineer (m/f/d)",
+      "company": "Buying Labs Gmbh 1",
+      "location": "Hamburg HQ",
+      "link": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-401395",
+      "score": 40,
+      "reason": "The role is based in Hamburg, Germany, which is outside the candidate's acceptable geographic scope for remote work due to potential work authorization requirements.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-16",
+      "source": "Arbeitnow",
+      "summary": "This role seeks a Product Engineer to build AI-powered features end-to-end, combining technical skill with product thinking. The candidate has relevant AI/LLM and full-stack experience, but the location is a significant barrier.",
+      "date_posted": "1789513747",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Hamburg HQ, and while remote is mentioned, the primary location and company base (Germany) implies potential work authorization requirements not met.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "EARLY_CAREER",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility due to company HQ location and potential work authorization requirements."
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-401395",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/graduate-junior-data-scientist-manchester-82623",
+      "title": "Graduate / Junior Data Scientist",
+      "company": "Thgingenuity",
+      "location": "Manchester",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/graduate-junior-data-scientist-manchester-82623",
+      "score": 30,
+      "reason": "The candidate is geographically ineligible for this role in Manchester, UK, as they cannot relocate and require specific work authorization they may not possess.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-16",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Graduate / Junior Data Scientist in Manchester, UK. The candidate is based in Morocco and cannot relocate, making them ineligible.",
+      "date_posted": "1789520115",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in Manchester, UK, and candidate cannot relocate or work in the UK without authorization.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/graduate-junior-data-scientist-manchester-82623",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/frontend-developer-nuremberg-278828",
       "title": "Frontend Developer (m/w/x)",
@@ -35,7 +103,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/frontend-developer-nuremberg-278828",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/software-developer-%25E2%2580%2593-entry-level-at-divine-talent-4465219322&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0EtQUZfgo53jzOBTF0QgNn",
@@ -70,7 +138,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/software-developer-%25E2%2580%2593-entry-level-at-divine-talent-4465219322&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0EtQUZfgo53jzOBTF0QgNn",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-jobs-remote-%25E2%2580%2593-part-time-beginner-friendly-start-asap-at-sl-digit%2540l-agility-4466105887&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw17ojY8L7IVRTfH-6IXL3sX",
@@ -107,7 +175,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-jobs-remote-%25E2%2580%2593-part-time-beginner-friendly-start-asap-at-sl-digit%2540l-agility-4466105887&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw17ojY8L7IVRTfH-6IXL3sX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/projektron-gmbh/java-entwicklung-berlin-299504",
@@ -144,7 +212,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/projektron-gmbh/java-entwicklung-berlin-299504",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-insights-analys-%25EF%25BC%2588remote%25EF%25BC%258Centry-level%25EF%25BC%2589-at-olympe-se-bouge%2521-4466131090&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw01z-3FRWk9l9OKF_otNGv6",
@@ -180,7 +248,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-insights-analys-%25EF%25BC%2588remote%25EF%25BC%258Centry-level%25EF%25BC%2589-at-olympe-se-bouge%2521-4466131090&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw01z-3FRWk9l9OKF_otNGv6",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-consulting-specialist-remote-at-the-elmer-agency-4465763876&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Rcii-aqSkX51126mumVe0",
@@ -213,7 +281,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-consulting-specialist-remote-at-the-elmer-agency-4465763876&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Rcii-aqSkX51126mumVe0",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/rhein-nadel-automation-gmbh/fullstack-software-engineer-munchen-22690",
@@ -248,7 +316,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/rhein-nadel-automation-gmbh/fullstack-software-engineer-munchen-22690",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-new-grad-london-421499",
@@ -281,7 +349,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-new-grad-london-421499",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-engineer-munchen-201788",
@@ -314,7 +382,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-engineer-munchen-201788",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-outil-de-segmentation-et-dorchestration-de-communications-h-f-france-218062",
@@ -347,7 +415,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-outil-de-segmentation-et-dorchestration-de-communications-h-f-france-218062",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-developpement-dun-format-de-contenu-interactif-h-f-france-483441",
@@ -380,7 +448,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-developpement-dun-format-de-contenu-interactif-h-f-france-483441",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-refonte-dun-moteur-de-recherche-a-forte-volumetrie-h-f-france-142764",
@@ -413,7 +481,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-refonte-dun-moteur-de-recherche-a-forte-volumetrie-h-f-france-142764",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-socle-generique-de-mini-jeux-temps-reel-h-f-france-57146",
@@ -446,7 +514,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-socle-generique-de-mini-jeux-temps-reel-h-f-france-57146",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-moteur-de-controle-de-regles-et-de-conformite-du-si-h-f-france-197904",
@@ -479,7 +547,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-moteur-de-controle-de-regles-et-de-conformite-du-si-h-f-france-197904",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-backend-pilotage-des-flux-de-paiement-h-f-france-60590",
@@ -514,7 +582,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-backend-pilotage-des-flux-de-paiement-h-f-france-60590",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-designer-munchen-286640",
@@ -547,7 +615,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-designer-munchen-286640",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-advisor-remote-at-fine-agency-4466107048&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3XjufNnPTqXC1eJu2rmFUn",
@@ -583,7 +651,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-advisor-remote-at-fine-agency-4466107048&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3XjufNnPTqXC1eJu2rmFUn",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/independent-travel-agent-entry-level-remote-at-perluxe-travels-4464605810&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3LsbSC5xZ7HNwNIeQaQJv8",
@@ -619,7 +687,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/independent-travel-agent-entry-level-remote-at-perluxe-travels-4464605810&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3LsbSC5xZ7HNwNIeQaQJv8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/research-analyt-entry-level-junior-associate-at-sl-digit%2540l-agility-4466137386&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw38OW1Nv6VV89ZeC9i-nu6f",
@@ -654,7 +722,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/research-analyt-entry-level-junior-associate-at-sl-digit%2540l-agility-4466137386&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw38OW1Nv6VV89ZeC9i-nu6f",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153339-vulnerability-research-engineer",
@@ -690,7 +758,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153339-vulnerability-research-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-work-from-home-hotel-coordinator-at-destination-wedding-knots-4465226708&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3DYENXCOAPTKTBh-ZmWcJ0",
@@ -725,7 +793,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-work-from-home-hotel-coordinator-at-destination-wedding-knots-4465226708&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3DYENXCOAPTKTBh-ZmWcJ0",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-typing-specialist-at-chick-fil-a-western-center-blvd-4467045774&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1fN8ldk22jrtdw23P3NSRW",
@@ -761,7 +829,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-typing-specialist-at-chick-fil-a-western-center-blvd-4467045774&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1fN8ldk22jrtdw23P3NSRW",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391",
@@ -794,7 +862,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-recruiter-at-gpac-4465278425&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw36-5JuhwpP1EbAAANIc2uC",
@@ -830,7 +898,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-recruiter-at-gpac-4465278425&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw36-5JuhwpP1EbAAANIc2uC",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/andercore/customer-success-internship-german-speaking-berlin-98834",
@@ -863,7 +931,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/andercore/customer-success-internship-german-speaking-berlin-98834",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/quality-control-inspector-entry-level-at-primary-talent-partners-4467247110&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1MA0smOK52_WBP6NBf_20I",
@@ -896,7 +964,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/quality-control-inspector-entry-level-at-primary-talent-partners-4467247110&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1MA0smOK52_WBP6NBf_20I",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-barnes-life-solutions-4467204486&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3kaRNlh4AyrsylbTravhjn",
@@ -932,7 +1000,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-barnes-life-solutions-4467204486&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3kaRNlh4AyrsylbTravhjn",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-finance-experts-remote-at-quik-hire-staffing-4467086541&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw22SvINHPCmUP3Hb8vox3C3",
@@ -967,7 +1035,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-finance-experts-remote-at-quik-hire-staffing-4467086541&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw22SvINHPCmUP3Hb8vox3C3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D9LqAK79Xcy8&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw2sfBmzf96pnis7126xh3cV",
@@ -98691,10 +98759,10 @@
       "is_new": false
     }
   ],
-  "count": 2953,
+  "count": 2955,
   "keepers": 434,
-  "fresh": 2384,
-  "new_today": 28,
+  "fresh": 2386,
+  "new_today": 2,
   "apply_now": 38,
   "apply": 30,
   "consider": 31,
