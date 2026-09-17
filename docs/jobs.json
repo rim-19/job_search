@@ -1,6 +1,105 @@
 {
-  "generated": "2026-09-16",
+  "generated": "2026-09-17",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-python-ai-machine-learning-generative-ai-remote-at-medinex-workforce-4466845399&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3CANIY_D0VFPBEbOy0xL5o",
+      "title": "Artificial Intelligence Intern | Entry Level | Fresher | Python, AI, Machine Learning, Generative AI",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-python-ai-machine-learning-generative-ai-remote-at-medinex-workforce-4466845399&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3CANIY_D0VFPBEbOy0xL5o",
+      "score": 90,
+      "reason": "This is an excellent fit for an entry-level AI intern role, aligning perfectly with the candidate's AI/LLM specialization, full-stack capabilities, and desire for junior/intern positions.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-17",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer with strong skills in Python, AI/LLM technologies (RAG, fine-tuning, agents), and modern full-stack frameworks. This internship aligns perfectly with their specialization and career goals.",
+      "date_posted": "2026-09-16T10:29:05Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "priority": "APPLY_NOW",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate meets geographic and seniority requirements.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-python-ai-machine-learning-generative-ai-remote-at-medinex-workforce-4466845399&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3CANIY_D0VFPBEbOy0xL5o",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-software-engineer-entry-level-remote-us-at-icf-4466886919&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw19qcwWgVwYSmbtaOG0Devi",
+      "title": "ICF hiring Junior Software Engineer ( Entry level - Remote US) in Reston, VA | LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-software-engineer-entry-level-remote-us-at-icf-4466886919&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw19qcwWgVwYSmbtaOG0Devi",
+      "score": 15,
+      "reason": "The candidate is not eligible for this role due to geographic restrictions, as it is a US-based position requiring US work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-17",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level remote Junior Software Engineer role based in the US. The candidate's technical skills align with full-stack development, but the geographic requirements make her ineligible.",
+      "date_posted": "2026-09-16T17:20:05Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic ineligibility: Role is US-based and requires US work authorization.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-software-engineer-entry-level-remote-us-at-icf-4466886919&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw19qcwWgVwYSmbtaOG0Devi",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-data-and-ai-engineering-it-management-consultant-2026-27-graduate-hamburg-96453",
+      "title": "Software Engineering /Data and AI Engineering/ IT-Management Consultant (2026/27 Graduate) (m/f/d)",
+      "company": "Netlight",
+      "location": "Hamburg",
+      "link": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-data-and-ai-engineering-it-management-consultant-2026-27-graduate-hamburg-96453",
+      "score": 15,
+      "reason": "The job is located in Hamburg, Germany, which is not within the candidate's specified geographic constraints. While the role is for graduates and aligns with junior/entry-level aspirations, the location makes it ineligible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-17",
+      "source": "Arbeitnow",
+      "summary": "This role is for a graduate Software Engineering/Data and AI Engineering/IT-Management Consultant at Netlight in Hamburg. It involves digital consulting and shaping software products and technical solutions.",
+      "date_posted": "1789610682",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Hamburg, Germany, which is outside the candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "UNKNOWN",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-data-and-ai-engineering-it-management-consultant-2026-27-graduate-hamburg-96453",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/belmont-lavan-ltd/remote-ai-application-engineer-langgraph-agentic-ai-francescas-212451",
       "title": "AI Application Engineer - LangGraph & Agentic AI",
@@ -32,7 +131,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/belmont-lavan-ltd/remote-ai-application-engineer-langgraph-agentic-ai-francescas-212451",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-javascript-sql-remote-at-medinex-workforce-4466854305&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ogDwJETYy58eArXZuTxn8",
@@ -65,7 +164,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-javascript-sql-remote-at-medinex-workforce-4466854305&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ogDwJETYy58eArXZuTxn8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-python-java-sql-git-remote-at-medinex-workforce-4466841512&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Z_RZ6BTc-vfMCfWJHKp0e",
@@ -98,7 +197,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-python-java-sql-git-remote-at-medinex-workforce-4466841512&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Z_RZ6BTc-vfMCfWJHKp0e",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-401395",
@@ -133,7 +232,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-401395",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/haiilo-1/junior-fullstack-engineer-hamburg-410395",
@@ -168,7 +267,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/haiilo-1/junior-fullstack-engineer-hamburg-410395",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/agentur-philipp-gmbh/automatisierungs-ki-entwickler-dingolfing-56723",
@@ -201,7 +300,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/agentur-philipp-gmbh/automatisierungs-ki-entwickler-dingolfing-56723",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-sql-git-remote-at-medinex-workforce-4466848399&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0nRveaPVpdlHVffcn_tZlP",
@@ -236,7 +335,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-sql-git-remote-at-medinex-workforce-4466848399&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0nRveaPVpdlHVffcn_tZlP",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/graduate-junior-data-scientist-manchester-82623",
@@ -269,7 +368,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/graduate-junior-data-scientist-manchester-82623",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/backend-developer-ai-trainer-france-paris-57482",
@@ -305,7 +404,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/backend-developer-ai-trainer-france-paris-57482",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/equativ/ai-engineer-intern-genai-internal-automation-gaia-paris-63381",
@@ -340,7 +439,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/equativ/ai-engineer-intern-genai-internal-automation-gaia-paris-63381",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/dialpad/software-engineer-london-59141",
@@ -375,7 +474,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/dialpad/software-engineer-london-59141",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/operations-analyst-entry-level-at-jobright-ai-4466530649&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1O6OLQaIaenRntag1WQgvZ",
@@ -410,7 +509,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/operations-analyst-entry-level-at-jobright-ai-4466530649&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1O6OLQaIaenRntag1WQgvZ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153326-multigres-deployment-engineer",
@@ -445,7 +544,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153326-multigres-deployment-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bjak/jobs/full-stack-engineer-941921069",
@@ -480,7 +579,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/bjak/jobs/full-stack-engineer-941921069",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-controls-engineer-at-actalent-4467760200&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1bV6x1kyBgpJEtUBsCZXF4",
@@ -516,7 +615,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-controls-engineer-at-actalent-4467760200&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1bV6x1kyBgpJEtUBsCZXF4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/uvation/jobs/software-engineer-frontend-react-8088742861",
@@ -552,7 +651,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/uvation/jobs/software-engineer-frontend-react-8088742861",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-training-provided-at-cuchiara-company-4465562660&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3euYKzHc-AA3dhIDjQSHJH",
@@ -588,7 +687,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-training-provided-at-cuchiara-company-4465562660&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3euYKzHc-AA3dhIDjQSHJH",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-training-specialist-%25E2%2580%2593-traveling-at-the-reynolds-and-reynolds-company-4466510910&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw26xUez28EhpycaAotCtEMW",
@@ -624,7 +723,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-training-specialist-%25E2%2580%2593-traveling-at-the-reynolds-and-reynolds-company-4466510910&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw26xUez28EhpycaAotCtEMW",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/vice-president-operations-at-marie-france-lingerie-4454374394&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0camwbO36NhienRER42Uz6",
@@ -659,7 +758,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/vice-president-operations-at-marie-france-lingerie-4454374394&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0camwbO36NhienRER42Uz6",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-us-at-spieldenner-group-4466523415&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2RabsTgX3y1F3NPuFfk_pO",
@@ -695,7 +794,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-us-at-spieldenner-group-4466523415&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2RabsTgX3y1F3NPuFfk_pO",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-at-highpoint-opencast-mining-services-pty-ltd-4466544296&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3P-V7UQ-mnqhVTP25HCyds",
@@ -728,7 +827,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-at-highpoint-opencast-mining-services-pty-ltd-4466544296&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3P-V7UQ-mnqhVTP25HCyds",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-spieldenner-group-4466525471&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0ntAQjDAbdvJG57lcxW6z9",
@@ -764,7 +863,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-spieldenner-group-4466525471&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0ntAQjDAbdvJG57lcxW6z9",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/budget-analyst-entry-level-at-national-reconnaissance-office-nro-4465246874&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3o4JN306pUZ0njlA6Jxolv",
@@ -799,7 +898,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/budget-analyst-entry-level-at-national-reconnaissance-office-nro-4465246874&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3o4JN306pUZ0njlA6Jxolv",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/part-time-entry-level-data-entry-typist-at-a-helping-hand-renovation-llc-4465587277%3Fposition%3D48%26pageNum%3D0%26refId%3DbmYxKphJ2cxO89lrMwaR2Q%253D%253D%26trackingId%3DBU5IQHq2bdGqjy%252B2MNxTRQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw23FStkzJC8tCBxYl160w0C",
@@ -835,7 +934,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/part-time-entry-level-data-entry-typist-at-a-helping-hand-renovation-llc-4465587277%3Fposition%3D48%26pageNum%3D0%26refId%3DbmYxKphJ2cxO89lrMwaR2Q%253D%253D%26trackingId%3DBU5IQHq2bdGqjy%252B2MNxTRQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw23FStkzJC8tCBxYl160w0C",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-cuchiara-company-4467749674&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0sedVx8x8m9n2NbHDd6M2k",
@@ -871,7 +970,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-cuchiara-company-4467749674&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0sedVx8x8m9n2NbHDd6M2k",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-support-specialist-%25E2%2580%2593-entry-level-at-the-stephens-agency-4467758195&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0ooQivhHm30PR3wGQLxr6A",
@@ -907,7 +1006,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-support-specialist-%25E2%2580%2593-entry-level-at-the-stephens-agency-4467758195&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0ooQivhHm30PR3wGQLxr6A",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/frontend-developer-nuremberg-278828",
@@ -99599,13 +99698,13 @@
       "is_new": false
     }
   ],
-  "count": 2979,
-  "keepers": 437,
-  "fresh": 2410,
-  "new_today": 26,
-  "apply_now": 41,
+  "count": 2982,
+  "keepers": 438,
+  "fresh": 2413,
+  "new_today": 3,
+  "apply_now": 42,
   "apply": 30,
   "consider": 31,
   "morocco": 18,
-  "eligible": 101
+  "eligible": 102
 }
