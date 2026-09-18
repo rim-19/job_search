@@ -1,6 +1,41 @@
 {
-  "generated": "2026-09-17",
+  "generated": "2026-09-18",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-sql-git-remote-at-crossing-infotech-4467507316&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw21IFXQ-avsTW6XJbHMGeKV",
+      "title": "Python Developer Intern | Entry Level | Fresher | Remote",
+      "company": "Crossing Infotech — India | LinkedIn Jobs",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-sql-git-remote-at-crossing-infotech-4467507316&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw21IFXQ-avsTW6XJbHMGeKV",
+      "score": 65,
+      "reason": "This is an entry-level remote Python Developer internship, which aligns with the candidate's interest in junior/entry-level roles and her AI/Full-Stack profile, although the primary focus is Python which is a secondary fit.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-18",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level remote Python Developer internship. The candidate is an AI + Full-Stack Software Developer with experience in Python and a strong interest in junior/entry-level roles. While the role is Python-specific, her broader full-stack and AI skills make her a potential fit.",
+      "date_posted": "2026-09-17T09:01:28Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "priority": "CONSIDER",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate is open to remote roles worldwide, and this role is remote.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Role is Python-specific, candidate is a generalist with Python as one of many languages."
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-sql-git-remote-at-crossing-infotech-4467507316&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw21IFXQ-avsTW6XJbHMGeKV",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-python-ai-machine-learning-generative-ai-remote-at-medinex-workforce-4466845399&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3CANIY_D0VFPBEbOy0xL5o",
       "title": "Artificial Intelligence Intern | Entry Level | Fresher | Python, AI, Machine Learning, Generative AI",
@@ -32,7 +67,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-python-ai-machine-learning-generative-ai-remote-at-medinex-workforce-4466845399&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3CANIY_D0VFPBEbOy0xL5o",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153452-edge-functions-engineer",
@@ -68,7 +103,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://jobicy.com/jobs/153452-edge-functions-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/greenventory-gmbh/student-web-development-freiburg-im-breisgau-326089",
@@ -101,7 +136,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/greenventory-gmbh/student-web-development-freiburg-im-breisgau-326089",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153446-postgres-deployment-engineer-nix",
@@ -137,7 +172,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153446-postgres-deployment-engineer-nix",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153449-software-engineer-auth",
@@ -172,7 +207,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153449-software-engineer-auth",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/fullstack-engineer-subscriptions-london-184497",
@@ -207,7 +242,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/fullstack-engineer-subscriptions-london-184497",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/winamax/junior-ml-ai-engineer-team-data-h-f-paris-249014",
@@ -240,7 +275,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/winamax/junior-ml-ai-engineer-team-data-h-f-paris-249014",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-sql-spring-boot-git-remote-at-crossing-infotech-4467194572&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2suh4rQimnAK44W_2HTufq",
@@ -275,7 +310,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-sql-spring-boot-git-remote-at-crossing-infotech-4467194572&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2suh4rQimnAK44W_2HTufq",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/full-stack-developer-nuremberg-187318",
@@ -310,7 +345,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/full-stack-developer-nuremberg-187318",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153451-software-engineer-iac-platform-experience",
@@ -343,7 +378,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153451-software-engineer-iac-platform-experience",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-355901",
@@ -376,7 +411,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-355901",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/software-engineer-net-c-london-169889",
@@ -412,7 +447,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/software-engineer-net-c-london-169889",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/software-engineer-london-495502",
@@ -445,7 +480,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/software-engineer-london-495502",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-software-engineer-entry-level-remote-us-at-icf-4466886919&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw19qcwWgVwYSmbtaOG0Devi",
@@ -478,7 +513,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-software-engineer-entry-level-remote-us-at-icf-4466886919&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw19qcwWgVwYSmbtaOG0Devi",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-data-and-ai-engineering-it-management-consultant-2026-27-graduate-hamburg-96453",
@@ -511,7 +546,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-data-and-ai-engineering-it-management-consultant-2026-27-graduate-hamburg-96453",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/computer-science-engineer-intern-entry-level-fresher-programming-data-structures-software-development-remote-at-medinex-workforce-4467160803&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3XwBFNKwO21tlXmALBreJb",
@@ -546,7 +581,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/computer-science-engineer-intern-entry-level-fresher-programming-data-structures-software-development-remote-at-medinex-workforce-4467160803&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3XwBFNKwO21tlXmALBreJb",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/it-support-specialist-entry-level-at-jobright-ai-4466877339&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2yI9qILYPNbAXrTCxwk_YD",
@@ -581,7 +616,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/it-support-specialist-entry-level-at-jobright-ai-4466877339&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2yI9qILYPNbAXrTCxwk_YD",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/vocca/business-development-representative-bdr-end-of-studies-internship-paris-9914",
@@ -617,7 +652,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/vocca/business-development-representative-bdr-end-of-studies-internship-paris-9914",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://mx.linkedin.com/jobs/view/full-stack-junior-react-python-developer-remote-at-reclutamiento-it-4467791127&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0a_e1f5iHiu52-6esKYvDk",
@@ -652,7 +687,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://mx.linkedin.com/jobs/view/full-stack-junior-react-python-developer-remote-at-reclutamiento-it-4467791127&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0a_e1f5iHiu52-6esKYvDk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/2027-masters-graduates-consulting-associate-european-competition-practice-london-212696",
@@ -685,7 +720,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/2027-masters-graduates-consulting-associate-european-competition-practice-london-212696",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/alimentiv/jobs/intermediate-full-stack-software-developer",
@@ -718,7 +753,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/alimentiv/jobs/intermediate-full-stack-software-developer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/alan/general-secretary-associate-intern-paris-france-241028",
@@ -751,7 +786,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/alan/general-secretary-associate-intern-paris-france-241028",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/office-operations-assistant-remote-%25E2%2580%2593-%25C2%25A330-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4467959704&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1jDhJjokMYwz4HTzOwOrIe",
@@ -786,7 +821,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/office-operations-assistant-remote-%25E2%2580%2593-%25C2%25A330-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4467959704&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1jDhJjokMYwz4HTzOwOrIe",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/2027-bachelors-graduates-analyst-european-competition-practice-london-499656",
@@ -824,7 +859,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/2027-bachelors-graduates-analyst-european-competition-practice-london-499656",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-cruise-coordinator-at-caribbean-and-cruise-experience-4468350258%3Fposition%3D23%26pageNum%3D0%26refId%3Dx2EGKHEXlIu2XBkvUGFccQ%253D%253D%26trackingId%3Dgs1Pf5eczEx%252Fb49qCTACXw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2xpoGkD8raMfqAIUrwEXwl",
@@ -859,7 +894,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-cruise-coordinator-at-caribbean-and-cruise-experience-4468350258%3Fposition%3D23%26pageNum%3D0%26refId%3Dx2EGKHEXlIu2XBkvUGFccQ%253D%253D%26trackingId%3Dgs1Pf5eczEx%252Fb49qCTACXw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2xpoGkD8raMfqAIUrwEXwl",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-sales-opportunity-open-to-recent-graduates-at-wilbur-smith-agency-4467550470&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0lxBrgDP67-6iFxgcCTVTJ",
@@ -894,7 +929,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-sales-opportunity-open-to-recent-graduates-at-wilbur-smith-agency-4467550470&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0lxBrgDP67-6iFxgcCTVTJ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153373-financial-analyst-entry-level",
@@ -930,7 +965,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153373-financial-analyst-entry-level",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/belmont-lavan-ltd/remote-ai-application-engineer-langgraph-agentic-ai-francescas-212451",
@@ -100530,13 +100565,13 @@
       "is_new": false
     }
   ],
-  "count": 3006,
-  "keepers": 440,
-  "fresh": 2437,
-  "new_today": 27,
+  "count": 3007,
+  "keepers": 441,
+  "fresh": 2438,
+  "new_today": 1,
   "apply_now": 42,
   "apply": 32,
-  "consider": 34,
+  "consider": 35,
   "morocco": 18,
-  "eligible": 107
+  "eligible": 108
 }
