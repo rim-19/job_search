@@ -1,6 +1,110 @@
 {
-  "generated": "2026-09-18",
+  "generated": "2026-09-19",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-ai-content-engineer-berlin-195260",
+      "title": "AI Content Engineer",
+      "company": "Soda Data Nv",
+      "location": "Berlin, Germany (remote)",
+      "link": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-ai-content-engineer-berlin-195260",
+      "score": 35,
+      "reason": "The candidate is geographically ineligible for this role as it is based in Berlin, Germany, and the candidate cannot relocate or work in the EU. While the role is remote, the company's location implies potential work authorization requirements or timezone preferences that conflict with the candidate",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-19",
+      "source": "Arbeitnow",
+      "summary": "This role focuses on content engineering and technical marketing, requiring a blend of writing and building skills. The candidate's background is primarily in AI and full-stack development, with a strong technical skillset but less direct experience in content creation or developer advocacy.",
+      "date_posted": "1789784404",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in Berlin, Germany, and requires on-site presence or EU work authorization, which the candidate cannot fulfill.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Content engineering experience",
+        "Developer advocacy experience"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-ai-content-engineer-berlin-195260",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/qa-engineer-entry-level-at-jobright-ai-4467879682&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0fAYOeyvIWIaGjzua4eRFP",
+      "title": "QA Engineer, Entry Level",
+      "company": "Jobright.ai — United Kingdom | LinkedIn Jobs",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/qa-engineer-entry-level-at-jobright-ai-4467879682&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0fAYOeyvIWIaGjzua4eRFP",
+      "score": 20,
+      "reason": "The role is for a Junior Software Developer in the UK, and the candidate is based in Morocco and cannot relocate or work without specific authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-19",
+      "source": "Google Alert 8",
+      "summary": "This role is for a Junior Software Developer based in the UK. The candidate is a Full-Stack Developer with AI specialization but is geographically ineligible for this specific UK-based remote position.",
+      "date_posted": "2026-09-18T16:03:55Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role requires UK work authorization, which the candidate does not have.",
+      "geographic_scope": "UK_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic eligibility for UK work authorization."
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/qa-engineer-entry-level-at-jobright-ai-4467879682&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0fAYOeyvIWIaGjzua4eRFP",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/atz-ag/junior-ai-automation-specialist-vor-ort-in-dortmund-258748",
+      "title": "Junior AI-Automation Specialist (m/w/d) – vor Ort in Dortmund",
+      "company": "ATZ AG",
+      "location": "Dortmund, Nordrhein-Westfalen, Deutschland",
+      "link": "https://www.arbeitnow.com/jobs/companies/atz-ag/junior-ai-automation-specialist-vor-ort-in-dortmund-258748",
+      "score": 20,
+      "reason": "The candidate is geographically ineligible as the role requires on-site presence in Dortmund, Germany, and they cannot relocate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-19",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Junior AI-Automation Specialist requiring on-site work in Dortmund, Germany. The candidate is based in Morocco and cannot relocate, making them ineligible for this position.",
+      "date_posted": "1789785028",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is on-site in Dortmund, Germany, and the candidate cannot relocate.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/atz-ag/junior-ai-automation-specialist-vor-ort-in-dortmund-258748",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/graduate-engineer-intern-entry-level-fresher-engineering-technical-projects-problem-solving-remote-at-crossing-infotech-4467512023&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw26MMSedrRZWl133d0i_xtu",
       "title": "Graduate Engineer Intern | Entry Level | Fresher | Remote",
@@ -32,7 +136,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/graduate-engineer-intern-entry-level-fresher-engineering-technical-projects-problem-solving-remote-at-crossing-infotech-4467512023&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw26MMSedrRZWl133d0i_xtu",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/computer-science-engineer-intern-entry-level-fresher-programming-data-structures-software-development-remote-at-crossing-infotech-4467508331&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2grmIsOhGxVJfSMWjf_VqZ",
@@ -65,7 +169,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/computer-science-engineer-intern-entry-level-fresher-programming-data-structures-software-development-remote-at-crossing-infotech-4467508331&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2grmIsOhGxVJfSMWjf_VqZ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/abnormalsecurity/software-engineer-backend-behavioral-security-products-256373",
@@ -101,7 +205,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/abnormalsecurity/software-engineer-backend-behavioral-security-products-256373",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-sql-git-remote-at-crossing-infotech-4467507316&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw21IFXQ-avsTW6XJbHMGeKV",
@@ -136,7 +240,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-sql-git-remote-at-crossing-infotech-4467507316&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw21IFXQ-avsTW6XJbHMGeKV",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/cresta/software-engineer-in-test-berlin-488239",
@@ -171,7 +275,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/cresta/software-engineer-in-test-berlin-488239",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/atrya/technical-product-research-intern-in-agentic-payments-stablecoins-web3-berlin-455463",
@@ -207,7 +311,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/atrya/technical-product-research-intern-in-agentic-payments-stablecoins-web3-berlin-455463",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7998757003",
@@ -243,7 +347,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7998757003",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/vetaion-gmbh/full-stack-developer-garching-275638",
@@ -279,7 +383,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/vetaion-gmbh/full-stack-developer-garching-275638",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/welectron/werkstudentin-fullstack-developer-erp-prozessautomatisierung-karlsruhe-36099",
@@ -315,7 +419,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/welectron/werkstudentin-fullstack-developer-erp-prozessautomatisierung-karlsruhe-36099",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-berlin-munich-95176",
@@ -348,7 +452,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-berlin-munich-95176",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-a-full-renovation-llc-4468314971&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw15ORx6Uka3VyDrPEDWtbmA",
@@ -384,7 +488,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-a-full-renovation-llc-4468314971&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw15ORx6Uka3VyDrPEDWtbmA",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-blockchain-dlt-developer-london-296017",
@@ -419,7 +523,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-blockchain-dlt-developer-london-296017",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/junior-data-scientist-casablanca-9th-arrondissement-of-paris-75009-paris-139850",
@@ -455,7 +559,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/junior-data-scientist-casablanca-9th-arrondissement-of-paris-75009-paris-139850",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-claims-systems-configuration-associate-evicore-remote-at-evicore-by-evernorth-4466620009&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0xfIztwR3OYJFWR6W_12RQ",
@@ -492,7 +596,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-claims-systems-configuration-associate-evicore-remote-at-evicore-by-evernorth-4466620009&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0xfIztwR3OYJFWR6W_12RQ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-support-specialist-%25E2%2580%2593-entry-level-at-the-stephens-agency-4468606812&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Z-IZjlQPkQkBpltk4MI1A",
@@ -527,7 +631,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-support-specialist-%25E2%2580%2593-entry-level-at-the-stephens-agency-4468606812&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Z-IZjlQPkQkBpltk4MI1A",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153604-marketing-web-developer",
@@ -562,7 +666,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153604-marketing-web-developer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-nurnberg-bavaria-141283",
@@ -598,7 +702,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-nurnberg-bavaria-141283",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-benefits-specialist-entry-level-we-train-at-the-mires-agency-4468671121&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0u3Ne7blFK-qWEGqnL5BlS",
@@ -633,7 +737,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-benefits-specialist-entry-level-we-train-at-the-mires-agency-4468671121&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0u3Ne7blFK-qWEGqnL5BlS",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/quandela/internship-hr-talent-acquisition-specialist-massy-435950",
@@ -669,7 +773,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/quandela/internship-hr-talent-acquisition-specialist-massy-435950",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/content-writer-intern-entry-level-fresher-content-writing-seo-digital-marketing-remote-at-crossing-infotech-4467511299&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3RGwX9evFmP2HEKahA9O9S",
@@ -705,7 +809,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/content-writer-intern-entry-level-fresher-content-writing-seo-digital-marketing-remote-at-crossing-infotech-4467511299&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3RGwX9evFmP2HEKahA9O9S",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-work-from-home-at-the-schnitzer-agency-4464497956&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw02wmSSHOFD9pzkTQzyBzMk",
@@ -738,7 +842,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-work-from-home-at-the-schnitzer-agency-4464497956&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw02wmSSHOFD9pzkTQzyBzMk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-recruiter-at-nextstep-recruiting-4468648776&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2qC8e-qL4cFYojXyYyBETF",
@@ -773,7 +877,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-recruiter-at-nextstep-recruiting-4468648776&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2qC8e-qL4cFYojXyYyBETF",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-entry-level-at-torentify-4468806120%3Fposition%3D2%26pageNum%3D0%26refId%3DD03qeGPpr2BuhYeMkB6Hxg%253D%253D%26trackingId%3DTmZkfDIjjnGi%252FkQAjdSV%252Fw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw337ub9sfTO24U1E_uvFiE1",
@@ -808,7 +912,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-entry-level-at-torentify-4468806120%3Fposition%3D2%26pageNum%3D0%26refId%3DD03qeGPpr2BuhYeMkB6Hxg%253D%253D%26trackingId%3DTmZkfDIjjnGi%252FkQAjdSV%252Fw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw337ub9sfTO24U1E_uvFiE1",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/financial-advisor-entry-level-remote-at-steadfast-financial-group-4467566674&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw39H-L-mpotIQxWZLRXb2Mc",
@@ -844,7 +948,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/financial-advisor-entry-level-remote-at-steadfast-financial-group-4467566674&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw39H-L-mpotIQxWZLRXb2Mc",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-client-benefits-specialist-entry-level-at-the-stephens-agency-4468608756&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw02QOpW0svA9c-GnoTEixZ1",
@@ -879,7 +983,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-client-benefits-specialist-entry-level-at-the-stephens-agency-4468608756&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw02QOpW0svA9c-GnoTEixZ1",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-python-ai-machine-learning-generative-ai-remote-at-medinex-workforce-4466845399&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3CANIY_D0VFPBEbOy0xL5o",
@@ -101410,10 +101514,10 @@
       "is_new": false
     }
   ],
-  "count": 3031,
+  "count": 3034,
   "keepers": 444,
-  "fresh": 2462,
-  "new_today": 25,
+  "fresh": 2465,
+  "new_today": 3,
   "apply_now": 42,
   "apply": 34,
   "consider": 36,
