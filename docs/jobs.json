@@ -1,6 +1,75 @@
 {
-  "generated": "2026-09-19",
+  "generated": "2026-09-20",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-engineer-munchen-367847",
+      "title": "Product Engineer (m/w/d)",
+      "company": "Lpe Immobilien Management Gmbh",
+      "location": "München",
+      "link": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-engineer-munchen-367847",
+      "score": 35,
+      "reason": "The job is located in Munich, Germany, which is not within the candidate's acceptable geographic scope and would likely require EU work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-20",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Product Engineer at LPE Immobilien Management Gmbh in Munich, Germany. The position involves full-stack development in TypeScript, building AI agents, and working on customer portals and internal tools. The company is focused on revolutionizing the property management industry through software.",
+      "date_posted": "1789859390",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is München, Germany, which requires EU work authorization and is outside the candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-engineer-munchen-367847",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/associate-ux-designer-paris-2141",
+      "title": "Associate UX Designer",
+      "company": "dataiku",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/dataiku/associate-ux-designer-paris-2141",
+      "score": 5,
+      "reason": "The role is for a UX Designer in Paris, France, which is geographically ineligible and does not align with the candidate's technical focus as an AI + Full-Stack Software Developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-20",
+      "source": "Arbeitnow",
+      "summary": "This role is for an Associate UX Designer in Paris, France. The candidate is an AI + Full-Stack Software Developer based in Morocco and is not eligible for this position due to location and role mismatch.",
+      "date_posted": "1789858503",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Paris, France, which requires EU work authorization and is outside the candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "UNKNOWN",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility",
+        "Role mismatch (UX Designer vs. Software Developer)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/dataiku/associate-ux-designer-paris-2141",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-107711",
       "title": "Backend Engineer - Agentic AI (m/w/d)",
@@ -32,7 +101,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-107711",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://za.linkedin.com/jobs/view/junior-ai-engineer-at-control-risks-4469167843&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw3q_1sqJ5bWPGN1Y_x-OobK",
@@ -65,7 +134,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://za.linkedin.com/jobs/view/junior-ai-engineer-at-control-risks-4469167843&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw3q_1sqJ5bWPGN1Y_x-OobK",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153674-application-integration-developer",
@@ -98,7 +167,7 @@
       "gaps": [],
       "recommended_project": "HR-Genius",
       "application_url": "https://jobicy.com/jobs/153674-application-integration-developer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-ai-content-engineer-berlin-195260",
@@ -134,7 +203,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-ai-content-engineer-berlin-195260",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/bigblue/business-intelligence-engineer-intern-ops-excellence-paris-401122",
@@ -167,7 +236,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/bigblue/business-intelligence-engineer-intern-ops-excellence-paris-401122",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/scaile-technologies-gmbh/founding-engineer-intern-munich-398477",
@@ -202,7 +271,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/scaile-technologies-gmbh/founding-engineer-intern-munich-398477",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-289399",
@@ -235,7 +304,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-289399",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/amx-consulting-personio/remote-working-student-junior-solutions-consultant-190225",
@@ -270,7 +339,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/amx-consulting-personio/remote-working-student-junior-solutions-consultant-190225",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/mindrift/jobs/freelance-agent-evaluation-engineer-8604964817",
@@ -306,7 +375,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/mindrift/jobs/freelance-agent-evaluation-engineer-8604964817",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/qa-engineer-entry-level-at-jobright-ai-4467879682&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0fAYOeyvIWIaGjzua4eRFP",
@@ -341,7 +410,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/qa-engineer-entry-level-at-jobright-ai-4467879682&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0fAYOeyvIWIaGjzua4eRFP",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/atz-ag/junior-ai-automation-specialist-vor-ort-in-dortmund-258748",
@@ -374,7 +443,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/atz-ag/junior-ai-automation-specialist-vor-ort-in-dortmund-258748",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/software-engineer-simulation-platform-munich-424378",
@@ -407,7 +476,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/software-engineer-simulation-platform-munich-424378",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
@@ -443,7 +512,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153592-software-engineer-analytics",
@@ -479,7 +548,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153592-software-engineer-analytics",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150935-customer-engineer-apac",
@@ -514,7 +583,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/150935-customer-engineer-apac",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/cengage-group/jobs/ai-ml-engineer-school-6503574225",
@@ -549,7 +618,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/cengage-group/jobs/ai-ml-engineer-school-6503574225",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/resend/df2fe05d-87ca-4e87-a66d-50bb2c9c4859",
@@ -585,7 +654,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/resend/df2fe05d-87ca-4e87-a66d-50bb2c9c4859",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153596-software-engineer-application-integration",
@@ -620,7 +689,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153596-software-engineer-application-integration",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://stripe.com/jobs/search?gh_jid=8172503",
@@ -653,7 +722,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://stripe.com/jobs/search?gh_jid=8172503",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/salesforce/jobs/junior-technical-support-engineer-4260957953",
@@ -686,7 +755,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/salesforce/jobs/junior-technical-support-engineer-4260957953",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-aml-investigator-remote-training-provided-at-braintrust-4469264369&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw35vftmBEJfBR6Z_cooLxnS",
@@ -722,7 +791,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-aml-investigator-remote-training-provided-at-braintrust-4469264369&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw35vftmBEJfBR6Z_cooLxnS",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-%25E2%2580%2593-entry-level-at-chick-fil-a-western-center-blvd-4469215610&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3_TfHiZDLOGzbzBtEKqC5L",
@@ -757,7 +826,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-%25E2%2580%2593-entry-level-at-chick-fil-a-western-center-blvd-4469215610&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3_TfHiZDLOGzbzBtEKqC5L",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-remote-sales-entry-level-no-experience-needed-at-the-stephens-agency-4469144175&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1YmDYbKZ8MmL_yuugmZ80p",
@@ -793,7 +862,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-remote-sales-entry-level-no-experience-needed-at-the-stephens-agency-4469144175&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1YmDYbKZ8MmL_yuugmZ80p",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-benefits-consultant-%25E2%2580%2593-remote-training-provided-at-miller-family-agency-4469188414&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw357Ki-o2gVcmQRj4EhUfrl",
@@ -829,7 +898,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-benefits-consultant-%25E2%2580%2593-remote-training-provided-at-miller-family-agency-4469188414&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw357Ki-o2gVcmQRj4EhUfrl",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesperson-%252455k-90k-no-experience-required%2521-remote-position-at-allen-cw-group-4467830311&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3R1PFbV5YqAkvjQcPoGKXR",
@@ -865,7 +934,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesperson-%252455k-90k-no-experience-required%2521-remote-position-at-allen-cw-group-4467830311&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3R1PFbV5YqAkvjQcPoGKXR",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-representative-training-provided-entry-level-at-the-wayland-agency-4467860942&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3wM5xndJb6TzNjpvfybpSz",
@@ -900,7 +969,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-representative-training-provided-entry-level-at-the-wayland-agency-4467860942&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3wM5xndJb6TzNjpvfybpSz",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-recruiting-at-outburst-consulting-4450767205&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1qPnNGUfSkzyC51R_EgpB7",
@@ -936,7 +1005,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-recruiting-at-outburst-consulting-4450767205&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1qPnNGUfSkzyC51R_EgpB7",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-pest-control-technician-ladson-sc-at-clark-s-termite-pest-control-4469289617&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3GGNL5t51SiKDdHdXsxYdP",
@@ -969,7 +1038,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-pest-control-technician-ladson-sc-at-clark-s-termite-pest-control-4469289617&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3GGNL5t51SiKDdHdXsxYdP",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-care-specialist-no-experience-needed-at-the-elmer-agency-4467848796&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0wCRkFMKpPNLeQRf7FJ_az",
@@ -1005,7 +1074,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-care-specialist-no-experience-needed-at-the-elmer-agency-4467848796&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0wCRkFMKpPNLeQRf7FJ_az",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/graduate-engineer-intern-entry-level-fresher-engineering-technical-projects-problem-solving-remote-at-crossing-infotech-4467512023&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw26MMSedrRZWl133d0i_xtu",
@@ -102416,10 +102485,10 @@
       "is_new": false
     }
   ],
-  "count": 3060,
+  "count": 3062,
   "keepers": 447,
-  "fresh": 2489,
-  "new_today": 29,
+  "fresh": 2491,
+  "new_today": 2,
   "apply_now": 43,
   "apply": 35,
   "consider": 37,
