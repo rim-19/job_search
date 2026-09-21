@@ -1,6 +1,74 @@
 {
-  "generated": "2026-09-20",
+  "generated": "2026-09-21",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-entry-level-fresher-python-ml-scikit-learn-sql-remote-at-skillzenloop-4467329262&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0pep3J7zH4U-2ChGMwp7VW",
+      "title": "Machine Learning Intern | Entry Level | Fresher | Python, ML, Scikit-learn, SQL | Remote",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-entry-level-fresher-python-ml-scikit-learn-sql-remote-at-skillzenloop-4467329262&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0pep3J7zH4U-2ChGMwp7VW",
+      "score": 78,
+      "reason": "This is a remote Machine Learning Intern role that aligns with the candidate's AI/ML interests and junior profile, and she is geographically eligible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-21",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level, remote Machine Learning Intern position. The candidate's background in AI/LLM development and full-stack skills make her a suitable candidate for this role, especially given her interest in AI-first applications.",
+      "date_posted": "2026-09-20T09:30:47Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "priority": "APPLY",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate meets geographic and seniority requirements.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-entry-level-fresher-python-ml-scikit-learn-sql-remote-at-skillzenloop-4467329262&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0pep3J7zH4U-2ChGMwp7VW",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-analyst-intern-entry-level-fresher-excel-sql-python-power-bi-remote-at-skillzenloop-4467325389&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2xKuMxJertcjleniNOSBXQ",
+      "title": "Skillzenloop hiring Data Analyst Intern | Entry Level | Fresher | Excel, SQL, Python, Power BI",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-analyst-intern-entry-level-fresher-excel-sql-python-power-bi-remote-at-skillzenloop-4467325389&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2xKuMxJertcjleniNOSBXQ",
+      "score": 35,
+      "reason": "The candidate is a Full-Stack Software Developer with AI/LLM specialization and does not possess the core skills (Excel, SQL, Power BI) required for this Data Analyst Intern role.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-21",
+      "source": "Google Alert 8",
+      "summary": "This role is for a Data Analyst Intern, focusing on tools like Excel, SQL, and Power BI. The candidate is an AI + Full-Stack Software Developer with expertise in Python, JavaScript, React, Node.js, and AI/LLM technologies.",
+      "date_posted": "2026-09-20T09:03:48Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "The candidate's technical skills and project experience are not aligned with the Data Analyst role, which focuses on Excel, SQL, and Power BI.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Lack of specific experience in Data Analysis tools (Excel, SQL, Power BI)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-analyst-intern-entry-level-fresher-excel-sql-python-power-bi-remote-at-skillzenloop-4467325389&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2xKuMxJertcjleniNOSBXQ",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/66degrees/full-stack-engineer-contract-218844",
       "title": "Full Stack Engineer, Contract",
@@ -32,7 +100,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/66degrees/full-stack-engineer-contract-218844",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-sql-rest-apis-remote-at-crossing-infotech-4468460191&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1oLCT5IeOdJYF0tprUTKGb",
@@ -65,7 +133,7 @@
       "gaps": [],
       "recommended_project": "Cupid",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-sql-rest-apis-remote-at-crossing-infotech-4468460191&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1oLCT5IeOdJYF0tprUTKGb",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/front-end-developer-intern-entry-level-fresher-html-css-javascript-remote-at-skillzenloop-4467317508&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw17nJtPayy_tBC8kDgeJZG6",
@@ -100,7 +168,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/front-end-developer-intern-entry-level-fresher-html-css-javascript-remote-at-skillzenloop-4467317508&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw17nJtPayy_tBC8kDgeJZG6",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/4468670292/&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw26B0MqqhHOPMSBBNq9LbOL",
@@ -135,7 +203,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/4468670292/&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw26B0MqqhHOPMSBBNq9LbOL",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-427281",
@@ -171,7 +239,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-427281",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-engineer-munchen-367847",
@@ -204,7 +272,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-engineer-munchen-367847",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/rhein-nadel-automation-gmbh/fullstack-software-engineer-munchen-15638",
@@ -237,7 +305,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/rhein-nadel-automation-gmbh/fullstack-software-engineer-munchen-15638",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/html-css-developer-intern-entry-level-fresher-html5-css3-responsive-design-remote-at-skillzenloop-4467312629&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3JUWEair5NZUBjbV5vuCWl",
@@ -273,7 +341,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/html-css-developer-intern-entry-level-fresher-html5-css3-responsive-design-remote-at-skillzenloop-4467312629&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3JUWEair5NZUBjbV5vuCWl",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/internship-ai-automation-energy-berlin-480051",
@@ -306,7 +374,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/internship-ai-automation-energy-berlin-480051",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-genai-platform-london-481615",
@@ -339,7 +407,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-genai-platform-london-481615",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
@@ -372,7 +440,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-london-116718",
@@ -405,7 +473,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-london-116718",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/wppmedia/stage-consultant-media-international-f-h-paris-53672",
@@ -438,7 +506,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/wppmedia/stage-consultant-media-international-f-h-paris-53672",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153653-devops-engineer-blockchain-infra-fully-remote",
@@ -474,7 +542,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153653-devops-engineer-blockchain-infra-fully-remote",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151260-generative-media-engineer-ai-social-us",
@@ -510,7 +578,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151260-generative-media-engineer-ai-social-us",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153676-technical-integrations-consultant",
@@ -543,7 +611,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153676-technical-integrations-consultant",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/sales-internship-at-retail-insights-london-139171",
@@ -579,7 +647,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/sales-internship-at-retail-insights-london-139171",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/project-management-internship-at-retail-insights-london-42234",
@@ -614,7 +682,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/project-management-internship-at-retail-insights-london-42234",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/management-consulting-internship-at-retail-insights-london-145540",
@@ -650,7 +718,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/management-consulting-internship-at-retail-insights-london-145540",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/it-support-technician-entry-level-u-at-torentify-4469545681&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Alq2cx0y4nlu_VeKDbfii",
@@ -686,7 +754,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/it-support-technician-entry-level-u-at-torentify-4469545681&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Alq2cx0y4nlu_VeKDbfii",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/we-are-social-1/stage-assistante-planneureuse-strategique-junior-paris-65275",
@@ -722,7 +790,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/we-are-social-1/stage-assistante-planneureuse-strategique-junior-paris-65275",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/structural-engineer-entry-level-201241-at-hka-enterprises-4463069432&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3wCKIVianLxWTcPr14ESdV",
@@ -759,7 +827,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/structural-engineer-entry-level-201241-at-hka-enterprises-4463069432&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3wCKIVianLxWTcPr14ESdV",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/stretto-inc/jobs/tech-trustee-suite-software-engineer",
@@ -794,7 +862,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/stretto-inc/jobs/tech-trustee-suite-software-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151258-generative-media-engineer-ai-social-canada",
@@ -830,7 +898,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151258-generative-media-engineer-ai-social-canada",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/associate-ux-designer-paris-2141",
@@ -866,7 +934,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/dataiku/associate-ux-designer-paris-2141",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/sonymusicentertainment/juriste-junior-f-h-nb-stage-europe-paris-151581",
@@ -901,7 +969,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/sonymusicentertainment/juriste-junior-f-h-nb-stage-europe-paris-151581",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-specialist-fully-remote-%252475k-%2524150k-at-the-greenwood-agency-4469543962&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0_3nuU67P17hhM9R1HuYuT",
@@ -934,7 +1002,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-specialist-fully-remote-%252475k-%2524150k-at-the-greenwood-agency-4469543962&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0_3nuU67P17hhM9R1HuYuT",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/marketing-internship-at-retail-insights-london-360670",
@@ -970,7 +1038,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/marketing-internship-at-retail-insights-london-360670",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-107711",
@@ -103387,13 +103455,13 @@
       "is_new": false
     }
   ],
-  "count": 3088,
-  "keepers": 450,
-  "fresh": 2516,
-  "new_today": 28,
+  "count": 3090,
+  "keepers": 451,
+  "fresh": 2518,
+  "new_today": 2,
   "apply_now": 43,
-  "apply": 37,
+  "apply": 38,
   "consider": 38,
   "morocco": 19,
-  "eligible": 116
+  "eligible": 117
 }
