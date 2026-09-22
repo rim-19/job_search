@@ -1,6 +1,74 @@
 {
-  "generated": "2026-09-21",
+  "generated": "2026-09-22",
   "jobs": [
+    {
+      "url": "https://himalayas.app/companies/careerswift/jobs/frontend-developer-3013027651",
+      "title": "Frontend Developer",
+      "company": "Careerswift",
+      "location": "Worldwide",
+      "link": "https://himalayas.app/companies/careerswift/jobs/frontend-developer-3013027651",
+      "score": 60,
+      "reason": "The role is remote worldwide and the candidate is open to it, but the minimum experience requirement of 3+ years is a potential mismatch for an early-career developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-22",
+      "source": "Himalayas",
+      "summary": "This is a remote Frontend Developer role at CerebriOS. The candidate is a full-stack developer with strong frontend skills in React and Next.js, but the role requires 3+ years of professional experience which may be a stretch.",
+      "date_posted": "1790041842",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "priority": "CONSIDER",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Geographically eligible and seniority seems potentially acceptable.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "JUNIOR",
+      "min_years": 3,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Minimum 3 years of professional frontend development experience required, candidate is early-career."
+      ],
+      "recommended_project": "",
+      "application_url": "https://himalayas.app/companies/careerswift/jobs/frontend-developer-3013027651",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/prior-labs/full-stack-engineer-ml-platform-berlin-45131",
+      "title": "Full Stack Engineer, ML Platform",
+      "company": "Prior Labs",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/prior-labs/full-stack-engineer-ml-platform-berlin-45131",
+      "score": 35,
+      "reason": "The job is located in Berlin, Germany, which is outside the candidate's acceptable geographic scope and requires EU work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-22",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Full Stack Engineer on an ML Platform, focusing on tabular foundation models. It involves end-to-end product development including frontend and backend.",
+      "date_posted": "1790044804",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Berlin, which requires EU work authorization and is outside of the candidate's acceptable geographic scope.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/prior-labs/full-stack-engineer-ml-platform-berlin-45131",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-programming-git-sql-software-development-remote-at-skillzenloop-4467320456&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3WOMklgTaIwLjgWBOd2PXX",
       "title": "Entry Level | Fresher | Programming, Git, SQL, Software Development | Remote",
@@ -32,7 +100,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-programming-git-sql-software-development-remote-at-skillzenloop-4467320456&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3WOMklgTaIwLjgWBOd2PXX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-apis-sql-remote-at-skillzenloop-4467366860&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2kkFl3M0OFu6i8FSHBO_K9",
@@ -65,7 +133,7 @@
       "gaps": [],
       "recommended_project": "Cupid",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-apis-sql-remote-at-skillzenloop-4467366860&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2kkFl3M0OFu6i8FSHBO_K9",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-sql-javascript-remote-at-skillzenloop-4467321452&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2q7EF5q14cZ-7juMjbiA60",
@@ -98,7 +166,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-sql-javascript-remote-at-skillzenloop-4467321452&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2q7EF5q14cZ-7juMjbiA60",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-entry-level-fresher-python-ml-scikit-learn-sql-remote-at-skillzenloop-4467329262&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0pep3J7zH4U-2ChGMwp7VW",
@@ -131,7 +199,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-entry-level-fresher-python-ml-scikit-learn-sql-remote-at-skillzenloop-4467329262&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0pep3J7zH4U-2ChGMwp7VW",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/computer-science-engineer-intern-entry-level-fresher-programming-software-development-sql-remote-at-skillzenloop-4467315575&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1HrnR5o8wK4-iM5zVBjDN4",
@@ -164,7 +232,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/computer-science-engineer-intern-entry-level-fresher-programming-software-development-sql-remote-at-skillzenloop-4467315575&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1HrnR5o8wK4-iM5zVBjDN4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-science-intern-entry-level-fresher-python-sql-statistics-machine-learning-remote-at-skillzenloop-4467328296&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3in9Ex1bjRQFMMyNoOVeTg",
@@ -197,7 +265,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-science-intern-entry-level-fresher-python-sql-statistics-machine-learning-remote-at-skillzenloop-4467328296&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3in9Ex1bjRQFMMyNoOVeTg",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/workmotion/jobs/full-stack-engineer-website-marketing-technology-storyblok-next-js-1547297113",
@@ -232,7 +300,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/workmotion/jobs/full-stack-engineer-website-marketing-technology-storyblok-next-js-1547297113",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/sql-developer-intern-entry-level-fresher-sql-mysql-database-management-remote-at-skillzenloop-4467317500&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0m5wBXwsHZGuD6xYCf5G_q",
@@ -267,7 +335,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/sql-developer-intern-entry-level-fresher-sql-mysql-database-management-remote-at-skillzenloop-4467317500&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0m5wBXwsHZGuD6xYCf5G_q",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-ai-agents-workflows-berlin-446500",
@@ -302,7 +370,7 @@
       ],
       "recommended_project": "HR-Genius",
       "application_url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-ai-agents-workflows-berlin-446500",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-entry-level-fresher-python-machine-learning-scikit-learn-remote-at-crossing-infotech-4468461171&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3YxG-_rcY4Rd9MYMM2t_Li",
@@ -337,7 +405,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-entry-level-fresher-python-machine-learning-scikit-learn-remote-at-crossing-infotech-4468461171&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3YxG-_rcY4Rd9MYMM2t_Li",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineer-emerging-enterprise-dnb-london-6238",
@@ -372,7 +440,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineer-emerging-enterprise-dnb-london-6238",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-analyst-intern-entry-level-fresher-excel-sql-python-power-bi-remote-at-skillzenloop-4467325389&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2xKuMxJertcjleniNOSBXQ",
@@ -407,7 +475,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-analyst-intern-entry-level-fresher-excel-sql-python-power-bi-remote-at-skillzenloop-4467325389&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2xKuMxJertcjleniNOSBXQ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-supply-chain-logistics-berlin-369362",
@@ -442,7 +510,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-supply-chain-logistics-berlin-369362",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-fintech-berlin-304555",
@@ -477,7 +545,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-fintech-berlin-304555",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/data-nation-gmbh/junior-software-engineer-ki-gestutzte-entwicklung-hamburg-316522",
@@ -510,7 +578,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/data-nation-gmbh/junior-software-engineer-ki-gestutzte-entwicklung-hamburg-316522",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/devops-engineer-intern-entry-level-fresher-linux-aws-docker-git-remote-at-skillzenloop-4466983368&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0filgO2GlWKunrRKUXtxpN",
@@ -546,7 +614,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/devops-engineer-intern-entry-level-fresher-linux-aws-docker-git-remote-at-skillzenloop-4466983368&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0filgO2GlWKunrRKUXtxpN",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153823-ai-software-engineer",
@@ -579,7 +647,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153823-ai-software-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/virtual-assistant-entry-level-at-jobright-ai-4468488206&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1a0f47IyFKhMEjAU3zzY7C",
@@ -614,7 +682,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/virtual-assistant-entry-level-at-jobright-ai-4468488206&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1a0f47IyFKhMEjAU3zzY7C",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/business-analyst-intern-entry-level-fresher-excel-sql-reporting-business-analysis-remote-at-skillzenloop-4467316576&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw07_NQE3p7UbNMs6lwL_UqT",
@@ -649,7 +717,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/business-analyst-intern-entry-level-fresher-excel-sql-reporting-business-analysis-remote-at-skillzenloop-4467316576&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw07_NQE3p7UbNMs6lwL_UqT",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/fuku/jobs/full-stack-developerwfh-remote",
@@ -685,7 +753,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/fuku/jobs/full-stack-developerwfh-remote",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/ui-ux-design-intern-entry-level-fresher-figma-wireframing-prototyping-user-research-remote-at-skillzenloop-4466973502&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2IbKFaZO-5zIj0zRUzCk7r",
@@ -720,7 +788,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/ui-ux-design-intern-entry-level-fresher-figma-wireframing-prototyping-user-research-remote-at-skillzenloop-4466973502&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2IbKFaZO-5zIj0zRUzCk7r",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/pharmacy-assistant-intern-entry-level-fresher-pharmacy-operations-medication-management-healthcare-remote-at-skillzenloop-4466969544&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3xUs2Jrk96bVM2slHQSoqK",
@@ -753,7 +821,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/pharmacy-assistant-intern-entry-level-fresher-pharmacy-operations-medication-management-healthcare-remote-at-skillzenloop-4466969544&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3xUs2Jrk96bVM2slHQSoqK",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/financial-analyst-intern-entry-level-fresher-excel-financial-analysis-reporting-remote-at-skillzenloop-4466971554&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Aopz_vfEIWIXu0gOtX4ex",
@@ -789,7 +857,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/financial-analyst-intern-entry-level-fresher-excel-financial-analysis-reporting-remote-at-skillzenloop-4466971554&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Aopz_vfEIWIXu0gOtX4ex",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-specialist-entry-level-at-jobright-ai-4468469584&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw31fHOHBiC4C2wpfS0T7ssm",
@@ -825,7 +893,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-specialist-entry-level-at-jobright-ai-4468469584&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw31fHOHBiC4C2wpfS0T7ssm",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/66degrees/full-stack-engineer-contract-218844",
@@ -104213,13 +104281,13 @@
       "is_new": false
     }
   ],
-  "count": 3112,
-  "keepers": 457,
-  "fresh": 2540,
-  "new_today": 24,
+  "count": 3114,
+  "keepers": 458,
+  "fresh": 2542,
+  "new_today": 2,
   "apply_now": 46,
   "apply": 40,
-  "consider": 40,
+  "consider": 41,
   "morocco": 20,
-  "eligible": 124
+  "eligible": 125
 }
