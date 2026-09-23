@@ -1,6 +1,42 @@
 {
-  "generated": "2026-09-22",
+  "generated": "2026-09-23",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/lab-technician-intern-entry-level-fresher-laboratory-operations-sample-handling-healthcare-remote-at-skillzenloop-4468900474&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw320i0iZ9niBu4KQH21vaOg",
+      "title": "Lab Technician Intern | Entry Level | Fresher | Laboratory Operations, Sample Handling, Healthcare",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/lab-technician-intern-entry-level-fresher-laboratory-operations-sample-handling-healthcare-remote-at-skillzenloop-4468900474&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw320i0iZ9niBu4KQH21vaOg",
+      "score": 5,
+      "reason": "The role is for a Lab Technician Intern in India, which is geographically incompatible with the candidate's location and relocation restrictions.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-23",
+      "source": "Google Alert 8",
+      "summary": "This role is for a Lab Technician Intern focusing on laboratory operations and sample handling. The candidate is an AI + Full-Stack Software Developer with no stated experience or interest in laboratory work.",
+      "date_posted": "2026-09-22T15:46:09Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is in India, candidate is in Morocco and cannot relocate.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "No relevant technical skills or experience for a lab technician role.",
+        "Geographic ineligibility."
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/lab-technician-intern-entry-level-fresher-laboratory-operations-sample-handling-healthcare-remote-at-skillzenloop-4468900474&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw320i0iZ9niBu4KQH21vaOg",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/web-developer-intern-entry-level-fresher-html-css-javascript-react-remote-at-crossing-infotech-4467620873&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ujFfRnsIkkLfTaYHqBTYV",
       "title": "Web Developer Intern | Entry Level | Fresher | HTML, CSS, JavaScript, React | Remote",
@@ -32,7 +68,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/web-developer-intern-entry-level-fresher-html-css-javascript-react-remote-at-crossing-infotech-4467620873&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ujFfRnsIkkLfTaYHqBTYV",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/front-end-developer-intern-entry-level-fresher-html-css-javascript-react-remote-at-crossing-infotech-4467646024&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1gUNB5tujoGfTOE_GuMNJD",
@@ -65,7 +101,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/front-end-developer-intern-entry-level-fresher-html-css-javascript-react-remote-at-crossing-infotech-4467646024&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1gUNB5tujoGfTOE_GuMNJD",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153865-software-engineer-frontend-full-stack-identity-platform",
@@ -98,7 +134,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153865-software-engineer-frontend-full-stack-identity-platform",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/careerswift/jobs/frontend-developer-3013027651",
@@ -133,7 +169,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/careerswift/jobs/frontend-developer-3013027651",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/nabla/full-stack-engineer-paris-397317",
@@ -166,7 +202,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/nabla/full-stack-engineer-paris-397317",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-ai-engineer-open-to-remote-at-penguin-random-house-4469991590&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw2PBCPV_Umfk6ovZuJxducS",
@@ -201,7 +237,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-ai-engineer-open-to-remote-at-penguin-random-house-4469991590&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw2PBCPV_Umfk6ovZuJxducS",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/meetdavis/ai-engineer-full-time-paris-57226",
@@ -234,7 +270,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/meetdavis/ai-engineer-full-time-paris-57226",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/prior-labs/full-stack-engineer-ml-platform-berlin-45131",
@@ -267,7 +303,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/prior-labs/full-stack-engineer-ml-platform-berlin-45131",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/careerswift/jobs/quality-assurance-engineer-4654747470",
@@ -302,7 +338,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/careerswift/jobs/quality-assurance-engineer-4654747470",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/predium-technology-gmbh/associate-data-scientist-munich-250678",
@@ -335,7 +371,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/predium-technology-gmbh/associate-data-scientist-munich-250678",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/writer/b4545b48-9648-44c4-b2f0-96f027e9a4ba",
@@ -370,7 +406,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/writer/b4545b48-9648-44c4-b2f0-96f027e9a4ba",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/meetdavis/ai-engineer-intern-paris-94689",
@@ -405,7 +441,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/meetdavis/ai-engineer-intern-paris-94689",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/meetdavis/ai-research-intern-paris-170778",
@@ -438,7 +474,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/meetdavis/ai-research-intern-paris-170778",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-spanish-speaker-united-media-london-45899",
@@ -474,7 +510,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-spanish-speaker-united-media-london-45899",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-scandinavian-speaker-united-media-london-456445",
@@ -507,7 +543,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-scandinavian-speaker-united-media-london-456445",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-italian-speaker-united-media-london-56436",
@@ -540,7 +576,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-italian-speaker-united-media-london-56436",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-french-speaker-united-media-london-132633",
@@ -577,7 +613,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-french-speaker-united-media-london-132633",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/ledger/internship-total-rewards-compensation-benefits-paris-412184",
@@ -613,7 +649,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/ledger/internship-total-rewards-compensation-benefits-paris-412184",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/conversenow-ai/jobs/back-end-developer-job-id-2266-2823013905",
@@ -646,7 +682,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/conversenow-ai/jobs/back-end-developer-job-id-2266-2823013905",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-edinburgh-358283",
@@ -679,7 +715,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-edinburgh-358283",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-at-united-media-london-215663",
@@ -712,7 +748,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-at-united-media-london-215663",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-german-speaker-united-media-london-372520",
@@ -745,7 +781,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-german-speaker-united-media-london-372520",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/langate/jobs/middle-net-full-stack-engineer-5819366797",
@@ -781,7 +817,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/langate/jobs/middle-net-full-stack-engineer-5819366797",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-salesperson-entry-level-will-train-at-anderson-agency-llc-4469870773&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0BWplXdGemPY5F07bjXKo9",
@@ -817,7 +853,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-salesperson-entry-level-will-train-at-anderson-agency-llc-4469870773&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0BWplXdGemPY5F07bjXKo9",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/financial-analyst-entry-level-remote-at-hire-feed-4469914845&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw29M5xKRMSSg-Jtwte2gWh3",
@@ -850,7 +886,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/financial-analyst-entry-level-remote-at-hire-feed-4469914845&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw29M5xKRMSSg-Jtwte2gWh3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-sales-representative-%25E2%2580%2594-college-grads-%252440k-%2524120k-at-state-farm-4469889526&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3gex0Nz01IyrnzXLQur0Yz",
@@ -885,7 +921,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-sales-representative-%25E2%2580%2594-college-grads-%252440k-%2524120k-at-state-farm-4469889526&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3gex0Nz01IyrnzXLQur0Yz",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-programming-git-sql-software-development-remote-at-skillzenloop-4467320456&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3WOMklgTaIwLjgWBOd2PXX",
@@ -105099,10 +105135,10 @@
       "is_new": false
     }
   ],
-  "count": 3138,
+  "count": 3139,
   "keepers": 461,
-  "fresh": 2565,
-  "new_today": 26,
+  "fresh": 2566,
+  "new_today": 1,
   "apply_now": 47,
   "apply": 42,
   "consider": 41,
