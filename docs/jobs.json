@@ -1,6 +1,41 @@
 {
-  "generated": "2026-09-24",
+  "generated": "2026-09-25",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-332499",
+      "title": "AI Developer Intern (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "location": "München",
+      "link": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-332499",
+      "score": 35,
+      "reason": "The job is located in Munich, Germany, which requires EU work authorization that the candidate does not possess, making her geographically ineligible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-25",
+      "source": "Arbeitnow",
+      "summary": "This is an AI Developer Intern role in Munich, Germany. The candidate is based in Morocco and cannot relocate or obtain EU work authorization. While the technical aspects align with her AI/LLM interests, the location makes her ineligible.",
+      "date_posted": "1790302163",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location: München (Germany) requires EU work authorization, which the candidate does not have.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "required",
+      "gaps": [
+        "Geographic ineligibility due to location requiring EU work authorization."
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-332499",
+      "is_new": true
+    },
     {
       "url": "https://himalayas.app/companies/talent-sam/jobs/full-stack-developer-1559067408",
       "title": "Full Stack Developer",
@@ -32,7 +67,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://himalayas.app/companies/talent-sam/jobs/full-stack-developer-1559067408",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/paddy/backend-engineer-bielefeld-41188",
@@ -65,7 +100,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/paddy/backend-engineer-bielefeld-41188",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-develope-entry-level-junior-at-amemba-amicale-des-anciennes-de-la-maison-d%25E2%2580%2599education-mariama-b%25C3%25A2-4468909932&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw3gGJPeIeq4QeruWW7moaoN",
@@ -98,7 +133,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-develope-entry-level-junior-at-amemba-amicale-des-anciennes-de-la-maison-d%25E2%2580%2599education-mariama-b%25C3%25A2-4468909932&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw3gGJPeIeq4QeruWW7moaoN",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/pixibo/jobs/junior-frontend-engineer-remote-6296108737",
@@ -131,7 +166,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/pixibo/jobs/junior-frontend-engineer-remote-6296108737",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/micro1/jobs/application-security-engineer-appsec",
@@ -168,7 +203,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/micro1/jobs/application-security-engineer-appsec",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
@@ -203,7 +238,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/veepee/stage-developpeur-ia-outils-internes-octobre-2026-saint-denis-385921",
@@ -236,7 +271,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/veepee/stage-developpeur-ia-outils-internes-octobre-2026-saint-denis-385921",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/jobgether/applied-ml-engineer-france-147401",
@@ -271,7 +306,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/jobgether/applied-ml-engineer-france-147401",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/product-engineer-paris-29691",
@@ -306,7 +341,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/the-flex/product-engineer-paris-29691",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-195323",
@@ -341,7 +376,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-195323",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/internship-data-engineer-core-data-product-lille-villeneuve-dascq-nord-171725",
@@ -377,7 +412,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/internship-data-engineer-core-data-product-lille-villeneuve-dascq-nord-171725",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/teya/jobs/internal-operations-junior-associate",
@@ -413,7 +448,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/teya/jobs/internal-operations-junior-associate",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/internship-data-engineer-core-data-product-paris-paris-paris-421816",
@@ -446,7 +481,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/internship-data-engineer-core-data-product-paris-paris-paris-421816",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/data-scientist-intern-2027-london-225992",
@@ -482,7 +517,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/data-scientist-intern-2027-london-225992",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/familie-redlich/typo3-developer-berlin-106678",
@@ -515,7 +550,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/familie-redlich/typo3-developer-berlin-106678",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154014-platform-product-engineer",
@@ -551,7 +586,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154014-platform-product-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-client-support-representative-%25E2%2580%2593entry-level-at-passport-purpose-4469352463&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1J51G6o0zMDP3MRETRG1g0",
@@ -584,7 +619,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-client-support-representative-%25E2%2580%2593entry-level-at-passport-purpose-4469352463&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1J51G6o0zMDP3MRETRG1g0",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-support-specialist-entry-level-at-alegria-travel-services-4469609287&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3mLhZjvDtHIgcsgQTC-UCQ",
@@ -619,7 +654,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-support-specialist-entry-level-at-alegria-travel-services-4469609287&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3mLhZjvDtHIgcsgQTC-UCQ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/software-engineer-ii-full-stack-web-engineering-365481",
@@ -106481,10 +106516,10 @@
       "is_new": false
     }
   ],
-  "count": 3178,
+  "count": 3179,
   "keepers": 469,
-  "fresh": 2605,
-  "new_today": 18,
+  "fresh": 2606,
+  "new_today": 1,
   "apply_now": 49,
   "apply": 46,
   "consider": 44,
