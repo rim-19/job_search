@@ -1,6 +1,74 @@
 {
-  "generated": "2026-09-25",
+  "generated": "2026-09-26",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-home-office-deutschland-380551",
+      "title": "Software Engineer – Internal Tools & Automation (m/w/d)",
+      "company": "Wattfox",
+      "location": "Home Office Deutschland",
+      "link": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-home-office-deutschland-380551",
+      "score": 75,
+      "reason": "This role aligns well with the candidate's full-stack and AI/automation interests, utilizing Python and API development, and is remote, fitting her geographic preferences.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-26",
+      "source": "Arbeitnow",
+      "summary": "The candidate is an early-career AI + Full-Stack Software Developer with experience in Python, APIs, and building AI-driven applications. This role focuses on internal tools and automation using Python, which is a strong match for her skillset.",
+      "date_posted": "1790388561",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "priority": "APPLY",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate is based in Morocco and the role is remote, fitting within EMEA remote eligibility.",
+      "geographic_scope": "EMEA",
+      "remote_type": "REMOTE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "HR-Genius",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-home-office-deutschland-380551",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
+      "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
+      "company": "Mozilla",
+      "location": "Canada,  France,  Germany,  UK",
+      "link": "https://jobicy.com/jobs/154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
+      "score": 10,
+      "reason": "The candidate is geographically ineligible for this role as it requires on-site presence in Canada, France, or the UK, and they cannot relocate or work in those regions.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-26",
+      "source": "Jobicy",
+      "summary": "This role focuses on building internal tooling for web compatibility, requiring web development skills in JavaScript, HTML, CSS, and Python/Django. While the technical skills partially overlap, the geographic requirements make the candidate ineligible.",
+      "date_posted": "2026-09-24T15:33:08+00:00",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role requires presence in Canada, France, or UK, which is not permitted by candidate's geographic constraints.",
+      "geographic_scope": "OTHER",
+      "remote_type": "UNKNOWN",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://jobicy.com/jobs/154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-full-stack-developer-remote-%25E2%2580%2593-%25C2%25A335-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4471450210&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2hmzNzp3DwlxKhObQczjHw",
       "title": "Human-Assisted AI Job &amp; Recruitment Platform hiring Junior Full Stack Developer ( Remote )",
@@ -32,7 +100,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-full-stack-developer-remote-%25E2%2580%2593-%25C2%25A335-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4471450210&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2hmzNzp3DwlxKhObQczjHw",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-full-stack-developer-remote-%25E2%2580%2593-%25C2%25A335-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4471450210&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2hmzNzp3DwlxKhObQczjHw",
@@ -65,7 +133,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-full-stack-developer-remote-%25E2%2580%2593-%25C2%25A335-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4471450210&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2hmzNzp3DwlxKhObQczjHw",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/llm-engineer-entry-level-at-jobright-ai-4470004168&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw09g4tCzdLeHfSqx5MvoSMv",
@@ -98,7 +166,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/llm-engineer-entry-level-at-jobright-ai-4470004168&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw09g4tCzdLeHfSqx5MvoSMv",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/posthog/20ab9628-20ff-4ae3-bd6a-46ae7e9dc6b8",
@@ -131,7 +199,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://jobs.ashbyhq.com/posthog/20ab9628-20ff-4ae3-bd6a-46ae7e9dc6b8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-342698",
@@ -164,7 +232,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-342698",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox-140260",
@@ -201,7 +269,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mozilla/contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox-140260",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-332499",
@@ -236,7 +304,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-332499",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154018-full-stack-engineer-back-end-leaning",
@@ -269,7 +337,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154018-full-stack-engineer-back-end-leaning",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-brand-experience-developpeur-fullstack-shopify-paris-france-23700",
@@ -302,7 +370,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-brand-experience-developpeur-fullstack-shopify-paris-france-23700",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154022-full-stack-engineer-2",
@@ -335,7 +403,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154022-full-stack-engineer-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-ai-engineer-open-to-remote-at-talenthop-4469709408&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw23auOfLlxIMw0WIb_OTFqm",
@@ -370,7 +438,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-ai-engineer-open-to-remote-at-talenthop-4469709408&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw23auOfLlxIMw0WIb_OTFqm",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/ekimetrics/stage-2027-ai-ml-engineer-50-client-50-rd-paris-242613",
@@ -403,7 +471,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/ekimetrics/stage-2027-ai-ml-engineer-50-client-50-rd-paris-242613",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/dacodes/jobs/genai-application-engineer",
@@ -436,7 +504,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/dacodes/jobs/genai-application-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154020-full-stack-engineer-front-end-leaning",
@@ -469,7 +537,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154020-full-stack-engineer-front-end-leaning",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/anyone-ai/full-stack-developer-ai-trainer-uk-london-315128",
@@ -506,7 +574,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/anyone-ai/full-stack-developer-ai-trainer-uk-london-315128",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.rekrute.com/offre-emploi-technicien-de-maintenance-reseau-informatique-debutant-recrutement-gsm-al-maghrib-casablanca-186882.html",
@@ -541,7 +609,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.rekrute.com/offre-emploi-technicien-de-maintenance-reseau-informatique-debutant-recrutement-gsm-al-maghrib-casablanca-186882.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-develope-entry-level-junior-at-cuidado-del-adulto-mayor-4469746296&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3pfxHPyHnG066LXVP89Cd7",
@@ -576,7 +644,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-develope-entry-level-junior-at-cuidado-del-adulto-mayor-4469746296&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3pfxHPyHnG066LXVP89Cd7",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-develope-entry-level-junior-at-cuidado-del-adulto-mayor-4469746296&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw3pfxHPyHnG066LXVP89Cd7",
@@ -611,7 +679,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-develope-entry-level-junior-at-cuidado-del-adulto-mayor-4469746296&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw3pfxHPyHnG066LXVP89Cd7",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/geisinger/jobs/intern-undergraduate-experience-designer",
@@ -644,7 +712,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/geisinger/jobs/intern-undergraduate-experience-designer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/sensedia/jobs/java-developer-senior-ai-gateway-13493",
@@ -677,7 +745,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/sensedia/jobs/java-developer-senior-ai-gateway-13493",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-client-consultant-entry-level-at-the-hunt-agency-inc-4470301640&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2mw5yrEywAL_O7mMIu2T24",
@@ -713,7 +781,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-client-consultant-entry-level-at-the-hunt-agency-inc-4470301640&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2mw5yrEywAL_O7mMIu2T24",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-analyst-entry-level-remote-at-torentify-4469688097&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1OTTkth_zCbKYMgHmx4JLj",
@@ -749,7 +817,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-analyst-entry-level-remote-at-torentify-4469688097&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1OTTkth_zCbKYMgHmx4JLj",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-consulting-specialist-remote-at-the-elmer-agency-4469670470&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2aUtoFKt8L_izhuJnqnKWV",
@@ -784,7 +852,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-consulting-specialist-remote-at-the-elmer-agency-4469670470&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2aUtoFKt8L_izhuJnqnKWV",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/hexa/vc-analyst-internship-paris-195723",
@@ -820,7 +888,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/hexa/vc-analyst-internship-paris-195723",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/cruise-travel-specialist-work-from-home-entry-level-at-passport-purpose-4469378479&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Qyp5u7j-Xk4i3ioZcxICS",
@@ -855,7 +923,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/cruise-travel-specialist-work-from-home-entry-level-at-passport-purpose-4469378479&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Qyp5u7j-Xk4i3ioZcxICS",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-booking-agent-%25E2%2580%2593-hotels-packages-at-passport-purpose-4469363944%3Fposition%3D46%26pageNum%3D0%26refId%3DIYmZKp1fT6ZPun5cy3KGoA%253D%253D%26trackingId%3D1ZgmSLQWqCNLLJXBOiOtow%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw29Av-vdsGV9r1R6jC4Nnzs",
@@ -888,7 +956,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-booking-agent-%25E2%2580%2593-hotels-packages-at-passport-purpose-4469363944%3Fposition%3D46%26pageNum%3D0%26refId%3DIYmZKp1fT6ZPun5cy3KGoA%253D%253D%26trackingId%3D1ZgmSLQWqCNLLJXBOiOtow%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw29Av-vdsGV9r1R6jC4Nnzs",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-booking-agent-%25E2%2580%2593-hotels-travel-at-passport-purpose-4469375565&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3uCvzyTpUfsT2izQ6A04AI",
@@ -924,7 +992,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-booking-agent-%25E2%2580%2593-hotels-travel-at-passport-purpose-4469375565&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3uCvzyTpUfsT2izQ6A04AI",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/talent-sam/jobs/full-stack-developer-1559067408",
@@ -107406,13 +107474,13 @@
       "is_new": false
     }
   ],
-  "count": 3205,
-  "keepers": 475,
-  "fresh": 2630,
-  "new_today": 27,
+  "count": 3207,
+  "keepers": 476,
+  "fresh": 2632,
+  "new_today": 2,
   "apply_now": 54,
-  "apply": 46,
+  "apply": 47,
   "consider": 45,
   "morocco": 23,
-  "eligible": 141
+  "eligible": 142
 }
