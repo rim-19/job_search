@@ -1,6 +1,76 @@
 {
-  "generated": "2026-09-26",
+  "generated": "2026-09-27",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.ch/jobs/companies/swissborg/remote-software-engineer-proprxyz-244322",
+      "title": "Software Engineer | Propr.xyz",
+      "company": "SwissBorg",
+      "location": "Remote - Europe Timezone",
+      "link": "https://www.arbeitnow.ch/jobs/companies/swissborg/remote-software-engineer-proprxyz-244322",
+      "score": 40,
+      "reason": "The role explicitly requires 5+ years of production backend experience, making the candidate ineligible despite a strong technical and AI/LLM overlap.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-27",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Software Engineer at SwissBorg, focusing on backend services for a prop firm OS. It requires significant experience in trading systems and distributed systems.",
+      "date_posted": "1790465081",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Requires 5+ years of production backend experience, which the candidate does not have.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "REMOTE",
+      "seniority": "SENIOR",
+      "min_years": 5,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Minimum years of experience requirement not met."
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.ch/jobs/companies/swissborg/remote-software-engineer-proprxyz-244322",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-network-security-ethical-hacking-linux-security-tools-remote-at-skillzenloop-4470555029&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1W-IOvOzBgHxg_XbKOwMWi",
+      "title": "Cyber Security Intern | Entry Level | Fresher | Remote",
+      "company": "Skillzenloop — India | LinkedIn Jobs",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-network-security-ethical-hacking-linux-security-tools-remote-at-skillzenloop-4470555029&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1W-IOvOzBgHxg_XbKOwMWi",
+      "score": 15,
+      "reason": "The candidate's skills and project experience are heavily focused on AI and Full-Stack development, not Cyber Security, making this role a poor technical fit.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-27",
+      "source": "Google Alert 8",
+      "summary": "This role is for a Cyber Security Intern, which does not align with the candidate's specialization in AI and Full-Stack development. The required skills in Network Security and Ethical Hacking are not present in the candidate's profile.",
+      "date_posted": "2026-09-26T08:31:09Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is in Cyber Security, not AI/Full-Stack development, and requires specific cyber security skills not listed.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Lack of Cyber Security skills and experience."
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-network-security-ethical-hacking-linux-security-tools-remote-at-skillzenloop-4470555029&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1W-IOvOzBgHxg_XbKOwMWi",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/generative-ai-engineer-entry-level-at-jobright-ai-4470327250&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw2owtm2ufBX4MeWQPSs_tmW",
       "title": "Generative AI Engineer , Entry Level",
@@ -32,7 +102,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/generative-ai-engineer-entry-level-at-jobright-ai-4470327250&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw2owtm2ufBX4MeWQPSs_tmW",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-home-office-deutschland-380551",
@@ -65,7 +135,7 @@
       "gaps": [],
       "recommended_project": "HR-Genius",
       "application_url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-home-office-deutschland-380551",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/full-stack-software-engineer-i-at-kooth-digital-health-4472034808&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2Ton6tp1kyb--Q9Ut5bmot",
@@ -98,7 +168,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/full-stack-software-engineer-i-at-kooth-digital-health-4472034808&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2Ton6tp1kyb--Q9Ut5bmot",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/micro1/jobs/backend-security-engineer",
@@ -134,7 +204,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://himalayas.app/companies/micro1/jobs/backend-security-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/graduate-engineer-intern-entry-level-fresher-engineering-technical-support-project-coordination-remote-at-crossing-infotech-4470389925&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0b4bXN7veKcZk3o2bSD1nl",
@@ -167,7 +237,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/graduate-engineer-intern-entry-level-fresher-engineering-technical-support-project-coordination-remote-at-crossing-infotech-4470389925&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0b4bXN7veKcZk3o2bSD1nl",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/glassdollar/full-stack-engineer-berlin-258248",
@@ -202,7 +272,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/glassdollar/full-stack-engineer-berlin-258248",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/predium/associate-data-scientist-munich-248899",
@@ -237,7 +307,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/predium/associate-data-scientist-munich-248899",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-401516",
@@ -270,7 +340,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-401516",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/inside-m2m-gmbh/fullstack-software-engineer-ai-native-development-garbsen-463913",
@@ -305,7 +375,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/inside-m2m-gmbh/fullstack-software-engineer-ai-native-development-garbsen-463913",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/malt/ai-automation-engineer-sales-focus-paris-40335",
@@ -338,7 +408,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/malt/ai-automation-engineer-sales-focus-paris-40335",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/software-engineer-net-c-london-474126",
@@ -371,7 +441,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/software-engineer-net-c-london-474126",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/medconomy-gmbh/remote-softwareentwicklung-gesundheitswesen-modernes-tech-stack-freelancing-cologne-269257",
@@ -407,7 +477,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/medconomy-gmbh/remote-softwareentwicklung-gesundheitswesen-modernes-tech-stack-freelancing-cologne-269257",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-347504",
@@ -440,7 +510,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-347504",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/153974-backend-engineer-observability",
@@ -473,7 +543,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/153974-backend-engineer-observability",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-software-developer-entry-level-at-executiveplacements-com-4472247635&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1HNf_9IeH9LrTveNjcNozs",
@@ -508,7 +578,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-software-developer-entry-level-at-executiveplacements-com-4472247635&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1HNf_9IeH9LrTveNjcNozs",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/volta/platform-engineer-10x-openings-london-304256",
@@ -545,7 +615,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/volta/platform-engineer-10x-openings-london-304256",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
@@ -580,7 +650,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-software-engineer-remote-at-crossing-hurdles-4470715111&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1t38gM7w8XihCRHziBIczM",
@@ -615,7 +685,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-software-engineer-remote-at-crossing-hurdles-4470715111&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1t38gM7w8XihCRHziBIczM",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/junior-full-stack-developer-at-gradient-msp-4470371715&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1qjR4agapwIZiASJIAgVft",
@@ -650,7 +720,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/junior-full-stack-developer-at-gradient-msp-4470371715&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1qjR4agapwIZiASJIAgVft",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/seo-executive-graduate-junior-manchester-234835",
@@ -683,7 +753,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/seo-executive-graduate-junior-manchester-234835",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-office-work-%25E2%2580%2593-entry-level-at-remotehunter-4470364741&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0OxQ09w2NKZhEzy2WLPwok",
@@ -719,7 +789,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-office-work-%25E2%2580%2593-entry-level-at-remotehunter-4470364741&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0OxQ09w2NKZhEzy2WLPwok",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-assistance-specialist-work-from-home-at-the-elmer-agency-4470095861&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2jaZ2wombUT_jDOPDDcWub",
@@ -755,7 +825,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-assistance-specialist-work-from-home-at-the-elmer-agency-4470095861&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2jaZ2wombUT_jDOPDDcWub",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/stage-assistante-chef-de-projet-communication-interne-engagement-h-f-paris-48868",
@@ -791,7 +861,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/stage-assistante-chef-de-projet-communication-interne-engagement-h-f-paris-48868",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/151747-internal-sales-representative-france",
@@ -827,7 +897,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/151747-internal-sales-representative-france",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-remote-at-torentify-4471687080&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3cgNdf-zo1gSraZEjD4-xP",
@@ -863,7 +933,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-remote-at-torentify-4471687080&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3cgNdf-zo1gSraZEjD4-xP",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-rep-remote-at-agent-alliance-4470317469&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1NjwsjD0M_63d8wztiAQ3J",
@@ -899,7 +969,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-rep-remote-at-agent-alliance-4470317469&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1NjwsjD0M_63d8wztiAQ3J",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-representative-%25E2%2580%2593-financial-services-entry-level-welcome-at-roethlisberger-life-group-4470323096&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3myi1HLsOMciccXzXLt33z",
@@ -935,7 +1005,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-representative-%25E2%2580%2593-financial-services-entry-level-welcome-at-roethlisberger-life-group-4470323096&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3myi1HLsOMciccXzXLt33z",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-scheduling-coordinator-entry-level-at-professional-travel-group-hub-4470918556%3FrefId%3D3Dx9dqsO2Cuqz3sgmJPTBQ%253D%253D%26trackingId%3DYdmwJm9%252BA005MTbz%252FwpKWw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3zXns1kWFZFS269uGJUShz",
@@ -971,7 +1041,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-scheduling-coordinator-entry-level-at-professional-travel-group-hub-4470918556%3FrefId%3D3Dx9dqsO2Cuqz3sgmJPTBQ%253D%253D%26trackingId%3DYdmwJm9%252BA005MTbz%252FwpKWw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3zXns1kWFZFS269uGJUShz",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-full-stack-developer-remote-%25E2%2580%2593-%25C2%25A335-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4471450210&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2hmzNzp3DwlxKhObQczjHw",
@@ -108378,10 +108448,10 @@
       "is_new": false
     }
   ],
-  "count": 3233,
+  "count": 3235,
   "keepers": 480,
-  "fresh": 2658,
-  "new_today": 28,
+  "fresh": 2660,
+  "new_today": 2,
   "apply_now": 55,
   "apply": 49,
   "consider": 46,
