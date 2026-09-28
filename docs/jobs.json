@@ -1,6 +1,42 @@
 {
-  "generated": "2026-09-27",
+  "generated": "2026-09-28",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-zurich-124736",
+      "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
+      "company": "databricks",
+      "location": "Zürich",
+      "link": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-zurich-124736",
+      "score": 15,
+      "reason": "The role is located in Zurich, Switzerland, which is outside the candidate's acceptable geographic scope, and the seniority level is 'Sr.' which is likely too high for an early-career developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-28",
+      "source": "Arbeitnow",
+      "summary": "This role requires on-site presence in Zurich, Switzerland, which is not feasible for the candidate. The 'Sr.' designation also suggests a seniority level beyond the candidate's current career stage.",
+      "date_posted": "1790564115",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in Zurich, Switzerland, and the candidate cannot relocate. The role also implies a need for EU work authorization which is explicitly rejected.",
+      "geographic_scope": "OTHER",
+      "remote_type": "ONSITE",
+      "seniority": "SENIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic location",
+        "Seniority level"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-zurich-124736",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/full-stack-engineer-new-grad-at-jobright-ai-4471042534&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2GCgw5L-jdbqBgGt29_6v9",
       "title": "Full Stack Engineer, New Grad",
@@ -32,7 +68,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/full-stack-engineer-new-grad-at-jobright-ai-4471042534&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2GCgw5L-jdbqBgGt29_6v9",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/swissborg/remote-software-engineer-proprxyz-244322",
@@ -67,7 +103,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/swissborg/remote-software-engineer-proprxyz-244322",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/software-engineer-applied-ai-london-135817",
@@ -100,7 +136,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/software-engineer-applied-ai-london-135817",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-german-switzerland-remote-bern-398140",
@@ -135,7 +171,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-german-switzerland-remote-bern-398140",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-251673",
@@ -168,7 +204,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-251673",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/wingtra-2/junior-software-engineer-gtm-products-zurich-134427",
@@ -203,7 +239,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/wingtra-2/junior-software-engineer-gtm-products-zurich-134427",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/trg/remote-junior-data-engineer-martech-specialist-mobile-apps-391953",
@@ -239,7 +275,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/trg/remote-junior-data-engineer-martech-specialist-mobile-apps-391953",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/applied-ml-engineer-switzerland-194961",
@@ -274,7 +310,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/jobgether/applied-ml-engineer-switzerland-194961",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-cybersecurity-network-security-soc-linux-remote-at-crossing-infotech-4470399372&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw29c1g9_hzKVyqRCZ41KPBG",
@@ -310,7 +346,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-cybersecurity-network-security-soc-linux-remote-at-crossing-infotech-4470399372&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw29c1g9_hzKVyqRCZ41KPBG",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-network-security-ethical-hacking-linux-security-tools-remote-at-skillzenloop-4470555029&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1W-IOvOzBgHxg_XbKOwMWi",
@@ -345,7 +381,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-network-security-ethical-hacking-linux-security-tools-remote-at-skillzenloop-4470555029&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1W-IOvOzBgHxg_XbKOwMWi",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/fullstack-engineer-consumer-order-experience-london-441457",
@@ -380,7 +416,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/fullstack-engineer-consumer-order-experience-london-441457",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/electrical-engineer-ii-integrations-manchester-260447",
@@ -416,7 +452,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/electrical-engineer-ii-integrations-manchester-260447",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/welectron/werkstudentin-fullstack-developer-erp-prozessautomatisierung-karlsruhe-343268",
@@ -452,7 +488,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/welectron/werkstudentin-fullstack-developer-erp-prozessautomatisierung-karlsruhe-343268",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/email-chat-process-intern-entry-level-fresher-customer-support-email-chat-remote-at-skillzenloop-4470589207&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0nhcaUBwDNPnEthj15LLMq",
@@ -487,7 +523,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/email-chat-process-intern-entry-level-fresher-customer-support-email-chat-remote-at-skillzenloop-4470589207&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0nhcaUBwDNPnEthj15LLMq",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/blenheimchalcot/graduate-scale-space-london-235005",
@@ -520,7 +556,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/blenheimchalcot/graduate-scale-space-london-235005",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/agora-io/jobs/customer-success-engineer_cdmx",
@@ -553,7 +589,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/agora-io/jobs/customer-success-engineer_cdmx",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-experience-producer-entry-level-globe-life-ail-at-bebee-inc-4471071596&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1zCzvVkuw0-zAUx2Uv3BBz",
@@ -589,7 +625,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-experience-producer-entry-level-globe-life-ail-at-bebee-inc-4471071596&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1zCzvVkuw0-zAUx2Uv3BBz",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-urgent-opening-360-hiring-entry-level-mid-level-and-sr-level-qa-automation-testers-business-an-at-bebee-inc-4471084262&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0KjKmWoBzOWTD9I6banT2T",
@@ -624,7 +660,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-urgent-opening-360-hiring-entry-level-mid-level-and-sr-level-qa-automation-testers-business-an-at-bebee-inc-4471084262&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0KjKmWoBzOWTD9I6banT2T",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/lab-technician-intern-entry-level-fresher-medical-laboratory-lab-operations-healthcare-remote-at-crossing-infotech-4470712030&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3RvIIJjwisMxzl5OUX_b1L",
@@ -660,7 +696,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/lab-technician-intern-entry-level-fresher-medical-laboratory-lab-operations-healthcare-remote-at-crossing-infotech-4470712030&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3RvIIJjwisMxzl5OUX_b1L",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/medical-billing-intern-entry-level-fresher-medical-billing-healthcare-claims-revenue-cycle-remote-at-crossing-infotech-4470700403&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0tVOS4GIBeVdQ_i0ARmN7e",
@@ -696,7 +732,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/medical-billing-intern-entry-level-fresher-medical-billing-healthcare-claims-revenue-cycle-remote-at-crossing-infotech-4470700403&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0tVOS4GIBeVdQ_i0ARmN7e",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-optimization-analyst-%25E2%2580%2593-entry-level-at-platinum-people-hr-4472245417&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3cnBQxzxNxrHbTGeuDRxBa",
@@ -731,7 +767,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-optimization-analyst-%25E2%2580%2593-entry-level-at-platinum-people-hr-4472245417&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3cnBQxzxNxrHbTGeuDRxBa",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/customer-service-email-process-intern-entry-level-fresher-customer-support-email-communication-remote-at-skillzenloop-4470578460&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw293dZ3eiTbIqpQrUGAYAzs",
@@ -764,7 +800,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/customer-service-email-process-intern-entry-level-fresher-customer-support-email-communication-remote-at-skillzenloop-4470578460&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw293dZ3eiTbIqpQrUGAYAzs",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/blenheimchalcot/graduate-babyzone-london-73569",
@@ -797,7 +833,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/blenheimchalcot/graduate-babyzone-london-73569",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/zefir/sales-graduate-program-sdr-aec-paris-17533",
@@ -833,7 +869,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/zefir/sales-graduate-program-sdr-aec-paris-17533",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/account-mis-executive-intern-entry-level-fresher-excel-mis-reporting-accounts-remote-at-crossing-infotech-4470394676&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw37Dz7cPWQGDFx4grE7xdxE",
@@ -869,7 +905,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/account-mis-executive-intern-entry-level-fresher-excel-mis-reporting-accounts-remote-at-crossing-infotech-4470394676&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw37Dz7cPWQGDFx4grE7xdxE",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-coordinator-entry-level-at-torentify-4472413980&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw28JzDQTbvBxFOgYr_Sajlr",
@@ -905,7 +941,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-coordinator-entry-level-at-torentify-4472413980&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw28JzDQTbvBxFOgYr_Sajlr",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/generative-ai-engineer-entry-level-at-jobright-ai-4470327250&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw2owtm2ufBX4MeWQPSs_tmW",
@@ -109284,10 +109320,10 @@
       "is_new": false
     }
   ],
-  "count": 3259,
+  "count": 3260,
   "keepers": 481,
-  "fresh": 2684,
-  "new_today": 26,
+  "fresh": 2685,
+  "new_today": 1,
   "apply_now": 56,
   "apply": 49,
   "consider": 46,
