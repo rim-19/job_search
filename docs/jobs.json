@@ -1,6 +1,39 @@
 {
-  "generated": "2026-09-28",
+  "generated": "2026-09-29",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-automation-engineer-berlin-404452",
+      "title": "AI & Automation Engineer (m/w/d)",
+      "company": "Yoursquares",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-automation-engineer-berlin-404452",
+      "score": 15,
+      "reason": "The role is located in Berlin, Germany, which is not within the candidate's acceptable geographic scope, and the role is onsite.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-29",
+      "source": "Arbeitnow",
+      "summary": "This is an AI & Automation Engineer role based in Berlin, Germany. The responsibilities include developing software solutions, building APIs, and automating processes. The tech stack involves JavaScript/TypeScript, React, Next.js, Node.js, Python, and Supabase.",
+      "date_posted": "1790626197",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Berlin, Germany, which requires EU work authorization and is outside the candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "EARLY_CAREER",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-automation-engineer-berlin-404452",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/paddy/ai-product-engineer-bielefeld-8892",
       "title": "AI Product Engineer",
@@ -32,7 +65,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/paddy/ai-product-engineer-bielefeld-8892",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/modulist-gmbh/automatisierungsingenieur-berlin-85372",
@@ -65,7 +98,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/modulist-gmbh/automatisierungsingenieur-berlin-85372",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/web-developer-intern-entry-level-fresher-html-css-javascript-git-remote-at-skillzenloop-4470824695&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1jkYrIzuayBX598Chv9DlG",
@@ -98,7 +131,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/web-developer-intern-entry-level-fresher-html-css-javascript-git-remote-at-skillzenloop-4470824695&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1jkYrIzuayBX598Chv9DlG",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-people-domain-paris-paris-12733",
@@ -133,7 +166,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-people-domain-paris-paris-12733",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/inato/remote-product-engineer-119171",
@@ -168,7 +201,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/inato/remote-product-engineer-119171",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-delegaci%25C3%25B3n-del-gobierno-de-la-junta-de-andaluc%25C3%25ADa-en-sevilla-4472489340&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Facn2a1kygOchyb6hIvO1",
@@ -203,7 +236,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-delegaci%25C3%25B3n-del-gobierno-de-la-junta-de-andaluc%25C3%25ADa-en-sevilla-4472489340&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Facn2a1kygOchyb6hIvO1",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-27322",
@@ -238,7 +271,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-27322",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/insignion-management-consulting-gmbh/sap-junior-full-stack-developer-sap-hcm-sap-successfactors-sap-btp-frankfurt-am-main-1538",
@@ -271,7 +304,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/insignion-management-consulting-gmbh/sap-junior-full-stack-developer-sap-hcm-sap-successfactors-sap-btp-frankfurt-am-main-1538",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-410879",
@@ -304,7 +337,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-410879",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-zurich-124736",
@@ -340,7 +373,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-zurich-124736",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/business-analyst-intern-entry-level-fresher-excel-sql-business-analysis-reporting-remote-at-base-career-4470808349&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2jn4lWENpVlllzmFYqnPy2",
@@ -375,7 +408,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/business-analyst-intern-entry-level-fresher-excel-sql-business-analysis-reporting-remote-at-base-career-4470808349&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2jn4lWENpVlllzmFYqnPy2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/1komma50/internship-product-management-energy-products-tariffs-berlin-219539",
@@ -408,7 +441,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/1komma50/internship-product-management-energy-products-tariffs-berlin-219539",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-harness-engineer-uk-267638",
@@ -441,7 +474,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-harness-engineer-uk-267638",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/engineering-intern-traineeship-zurich-149056",
@@ -476,7 +509,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/engineering-intern-traineeship-zurich-149056",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/technical-recruiter-gn-schwerpunkt-softwareentwicklung-berlin-197645",
@@ -511,7 +544,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/technical-recruiter-gn-schwerpunkt-softwareentwicklung-berlin-197645",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-develope-entry-level-junior-at-lt-foods-middle-east-4470873103&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3kHBd5hvRJ3vRWToxnzjGH",
@@ -546,7 +579,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-develope-entry-level-junior-at-lt-foods-middle-east-4470873103&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3kHBd5hvRJ3vRWToxnzjGH",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/ai-trainer-entry-level-at-jobright-ai-4471092546&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3hp9ftQsxqbYKfql69G7aV",
@@ -582,7 +615,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/ai-trainer-entry-level-at-jobright-ai-4471092546&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3hp9ftQsxqbYKfql69G7aV",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/business-analyst-entry-level-at-torentify-4472460329&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2LBO-Sl3NH8cn5KQu_QVhb",
@@ -618,7 +651,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/business-analyst-entry-level-at-torentify-4472460329&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2LBO-Sl3NH8cn5KQu_QVhb",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-travel-advisor-%25E2%2580%2594-remote-at-isaiah-newport-travel-4472717510&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2zkUdOEem8QgmyDuMntvwB",
@@ -654,7 +687,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-travel-advisor-%25E2%2580%2594-remote-at-isaiah-newport-travel-4472717510&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2zkUdOEem8QgmyDuMntvwB",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/student-success-coordinator-remote-%25E2%2580%2593-%25C2%25A330-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4472490409&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3SoUcFbuEzCX8c63TdO_Cb",
@@ -689,7 +722,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/student-success-coordinator-remote-%25E2%2580%2593-%25C2%25A330-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4472490409&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3SoUcFbuEzCX8c63TdO_Cb",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/customer-service-representative-entry-level-at-jobright-ai-4471315039&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3FUju9bghJ4ilXs5uCqtXf",
@@ -725,7 +758,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/customer-service-representative-entry-level-at-jobright-ai-4471315039&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3FUju9bghJ4ilXs5uCqtXf",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/compliance-analyst-entry-level-at-jobright-ai-4471092936&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0IB0vU8EYaoTiXXcsOWw1S",
@@ -761,7 +794,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/compliance-analyst-entry-level-at-jobright-ai-4471092936&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0IB0vU8EYaoTiXXcsOWw1S",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/full-stack-engineer-new-grad-at-jobright-ai-4471042534&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2GCgw5L-jdbqBgGt29_6v9",
@@ -110046,10 +110079,10 @@
       "is_new": false
     }
   ],
-  "count": 3281,
+  "count": 3282,
   "keepers": 484,
-  "fresh": 2706,
-  "new_today": 22,
+  "fresh": 2707,
+  "new_today": 1,
   "apply_now": 57,
   "apply": 50,
   "consider": 47,
