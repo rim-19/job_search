@@ -1,6 +1,39 @@
 {
-  "generated": "2026-09-29",
+  "generated": "2026-09-30",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/safety-engineer-free-tier-abuse-united-kingdom-492014",
+      "title": "Safety Engineer - Free Tier Abuse",
+      "company": "Elevenlabs",
+      "location": "United Kingdom",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/safety-engineer-free-tier-abuse-united-kingdom-492014",
+      "score": 10,
+      "reason": "The candidate is not eligible due to geographic restrictions and likely work authorization requirements for the United Kingdom.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-09-30",
+      "source": "Arbeitnow",
+      "summary": "This role is in the United Kingdom, which is outside the candidate's geographic eligibility. The candidate is based in Morocco and cannot relocate or work in the UK without specific authorization.",
+      "date_posted": "1790728808",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Job is located in the United Kingdom and likely requires UK work authorization, which the candidate does not possess.",
+      "geographic_scope": "UK_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/safety-engineer-free-tier-abuse-united-kingdom-492014",
+      "is_new": true
+    },
     {
       "url": "https://himalayas.app/companies/micro1/jobs/open-source-contributor-github",
       "title": "Open Source Contributor (GitHub)",
@@ -32,7 +65,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://himalayas.app/companies/micro1/jobs/open-source-contributor-github",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/micro1/jobs/cyber-security-engineer",
@@ -68,7 +101,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/micro1/jobs/cyber-security-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/zefir/founder-associate-internship-paris-322282",
@@ -101,7 +134,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/zefir/founder-associate-internship-paris-322282",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/share/remote-network-operation-engineer-282287",
@@ -137,7 +170,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/share/remote-network-operation-engineer-282287",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/gardacp/software-engineer-intern-ai-internal-tools-geneva-geneva-zug-zug-95006",
@@ -172,7 +205,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/gardacp/software-engineer-intern-ai-internal-tools-geneva-geneva-zug-zug-95006",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/1komma50/working-student-software-engineering-hamburg-437948",
@@ -205,7 +238,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/1komma50/working-student-software-engineering-hamburg-437948",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/innocraft/full-stack-product-engineer-100-remote-germany-uk-ireland-berlin-280945",
@@ -240,7 +273,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/innocraft/full-stack-product-engineer-100-remote-germany-uk-ireland-berlin-280945",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-sre-foundation-squad-paris-334619",
@@ -273,7 +306,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-sre-foundation-squad-paris-334619",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/fastrocket-gmbh/web-entwickler-wordpress-php-hosting-in-teilzeit-regen-164909",
@@ -310,7 +343,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/fastrocket-gmbh/web-entwickler-wordpress-php-hosting-in-teilzeit-regen-164909",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/maxana/jobs/frontend-developer",
@@ -343,7 +376,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/maxana/jobs/frontend-developer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-automation-engineer-berlin-404452",
@@ -376,7 +409,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-automation-engineer-berlin-404452",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/vulncheck/software-engineer-rapid-response-assignment-uk-cheltenham-437463",
@@ -412,7 +445,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/vulncheck/software-engineer-rapid-response-assignment-uk-cheltenham-437463",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-geospatial-remote-sensing-analyst-at-dewberry-4471573411&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1F0CM6J3EmkvTyTWgjlU_0",
@@ -448,7 +481,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-geospatial-remote-sensing-analyst-at-dewberry-4471573411&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1F0CM6J3EmkvTyTWgjlU_0",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-441888",
@@ -484,7 +517,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-441888",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-software-engineer-at-actalent-4473255766&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0kEPijuM8oF5nx5qNSRzTp",
@@ -519,7 +552,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-software-engineer-at-actalent-4473255766&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0kEPijuM8oF5nx5qNSRzTp",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-support-specialist-training-provided-at-the-elmer-agency-4471521096&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1-vwRFgD-51aMpUCcYa5EQ",
@@ -554,7 +587,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-support-specialist-training-provided-at-the-elmer-agency-4471521096&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1-vwRFgD-51aMpUCcYa5EQ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-entry-level-at-torentify-4473098316&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1cJcjejjDhDWdigaMm11B_",
@@ -587,7 +620,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-entry-level-at-torentify-4473098316&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1cJcjejjDhDWdigaMm11B_",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154210-sr-software-engineer-backend",
@@ -623,7 +656,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154210-sr-software-engineer-backend",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/clipboard/operations-strategy-associate-london-112279",
@@ -659,7 +692,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/clipboard/operations-strategy-associate-london-112279",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-guidance-navigation-and-control-gnc-engineer-at-boeing-4471757205&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw39jvXYtUl3pf12EOfMvOS8",
@@ -695,7 +728,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-guidance-navigation-and-control-gnc-engineer-at-boeing-4471757205&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw39jvXYtUl3pf12EOfMvOS8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-benefits-sales-specialist-%25E2%2580%2593-remote-at-miller-family-agency-4471730849&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1hmjXHlrzuosU9lKXxxwOk",
@@ -730,7 +763,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-benefits-sales-specialist-%25E2%2580%2593-remote-at-miller-family-agency-4471730849&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1hmjXHlrzuosU9lKXxxwOk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesperson-no-experience-needed-will-train-at-anderson-agency-llc-4473227516&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1o6x99d7uhQMm-OCdQLJla",
@@ -765,7 +798,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesperson-no-experience-needed-will-train-at-anderson-agency-llc-4473227516&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1o6x99d7uhQMm-OCdQLJla",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-associate-attorney-remote-at-ternium-revenue-cycle-management-4471911619&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0JdT7fE5i52PEnJFhPUese",
@@ -800,7 +833,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-associate-attorney-remote-at-ternium-revenue-cycle-management-4471911619&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0JdT7fE5i52PEnJFhPUese",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/paddy/ai-product-engineer-bielefeld-8892",
@@ -110847,10 +110880,10 @@
       "is_new": false
     }
   ],
-  "count": 3304,
+  "count": 3305,
   "keepers": 486,
-  "fresh": 2729,
-  "new_today": 23,
+  "fresh": 2730,
+  "new_today": 1,
   "apply_now": 58,
   "apply": 50,
   "consider": 48,
