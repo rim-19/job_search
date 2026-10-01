@@ -1,6 +1,39 @@
 {
-  "generated": "2026-09-30",
+  "generated": "2026-10-01",
   "jobs": [
+    {
+      "url": "https://himalayas.app/companies/veilant/jobs/software-engineer-front-end",
+      "title": "Software Engineer (Front End)",
+      "company": "Veilant",
+      "location": "United States",
+      "link": "https://himalayas.app/companies/veilant/jobs/software-engineer-front-end",
+      "score": 15,
+      "reason": "The job is located in the United States, which is outside the candidate's geographic eligibility. The candidate cannot relocate from Morocco.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-01",
+      "source": "Himalayas",
+      "summary": "This role is for a Software Engineer specializing in frontend development in the United States. The candidate is based in Morocco and cannot relocate, making them geographically ineligible for this position.",
+      "date_posted": "1790827190",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is United States, candidate is based in Morocco and cannot relocate.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "UNKNOWN",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://himalayas.app/companies/veilant/jobs/software-engineer-front-end",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/sc-media-house/werkstudent-full-stack-entwicklung-munich-196366",
       "title": "Werkstudent Full-Stack Entwicklung (m/w/d)",
@@ -32,7 +65,7 @@
       "gaps": [],
       "recommended_project": "Cupid",
       "application_url": "https://www.arbeitnow.com/jobs/companies/sc-media-house/werkstudent-full-stack-entwicklung-munich-196366",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-86525",
@@ -65,7 +98,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-86525",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-407864",
@@ -98,7 +131,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-407864",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/portalp/ingenieur-logiciel-full-stacks-iot-h-f-saint-egreve-84270",
@@ -131,7 +164,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/portalp/ingenieur-logiciel-full-stacks-iot-h-f-saint-egreve-84270",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-328003",
@@ -167,7 +200,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-328003",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/predium/associate-data-scientist-munich-6908",
@@ -202,7 +235,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/predium/associate-data-scientist-munich-6908",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/resilience-care/remote-data-reliability-engineer-481695",
@@ -235,7 +268,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/resilience-care/remote-data-reliability-engineer-481695",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/avepoint/forward-deployed-engineer-ai-munich-135948",
@@ -271,7 +304,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/avepoint/forward-deployed-engineer-ai-munich-135948",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/share/remote-network-operation-engineer-411432",
@@ -307,7 +340,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/share/remote-network-operation-engineer-411432",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/java-developer-intern-core-java-entry-level-remote-freshers-welcome-at-skillzenloop-4472621288&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2yQxizP6eNXSabTn790wYD",
@@ -342,7 +375,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/java-developer-intern-core-java-entry-level-remote-freshers-welcome-at-skillzenloop-4472621288&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2yQxizP6eNXSabTn790wYD",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/unaice-gmbh/junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-140541",
@@ -377,7 +410,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/unaice-gmbh/junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-140541",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-remote-freshers-welcome-at-skillzenloop-4472617195&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2vufkNAZayIPbkyY1QKees",
@@ -412,7 +445,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-remote-freshers-welcome-at-skillzenloop-4472617195&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2vufkNAZayIPbkyY1QKees",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8007085003",
@@ -445,7 +478,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8007085003",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/omnora-gmbh/founding-ai-engineer-frankfurt-am-main-227832",
@@ -481,7 +514,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/omnora-gmbh/founding-ai-engineer-frankfurt-am-main-227832",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/klaviyo/software-engineer-ii-sms-international-london-294516",
@@ -514,7 +547,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/klaviyo/software-engineer-ii-sms-international-london-294516",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-specialist-at-nova-401-k-associates-4470623114&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Y16mM5IfCtKDV1pEdbTm4",
@@ -550,7 +583,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-specialist-at-nova-401-k-associates-4470623114&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Y16mM5IfCtKDV1pEdbTm4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-cj-tool-mouldings-ltd-4471956336&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw07D0iD6vcgWG6o_c7oqEtf",
@@ -585,7 +618,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-cj-tool-mouldings-ltd-4471956336&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw07D0iD6vcgWG6o_c7oqEtf",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/sql-developer-intern-database-sql-entry-level-remote-freshers-welcome-at-skillzenloop-4471755152&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0WzgH7qiwHVSMO46zdeaj2",
@@ -621,7 +654,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/sql-developer-intern-database-sql-entry-level-remote-freshers-welcome-at-skillzenloop-4471755152&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0WzgH7qiwHVSMO46zdeaj2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/liloplus/mid-sr-app-developer-im-startup-hamburg-255158",
@@ -657,7 +690,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/liloplus/mid-sr-app-developer-im-startup-hamburg-255158",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-analyst-entry-level-%25E2%2580%2594-remote-position-at-torentify-4473714732&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1_eZ5Yp5E02Sp-yLfOSfVX",
@@ -693,7 +726,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-analyst-entry-level-%25E2%2580%2594-remote-position-at-torentify-4473714732&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1_eZ5Yp5E02Sp-yLfOSfVX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/safety-engineer-free-tier-abuse-united-kingdom-492014",
@@ -726,7 +759,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/safety-engineer-free-tier-abuse-united-kingdom-492014",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/lemvos-gmbh/internship-project-engineering-autonomous-boats-unmanned-systems-augsburg-229134",
@@ -762,7 +795,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/lemvos-gmbh/internship-project-engineering-autonomous-boats-unmanned-systems-augsburg-229134",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154291-chief-technology-officer-4",
@@ -798,7 +831,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154291-chief-technology-officer-4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-on-brands-4472170646&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw31D2E3JW2ThIX-vD1Xq-61",
@@ -834,7 +867,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-on-brands-4472170646&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw31D2E3JW2ThIX-vD1Xq-61",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-associate-entry-level-at-torentify-4473735085&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0VF_QzSwlLIbBENCzXOlj8",
@@ -870,7 +903,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-associate-entry-level-at-torentify-4473735085&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0VF_QzSwlLIbBENCzXOlj8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-rep-remote-work-at-executiveplacements-com-4471797833&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0gGvN_dyok1x2ExcF1APQ6",
@@ -905,7 +938,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-rep-remote-work-at-executiveplacements-com-4471797833&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0gGvN_dyok1x2ExcF1APQ6",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesperson-fully-remote-at-summit-sky-consulting-4459750209&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0HiJ64N34LRRS37FB3U73f",
@@ -940,7 +973,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesperson-fully-remote-at-summit-sky-consulting-4459750209&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0HiJ64N34LRRS37FB3U73f",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-rehabilitation-entry-level-finance-at-precision-financials-4472177933&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw392c_54Gurm_x7kMHfTDNt",
@@ -973,7 +1006,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-rehabilitation-entry-level-finance-at-precision-financials-4472177933&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw392c_54Gurm_x7kMHfTDNt",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/micro1/jobs/open-source-contributor-github",
@@ -111821,10 +111854,10 @@
       "is_new": false
     }
   ],
-  "count": 3332,
+  "count": 3333,
   "keepers": 489,
-  "fresh": 2757,
-  "new_today": 28,
+  "fresh": 2758,
+  "new_today": 1,
   "apply_now": 58,
   "apply": 51,
   "consider": 50,
