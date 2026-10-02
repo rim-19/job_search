@@ -1,6 +1,72 @@
 {
-  "generated": "2026-10-01",
+  "generated": "2026-10-02",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-django-rest-api-remote-at-medinex-workforce-4472549454&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1_FZzGBoQhIULEcKJhnsNL",
+      "title": "Python Developer Intern | Entry Level | Fresher | Python, Django, REST API / Remote",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-django-rest-api-remote-at-medinex-workforce-4472549454&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1_FZzGBoQhIULEcKJhnsNL",
+      "score": 65,
+      "reason": "This is an entry-level Python Developer Intern role with a remote option, fitting the candidate's desire for junior/entry-level positions. While the primary focus is Python/Django, the candidate has Python experience and the role is remote, making it a viable consideration.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-02",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level remote Python Developer Intern position. The role is suitable for freshers and focuses on Python, Django, and REST APIs, aligning with the candidate's interest in junior developer roles.",
+      "date_posted": "2026-10-01T13:51:01Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "priority": "CONSIDER",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate is open to remote roles worldwide and meets the technical requirements.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-django-rest-api-remote-at-medinex-workforce-4472549454&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1_FZzGBoQhIULEcKJhnsNL",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-paris-331624",
+      "title": "STAGE - Junior Fullstack Engineer",
+      "company": "Doctrine",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-paris-331624",
+      "score": 30,
+      "reason": "The internship is located in Paris, France, which is not within the candidate's acceptable geographic scope and would likely require EU work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-02",
+      "source": "Arbeitnow",
+      "summary": "This is an internship role at Doctrine, focused on the internationalization of a legal document submission feature. The primary tasks involve developing a minimal application for this purpose.",
+      "date_posted": "1790903092",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Paris, France, which requires EU work authorization and is outside the candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-paris-331624",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-ai-ml-entry-level-remote-freshers-welcome-at-skillzenloop-4472613577&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Aol4WhQ4P2MohBl_fy98b",
       "title": "Machine Learning Intern | AI/ML | Entry-Level | Remote | Freshers Welcome - LinkedIn",
@@ -32,7 +98,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-ai-ml-entry-level-remote-freshers-welcome-at-skillzenloop-4472613577&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Aol4WhQ4P2MohBl_fy98b",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-software-engineer-2027-start-454960",
@@ -65,7 +131,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-software-engineer-2027-start-454960",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/front-end-developer-intern-entry-level-remote-freshers-welcome-at-skillzenloop-4472616254&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw14BMVv6KBmya2YU2gWbr7J",
@@ -100,7 +166,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/front-end-developer-intern-entry-level-remote-freshers-welcome-at-skillzenloop-4472616254&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw14BMVv6KBmya2YU2gWbr7J",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/omilia-natural-language-solutions-ua-ltd/remote-conversational-ai-application-developer-english-and-french-speaker-france-410860",
@@ -136,7 +202,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/omilia-natural-language-solutions-ua-ltd/remote-conversational-ai-application-developer-english-and-french-speaker-france-410860",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/html-css-developer-intern-entry-level-remote-freshers-welcome-at-skillzenloop-4472618216&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2TwJkWG-ZtbRUqJ4rHmIOA",
@@ -171,7 +237,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/html-css-developer-intern-entry-level-remote-freshers-welcome-at-skillzenloop-4472618216&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2TwJkWG-ZtbRUqJ4rHmIOA",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/nerdware/ai-engineer-nurnberg-7431",
@@ -206,7 +272,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/nerdware/ai-engineer-nurnberg-7431",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8620720002",
@@ -242,7 +308,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/gitlab/jobs/8620720002",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002",
@@ -277,7 +343,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-bordeaux-188781",
@@ -310,7 +376,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-bordeaux-188781",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/mijuwi-gmbh/ai-content-creator-e-commerce-brand-designer-mwd-hamburg-324292",
@@ -346,7 +412,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/mijuwi-gmbh/ai-content-creator-e-commerce-brand-designer-mwd-hamburg-324292",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-paris-183656",
@@ -379,7 +445,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-paris-183656",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/veilant/jobs/software-engineer-front-end",
@@ -412,7 +478,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/veilant/jobs/software-engineer-front-end",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154333-software-engineer-platform-engineering",
@@ -445,7 +511,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154333-software-engineer-platform-engineering",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-analyst-intern-entry-level-remote-freshers-welcome-at-skillzenloop-4471747404&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2VWd-k4Dv3k2GehkmHpdBT",
@@ -480,7 +546,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-analyst-intern-entry-level-remote-freshers-welcome-at-skillzenloop-4471747404&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2VWd-k4Dv3k2GehkmHpdBT",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-network-security-vulnerability-assessment-information-security-remote-at-medinex-workforce-4472542583&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0HGw1TLatId2z6iEG3jqjU",
@@ -515,7 +581,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-network-security-vulnerability-assessment-information-security-remote-at-medinex-workforce-4472542583&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0HGw1TLatId2z6iEG3jqjU",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-technology-strategy-consultant-telecommunications-2027-start-363357",
@@ -551,7 +617,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-technology-strategy-consultant-telecommunications-2027-start-363357",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/hr-administrator-remote-%25E2%2580%2593-%25C2%25A331-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4473719817&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0c31furDkjHmRhJTrbe-co",
@@ -584,7 +650,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/hr-administrator-remote-%25E2%2580%2593-%25C2%25A331-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4473719817&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0c31furDkjHmRhJTrbe-co",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-life-insurance-agent-at-the-weiner-group-4471938159&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3_KZQaKRqz2WTfktbo77-j",
@@ -617,7 +683,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-life-insurance-agent-at-the-weiner-group-4471938159&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3_KZQaKRqz2WTfktbo77-j",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-salesperson-entry-level-at-anderson-agency-llc-4473757681&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2H2ukRNaZbeo-RcDyhveYv",
@@ -652,7 +718,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-salesperson-entry-level-at-anderson-agency-llc-4473757681&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2H2ukRNaZbeo-RcDyhveYv",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-associate-entry-level-wfh-at-torentify-4474309079&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0kF_Q_gryYEWFbcrI5ApD3",
@@ -688,7 +754,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-associate-entry-level-wfh-at-torentify-4474309079&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0kF_Q_gryYEWFbcrI5ApD3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/sc-media-house/werkstudent-full-stack-entwicklung-munich-196366",
@@ -112510,13 +112576,13 @@
       "is_new": false
     }
   ],
-  "count": 3352,
-  "keepers": 493,
-  "fresh": 2777,
-  "new_today": 20,
+  "count": 3354,
+  "keepers": 494,
+  "fresh": 2779,
+  "new_today": 2,
   "apply_now": 59,
   "apply": 52,
-  "consider": 53,
+  "consider": 54,
   "morocco": 23,
-  "eligible": 160
+  "eligible": 161
 }
