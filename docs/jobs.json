@@ -1,6 +1,77 @@
 {
-  "generated": "2026-10-02",
+  "generated": "2026-10-03",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-57480",
+      "title": "Software Engineering Intern (2027 Start) - Berlin",
+      "company": "databricks",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-57480",
+      "score": 15,
+      "reason": "The role is an internship in Berlin, Germany, which requires work authorization and is not aligned with the candidate's geographic constraints and relocation limitations.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-03",
+      "source": "Arbeitnow",
+      "summary": "This is an internship role at Databricks located in Berlin, Germany. The candidate is based in Morocco and cannot relocate or obtain work authorization in Germany, making them ineligible.",
+      "date_posted": "1790985303",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Requires work authorization in Germany/EU, which the candidate does not possess.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility (Berlin, Germany)",
+        "Work authorization requirement"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-57480",
+      "is_new": true
+    },
+    {
+      "url": "https://himalayas.app/companies/internshiphub/jobs/full-stack-web-developer-intern",
+      "title": "Full Stack Web Developer Intern",
+      "company": "Internshiphub",
+      "location": "United States",
+      "link": "https://himalayas.app/companies/internshiphub/jobs/full-stack-web-developer-intern",
+      "score": 10,
+      "reason": "The job is located in the United States, which is outside the candidate's geographic eligibility.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-03",
+      "source": "Himalayas",
+      "summary": "This is an internship role for a Full Stack Web Developer. The candidate is not eligible due to the location requirement.",
+      "date_posted": "1790995412",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is in the United States, which is not permitted.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "UNKNOWN",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://himalayas.app/companies/internshiphub/jobs/full-stack-web-developer-intern",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-371659",
       "title": "Backend Engineer - Agentic AI (m/w/d)",
@@ -32,7 +103,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-371659",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-ai-product-engineer-berlin-20956",
@@ -65,7 +136,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-ai-product-engineer-berlin-20956",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154401-automation-engineer-customer-service",
@@ -101,7 +172,7 @@
       ],
       "recommended_project": "HR-Genius",
       "application_url": "https://jobicy.com/jobs/154401-automation-engineer-customer-service",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-django-rest-api-remote-at-medinex-workforce-4472549454&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1_FZzGBoQhIULEcKJhnsNL",
@@ -134,7 +205,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-django-rest-api-remote-at-medinex-workforce-4472549454&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1_FZzGBoQhIULEcKJhnsNL",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/ema/ai-resident-uk-emea-london-102721",
@@ -169,7 +240,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/ema/ai-resident-uk-emea-london-102721",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/alphaprompt/forward-deployed-engineer-munich-175201",
@@ -205,7 +276,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/alphaprompt/forward-deployed-engineer-munich-175201",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/ai-system-engineer-f-h-paris-29772",
@@ -238,7 +309,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/ai-system-engineer-f-h-paris-29772",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/agentur-fur-haushaltshilfe-gmbh/software-developer-webapp-pwa-neuss-296628",
@@ -273,7 +344,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/agentur-fur-haushaltshilfe-gmbh/software-developer-webapp-pwa-neuss-296628",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154397-ai-science-writer-nebius-academy-contract",
@@ -309,7 +380,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154397-ai-science-writer-nebius-academy-contract",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-paris-331624",
@@ -342,7 +413,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-paris-331624",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/agrob-buchtal-solar-ceramics-gmbh/web-developer-schwarzenfeld-404901",
@@ -375,7 +446,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/agrob-buchtal-solar-ceramics-gmbh/web-developer-schwarzenfeld-404901",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-ruby-ai-engineering-agent-foundations-385876",
@@ -410,7 +481,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-ruby-ai-engineering-agent-foundations-385876",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-apprentice-paris-341857",
@@ -443,7 +514,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-apprentice-paris-341857",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/silvernova-gmbh/fullstack-developer-frontend-ux-mobile-legal-ai-munich-163261",
@@ -476,7 +547,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/silvernova-gmbh/fullstack-developer-frontend-ux-mobile-legal-ai-munich-163261",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/ampeers-energy-gmbh/jobs/fullstack-ai-engineer-m-w-d",
@@ -513,7 +584,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/ampeers-energy-gmbh/jobs/fullstack-ai-engineer-m-w-d",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-analytics-intern-entry-level-fresher-excel-sql-power-bi-remote-at-medinex-workforce-4472557002&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2fzB0wCzLCgpifdnfXC-QY",
@@ -549,7 +620,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-analytics-intern-entry-level-fresher-excel-sql-power-bi-remote-at-medinex-workforce-4472557002&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2fzB0wCzLCgpifdnfXC-QY",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/resend/53d3710a-2d55-42ac-ba90-cdfd306bf560",
@@ -584,7 +655,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/resend/53d3710a-2d55-42ac-ba90-cdfd306bf560",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154378-marketing-technology-engineer",
@@ -617,7 +688,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154378-marketing-technology-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/the-hartford/jobs/intern-himco-business-operations",
@@ -653,7 +724,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/the-hartford/jobs/intern-himco-business-operations",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154386-colm-2026-intern",
@@ -688,7 +759,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154386-colm-2026-intern",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/sales-representative-remote-entry-level-with-trainings-at-max-spencer-company-4457972634&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1u_306Jbs8mFC4td0cV4H9",
@@ -724,7 +795,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/sales-representative-remote-entry-level-with-trainings-at-max-spencer-company-4457972634&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1u_306Jbs8mFC4td0cV4H9",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-operator-remote-at-torentify-4474759572&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2VctNsnE0NwkvW6WXmIomk",
@@ -760,7 +831,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-entry-operator-remote-at-torentify-4474759572&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2VctNsnE0NwkvW6WXmIomk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-outside-sales-trainee-at-the-reynolds-and-reynolds-company-4472877508&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3o2DzCfhw5XNBxnrK6d-Be",
@@ -796,7 +867,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-outside-sales-trainee-at-the-reynolds-and-reynolds-company-4472877508&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3o2DzCfhw5XNBxnrK6d-Be",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-ai-ml-entry-level-remote-freshers-welcome-at-skillzenloop-4472613577&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Aol4WhQ4P2MohBl_fy98b",
@@ -113307,10 +113378,10 @@
       "is_new": false
     }
   ],
-  "count": 3375,
+  "count": 3377,
   "keepers": 497,
-  "fresh": 2799,
-  "new_today": 23,
+  "fresh": 2801,
+  "new_today": 2,
   "apply_now": 60,
   "apply": 54,
   "consider": 54,
