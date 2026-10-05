@@ -1,6 +1,72 @@
 {
-  "generated": "2026-10-04",
+  "generated": "2026-10-05",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-141332",
+      "title": "Software Engineer: Full-Stack, Backend, Frontend (m/w/d)",
+      "company": "Prenode",
+      "location": "Karlsruhe",
+      "link": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-141332",
+      "score": 30,
+      "reason": "The candidate is geographically ineligible for this on-site role in Karlsruhe, Germany.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-05",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Software Engineer with a focus on Full-Stack, Backend, and Frontend development. It is based in Karlsruhe, Germany, and requires on-site presence. The company offers a dynamic environment with opportunities for growth and flexible working culture.",
+      "date_posted": "1791166154",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in Karlsruhe, Germany, and requires on-site presence, which is not feasible for the candidate.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-141332",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-140031",
+      "title": "Full Stack Product Developer (m/w/d)",
+      "company": "Tablemedia",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-140031",
+      "score": 25,
+      "reason": "The job is located in Berlin and requires on-site work, which is not feasible for the candidate who is based in Morocco and cannot relocate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-05",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Full Stack Product Developer in Berlin, requiring on-site presence. The candidate is based in Morocco and cannot relocate, making this position geographically ineligible.",
+      "date_posted": "1791166178",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is in Berlin, Germany, and requires on-site presence, which is outside the candidate's acceptable locations.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "EARLY_CAREER",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-140031",
+      "is_new": true
+    },
     {
       "url": "https://www.rekrute.com/offre-emploi-stagiaire-en-recrutement-fh-recrutement-sofrecom-maroc-casablanca-187046.html",
       "title": "Stagiaire En",
@@ -32,7 +98,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.rekrute.com/offre-emploi-stagiaire-en-recrutement-fh-recrutement-sofrecom-maroc-casablanca-187046.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/cognite/supply-chain-tech-center-of-excellence-121822",
@@ -67,7 +133,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/cognite/supply-chain-tech-center-of-excellence-121822",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
@@ -100,7 +166,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist",
@@ -135,7 +201,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/arkane-cloud/developpeur-full-stack-js-lyon-212212",
@@ -168,7 +234,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/arkane-cloud/developpeur-full-stack-js-lyon-212212",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-solo-clash-4473859737&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2hUxvd_iyKIoX_RPAfWvdc",
@@ -203,7 +269,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-solo-clash-4473859737&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2hUxvd_iyKIoX_RPAfWvdc",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/lovable/513393c6-1887-41b5-96fb-38982130bd36",
@@ -238,7 +304,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/lovable/513393c6-1887-41b5-96fb-38982130bd36",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/hex-technologies-legal-ops",
@@ -274,7 +340,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/hex-technologies-legal-ops",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/praktikantin-business-automation-analytics-hamburg-60941",
@@ -307,7 +373,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/praktikantin-business-automation-analytics-hamburg-60941",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-command-centre-frontend-ui-ux-zurich-339034",
@@ -340,7 +406,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-command-centre-frontend-ui-ux-zurich-339034",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-analyst-entry-level-remote-at-quik-hire-staffing-4475088902&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2xdeq-FTp014sKktZKvFso",
@@ -376,7 +442,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-analyst-entry-level-remote-at-quik-hire-staffing-4475088902&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2xdeq-FTp014sKktZKvFso",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/document-analyst-entry-level-at-mercor-4474203088&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3VxWSozy2bmCgfwh75iTTf",
@@ -412,7 +478,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/document-analyst-entry-level-at-mercor-4474203088&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3VxWSozy2bmCgfwh75iTTf",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bio-rad-laboratories/jobs/information-security-spec-ii",
@@ -448,7 +514,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/bio-rad-laboratories/jobs/information-security-spec-ii",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460",
@@ -483,7 +549,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-transportation-design-engineer-remote-at-executiveplacements-com-4475086652&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw35XZysywd8dep4ohAEVTIy",
@@ -519,7 +585,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-transportation-design-engineer-remote-at-executiveplacements-com-4475086652&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw35XZysywd8dep4ohAEVTIy",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ae.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-start-immediately-at-%2523brazil-chicken-exporters-4473878200&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1EwrVPjbjY6cXhkRTlyJYv",
@@ -555,7 +621,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ae.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-start-immediately-at-%2523brazil-chicken-exporters-4473878200&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1EwrVPjbjY6cXhkRTlyJYv",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-representative-entry-level-at-bowsermarketing-4473853477&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1-CPxrCOD4igoYJyadMGSL",
@@ -590,7 +656,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-representative-entry-level-at-bowsermarketing-4473853477&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1-CPxrCOD4igoYJyadMGSL",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/21shares/front-office-data-support-analyst-london-301027",
@@ -625,7 +691,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/21shares/front-office-data-support-analyst-london-301027",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/software-engineering-intern-2027-start-london-297332",
@@ -660,7 +726,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/software-engineering-intern-2027-start-london-297332",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8007080003",
@@ -693,7 +759,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8007080003",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-remote-sales-entry-level-from-home-at-the-dial-group-4473872219&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Vm8lxJoJAz0mlbDngshQv",
@@ -729,7 +795,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-remote-sales-entry-level-from-home-at-the-dial-group-4473872219&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Vm8lxJoJAz0mlbDngshQv",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/entry-level-administrative-assistant-at-recruixs-4475310760&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2rDtp5kf6IZAYMOTxSIzQA",
@@ -762,7 +828,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/entry-level-administrative-assistant-at-recruixs-4475310760&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2rDtp5kf6IZAYMOTxSIzQA",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-paracompliance-specialist-part-time-remote-role-at-assessivate-4475343116&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw14f9wU5nhQMK-ERdYxE0Eu",
@@ -798,7 +864,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-paracompliance-specialist-part-time-remote-role-at-assessivate-4475343116&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw14f9wU5nhQMK-ERdYxE0Eu",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-coordinator-entry-level-at-lotz-agency-4475326755&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw36SP7xoOjwKKpvDT6fotO4",
@@ -834,7 +900,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-coordinator-entry-level-at-lotz-agency-4475326755&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw36SP7xoOjwKKpvDT6fotO4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/customer-service-assistant-fully-remote-entry-level-at-cv-bridge-ltd-4473812923&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1q1Bh2-vx1k1gHqnskqabN",
@@ -867,7 +933,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/customer-service-assistant-fully-remote-entry-level-at-cv-bridge-ltd-4473812923&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1q1Bh2-vx1k1gHqnskqabN",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/nodeworthy/jobs/full-stack-developer",
@@ -115059,10 +115125,10 @@
       "is_new": false
     }
   ],
-  "count": 3426,
+  "count": 3428,
   "keepers": 503,
-  "fresh": 2848,
-  "new_today": 25,
+  "fresh": 2850,
+  "new_today": 2,
   "apply_now": 62,
   "apply": 54,
   "consider": 58,
