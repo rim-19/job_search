@@ -1,6 +1,39 @@
 {
-  "generated": "2026-10-06",
+  "generated": "2026-10-07",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-196288",
+      "title": "Junior Full Stack Developer (All Genders)",
+      "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-196288",
+      "score": 40,
+      "reason": "The candidate is not geographically eligible for this onsite role in Berlin, Germany.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-07",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Junior Full Stack Developer at Seniovo GmbH in Berlin. It involves maintaining and extending operational systems, developing automations with Deluge, Python, and JavaScript, and enhancing LLM-based solutions. The position requires a degree in computer science or a related field and a good understanding of REST APIs and relational data models.",
+      "date_posted": "1791338987",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Berlin, Germany, which requires EU work authorization and is outside of the candidate's acceptable geographic scope.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "required",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-196288",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-algorithms-git-debugging-remote-at-skillzenloop-4473671058&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0XKY6wjkFdbzrGqPtfO8wk",
       "title": "Software Developer Intern | Entry Level | Fresher | Algorithms / Git / Debugging | Remote",
@@ -32,7 +65,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-algorithms-git-debugging-remote-at-skillzenloop-4473671058&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0XKY6wjkFdbzrGqPtfO8wk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions",
@@ -65,7 +98,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/react-developer-intern-entry-level-fresher-react-javascript-ui-development-remote-at-skillzenloop-4473665471&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2MK4EIAV2bQIHUpp052MIO",
@@ -100,7 +133,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/react-developer-intern-entry-level-fresher-react-javascript-ui-development-remote-at-skillzenloop-4473665471&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2MK4EIAV2bQIHUpp052MIO",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/fastrocket-gmbh/full-stack-softwareentwickler-react-nextjs-oder-angular-nestjs-nodejs-100-remote-regen-7823",
@@ -135,7 +168,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/fastrocket-gmbh/full-stack-softwareentwickler-react-nextjs-oder-angular-nestjs-nodejs-100-remote-regen-7823",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-jobexit-paris-140565",
@@ -168,7 +201,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-jobexit-paris-140565",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/catapult-sports/graduate-software-engineer-london-430147",
@@ -204,7 +237,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/catapult-sports/graduate-software-engineer-london-430147",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154244-software-engineer-new-grad-machine-learning-platform-quora",
@@ -239,7 +272,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154244-software-engineer-new-grad-machine-learning-platform-quora",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-network-security-threat-monitoring-remote-at-skillzenloop-4473665475&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2KQYpsqOlxMQ6uAiuJrQT1",
@@ -274,7 +307,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/cyber-security-intern-entry-level-fresher-network-security-threat-monitoring-remote-at-skillzenloop-4473665475&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2KQYpsqOlxMQ6uAiuJrQT1",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
@@ -307,7 +340,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/micro1/jobs/software-engineer-new-grad-1608881568",
@@ -342,7 +375,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/micro1/jobs/software-engineer-new-grad-1608881568",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-scada-controls-engineering-graduate-at-jacobs-4475824676&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1lg6K_qfpSmMVkgV1WAEyz",
@@ -378,7 +411,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-scada-controls-engineering-graduate-at-jacobs-4475824676&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1lg6K_qfpSmMVkgV1WAEyz",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/medical-coding-intern-entry-level-fresher-icd-10-cpt-claim-review-remote-at-skillzenloop-4473664502&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ckxOQwFfEzLnz567T9yST",
@@ -413,7 +446,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/medical-coding-intern-entry-level-fresher-icd-10-cpt-claim-review-remote-at-skillzenloop-4473664502&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ckxOQwFfEzLnz567T9yST",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/business-analyst-intern-entry-level-fresher-requirement-mapping-documentation-remote-at-skillzenloop-4473651893&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ipRULkVbbKfUq8yXpe_VO",
@@ -448,7 +481,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/business-analyst-intern-entry-level-fresher-requirement-mapping-documentation-remote-at-skillzenloop-4473651893&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3ipRULkVbbKfUq8yXpe_VO",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-std-drilling-company-4473670956&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0PzA_NGdtQWUiqsvkrXs1O",
@@ -484,7 +517,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-std-drilling-company-4473670956&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0PzA_NGdtQWUiqsvkrXs1O",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/pharmacy-assistant-intern-entry-level-fresher-inventory-medicine-records-remote-at-skillzenloop-4473663459&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ixIDNKBQlRjhaPP7iJwaC",
@@ -520,7 +553,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/pharmacy-assistant-intern-entry-level-fresher-inventory-medicine-records-remote-at-skillzenloop-4473663459&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ixIDNKBQlRjhaPP7iJwaC",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154679-payment-operations-associate",
@@ -553,7 +586,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154679-payment-operations-associate",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://sa.linkedin.com/jobs/view/entry-level-administrative-professional-operations-office-support-remote-at-pulse-4476139244&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2mi46z4XeH5_kVp3oDrEvE",
@@ -588,7 +621,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://sa.linkedin.com/jobs/view/entry-level-administrative-professional-operations-office-support-remote-at-pulse-4476139244&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2mi46z4XeH5_kVp3oDrEvE",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-representative-at-delaney-agency-4474683468&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3aMj_RvZe7KxPlFZKVp8_u",
@@ -624,7 +657,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-representative-at-delaney-agency-4474683468&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3aMj_RvZe7KxPlFZKVp8_u",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-mortgage-loan-officer-remote-at-leadling-4475850822&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Tf_77ApPwmfGo5h-OPgr_",
@@ -660,7 +693,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-mortgage-loan-officer-remote-at-leadling-4475850822&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Tf_77ApPwmfGo5h-OPgr_",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://za.linkedin.com/jobs/view/junior-software-developer-at-resourgenix-pty-ltd-4473617286&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0gPxqL69MMXumvxNOvlWLU",
@@ -116383,10 +116416,10 @@
       "is_new": false
     }
   ],
-  "count": 3464,
+  "count": 3465,
   "keepers": 510,
-  "fresh": 2886,
-  "new_today": 19,
+  "fresh": 2887,
+  "new_today": 1,
   "apply_now": 66,
   "apply": 56,
   "consider": 59,
