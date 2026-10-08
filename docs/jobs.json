@@ -1,6 +1,108 @@
 {
-  "generated": "2026-10-07",
+  "generated": "2026-10-08",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-python-llm-apis-prompt-design-remote-at-skillzenloop-4474455572&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1QoU3iEtWddz1waSLGb3vm",
+      "title": "Artificial Intelligence Intern | Entry Level | Fresher | Python / LLM APIs / Prompt Design",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-python-llm-apis-prompt-design-remote-at-skillzenloop-4474455572&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1QoU3iEtWddz1waSLGb3vm",
+      "score": 92,
+      "reason": "This is an excellent fit for an AI Intern role, aligning perfectly with the candidate's AI/LLM specialization, Python skills, and desire for entry-level opportunities, while also meeting all geographic and remote work requirements.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-08",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an early-career AI + Full-Stack Software Developer with strong skills in Python, LLM applications, RAG, and prompt engineering. This internship directly leverages these AI-focused skills and is a remote, entry-level position, making it a highly suitable opportunity.",
+      "date_posted": "2026-10-07T17:11:08Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "priority": "APPLY_NOW",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Matches geographic and seniority requirements.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-python-llm-apis-prompt-design-remote-at-skillzenloop-4474455572&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1QoU3iEtWddz1waSLGb3vm",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-automation-apis-remote-at-skillzenloop-4474459463&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2y0gLY8lDXdH-xvudZEp5I",
+      "title": "Python Developer Intern | Entry Level | Fresher | Python / Automation &amp; APIs | Remote",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-automation-apis-remote-at-skillzenloop-4474459463&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2y0gLY8lDXdH-xvudZEp5I",
+      "score": 75,
+      "reason": "This is an entry-level Python Developer Intern role with a focus on Automation & APIs, which aligns well with the candidate's full-stack development background and Python skills. The remote nature makes it geographically accessible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-08",
+      "source": "Google Alert 8",
+      "summary": "This role is a good fit for an early-career developer looking to gain experience in Python, automation, and API development. The remote aspect aligns with the candidate's location flexibility.",
+      "date_posted": "2026-10-07T17:30:55Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "priority": "APPLY",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate is open to remote roles worldwide and has relevant Python/API skills.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-automation-apis-remote-at-skillzenloop-4474459463&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2y0gLY8lDXdH-xvudZEp5I",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/html-css-developer-intern-entry-level-fresher-html5-css3-responsive-design-remote-at-skillzenloop-4474459511&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3hfFMVzZpdtCePbhCWz-EX",
+      "title": "HTML/CSS Developer Intern | Entry Level | Fresher | HTML5 / CSS3 / Responsive Design",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/html-css-developer-intern-entry-level-fresher-html5-css3-responsive-design-remote-at-skillzenloop-4474459511&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3hfFMVzZpdtCePbhCWz-EX",
+      "score": 30,
+      "reason": "The role is an internship focused on HTML/CSS, which is a subset of the candidate's frontend skills but lacks AI/backend focus and is not a primary target role.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-08",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level HTML/CSS Developer Intern role. The candidate has experience with HTML and CSS as part of their full-stack development, but this role does not leverage their AI or backend expertise.",
+      "date_posted": "2026-10-07T16:57:37Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "priority": "CONSIDER",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate meets geographic and remote work requirements.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Lack of AI/backend focus",
+        "Not a primary target role"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/html-css-developer-intern-entry-level-fresher-html5-css3-responsive-design-remote-at-skillzenloop-4474459511&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3hfFMVzZpdtCePbhCWz-EX",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-232578",
       "title": "Platform Boosters - Backend Engineer (m/w/d)",
@@ -32,7 +134,7 @@
       "gaps": [],
       "recommended_project": "Cupid",
       "application_url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-232578",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-196288",
@@ -65,7 +167,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-196288",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-entry-level-fresher-python-model-training-feature-engineering-remote-at-skillzenloop-4474459496&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0DKTYKHuhxNI9AMUqAeqkn",
@@ -100,7 +202,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/machine-learning-intern-entry-level-fresher-python-model-training-feature-engineering-remote-at-skillzenloop-4474459496&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0DKTYKHuhxNI9AMUqAeqkn",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/turbalance/frontend-engineer-ai-infrastructure-platform-heidelberg-ger-191481",
@@ -133,7 +235,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/turbalance/frontend-engineer-ai-infrastructure-platform-heidelberg-ger-191481",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-284023",
@@ -169,7 +271,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-284023",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/flink/software-engineer-intern-or-recent-graduate-zurich-231071",
@@ -202,7 +304,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/flink/software-engineer-intern-or-recent-graduate-zurich-231071",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/hansesecure-gmbh/junior-software-developer-munchen-239023",
@@ -235,7 +337,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/hansesecure-gmbh/junior-software-developer-munchen-239023",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/full-stack-software-engineer-london-gb-431160",
@@ -271,7 +373,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/full-stack-software-engineer-london-gb-431160",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/turbalance/qa-automation-engineer-heidelberg-ger-436564",
@@ -307,7 +409,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/turbalance/qa-automation-engineer-heidelberg-ger-436564",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/catapultsports/graduate-software-engineer-london-300087",
@@ -340,7 +442,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/catapultsports/graduate-software-engineer-london-300087",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/flink/hardware-robotics-engineer-intern-or-recent-graduate-zurich-210621",
@@ -376,7 +478,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/flink/hardware-robotics-engineer-intern-or-recent-graduate-zurich-210621",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/founders-factory/ai-software-engineer-project-tricorder-bristol-london-uk-499483",
@@ -409,7 +511,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/founders-factory/ai-software-engineer-project-tricorder-bristol-london-uk-499483",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-agent-remote-training-provided-at-the-pritchett-agency-4475127182&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw19eNMOVOPEnDUpv0hNlFHC",
@@ -444,7 +546,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-agent-remote-training-provided-at-the-pritchett-agency-4475127182&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw19eNMOVOPEnDUpv0hNlFHC",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/stagiaire-en-assistanat-relations-entreprises-stage-de-6-mois-evry-67162",
@@ -477,7 +579,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/stagiaire-en-assistanat-relations-entreprises-stage-de-6-mois-evry-67162",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-teamleiter-logistik-hamburg-hamburg-476174",
@@ -514,7 +616,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-teamleiter-logistik-hamburg-hamburg-476174",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-at-sandhills-financial-group-4475103563&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0jB0LuZQS8TxS98NT4-XWJ",
@@ -550,7 +652,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-at-sandhills-financial-group-4475103563&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0jB0LuZQS8TxS98NT4-XWJ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/operatioons-assistant-entry-level-at-apex-workforce-hr-4474009128&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3DFDNEZZMBUbG6cCQcibBy",
@@ -586,7 +688,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/operatioons-assistant-entry-level-at-apex-workforce-hr-4474009128&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3DFDNEZZMBUbG6cCQcibBy",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-associate-attorney-at-mccloskey-waring-drury-llp-4475148608&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2elopn6NXCPT3Ry7IDw8Gl",
@@ -621,7 +723,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-associate-attorney-at-mccloskey-waring-drury-llp-4475148608&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2elopn6NXCPT3Ry7IDw8Gl",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-representative-%25E2%2580%2594-entry-level-commission-only-at-astera-global-solutions-4476523985&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0XeJGcyhhYn6niEePGsXjJ",
@@ -656,7 +758,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-representative-%25E2%2580%2594-entry-level-commission-only-at-astera-global-solutions-4476523985&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0XeJGcyhhYn6niEePGsXjJ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/2028-graduates-intern-antitrust-competition-economics-practice-summer-2027-london-195200",
@@ -689,7 +791,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/2028-graduates-intern-antitrust-competition-economics-practice-summer-2027-london-195200",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-algorithms-git-debugging-remote-at-skillzenloop-4473671058&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0XKY6wjkFdbzrGqPtfO8wk",
@@ -117073,13 +117175,13 @@
       "is_new": false
     }
   ],
-  "count": 3484,
-  "keepers": 511,
-  "fresh": 2906,
-  "new_today": 20,
-  "apply_now": 66,
-  "apply": 56,
-  "consider": 60,
+  "count": 3487,
+  "keepers": 513,
+  "fresh": 2909,
+  "new_today": 3,
+  "apply_now": 67,
+  "apply": 57,
+  "consider": 61,
   "morocco": 24,
-  "eligible": 175
+  "eligible": 178
 }
