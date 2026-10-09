@@ -1,6 +1,77 @@
 {
-  "generated": "2026-10-08",
+  "generated": "2026-10-09",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/technopolis-group/full-time-paid-internship-dsu-stage-dsu-paris-310496",
+      "title": "Full time paid Internship DSU/ Stage DSU Paris",
+      "company": "Technopolis Group",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/technopolis-group/full-time-paid-internship-dsu-stage-dsu-paris-310496",
+      "score": 30,
+      "reason": "The candidate is not eligible due to the location requirement (Paris) as they cannot relocate outside of Morocco.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-09",
+      "source": "Arbeitnow",
+      "summary": "This is an internship role in Data Science at Technopolis Group in Paris. The candidate is based in Morocco and cannot relocate.",
+      "date_posted": "1791497384",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in Paris, candidate cannot relocate outside of Morocco.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/technopolis-group/full-time-paid-internship-dsu-stage-dsu-paris-310496",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/154878-junior-qa-engineer-us-remote",
+      "title": "Junior QA Engineer - US Remote",
+      "company": "PerfectServe",
+      "location": "USA",
+      "link": "https://jobicy.com/jobs/154878-junior-qa-engineer-us-remote",
+      "score": 10,
+      "reason": "The candidate is geographically ineligible for this US-based remote role as it likely requires US work authorization and is outside her specified eligible regions. Additionally, the role is QA focused, not a primary fit for her AI + Full-Stack developer profile.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-09",
+      "source": "Jobicy",
+      "summary": "This role is for a Junior QA Engineer in the US. The candidate is an AI + Full-Stack Software Developer. The primary disqualifier is the geographic location and likely work authorization requirements.",
+      "date_posted": "2026-10-08T19:08:00+00:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic ineligibility: Role is US-based and requires US work authorization, which the candidate does not possess.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility",
+        "Role focus (QA vs. Development)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://jobicy.com/jobs/154878-junior-qa-engineer-us-remote",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-python-llm-apis-prompt-design-remote-at-skillzenloop-4474455572&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1QoU3iEtWddz1waSLGb3vm",
       "title": "Artificial Intelligence Intern | Entry Level | Fresher | Python / LLM APIs / Prompt Design",
@@ -32,7 +103,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-python-llm-apis-prompt-design-remote-at-skillzenloop-4474455572&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1QoU3iEtWddz1waSLGb3vm",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-product-engineer-96085",
@@ -65,7 +136,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/0g/remote-product-engineer-96085",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-automation-apis-remote-at-skillzenloop-4474459463&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2y0gLY8lDXdH-xvudZEp5I",
@@ -98,7 +169,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-automation-apis-remote-at-skillzenloop-4474459463&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2y0gLY8lDXdH-xvudZEp5I",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/resend/73a37f4c-02d9-40e4-a116-70507ed413b9",
@@ -133,7 +204,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://jobs.ashbyhq.com/resend/73a37f4c-02d9-40e4-a116-70507ed413b9",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/demv-systems-gmbh/full-stack-developer-php-typescript-in-hamburg-oder-remote-91987",
@@ -168,7 +239,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/demv-systems-gmbh/full-stack-developer-php-typescript-in-hamburg-oder-remote-91987",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-234779",
@@ -204,7 +275,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-234779",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/cloud-platform-engineer-geneva-309007",
@@ -239,7 +310,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/cloud-platform-engineer-geneva-309007",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/developpeureuse-javascript-experimentee-lille-93668",
@@ -272,7 +343,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/sfeir/developpeureuse-javascript-experimentee-lille-93668",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/html-css-developer-intern-entry-level-fresher-html5-css3-responsive-design-remote-at-skillzenloop-4474459511&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3hfFMVzZpdtCePbhCWz-EX",
@@ -308,7 +379,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/html-css-developer-intern-entry-level-fresher-html5-css3-responsive-design-remote-at-skillzenloop-4474459511&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3hfFMVzZpdtCePbhCWz-EX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/healthcare-data-analyst-intern-entry-level-fresher-excel-sql-hospital-data-remote-at-skillzenloop-4474460471&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3P5SzGMJ0P4meCUvsPDUZs",
@@ -344,7 +415,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/healthcare-data-analyst-intern-entry-level-fresher-excel-sql-hospital-data-remote-at-skillzenloop-4474460471&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3P5SzGMJ0P4meCUvsPDUZs",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/attio/product-engineer-united-kingdom-92253",
@@ -379,7 +450,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/attio/product-engineer-united-kingdom-92253",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154817-engineering-internal-ai-transformation",
@@ -412,7 +483,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154817-engineering-internal-ai-transformation",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/hexa/founder-associate-intern-at-verso-backed-by-hexa-paris-276717",
@@ -448,7 +519,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/hexa/founder-associate-intern-at-verso-backed-by-hexa-paris-276717",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/content-writer-intern-entry-level-fresher-blog-writing-seo-social-media-remote-at-skillzenloop-4474456623&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2py9ARF4J2RgXpVcEeZtmj",
@@ -483,7 +554,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/content-writer-intern-entry-level-fresher-blog-writing-seo-social-media-remote-at-skillzenloop-4474456623&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2py9ARF4J2RgXpVcEeZtmj",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-travel-booking-assistant-remote-at-wanderwell-collective-4469385059&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw109qYWlXnSC-c0bVdN3-GL",
@@ -518,7 +589,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-travel-booking-assistant-remote-at-wanderwell-collective-4469385059&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw109qYWlXnSC-c0bVdN3-GL",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/data-scientist-intern-2027-london-106355",
@@ -553,7 +624,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/data-scientist-intern-2027-london-106355",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/intersystems/application-specialist-graduate-edinburgh-windsor-87350",
@@ -586,7 +657,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/intersystems/application-specialist-graduate-edinburgh-windsor-87350",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154823-safety-engineer-free-tier-abuse",
@@ -619,7 +690,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154823-safety-engineer-free-tier-abuse",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-theme-park-travel-assistant-at-wanderwell-collective-4469372620&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2z0cigKK0dTduKqpj8kMw8",
@@ -652,7 +723,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-theme-park-travel-assistant-at-wanderwell-collective-4469372620&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2z0cigKK0dTduKqpj8kMw8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-entry-level-remote-at-torentify-4477121817&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw20c-hD19Ew3xZJbJSH7SJd",
@@ -688,7 +759,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-entry-level-remote-at-torentify-4477121817&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw20c-hD19Ew3xZJbJSH7SJd",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-service-travel-coordinator-entry-level-at-wanderwell-collective-4469358489&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2r-Ug_0wPsFRIyRal34AGn",
@@ -724,7 +795,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-service-travel-coordinator-entry-level-at-wanderwell-collective-4469358489&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2r-Ug_0wPsFRIyRal34AGn",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-group-reservations-specialist-%25E2%2580%2593-entry-level-at-wanderwell-collective-4469383357&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3fI3oetHoEbf5h7i9JyNwX",
@@ -759,7 +830,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-group-reservations-specialist-%25E2%2580%2593-entry-level-at-wanderwell-collective-4469383357&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3fI3oetHoEbf5h7i9JyNwX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/4475309863/&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2JOMVYCjA3aibxwRoHpDwp",
@@ -794,7 +865,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/4475309863/&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2JOMVYCjA3aibxwRoHpDwp",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-online-scheduling-coordinator-at-wanderwell-collective-4469339470&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0sQaOVRi_hAYUdz3iC5Ylu",
@@ -830,7 +901,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-online-scheduling-coordinator-at-wanderwell-collective-4469339470&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0sQaOVRi_hAYUdz3iC5Ylu",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-232578",
@@ -117904,10 +117975,10 @@
       "is_new": false
     }
   ],
-  "count": 3508,
+  "count": 3510,
   "keepers": 516,
-  "fresh": 2929,
-  "new_today": 24,
+  "fresh": 2931,
+  "new_today": 2,
   "apply_now": 68,
   "apply": 57,
   "consider": 63,
