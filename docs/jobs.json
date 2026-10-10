@@ -1,6 +1,39 @@
 {
-  "generated": "2026-10-09",
+  "generated": "2026-10-10",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-240947",
+      "title": "Full Stack Engineer: Retail Media",
+      "company": "Constructor",
+      "location": "Remote - EMEA",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-240947",
+      "score": 88,
+      "reason": "Strong technical and AI/LLM fit with a full-stack focus, matching the candidate's profile for an entry-level role. Geographic eligibility is confirmed for remote EMEA.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-10",
+      "source": "Arbeitnow",
+      "summary": "This role aligns well with the candidate's AI-first, full-stack development skills, particularly in LLM applications and modern web technologies. The remote EMEA location is a good fit, and the 'Engineer' title is acceptable given the junior/entry-level nature of the role.",
+      "date_posted": "1791582007",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "priority": "APPLY_NOW",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate meets geographic and seniority requirements.",
+      "geographic_scope": "EMEA",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": 2,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-240947",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-product-engineer-477196",
       "title": "Product Engineer",
@@ -32,7 +65,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-product-engineer-477196",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.rekrute.com/offre-emploi-stagiaire-en-recrutement-fh-recrutement-sofrecom-maroc-rabat-187308.html",
@@ -65,7 +98,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.rekrute.com/offre-emploi-stagiaire-en-recrutement-fh-recrutement-sofrecom-maroc-rabat-187308.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154905-accounting-automation-engineer",
@@ -101,7 +134,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154905-accounting-automation-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/technopolis-group/full-time-paid-internship-dsu-stage-dsu-paris-310496",
@@ -136,7 +169,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/technopolis-group/full-time-paid-internship-dsu-stage-dsu-paris-310496",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-461441",
@@ -171,7 +204,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-461441",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineer-london-285228",
@@ -206,7 +239,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineer-london-285228",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/email-chat-process-intern-entry-level-fresher-written-support-live-chat-crm-remote-at-skillzenloop-4474817846&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2BKEOnS5d77r8-zLz6xV7G",
@@ -241,7 +274,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/email-chat-process-intern-entry-level-fresher-written-support-live-chat-crm-remote-at-skillzenloop-4474817846&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2BKEOnS5d77r8-zLz6xV7G",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/ai-enablement-engineer-london-307489",
@@ -277,7 +310,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/ai-enablement-engineer-london-307489",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-sumeera-4476995787&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw3NK6RV5tPqbk8dSjFMKxPk",
@@ -312,7 +345,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-sumeera-4476995787&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw3NK6RV5tPqbk8dSjFMKxPk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154878-junior-qa-engineer-us-remote",
@@ -348,7 +381,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154878-junior-qa-engineer-us-remote",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-software-engineers-hamburg-324314",
@@ -381,7 +414,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-software-engineers-hamburg-324314",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154872-software-test-engineer",
@@ -416,7 +449,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154872-software-test-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/spiralyze/jobs/junior-talent-specialist-9336698490",
@@ -452,7 +485,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/spiralyze/jobs/junior-talent-specialist-9336698490",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-graduate-program-at-english-1-4477467040&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1_OVYsgUTgfDnonIvA2fJN",
@@ -487,7 +520,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-graduate-program-at-english-1-4477467040&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1_OVYsgUTgfDnonIvA2fJN",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/superchat/paid-social-content-marketing-internship-berlin-161467",
@@ -520,7 +553,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/superchat/paid-social-content-marketing-internship-berlin-161467",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-sales-representative-training-provided-entry-level-at-the-wayland-agency-4475950768&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2nyPl3Bz6pjLXZlQ37btea",
@@ -553,7 +586,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-sales-representative-training-provided-entry-level-at-the-wayland-agency-4475950768&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2nyPl3Bz6pjLXZlQ37btea",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-hotel-coordinator-at-sky-land-and-ocean-travel-4477628831%3Fposition%3D48%26pageNum%3D0%26refId%3DyJrGk9qVcyEMsnJAVSw5YA%253D%253D%26trackingId%3DuUSx%252BVxz9Jy5nPaIzqRoPg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ivC2QVoGeRC-IAwc_B_fD",
@@ -586,7 +619,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-hotel-coordinator-at-sky-land-and-ocean-travel-4477628831%3Fposition%3D48%26pageNum%3D0%26refId%3DyJrGk9qVcyEMsnJAVSw5YA%253D%253D%26trackingId%3DuUSx%252BVxz9Jy5nPaIzqRoPg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ivC2QVoGeRC-IAwc_B_fD",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152792-international-audio-video-remote-georgian-interpreter",
@@ -619,7 +652,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152792-international-audio-video-remote-georgian-interpreter",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-recruiter-remote%2521-at-gpac-4474870629&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1LRZDhEaiEU_UOHl01H7S_",
@@ -655,7 +688,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-recruiter-remote%2521-at-gpac-4474870629&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1LRZDhEaiEU_UOHl01H7S_",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-service-agent-remote-at-american-income-life-insurance-company-4477606622&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3t5bsWm54ONyebAgZWMHuJ",
@@ -688,7 +721,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-service-agent-remote-at-american-income-life-insurance-company-4477606622&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3t5bsWm54ONyebAgZWMHuJ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/entry-level-controller-jobs-sydney-nsw&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Wo_4B_hiLIGZ2Zr91Nz9X",
@@ -723,7 +756,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/entry-level-controller-jobs-sydney-nsw&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Wo_4B_hiLIGZ2Zr91Nz9X",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/152785-international-audio-video-remote-burmese-and-karen-interpreter",
@@ -756,7 +789,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/152785-international-audio-video-remote-burmese-and-karen-interpreter",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-inside-sales-rep-remote-work-at-executiveplacements-com-4477631459&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3lw2Gh7e80lCQtMEVfbGsm",
@@ -792,7 +825,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-inside-sales-rep-remote-work-at-executiveplacements-com-4477631459&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3lw2Gh7e80lCQtMEVfbGsm",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-python-llm-apis-prompt-design-remote-at-skillzenloop-4474455572&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1QoU3iEtWddz1waSLGb3vm",
@@ -118697,13 +118730,13 @@
       "is_new": false
     }
   ],
-  "count": 3531,
-  "keepers": 518,
-  "fresh": 2951,
-  "new_today": 23,
-  "apply_now": 69,
+  "count": 3532,
+  "keepers": 519,
+  "fresh": 2952,
+  "new_today": 1,
+  "apply_now": 70,
   "apply": 58,
   "consider": 63,
   "morocco": 25,
-  "eligible": 183
+  "eligible": 184
 }
