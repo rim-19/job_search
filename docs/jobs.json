@@ -1,6 +1,72 @@
 {
-  "generated": "2026-10-10",
+  "generated": "2026-10-11",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/dehoga-baden-wurttemberg/full-stack-developer-stuttgart-22007",
+      "title": "Full Stack Developer (m/w/d)",
+      "company": "Dehoga Baden-Württemberg",
+      "location": "Stuttgart",
+      "link": "https://www.arbeitnow.com/jobs/companies/dehoga-baden-wurttemberg/full-stack-developer-stuttgart-22007",
+      "score": 15,
+      "reason": "The role is located in Stuttgart, Germany, which is not within the candidate's acceptable geographic scope and would likely require EU work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-11",
+      "source": "Arbeitnow",
+      "summary": "This is a Full Stack Developer role in Stuttgart, Germany, focusing on web development and modern IT software landscapes. It involves frontend and backend development, integration with third-party systems, and working with PHP, Laravel, Livewire, and Bootstrap.",
+      "date_posted": "1791684599",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Stuttgart, Germany, which requires EU work authorization and is outside the candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "HYBRID",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/dehoga-baden-wurttemberg/full-stack-developer-stuttgart-22007",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/constructor/associate-gtm-recruiter-munich-198363",
+      "title": "Associate GTM Recruiter",
+      "company": "Constructor",
+      "location": "Remote",
+      "link": "https://www.arbeitnow.com/jobs/companies/constructor/associate-gtm-recruiter-munich-198363",
+      "score": 0,
+      "reason": "This role is for a Recruiter and does not align with the candidate's profile as an AI + Full-Stack Software Developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-11",
+      "source": "Arbeitnow",
+      "summary": "The candidate is an AI + Full-Stack Software Developer. This role is for an Associate GTM Recruiter, which is a completely different career path.",
+      "date_posted": "1791675615",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is for a Recruiter, not a Software Developer.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/constructor/associate-gtm-recruiter-munich-198363",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-240947",
       "title": "Full Stack Engineer: Retail Media",
@@ -32,7 +98,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-240947",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
@@ -68,7 +134,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-science-intern-entry-level-fresher-python-data-analysis-predictive-modelling-remote-at-skillzenloop-4474835148%3FrefId%3DYk9dubvXx9NLAApXEhtPtw%253D%253D%26trackingId%3DJWuOwLzPcQs0PpS3ngqCvg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3M7E8L8khj7rKx9idk7Ce4",
@@ -103,7 +169,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/data-science-intern-entry-level-fresher-python-data-analysis-predictive-modelling-remote-at-skillzenloop-4474835148%3FrefId%3DYk9dubvXx9NLAApXEhtPtw%253D%253D%26trackingId%3DJWuOwLzPcQs0PpS3ngqCvg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3M7E8L8khj7rKx9idk7Ce4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8861748002",
@@ -136,7 +202,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/gitlab/jobs/8861748002",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/software-engineer-intern-france-paris-244449",
@@ -169,7 +235,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/dataiku/software-engineer-intern-france-paris-244449",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/algo1/full-stack-engineer-frontend-london-122942",
@@ -204,7 +270,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/algo1/full-stack-engineer-frontend-london-122942",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/mway/frontend-developer-stuttgart-156262",
@@ -239,7 +305,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/mway/frontend-developer-stuttgart-156262",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/dacodes/jobs/backend-engineer-nodejs-typescript",
@@ -274,7 +340,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/dacodes/jobs/backend-engineer-nodejs-typescript",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/software-engineering-internship-healthcare-2027-start-257171",
@@ -310,7 +376,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/software-engineering-internship-healthcare-2027-start-257171",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-java-devops-developer-data-analyst-remote-at-executiveplacements-com-4478015938&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1BBpZ-IbzFw3LdOEXTbDeT",
@@ -346,7 +412,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-java-devops-developer-data-analyst-remote-at-executiveplacements-com-4478015938&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1BBpZ-IbzFw3LdOEXTbDeT",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/full-stack-developer-data-factory-paris-paris-431050",
@@ -379,7 +445,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/full-stack-developer-data-factory-paris-paris-431050",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-ai-in-nh-4475253926&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3S2iorDmyozcy5kBETQc_d",
@@ -415,7 +481,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-ai-in-nh-4475253926&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3S2iorDmyozcy5kBETQc_d",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-pamantasan-ng-lungsod-ng-valenzuela-4475231763&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3yQJhmQX1lva2tc2uvPrDF",
@@ -451,7 +517,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-pamantasan-ng-lungsod-ng-valenzuela-4475231763&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3yQJhmQX1lva2tc2uvPrDF",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/welectron/werkstudentin-fullstack-developer-erp-prozessautomatisierung-karlsruhe-306278",
@@ -487,7 +553,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/welectron/werkstudentin-fullstack-developer-erp-prozessautomatisierung-karlsruhe-306278",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/trg/remote-junior-data-engineer-martech-specialist-mobile-apps-223444",
@@ -520,7 +586,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/trg/remote-junior-data-engineer-martech-specialist-mobile-apps-223444",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-software-engineers-hamburg-319702",
@@ -553,7 +619,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-software-engineers-hamburg-319702",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-software-engineer-java-munchen-garmischer-strasse-455579",
@@ -588,7 +654,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-software-engineer-java-munchen-garmischer-strasse-455579",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/server-infrastructure-engineer-unannounced-project-london-65130",
@@ -621,7 +687,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/server-infrastructure-engineer-unannounced-project-london-65130",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154968-customer-experience-engineer-i-ii",
@@ -657,7 +723,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154968-customer-experience-engineer-i-ii",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fully-remote-travel-customer-support-entry-level-at-wanderwell-collective-4475602370&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2rVVXLcn0lBodISG1zb1A3",
@@ -690,7 +756,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fully-remote-travel-customer-support-entry-level-at-wanderwell-collective-4475602370&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2rVVXLcn0lBodISG1zb1A3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-trip-planning-support-advisor-entry-level-at-wanderwell-collective-4475600424&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2o4HuVFI7CnrJudmadrSvj",
@@ -726,7 +792,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-trip-planning-support-advisor-entry-level-at-wanderwell-collective-4475600424&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2o4HuVFI7CnrJudmadrSvj",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-start-immediately-at-she-leads-taiwan-4476823585&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0JMmGd_rY5asZzwUqXLAgg",
@@ -759,7 +825,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-start-immediately-at-she-leads-taiwan-4476823585&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0JMmGd_rY5asZzwUqXLAgg",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154979-international-audio-video-remote-kurdish-and-arabic-or-persian-interpreter",
@@ -792,7 +858,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154979-international-audio-video-remote-kurdish-and-arabic-or-persian-interpreter",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/154973-international-audio-video-remote-german-interpreter",
@@ -825,7 +891,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/154973-international-audio-video-remote-german-interpreter",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-recruiter-at-gpac-4475286526&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1A8Ea9r8cer5svvMRqjGzu",
@@ -861,7 +927,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-recruiter-at-gpac-4475286526&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1A8Ea9r8cer5svvMRqjGzu",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-product-engineer-477196",
@@ -119559,10 +119625,10 @@
       "is_new": false
     }
   ],
-  "count": 3556,
+  "count": 3558,
   "keepers": 521,
-  "fresh": 2976,
-  "new_today": 25,
+  "fresh": 2978,
+  "new_today": 2,
   "apply_now": 70,
   "apply": 59,
   "consider": 64,
