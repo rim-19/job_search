@@ -1,6 +1,75 @@
 {
-  "generated": "2026-10-11",
+  "generated": "2026-10-12",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-automation-engineer-berlin-474274",
+      "title": "AI & Automation Engineer (m/w/d)",
+      "company": "Yoursquares",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-automation-engineer-berlin-474274",
+      "score": 25,
+      "reason": "The candidate is not eligible due to geographic restrictions, as the role requires on-site presence in Berlin, Germany, and the candidate cannot relocate or work in the EU.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-12",
+      "source": "Arbeitnow",
+      "summary": "This role is an on-site position in Berlin, Germany, which is outside the candidate's geographic eligibility. The candidate is based in Morocco and cannot relocate or work in the EU.",
+      "date_posted": "1791760169",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is on-site in Berlin, Germany, and the candidate cannot relocate or work in the EU.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-automation-engineer-berlin-474274",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-data-analyst-entry-level-junior-at-aethel-defense-4477268784%3Fposition%3D37%26pageNum%3D0%26refId%3Dky3vpEbURWd%252B80ZvVRK7Mg%253D%253D%26trackingId%3Dtv%252B5fe69axhufTm5bnvFrA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw06nMGKpaheJwnWsz0QLX8E",
+      "title": "Remote Data Analyst ( Entry-Level / Junior)",
+      "company": "Aethel Defense — United States - LinkedIn",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-data-analyst-entry-level-junior-at-aethel-defense-4477268784%3Fposition%3D37%26pageNum%3D0%26refId%3Dky3vpEbURWd%252B80ZvVRK7Mg%253D%253D%26trackingId%3Dtv%252B5fe69axhufTm5bnvFrA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw06nMGKpaheJwnWsz0QLX8E",
+      "score": 15,
+      "reason": "The candidate is not eligible for this role due to geographic restrictions and work authorization requirements for the United States.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-12",
+      "source": "Google Alert 8",
+      "summary": "This role is for a Remote Data Analyst in the United States. The candidate's geographic and work authorization limitations make her ineligible for this position.",
+      "date_posted": "2026-10-11T23:41:27Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role requires US work authorization and is US-timezone locked, which the candidate cannot fulfill.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic eligibility",
+        "Work authorization"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-data-analyst-entry-level-junior-at-aethel-defense-4477268784%3Fposition%3D37%26pageNum%3D0%26refId%3Dky3vpEbURWd%252B80ZvVRK7Mg%253D%253D%26trackingId%3Dtv%252B5fe69axhufTm5bnvFrA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw06nMGKpaheJwnWsz0QLX8E",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-376827",
       "title": "Backend Engineer - Agentic AI (m/w/d)",
@@ -32,7 +101,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-376827",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-ai-product-engineer-berlin-488060",
@@ -65,7 +134,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-ai-product-engineer-berlin-488060",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-pythonai-engineering-agent-foundations-499521",
@@ -98,7 +167,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-pythonai-engineering-agent-foundations-499521",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/raisin/ai-platform-engineer-berlin-berlin-91789",
@@ -133,7 +202,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/raisin/ai-platform-engineer-berlin-berlin-91789",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/resilience-care/backend-applied-ai-engineer-paris-478113",
@@ -168,7 +237,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/resilience-care/backend-applied-ai-engineer-paris-478113",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155050-product-engineering",
@@ -203,7 +272,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://jobicy.com/jobs/155050-product-engineering",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155048-platform-engineering",
@@ -239,7 +308,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155048-platform-engineering",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-intermediate-software-engineer-security-factory-vulnerability-management-403970",
@@ -274,7 +343,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-intermediate-software-engineer-security-factory-vulnerability-management-403970",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-299686",
@@ -307,7 +376,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-299686",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/nozominetworks/fullstack-data-engineer-mendrisio-75224",
@@ -340,7 +409,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/nozominetworks/fullstack-data-engineer-mendrisio-75224",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-186381",
@@ -375,7 +444,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-186381",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/userlane/working-student-customer-success-alternatively-mandatory-internship-munich-hq-125732",
@@ -411,7 +480,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/userlane/working-student-customer-success-alternatively-mandatory-internship-munich-hq-125732",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/exotec/stage-software-robotics-2027-lille-49357",
@@ -446,7 +515,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/exotec/stage-software-robotics-2027-lille-49357",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/dehoga-baden-wurttemberg/full-stack-developer-stuttgart-22007",
@@ -479,7 +548,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/dehoga-baden-wurttemberg/full-stack-developer-stuttgart-22007",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/blp-digital-ag/internship-value-engineering-munich-411664",
@@ -514,7 +583,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/blp-digital-ag/internship-value-engineering-munich-411664",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/nmcareers/server-infrastructure-engineer-unannounced-project-london-269288",
@@ -550,7 +619,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/nmcareers/server-infrastructure-engineer-unannounced-project-london-269288",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/nonplusultra/master-trainer-openai-ai-cloud-partners-london-london-uk-384586",
@@ -586,7 +655,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/nonplusultra/master-trainer-openai-ai-cloud-partners-london-london-uk-384586",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
@@ -622,7 +691,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/21k-school/jobs/web-developer",
@@ -657,7 +726,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/21k-school/jobs/web-developer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/werkstudentin-ai-business-automation-m-w-d-berlin-495259",
@@ -692,7 +761,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/werkstudentin-ai-business-automation-m-w-d-berlin-495259",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision",
@@ -729,7 +798,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/client-delivery-associate-energy-markets-london-146543",
@@ -765,7 +834,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/client-delivery-associate-energy-markets-london-146543",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-customer-service-representative-%25E2%2580%2593-hotel-bookings-at-wanderwell-collective-4475290775&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ySrIvcN-22zQyLZCEppd9",
@@ -798,7 +867,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-customer-service-representative-%25E2%2580%2593-hotel-bookings-at-wanderwell-collective-4475290775&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ySrIvcN-22zQyLZCEppd9",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155054-international-payroll-analyst",
@@ -835,7 +904,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155054-international-payroll-analyst",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-hotel-coordinator-at-sky-land-and-ocean-travel-4477628831%3FrefId%3D5fOF46JKRPHC%252FPhx%252FJpcVg%253D%253D%26trackingId%3DcDaS1WKnSMvtJFtFwK7QKA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw19LmssGNVvRnnNRPnEwNMV",
@@ -871,7 +940,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-hotel-coordinator-at-sky-land-and-ocean-travel-4477628831%3FrefId%3D5fOF46JKRPHC%252FPhx%252FJpcVg%253D%253D%26trackingId%3DcDaS1WKnSMvtJFtFwK7QKA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw19LmssGNVvRnnNRPnEwNMV",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/constructor/associate-gtm-recruiter-munich-198363",
@@ -904,7 +973,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/constructor/associate-gtm-recruiter-munich-198363",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-sales-at-alleviation-enterprise-llc-4475640762&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1WCi0l-tQqOVE_ScXYeP9e",
@@ -937,7 +1006,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-sales-at-alleviation-enterprise-llc-4475640762&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1WCi0l-tQqOVE_ScXYeP9e",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-240947",
@@ -120497,10 +120566,10 @@
       "is_new": false
     }
   ],
-  "count": 3583,
+  "count": 3585,
   "keepers": 524,
-  "fresh": 3003,
-  "new_today": 27,
+  "fresh": 3005,
+  "new_today": 2,
   "apply_now": 71,
   "apply": 61,
   "consider": 64,
