@@ -1,6 +1,72 @@
 {
-  "generated": "2026-10-12",
+  "generated": "2026-10-13",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/junior-frontend-developer-react-berlin-69516",
+      "title": "Junior Frontend Developer (React)",
+      "company": "dkbcodefactory",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/junior-frontend-developer-react-berlin-69516",
+      "score": 30,
+      "reason": "The candidate is geographically ineligible for this onsite role in Berlin, Germany.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-13",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Junior Frontend Developer in Berlin. The candidate is based in Morocco and cannot relocate, making them ineligible for this position.",
+      "date_posted": "1791849305",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Berlin is not within acceptable geographic parameters.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/junior-frontend-developer-react-berlin-69516",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/155157-compliance-engineer-2",
+      "title": "Compliance Engineer",
+      "company": "Playson",
+      "location": "Europe",
+      "link": "https://jobicy.com/jobs/155157-compliance-engineer-2",
+      "score": 25,
+      "reason": "The candidate is not geographically eligible for this role, as it is located in Europe and likely requires work authorization the candidate cannot obtain. Additionally, the role's focus on compliance engineering does not align with the candidate's AI and full-stack development specialization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-13",
+      "source": "Jobicy",
+      "summary": "This role is for a Compliance Engineer in Europe, focusing on building and maintaining compliance pipelines for casino games and platform solutions. The candidate is an AI + Full-Stack Software Developer specializing in LLM applications and modern web technologies.",
+      "date_posted": "2026-10-12T16:18:19+00:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is in Europe and likely requires EU work authorization, which the candidate cannot provide.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "UNKNOWN",
+      "seniority": "EARLY_CAREER",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://jobicy.com/jobs/155157-compliance-engineer-2",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/hornetsecurity/junior-process-automation-engineer-hanover-316214",
       "title": "Junior Process Automation Engineer",
@@ -32,7 +98,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/hornetsecurity/junior-process-automation-engineer-hanover-316214",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155069-software-engineer-remote-eligible-in-bulgaria",
@@ -67,7 +133,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155069-software-engineer-remote-eligible-in-bulgaria",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-430963",
@@ -102,7 +168,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-430963",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-software-engineer-london-342714",
@@ -137,7 +203,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-software-engineer-london-342714",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
@@ -173,7 +239,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-automation-engineer-berlin-474274",
@@ -206,7 +272,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-automation-engineer-berlin-474274",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/web-developer-intern-entry-level-fresher-php-mysql-website-development-remote-at-skillzenloop-4476017781&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1eYAQG2r0UL6LA006cV3Cx",
@@ -241,7 +307,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/web-developer-intern-entry-level-fresher-php-mysql-website-development-remote-at-skillzenloop-4476017781&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1eYAQG2r0UL6LA006cV3Cx",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-data-analyst-entry-level-junior-at-aethel-defense-4477268784%3Fposition%3D37%26pageNum%3D0%26refId%3Dky3vpEbURWd%252B80ZvVRK7Mg%253D%253D%26trackingId%3Dtv%252B5fe69axhufTm5bnvFrA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw06nMGKpaheJwnWsz0QLX8E",
@@ -277,7 +343,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-data-analyst-entry-level-junior-at-aethel-defense-4477268784%3Fposition%3D37%26pageNum%3D0%26refId%3Dky3vpEbURWd%252B80ZvVRK7Mg%253D%253D%26trackingId%3Dtv%252B5fe69axhufTm5bnvFrA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw06nMGKpaheJwnWsz0QLX8E",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-quantitative-researcher-2027-start-london-352906",
@@ -313,7 +379,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-quantitative-researcher-2027-start-london-352906",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-%25E2%2580%2593-online-appointment-setter-booking-hotels-entry-level-at-wanderwell-collective-4475653871&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Yph0HNadzIZZoXPvpEcAL",
@@ -349,7 +415,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-%25E2%2580%2593-online-appointment-setter-booking-hotels-entry-level-at-wanderwell-collective-4475653871&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Yph0HNadzIZZoXPvpEcAL",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-entry-level-scheduling-coordinating-reservations-at-wanderwell-collective-4475678170&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2bGIjvGtWp19hp7t_Xd_C_",
@@ -385,7 +451,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-entry-level-scheduling-coordinating-reservations-at-wanderwell-collective-4475678170&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2bGIjvGtWp19hp7t_Xd_C_",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-internship-hr-business-partner-gilching-300929",
@@ -420,7 +486,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-internship-hr-business-partner-gilching-300929",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155096-software-engineer-platform-sre",
@@ -456,7 +522,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155096-software-engineer-platform-sre",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics",
@@ -492,7 +558,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-ai-jobs-in-brazil-remote-at-remoexperts-4388395698%3Fposition%3D11%26pageNum%3D0%26refId%3DRoKQ4LwJa1K2BWLZap8n%252BQ%253D%253D%26trackingId%3DQgDr0VcXVSyIae47%252BSbTSQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0k5ma9KzW1faE__Rp1AY72",
@@ -528,7 +594,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-ai-jobs-in-brazil-remote-at-remoexperts-4388395698%3Fposition%3D11%26pageNum%3D0%26refId%3DRoKQ4LwJa1K2BWLZap8n%252BQ%253D%253D%26trackingId%3DQgDr0VcXVSyIae47%252BSbTSQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0k5ma9KzW1faE__Rp1AY72",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-booking-scheduling-specialist-entry-level-at-wanderwell-collective-4475660638&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3gpProz-F9iCAWDsoqWVLB",
@@ -563,7 +629,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-booking-scheduling-specialist-entry-level-at-wanderwell-collective-4475660638&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3gpProz-F9iCAWDsoqWVLB",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-optimizationn-annalyst-entry-level-at-heart-human-resources-4477269784&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw12aElU7NlRE_iDEVE0IKW1",
@@ -598,7 +664,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-optimizationn-annalyst-entry-level-at-heart-human-resources-4477269784&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw12aElU7NlRE_iDEVE0IKW1",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-client-liaison-legal-at-phaxis-4466774947&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3mtOpaUpOLP30WFl8MR0VH",
@@ -633,7 +699,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-client-liaison-legal-at-phaxis-4466774947&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3mtOpaUpOLP30WFl8MR0VH",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-hospitality-support-coordinator-at-wanderwell-collective-4475653763&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3qP5ENKlOCRIZ0oSxofhyo",
@@ -669,7 +735,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-hospitality-support-coordinator-at-wanderwell-collective-4475653763&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3qP5ENKlOCRIZ0oSxofhyo",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-hotel-reservationist-entry-level-at-wanderwell-collective-4475652896&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0rpH-ESo8PU5gpzkAZei_s",
@@ -702,7 +768,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-hotel-reservationist-entry-level-at-wanderwell-collective-4475652896&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0rpH-ESo8PU5gpzkAZei_s",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sensor-operator-at-it-job-board-tech-jobs-portal-in-usa-4478081876&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw01NiJPrCamb7xQ-U1hLWPL",
@@ -738,7 +804,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sensor-operator-at-it-job-board-tech-jobs-portal-in-usa-4478081876&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw01NiJPrCamb7xQ-U1hLWPL",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-grow-life-co-4478345048&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1YiTNdg4KWSwwdWVKAc5Gh",
@@ -773,7 +839,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-grow-life-co-4478345048&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1YiTNdg4KWSwwdWVKAc5Gh",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/commission-sales-associate-at-sfg-agency-group-4476205035&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ABCwA-JhVh16fO6cN_6ZX",
@@ -809,7 +875,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/commission-sales-associate-at-sfg-agency-group-4476205035&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ABCwA-JhVh16fO6cN_6ZX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-376827",
@@ -121307,10 +121373,10 @@
       "is_new": false
     }
   ],
-  "count": 3606,
+  "count": 3608,
   "keepers": 524,
-  "fresh": 3026,
-  "new_today": 23,
+  "fresh": 3028,
+  "new_today": 2,
   "apply_now": 71,
   "apply": 61,
   "consider": 64,
