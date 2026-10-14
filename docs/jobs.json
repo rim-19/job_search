@@ -1,6 +1,108 @@
 {
-  "generated": "2026-10-13",
+  "generated": "2026-10-14",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-java-fullstack-developer-data-scientist-entry-level-bi-analyst-remote-at-synergisticit-4478164886&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2YmT-PJDT5Lb_fmD5PqjWH",
+      "title": "junior java fullstack developer/Data Scientist/ Entry level Bi Analyst- remote - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-java-fullstack-developer-data-scientist-entry-level-bi-analyst-remote-at-synergisticit-4478164886&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2YmT-PJDT5Lb_fmD5PqjWH",
+      "score": 35,
+      "reason": "Geographic ineligibility and work authorization requirements make this role unsuitable for the candidate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-14",
+      "source": "Google Alert 8",
+      "summary": "This role is for a Junior Java Fullstack Developer/Data Scientist/Entry Level BI Analyst. The candidate is a full-stack developer with AI/LLM specialization and a broad tech stack, but the job's location in Austin, TX, and implied US work authorization are disqualifying.",
+      "date_posted": "2026-10-13T22:17:05Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: The job is in Austin, TX, which is not within the candidate's acceptable geographic scope. The role also requires US work authorization.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic location",
+        "Work authorization"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-java-fullstack-developer-data-scientist-entry-level-bi-analyst-remote-at-synergisticit-4478164886&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2YmT-PJDT5Lb_fmD5PqjWH",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/equativ/backend-engineer-intern-6-months-starting-february-2027-paris-31675",
+      "title": "Backend Engineer Intern (6 months starting February 2027)",
+      "company": "Equativ",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/equativ/backend-engineer-intern-6-months-starting-february-2027-paris-31675",
+      "score": 30,
+      "reason": "The candidate is geographically ineligible for this role as it is based in Paris and requires on-site presence, which conflicts with her location and relocation constraints. The role is also an internship, which ranks lower than permanent positions.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-14",
+      "source": "Arbeitnow",
+      "summary": "This is a 6-month Backend Engineer Intern position at Equativ in Paris, France. The role involves working on an ad exchange platform within an R&D team, focusing on performance, maintainability, and scalability. The candidate is not eligible due to geographic restrictions.",
+      "date_posted": "1791930337",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is in Paris, France, requiring on-site presence or EU work authorization which the candidate does not meet.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/equativ/backend-engineer-intern-6-months-starting-february-2027-paris-31675",
+      "is_new": true
+    },
+    {
+      "url": "https://himalayas.app/companies/codekeeper/jobs/software-verification-engineer-2537441462",
+      "title": "Software Verification Engineer",
+      "company": "Codekeeper",
+      "location": "Romania",
+      "link": "https://himalayas.app/companies/codekeeper/jobs/software-verification-engineer-2537441462",
+      "score": 15,
+      "reason": "The candidate is geographically ineligible as the role is based in Romania and requires on-site presence, while the candidate is based in Morocco and cannot relocate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-14",
+      "source": "Himalayas",
+      "summary": "This role is for a Software Verification Engineer based in Romania, requiring on-site presence. The candidate is located in Morocco and cannot relocate, making them geographically ineligible. While the technical aspects of verification and build processes might have some overlap, the location is a hard constraint.",
+      "date_posted": "1791948451",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Candidate is based in Morocco and cannot relocate; the role is in Romania.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://himalayas.app/companies/codekeeper/jobs/software-verification-engineer-2537441462",
+      "is_new": true
+    },
     {
       "url": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
       "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
@@ -34,7 +136,7 @@
       ],
       "recommended_project": "Cupid",
       "application_url": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-devops-engineer-393877",
@@ -70,7 +172,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-devops-engineer-393877",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/redalpine/intern-ai-software-engineering-zug-160019",
@@ -105,7 +207,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/redalpine/intern-ai-software-engineering-zug-160019",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/telnyx/software-engineer-python-programmable-networking-amsterdam-138589",
@@ -141,7 +243,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/telnyx/software-engineer-python-programmable-networking-amsterdam-138589",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/junior-frontend-developer-react-berlin-69516",
@@ -174,7 +276,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/junior-frontend-developer-react-berlin-69516",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155167-sr-forward-deployed-ai-engineer-remote-eligible-in-the-uk",
@@ -210,7 +312,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155167-sr-forward-deployed-ai-engineer-remote-eligible-in-the-uk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-117112",
@@ -243,7 +345,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-117112",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/happyrobotai/forward-deployed-engineer-german-speaking-bonn-370401",
@@ -279,7 +381,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/happyrobotai/forward-deployed-engineer-german-speaking-bonn-370401",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155157-compliance-engineer-2",
@@ -312,7 +414,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155157-compliance-engineer-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-full-stack-developer-at-haystack-4475671413&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2rrnFm6i5xNT7u8CMlzKz4",
@@ -347,7 +449,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-full-stack-developer-at-haystack-4475671413&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2rrnFm6i5xNT7u8CMlzKz4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/duna/remote-backend-engineer-400498",
@@ -382,7 +484,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/duna/remote-backend-engineer-400498",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155142-gtm-engineer-4",
@@ -415,7 +517,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155142-gtm-engineer-4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155172-sr-software-engineer-remote-eligible-from-bulgaria",
@@ -451,7 +553,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155172-sr-software-engineer-remote-eligible-from-bulgaria",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/sql-developer-intern-entry-level-fresher-sql-database-reporting-remote-at-skillzenloop-4476021618&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3eioCpn5fhI-VcWKZ_WWUW",
@@ -487,7 +589,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/sql-developer-intern-entry-level-fresher-sql-database-reporting-remote-at-skillzenloop-4476021618&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3eioCpn5fhI-VcWKZ_WWUW",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-229491",
@@ -523,7 +625,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-229491",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/blocktech/quantitative-researcher-internship-summer-27-amsterdam-209822",
@@ -559,7 +661,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/blocktech/quantitative-researcher-internship-summer-27-amsterdam-209822",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript",
@@ -596,7 +698,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/customer-service-and-email-process-intern-entry-level-fresher-ticket-handling-email-support-remote-at-skillzenloop-4476467267&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0x_0GFQKN2WS7sVgkO0pdR",
@@ -632,7 +734,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/customer-service-and-email-process-intern-entry-level-fresher-ticket-handling-email-support-remote-at-skillzenloop-4476467267&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0x_0GFQKN2WS7sVgkO0pdR",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/blocktech/software-engineer-internship-summer-27-amsterdam-268500",
@@ -668,7 +770,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/blocktech/software-engineer-internship-summer-27-amsterdam-268500",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.dreamjob.ma/stage/a-casablanca-payment-center-for-africa-recrute-4-stagiaires-pfe/",
@@ -701,7 +803,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.dreamjob.ma/stage/a-casablanca-payment-center-for-africa-recrute-4-stagiaires-pfe/",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-itinerary-coordinator-entry-level-at-professional-travel-group-hub-4479015533&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3JmnbCrFzM36jZr9vUtsOz",
@@ -737,7 +839,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-itinerary-coordinator-entry-level-at-professional-travel-group-hub-4479015533&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3JmnbCrFzM36jZr9vUtsOz",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/inventory-control-associate-entry-level-at-pacific-office-automation-4478705299&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0YiBp_gW3IC5MyQZ7yGYRp",
@@ -773,7 +875,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/inventory-control-associate-entry-level-at-pacific-office-automation-4478705299&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0YiBp_gW3IC5MyQZ7yGYRp",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/hornetsecurity/junior-process-automation-engineer-hanover-316214",
@@ -122081,10 +122183,10 @@
       "is_new": false
     }
   ],
-  "count": 3628,
+  "count": 3631,
   "keepers": 525,
-  "fresh": 3047,
-  "new_today": 22,
+  "fresh": 3050,
+  "new_today": 3,
   "apply_now": 71,
   "apply": 61,
   "consider": 66,
