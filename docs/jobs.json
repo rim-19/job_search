@@ -1,6 +1,39 @@
 {
-  "generated": "2026-10-14",
+  "generated": "2026-10-15",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-financial-services-paris-450886",
+      "title": "Software Engineer Intern - Financial Services",
+      "company": "Mirakl - Labs",
+      "location": "Paris, France",
+      "link": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-financial-services-paris-450886",
+      "score": 30,
+      "reason": "The candidate is geographically ineligible for this on-site role in Paris, France, as it requires EU work authorization and is outside her specified acceptable locations.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-15",
+      "source": "Arbeitnow",
+      "summary": "This is an internship role for a Software Engineer at Mirakl in Paris, France. The company focuses on marketplace innovation and AI-powered commerce solutions. The role is on-site and requires relocation to France.",
+      "date_posted": "1792017930",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Paris, France, which requires EU work authorization and is outside the candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-financial-services-paris-450886",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-databases-remote-at-skillzenloop-4476676695&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw109Pa-1bT9BV3oaEf-RbkF",
       "title": "Full Stack Developer Intern | Entry Level | Fresher | React / Node.js / Databases | Remote",
@@ -32,7 +65,7 @@
       "gaps": [],
       "recommended_project": "Cupid",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-databases-remote-at-skillzenloop-4476676695&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw109Pa-1bT9BV3oaEf-RbkF",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-node-js-mongodb-authentication-remote-at-skillzenloop-4476675709&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1i-qgzZRUTK6WZUlvRyZQV",
@@ -67,7 +100,7 @@
       ],
       "recommended_project": "Cupid",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-node-js-mongodb-authentication-remote-at-skillzenloop-4476675709&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1i-qgzZRUTK6WZUlvRyZQV",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/fullstack-software-engineer-ror-js-w-m-paris-363056",
@@ -100,7 +133,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/fullstack-software-engineer-ror-js-w-m-paris-363056",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-java-fullstack-developer-data-scientist-entry-level-bi-analyst-remote-at-synergisticit-4478164886&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2YmT-PJDT5Lb_fmD5PqjWH",
@@ -136,7 +169,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-java-fullstack-developer-data-scientist-entry-level-bi-analyst-remote-at-synergisticit-4478164886&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2YmT-PJDT5Lb_fmD5PqjWH",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/software-development-engineer-in-test-luma-340360",
@@ -171,7 +204,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/software-development-engineer-in-test-luma-340360",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-dutch-remote-rotterdam-201716",
@@ -206,7 +239,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-dutch-remote-rotterdam-201716",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/equativ/backend-engineer-intern-6-months-starting-february-2027-paris-31675",
@@ -239,7 +272,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/equativ/backend-engineer-intern-6-months-starting-february-2027-paris-31675",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/hr-plus-web-developer-fresh-graduate-welcome-wfh-policy-on-job-training",
@@ -274,7 +307,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/hr-plus-web-developer-fresh-graduate-welcome-wfh-policy-on-job-training",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/imc/graduate-deep-learning-researcher-london-192632",
@@ -307,7 +340,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/imc/graduate-deep-learning-researcher-london-192632",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/codekeeper/jobs/software-verification-engineer-2537441462",
@@ -340,7 +373,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/codekeeper/jobs/software-verification-engineer-2537441462",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/web-engineer-cardiff-229136",
@@ -376,7 +409,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/web-engineer-cardiff-229136",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/alphasense/jobs/ai-security-engineer",
@@ -411,7 +444,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/alphasense/jobs/ai-security-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-software-engineer-%2524150-hr-remote-at-the-ai-training-company-4477951457&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw143SO3HY2VXV4u50sxl2uJ",
@@ -444,7 +477,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-software-engineer-%2524150-hr-remote-at-the-ai-training-company-4477951457&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw143SO3HY2VXV4u50sxl2uJ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-project-leadership-community-nz-au-4478153386&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw02FbN2X1vuI3gw3shyFIT5",
@@ -479,7 +512,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-insights-analys-remote-entry-level-at-project-leadership-community-nz-au-4478153386&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw02FbN2X1vuI3gw3shyFIT5",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/unit8/young-graduate-in-data-and-software-engineering-zurich-switzerland-zurich-364046",
@@ -514,7 +547,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/unit8/young-graduate-in-data-and-software-engineering-zurich-switzerland-zurich-364046",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-civil-engineer-london-179296",
@@ -550,7 +583,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-civil-engineer-london-179296",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/stefanini/jobs/front-end-developer",
@@ -585,7 +618,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/stefanini/jobs/front-end-developer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-planner-entry-level-at-professional-travel-group-hub-4479017482&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2bv0qasYKGqJFw6ZgxS20l",
@@ -621,7 +654,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-planner-entry-level-at-professional-travel-group-hub-4479017482&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2bv0qasYKGqJFw6ZgxS20l",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-specialist-no-experience-needed-at-the-elmer-agency-4478102878&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0AChaMcKHm7VY1mzdv7ZyX",
@@ -656,7 +689,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-specialist-no-experience-needed-at-the-elmer-agency-4478102878&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0AChaMcKHm7VY1mzdv7ZyX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-service-reservations-associate-entry-level-at-professional-travel-group-hub-4479025030&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0q-6ynKuZDUm9duosdUYgY",
@@ -691,7 +724,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-service-reservations-associate-entry-level-at-professional-travel-group-hub-4479025030&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0q-6ynKuZDUm9duosdUYgY",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-geotechnical-engineer-london-225464",
@@ -728,7 +761,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-geotechnical-engineer-london-225464",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-claims-analyst-workers-comp-fully-remote-at-aspirion-4479243821&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1GLh5uy_r2YGlRoQrnIR9q",
@@ -763,7 +796,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-claims-analyst-workers-comp-fully-remote-at-aspirion-4479243821&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1GLh5uy_r2YGlRoQrnIR9q",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-support-advisor-entry-level-at-professional-travel-group-hub-4479020241&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0zUDpdqcmHR84k1WyeJ2ct",
@@ -796,7 +829,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-support-advisor-entry-level-at-professional-travel-group-hub-4479020241&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0zUDpdqcmHR84k1WyeJ2ct",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-cruise-coordinator-at-sky-land-and-ocean-travel-4479095338&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1T9ypaMQKQt2zlKWt0MnMt",
@@ -832,7 +865,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-cruise-coordinator-at-sky-land-and-ocean-travel-4479095338&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1T9ypaMQKQt2zlKWt0MnMt",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-sales-professional-remote-training-provided-at-the-pritchett-agency-4478165982&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0RRTv_Ir2p8uJ7A5EjXmDC",
@@ -867,7 +900,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-sales-professional-remote-training-provided-at-the-pritchett-agency-4478165982&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0RRTv_Ir2p8uJ7A5EjXmDC",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-service-%25E2%2580%2593-booking-hotels-work-from-home-at-professional-travel-group-hub-4479002968&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw00Tf-uwBF5Jzz8D956DGJ2",
@@ -903,7 +936,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-service-%25E2%2580%2593-booking-hotels-work-from-home-at-professional-travel-group-hub-4479002968&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw00Tf-uwBF5Jzz8D956DGJ2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-event-travel-planning-coordinator-online-at-professional-travel-group-hub-4479014569&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0OoDXPo9qteGtatVYOn-bv",
@@ -936,7 +969,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-event-travel-planning-coordinator-online-at-professional-travel-group-hub-4479014569&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0OoDXPo9qteGtatVYOn-bv",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-service-booking-coordinator-entry-level-at-professional-travel-group-hub-4479015527&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Tqk-DiUXkw2mIo50hzzre",
@@ -972,7 +1005,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-service-booking-coordinator-entry-level-at-professional-travel-group-hub-4479015527&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Tqk-DiUXkw2mIo50hzzre",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-specialist-fully-remote-%252475k-%2524150k-at-the-greenwood-agency-4479049318&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3BF8b01CsbvdcSHkNr7w3n",
@@ -1005,7 +1038,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-specialist-fully-remote-%252475k-%2524150k-at-the-greenwood-agency-4479049318&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3BF8b01CsbvdcSHkNr7w3n",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
@@ -123087,10 +123120,10 @@
       "is_new": false
     }
   ],
-  "count": 3657,
+  "count": 3658,
   "keepers": 528,
-  "fresh": 3075,
-  "new_today": 29,
+  "fresh": 3076,
+  "new_today": 1,
   "apply_now": 72,
   "apply": 62,
   "consider": 68,
