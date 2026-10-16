@@ -1,6 +1,39 @@
 {
-  "generated": "2026-10-15",
+  "generated": "2026-10-16",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-financial-services-paris-223168",
+      "title": "Software Engineer Intern - Financial Services",
+      "company": "mirakllabs",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-financial-services-paris-223168",
+      "score": 25,
+      "reason": "The role is an internship in Paris, France, which is not geographically eligible for the candidate. The candidate cannot relocate and does not have EU work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-16",
+      "source": "Arbeitnow",
+      "summary": "This is an internship role for a Software Engineer at Mirakl in Paris. The candidate is an AI + Full-Stack Software Developer seeking junior/entry-level roles.",
+      "date_posted": "1792108517",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Paris, France, which requires EU work authorization and is outside the candidate's eligible geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-financial-services-paris-223168",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/buying-labs/product-engineer-hamburg-380417",
       "title": "Product Engineer (m/f/d)",
@@ -34,7 +67,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/buying-labs/product-engineer-hamburg-380417",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/2027-graduate-software-engineer-healthcare-2027-start-477693",
@@ -67,7 +100,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/2027-graduate-software-engineer-healthcare-2027-start-477693",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-databases-remote-at-skillzenloop-4476676695&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw109Pa-1bT9BV3oaEf-RbkF",
@@ -102,7 +135,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-databases-remote-at-skillzenloop-4476676695&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw109Pa-1bT9BV3oaEf-RbkF",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/miebach-consulting-gmbh/consultant-software-engineering-frankfurt-am-main-250088",
@@ -135,7 +168,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/miebach-consulting-gmbh/consultant-software-engineering-frankfurt-am-main-250088",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/neural-frames/product-engineer-growth-ai-music-video-platform-berlin-213663",
@@ -168,7 +201,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/neural-frames/product-engineer-growth-ai-music-video-platform-berlin-213663",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/sardine/fullstack-engineer-investigator-tools-united-kingdom-europe-138221",
@@ -203,7 +236,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/sardine/fullstack-engineer-investigator-tools-united-kingdom-europe-138221",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/optics11/software-test-engineer-amsterdam-332708",
@@ -236,7 +269,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/optics11/software-test-engineer-amsterdam-332708",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-financial-services-paris-450886",
@@ -269,7 +302,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-financial-services-paris-450886",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/hawk/frontend-engineer-agentic-ai-munich-232885",
@@ -302,7 +335,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/hawk/frontend-engineer-agentic-ai-munich-232885",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-ads-bordeaux-410270",
@@ -335,7 +368,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-ads-bordeaux-410270",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/graduate-program-all-genders-berlin-363848",
@@ -368,7 +401,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/graduate-program-all-genders-berlin-363848",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-apprentice-connect-paris-150457",
@@ -401,7 +434,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-apprentice-connect-paris-150457",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/partspace-gmbh/full-stack-software-entwickler-developer-deggendorf-366691",
@@ -434,7 +467,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/partspace-gmbh/full-stack-software-entwickler-developer-deggendorf-366691",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/chat-support-agent-remote-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4479524979&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3BoODu3fWWadEF0EUaEXDD",
@@ -470,7 +503,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/chat-support-agent-remote-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4479524979&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3BoODu3fWWadEF0EUaEXDD",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/engineering-summer-internship-2027-london-190948",
@@ -505,7 +538,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/engineering-summer-internship-2027-london-190948",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/ui-ux-design-intern-entry-level-fresher-figma-wireframes-prototyping-remote-at-skillzenloop-4476453735&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0ff26GRNlg5v-FViVVO1Ss",
@@ -541,7 +574,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/ui-ux-design-intern-entry-level-fresher-figma-wireframes-prototyping-remote-at-skillzenloop-4476453735&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0ff26GRNlg5v-FViVVO1Ss",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/plaid/sales-engineer-london-28267",
@@ -577,7 +610,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/plaid/sales-engineer-london-28267",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-ai-agent-evaluator-remote-freelance-flexible-hours-at-mindrift-4479819782&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw380NM1hHFJjqk4_jbXtYSc",
@@ -612,7 +645,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-ai-agent-evaluator-remote-freelance-flexible-hours-at-mindrift-4479819782&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw380NM1hHFJjqk4_jbXtYSc",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-jobs-remote-part-time-beginner-friendly-start-asap-at-mb-epro-experts-4476688261&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3kadEJxNWz6_HXow0i_8Dj",
@@ -647,7 +680,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-jobs-remote-part-time-beginner-friendly-start-asap-at-mb-epro-experts-4476688261&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3kadEJxNWz6_HXow0i_8Dj",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/hr-paid-media-manage-remote-entry-level-at-mc-research-academy-4476680976&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2jUeQOOAH1q_fdMobzK7jP",
@@ -682,7 +715,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/hr-paid-media-manage-remote-entry-level-at-mc-research-academy-4476680976&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2jUeQOOAH1q_fdMobzK7jP",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-producer-remote-training-provided-at-the-pritchett-agency-4478176431&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1e2ZpU3TWLNJKMzF8nYybo",
@@ -718,7 +751,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-producer-remote-training-provided-at-the-pritchett-agency-4478176431&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1e2ZpU3TWLNJKMzF8nYybo",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-scheduling-coordinator-online-at-professional-travel-hub-4479745840&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3NULUznZgq-2qTUTbVdiMo",
@@ -754,7 +787,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-scheduling-coordinator-online-at-professional-travel-hub-4479745840&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3NULUznZgq-2qTUTbVdiMo",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-claims-analyst-workers-comp-fully-remote-at-remotehunter-4478488566&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2oZgM1cFpgM_OLourSBUeI",
@@ -790,7 +823,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-claims-analyst-workers-comp-fully-remote-at-remotehunter-4478488566&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2oZgM1cFpgM_OLourSBUeI",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-cuchiara-company-4479556874&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2VGNX18_on2J3KPnms9Wuw",
@@ -826,7 +859,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-cuchiara-company-4479556874&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2VGNX18_on2J3KPnms9Wuw",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/carpenter-at-northstar-hr-solutions-4476638337&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2CIfoGSABNVO__wvaxP022",
@@ -861,7 +894,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/carpenter-at-northstar-hr-solutions-4476638337&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2CIfoGSABNVO__wvaxP022",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-life-insurance-agent-training-provided-at-the-summers-agency-4479227499&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0_XoigeSeWOBweL485dSjz",
@@ -896,7 +929,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-life-insurance-agent-training-provided-at-the-summers-agency-4479227499&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0_XoigeSeWOBweL485dSjz",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-travel-customer-service-representative-entry-level-at-professional-travel-hub-4479766405&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3JZuQVPAc8-pz6-f46ZPLk",
@@ -932,7 +965,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-travel-customer-service-representative-entry-level-at-professional-travel-hub-4479766405&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3JZuQVPAc8-pz6-f46ZPLk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-cuchiara-company-4479574084&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw17DwojW2u9sqyS3j2GyDY4",
@@ -965,7 +998,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-cuchiara-company-4479574084&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw17DwojW2u9sqyS3j2GyDY4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-databases-remote-at-skillzenloop-4476676695&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw109Pa-1bT9BV3oaEf-RbkF",
@@ -124053,10 +124086,10 @@
       "is_new": false
     }
   ],
-  "count": 3685,
+  "count": 3686,
   "keepers": 530,
-  "fresh": 3103,
-  "new_today": 28,
+  "fresh": 3104,
+  "new_today": 1,
   "apply_now": 72,
   "apply": 64,
   "consider": 68,
