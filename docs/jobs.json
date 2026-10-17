@@ -1,6 +1,39 @@
 {
-  "generated": "2026-10-16",
+  "generated": "2026-10-17",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://ec.linkedin.com/jobs/view/full-stack-developer-junior-at-bluelabel-s-a-4479360636&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1P7YiNDAn3M6zSehP-OHFs",
+      "title": "Full Stack Developer Junior - BLUELABEL SA - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ec.linkedin.com/jobs/view/full-stack-developer-junior-at-bluelabel-s-a-4479360636&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1P7YiNDAn3M6zSehP-OHFs",
+      "score": 88,
+      "reason": "This junior full-stack developer role aligns well with the candidate's skills in Next.js, JavaScript, and TypeScript, and her AI-first specialization is a strong asset.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-17",
+      "source": "Google Alert 9",
+      "summary": "The candidate is an early-career AI + Full-Stack Software Developer with a strong foundation in modern web technologies including Next.js, JavaScript, and TypeScript. She has a proven track record of building end-to-end AI applications, making her a great fit for this junior full-stack position.",
+      "date_posted": "2026-10-16T20:25:28Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "priority": "APPLY_NOW",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate meets geographic and seniority requirements.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ec.linkedin.com/jobs/view/full-stack-developer-junior-at-bluelabel-s-a-4479360636&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1P7YiNDAn3M6zSehP-OHFs",
+      "is_new": true
+    },
     {
       "url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
       "title": "AI Platform Engineer",
@@ -32,7 +65,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
@@ -67,7 +100,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-full-stack-java-engineer-with-ai-at-weaverminds-4478811955&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0_Xb1_VAX6aVnZjIOc1qLF",
@@ -102,7 +135,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-full-stack-java-engineer-with-ai-at-weaverminds-4478811955&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0_Xb1_VAX6aVnZjIOc1qLF",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/cybersecurity-intern-stuttgart-351050",
@@ -138,7 +171,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/cybersecurity-intern-stuttgart-351050",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-iam-fullstack-engineer-66675",
@@ -171,7 +204,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-iam-fullstack-engineer-66675",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/pigment/junior-data-automation-engineer-paris-238273",
@@ -204,7 +237,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/pigment/junior-data-automation-engineer-paris-238273",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/kijimea/e-commerce-developer-ai-automation-grafelfing-76405",
@@ -239,7 +272,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/kijimea/e-commerce-developer-ai-automation-grafelfing-76405",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155391-site-reliability-engineer-4",
@@ -274,7 +307,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155391-site-reliability-engineer-4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155389-platform-engineer-managed-postgres",
@@ -310,7 +343,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155389-platform-engineer-managed-postgres",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-financial-services-paris-223168",
@@ -343,7 +376,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-financial-services-paris-223168",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-ads-bordeaux-10318",
@@ -376,7 +409,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-ads-bordeaux-10318",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/kwanii/jobs/frontend-game-developer-wfh-full-time",
@@ -411,7 +444,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/kwanii/jobs/frontend-game-developer-wfh-full-time",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-berlin-149961",
@@ -446,7 +479,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-berlin-149961",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/kryptos-technologies-limited/qa-tester-leeds-72724",
@@ -479,7 +512,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/kryptos-technologies-limited/qa-tester-leeds-72724",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155430-backend-engineer-pythonai-engineering-agent-foundations",
@@ -515,7 +548,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155430-backend-engineer-pythonai-engineering-agent-foundations",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155439-software-engineer-ii",
@@ -550,7 +583,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155439-software-engineer-ii",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/ai-engineer-azure-generative-ai-relocation-provided-amsterdam-399752",
@@ -583,7 +616,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/wypoon/ai-engineer-azure-generative-ai-relocation-provided-amsterdam-399752",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://sa.linkedin.com/jobs/view/entry-level-file-clerk-remote-at-pulse-mena-4479757708&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0vkCS6XZpJmSifH9-q487K",
@@ -618,7 +651,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://sa.linkedin.com/jobs/view/entry-level-file-clerk-remote-at-pulse-mena-4479757708&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0vkCS6XZpJmSifH9-q487K",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-service-representative-at-nova-401-k-associates-4480143629&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Hj6RHmHZf5Hn89zEJwdCB",
@@ -654,7 +687,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-service-representative-at-nova-401-k-associates-4480143629&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Hj6RHmHZf5Hn89zEJwdCB",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-hotel-coordinator-at-sky-land-and-ocean-travel-4480302850&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw167R-Qw4rKu4Y0R2LpF4La",
@@ -690,7 +723,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-hotel-coordinator-at-sky-land-and-ocean-travel-4480302850&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw167R-Qw4rKu4Y0R2LpF4La",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/transaction-monitoring-analyst-financial-fraud-investigator%25E2%2580%2593-entry-level-remote-no-experience-required-at-braintrust-4480175547&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3kCdTU38xdygFHr5-Up2Jk",
@@ -725,7 +758,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/transaction-monitoring-analyst-financial-fraud-investigator%25E2%2580%2593-entry-level-remote-no-experience-required-at-braintrust-4480175547&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3kCdTU38xdygFHr5-Up2Jk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-%25E2%2580%2594-entry-level-at-torentify-4480129562&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2e98Z_GyDMVuwu7GwJfTCw",
@@ -761,7 +794,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-%25E2%2580%2594-entry-level-at-torentify-4480129562&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2e98Z_GyDMVuwu7GwJfTCw",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-entry-level-at-torentify-4479878191&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1VVPs0Wc_zqJShWISnHugJ",
@@ -797,7 +830,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-entry-level-at-torentify-4479878191&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1VVPs0Wc_zqJShWISnHugJ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-bookkeeper-at-iglta-4480122607&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2RUR-PUzPIAijdzczRMtrp",
@@ -832,7 +865,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-bookkeeper-at-iglta-4480122607&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2RUR-PUzPIAijdzczRMtrp",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/buying-labs/product-engineer-hamburg-380417",
@@ -124886,13 +124919,13 @@
       "is_new": false
     }
   ],
-  "count": 3709,
-  "keepers": 533,
-  "fresh": 3127,
-  "new_today": 24,
-  "apply_now": 73,
+  "count": 3710,
+  "keepers": 534,
+  "fresh": 3128,
+  "new_today": 1,
+  "apply_now": 74,
   "apply": 66,
   "consider": 68,
   "morocco": 26,
-  "eligible": 200
+  "eligible": 201
 }
