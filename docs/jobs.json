@@ -1,6 +1,111 @@
 {
-  "generated": "2026-10-17",
+  "generated": "2026-10-18",
   "jobs": [
+    {
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+      "title": "Software Engineer AI Coding Tasks",
+      "company": "Askable",
+      "location": "Remote",
+      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+      "score": 40,
+      "reason": "The role requires a minimum of 2 years of professional software engineering experience and code merged into a public open-source repository, which is not clearly demonstrated in the candidate's profile for the specified duration.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-18",
+      "source": "RemoteOK",
+      "summary": "This role seeks experienced software engineers to create AI coding tasks. It requires a minimum of 2 years of professional experience and contributions to open-source projects. While the candidate has AI and full-stack skills, the experience requirement is a potential mismatch.",
+      "date_posted": "2026-10-17T01:09:20+00:00",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Requires 2+ years of professional software engineering experience and code merged into a public open-source repository, which the candidate's profile does not explicitly confirm for the required durat",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "EARLY_CAREER",
+      "min_years": 2,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Confirmation of 2+ years of professional software engineering experience.",
+        "Evidence of code merged into a public open-source repository."
+      ],
+      "recommended_project": "",
+      "application_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-people-domain-paris-paris-306403",
+      "title": "AI engineer (AI & GenAI) - People Domain (f/m/d)",
+      "company": "Decathlontechnology",
+      "location": "Paris, Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-people-domain-paris-paris-306403",
+      "score": 35,
+      "reason": "The job is located in Paris, France, which is not an eligible location for the candidate due to work authorization and relocation constraints.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-18",
+      "source": "Arbeitnow",
+      "summary": "This role is for an AI engineer at Decathlon in Paris, focusing on Generative AI for HR. The candidate is an AI + Full-Stack Software Developer with relevant AI/LLM skills but is geographically ineligible for this on-site position.",
+      "date_posted": "1792259723",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Paris, France, which requires EU work authorization and is outside the candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-people-domain-paris-paris-306403",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/operations-assistant-entry-level-at-nextgen-hr-4477747349&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1xlJWhlrVJiT2w8FsdeCuH",
+      "title": "Operations Assistant ( Entry-Level )",
+      "company": "NextGen HR — Australia | LinkedIn Jobs",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/operations-assistant-entry-level-at-nextgen-hr-4477747349&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1xlJWhlrVJiT2w8FsdeCuH",
+      "score": 10,
+      "reason": "This role is for an Operations Assistant and does not align with the candidate's technical skills or career aspirations as an AI + Full-Stack Software Developer. Furthermore, the location in Australia is outside the candidate's acceptable geographic scope.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-18",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer targeting junior development roles. This Operations Assistant position is not a technical fit and is located in Australia, which is outside the candidate's geographic eligibility.",
+      "date_posted": "2026-10-17T07:10:42Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is in Australia, candidate cannot relocate and has specific geographic restrictions.",
+      "geographic_scope": "OTHER",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical skill mismatch",
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/operations-assistant-entry-level-at-nextgen-hr-4477747349&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1xlJWhlrVJiT2w8FsdeCuH",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ec.linkedin.com/jobs/view/full-stack-developer-junior-at-bluelabel-s-a-4479360636&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1P7YiNDAn3M6zSehP-OHFs",
       "title": "Full Stack Developer Junior - BLUELABEL SA - LinkedIn",
@@ -32,7 +137,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ec.linkedin.com/jobs/view/full-stack-developer-junior-at-bluelabel-s-a-4479360636&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1P7YiNDAn3M6zSehP-OHFs",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/full-stack-engineer-ai-authoring-platform-hamburg-483900",
@@ -65,7 +170,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/full-stack-engineer-ai-authoring-platform-hamburg-483900",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/ai-engineer-intern-junior-%25E2%2580%2594-applied-ai-and-llm-systems-at-sparkyminis-4477363474&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw0rqofY8JOzycvlYkujhkf_",
@@ -98,7 +203,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/ai-engineer-intern-junior-%25E2%2580%2594-applied-ai-and-llm-systems-at-sparkyminis-4477363474&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw0rqofY8JOzycvlYkujhkf_",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/powerprozesse/jobs/fullstack-developer-100-remote",
@@ -131,7 +236,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://himalayas.app/companies/powerprozesse/jobs/fullstack-developer-100-remote",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1",
@@ -164,7 +269,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://br.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-bairesdev-4479141757&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1zAZtWv3OWEhM51vka-ZlX",
@@ -197,7 +302,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://br.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-bairesdev-4479141757&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1zAZtWv3OWEhM51vka-ZlX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.rekrute.com/offre-emploi-stagiaire-controle-de-base-de-donnees-hf---casablanca-recrutement-groupe-labelvie---carrefour-casablanca-187605.html",
@@ -232,7 +337,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.rekrute.com/offre-emploi-stagiaire-controle-de-base-de-donnees-hf---casablanca-recrutement-groupe-labelvie---carrefour-casablanca-187605.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-86749",
@@ -269,7 +374,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/auralis-group/software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-86749",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
@@ -305,7 +410,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/cosuno/gtm-growth-engineer-berlin-423784",
@@ -340,7 +445,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/cosuno/gtm-growth-engineer-berlin-423784",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-full-stack-developer-at-crewlia-4479347664&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0nPNoBTNoISlbpCGjntLPg",
@@ -375,7 +480,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-full-stack-developer-at-crewlia-4479347664&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0nPNoBTNoISlbpCGjntLPg",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/machine-learning-engineer-cloud-mlops-genai-relocation-provided-amsterdam-163883",
@@ -408,7 +513,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/wypoon/machine-learning-engineer-cloud-mlops-genai-relocation-provided-amsterdam-163883",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/alma31/mobile-engineer-react-native-paris-paris-490024",
@@ -444,7 +549,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/alma31/mobile-engineer-react-native-paris-paris-490024",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-analyst-entry-level-remote-at-torentify-4480358916&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Bp8GeD4w8W0v_wPwc_9ra",
@@ -480,7 +585,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-analyst-entry-level-remote-at-torentify-4480358916&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Bp8GeD4w8W0v_wPwc_9ra",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/melotech/growth-associate-intern-berlin-16164",
@@ -516,7 +621,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/melotech/growth-associate-intern-berlin-16164",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155448-security-research-internship",
@@ -551,7 +656,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155448-security-research-internship",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-event-planner-entry-level-at-professional-travel-hub-4480367408&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1yLufLY21KdwGbNBRy6ObF",
@@ -587,7 +692,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-event-planner-entry-level-at-professional-travel-hub-4480367408&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1yLufLY21KdwGbNBRy6ObF",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.rekrute.com/offre-emploi-stagiaire-rh-hf---casablanca-recrutement-groupe-labelvie---carrefour-casablanca-187606.html",
@@ -620,7 +725,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.rekrute.com/offre-emploi-stagiaire-rh-hf---casablanca-recrutement-groupe-labelvie---carrefour-casablanca-187606.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/ordio-gmbh/business-development-intern-gtm-cologne-177243",
@@ -653,7 +758,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/ordio-gmbh/business-development-intern-gtm-cologne-177243",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-stem-jobs-united-states-at-remoexperts-4388518521&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw298Pz_AC5Q-YiosvMU6gKX",
@@ -688,7 +793,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-stem-jobs-united-states-at-remoexperts-4388518521&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw298Pz_AC5Q-YiosvMU6gKX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-specialist-entry-level-wfh-at-torentify-4480829427&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Kq3TWluFOzU-21bWyCO5E",
@@ -723,7 +828,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-specialist-entry-level-wfh-at-torentify-4480829427&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Kq3TWluFOzU-21bWyCO5E",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/client-success-associate-entry-level-remote-at-trevor-van-woerden-%2540-infuse-4480573336&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1fcMx9m6VFxN6sor39ej7u",
@@ -759,7 +864,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/client-success-associate-entry-level-remote-at-trevor-van-woerden-%2540-infuse-4480573336&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1fcMx9m6VFxN6sor39ej7u",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/client-success-associate-entry-level-remote-at-infuse-4480524349&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3jeUZr3qLJLnYPPZX84Zf8",
@@ -792,7 +897,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/client-success-associate-entry-level-remote-at-infuse-4480524349&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3jeUZr3qLJLnYPPZX84Zf8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-rep-at-agent-alliance-4479381575&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3G4cxGy8GwRm4S4kjWMf1f",
@@ -825,7 +930,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-rep-at-agent-alliance-4479381575&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3G4cxGy8GwRm4S4kjWMf1f",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
@@ -125712,10 +125817,10 @@
       "is_new": false
     }
   ],
-  "count": 3733,
+  "count": 3736,
   "keepers": 538,
-  "fresh": 3148,
-  "new_today": 24,
+  "fresh": 3151,
+  "new_today": 3,
   "apply_now": 77,
   "apply": 67,
   "consider": 70,
