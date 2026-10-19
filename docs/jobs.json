@@ -1,6 +1,41 @@
 {
-  "generated": "2026-10-18",
+  "generated": "2026-10-19",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/mindpeak/full-stack-software-engineer-react-typescript-python-django-hamburg-388907",
+      "title": "Full-Stack Software Engineer (React, TypeScript, Python/Django)",
+      "company": "Mindpeak",
+      "location": "Hamburg",
+      "link": "https://www.arbeitnow.com/jobs/companies/mindpeak/full-stack-software-engineer-react-typescript-python-django-hamburg-388907",
+      "score": 30,
+      "reason": "The job is located in Hamburg, Germany, which is not a viable location for the candidate as they cannot relocate and have specific geographic restrictions. The role is also on-site, which is not permitted outside of Casablanca or Rabat.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-19",
+      "source": "Arbeitnow",
+      "summary": "This is an on-site Full-Stack Software Engineer role in Hamburg, Germany. The candidate is based in Morocco and cannot relocate. Therefore, this role is not a geographic fit.",
+      "date_posted": "1792366832",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in Hamburg, Germany, and candidate cannot relocate. Candidate's geographic rules do not permit on-site/hybrid roles outside of Casablanca or Rabat, nor remote roles requirin",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/mindpeak/full-stack-software-engineer-react-typescript-python-django-hamburg-388907",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/fullstack-engineer-agenticops-100-remote-united-kindom-441724",
       "title": "Fullstack Engineer - AgenticOps (100% Remote)",
@@ -32,7 +67,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/fullstack-engineer-agenticops-100-remote-united-kindom-441724",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
@@ -68,7 +103,7 @@
       ],
       "recommended_project": "HR-Genius",
       "application_url": "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/hsogroupbv/forward-deployed-engineer-399947",
@@ -101,7 +136,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/hsogroupbv/forward-deployed-engineer-399947",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-graduate-program-all-genders-berlin-426568",
@@ -134,7 +169,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-graduate-program-all-genders-berlin-426568",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
@@ -170,7 +205,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-people-domain-paris-paris-306403",
@@ -203,7 +238,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-people-domain-paris-paris-306403",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/hirearchi/jobs/ai-product-engineer",
@@ -238,7 +273,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/hirearchi/jobs/ai-product-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-murialdo-s-a-4478212808&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2mOUivygQJBzL_o6JMtI6S",
@@ -273,7 +308,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-murialdo-s-a-4478212808&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2mOUivygQJBzL_o6JMtI6S",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/nairon/full-stack-mobile-engineer-berlin-182046",
@@ -308,7 +343,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/nairon/full-stack-mobile-engineer-berlin-182046",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/paretolabs/backend-developer-intern-zurich-5433",
@@ -343,7 +378,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/paretolabs/backend-developer-intern-zurich-5433",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/miles-mobility-gmbh/qa-engineering-intern-d-berlin-458294",
@@ -378,7 +413,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/miles-mobility-gmbh/qa-engineering-intern-d-berlin-458294",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/operations-assistant-entry-level-at-nextgen-hr-4477747349&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1xlJWhlrVJiT2w8FsdeCuH",
@@ -414,7 +449,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/operations-assistant-entry-level-at-nextgen-hr-4477747349&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1xlJWhlrVJiT2w8FsdeCuH",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/knowbe4/graduate-cybersecurity-threat-researcher-position-located-in-cheltenham-united-kingdom-93373",
@@ -449,7 +484,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/knowbe4/graduate-cybersecurity-threat-researcher-position-located-in-cheltenham-united-kingdom-93373",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/entry-level-it-jobs-st.-petersburg-fl&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0IxeBeNqS4qfb228ChG5X-",
@@ -482,7 +517,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/entry-level-it-jobs-st.-petersburg-fl&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0IxeBeNqS4qfb228ChG5X-",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/marketing-entry-level-jobs-st-petersburg-fl%3Ff_EA%3Dtrue&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0KDUsl3l6e9Y8DHxFtBdZW",
@@ -517,7 +552,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/marketing-entry-level-jobs-st-petersburg-fl%3Ff_EA%3Dtrue&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0KDUsl3l6e9Y8DHxFtBdZW",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/entry-level-it-jobs-st.-petersburg-fl%3Ff_EA%3Dtrue&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw39CI40vLaUG45oRfttzVut",
@@ -552,7 +587,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/entry-level-it-jobs-st.-petersburg-fl%3Ff_EA%3Dtrue&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw39CI40vLaUG45oRfttzVut",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-cruise-coordinator-at-sky-land-and-ocean-travel-4480848997%3Fposition%3D6%26pageNum%3D0%26refId%3DHtNQM%252BD7kZAefikcT7u0NQ%253D%253D%26trackingId%3DMU%252Bbld9BvzFZZOekVe7%252Fug%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0xQU58Cgu5mRLOpqHShR4z",
@@ -588,7 +623,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-cruise-coordinator-at-sky-land-and-ocean-travel-4480848997%3Fposition%3D6%26pageNum%3D0%26refId%3DHtNQM%252BD7kZAefikcT7u0NQ%253D%253D%26trackingId%3DMU%252Bbld9BvzFZZOekVe7%252Fug%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0xQU58Cgu5mRLOpqHShR4z",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
@@ -623,7 +658,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-sales-representative-entry-level-at-globe-life-insurance-4477791631%3Fposition%3D38%26pageNum%3D0%26refId%3DEvKkC%252BLcRvNawkHg7SvR1g%253D%253D%26trackingId%3DCtS1gCcwwxk1AgqO3qQDPw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1VLZXSywtAiboo7lG5fIr3",
@@ -659,7 +694,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-sales-representative-entry-level-at-globe-life-insurance-4477791631%3Fposition%3D38%26pageNum%3D0%26refId%3DEvKkC%252BLcRvNawkHg7SvR1g%253D%253D%26trackingId%3DCtS1gCcwwxk1AgqO3qQDPw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1VLZXSywtAiboo7lG5fIr3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-travel-advisor-at-no-sweat-travel-4479676655&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0VECbNwc9YdUATQwNrHXuo",
@@ -692,7 +727,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-travel-advisor-at-no-sweat-travel-4479676655&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0VECbNwc9YdUATQwNrHXuo",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/entry-level-it-jobs-st.-petersburg-fl%3Fposition%3D1%26pageNum%3D0&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw302Ybxcsl9hmi5gzJ-IcD6",
@@ -728,7 +763,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/entry-level-it-jobs-st.-petersburg-fl%3Fposition%3D1%26pageNum%3D0&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw302Ybxcsl9hmi5gzJ-IcD6",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155566-international-audio-video-remote-soninke-interpreter",
@@ -764,7 +799,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155566-international-audio-video-remote-soninke-interpreter",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155563-international-audio-video-remote-malay-interpreter",
@@ -797,7 +832,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155563-international-audio-video-remote-malay-interpreter",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/marketinng-assistannt-entry-level-at-nextgen-hr-services-4479634726&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Q2802DKSXq9d04axqDIBz",
@@ -833,7 +868,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/marketinng-assistannt-entry-level-at-nextgen-hr-services-4479634726&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Q2802DKSXq9d04axqDIBz",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155560-international-audio-video-remote-lao-loatian-interpreter",
@@ -866,7 +901,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155560-international-audio-video-remote-lao-loatian-interpreter",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ec.linkedin.com/jobs/view/full-stack-developer-junior-at-bluelabel-s-a-4479360636&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1P7YiNDAn3M6zSehP-OHFs",
@@ -126579,10 +126614,10 @@
       "is_new": false
     }
   ],
-  "count": 3758,
+  "count": 3759,
   "keepers": 542,
-  "fresh": 3173,
-  "new_today": 25,
+  "fresh": 3174,
+  "new_today": 1,
   "apply_now": 78,
   "apply": 70,
   "consider": 70,
