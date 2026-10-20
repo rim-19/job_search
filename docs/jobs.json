@@ -1,6 +1,77 @@
 {
-  "generated": "2026-10-19",
+  "generated": "2026-10-20",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/cybersecurity-intern-remote-entry-level-at-bincom-global-4480962028&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2M-UONaxPf80gyT2mxAQze",
+      "title": "Cybersecurity Intern ( Remote / Entry-Level )",
+      "company": "Bincom Global - LinkedIn",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/cybersecurity-intern-remote-entry-level-at-bincom-global-4480962028&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2M-UONaxPf80gyT2mxAQze",
+      "score": 10,
+      "reason": "The candidate is not eligible due to geographic restrictions and work authorization requirements for the UK.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-20",
+      "source": "Google Alert 8",
+      "summary": "This is a cybersecurity internship role. The candidate's background is in AI and full-stack development, not cybersecurity. The role is also geographically ineligible.",
+      "date_posted": "2026-10-19T09:22:39Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is in the UK and requires UK work authorization, which the candidate does not have.",
+      "geographic_scope": "UK_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical domain mismatch (Cybersecurity vs. AI/Full-Stack)",
+        "Geographic ineligibility (UK)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/cybersecurity-intern-remote-entry-level-at-bincom-global-4480962028&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2M-UONaxPf80gyT2mxAQze",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-legal-assistant-1-3-years-tops-of-exp-at-phaxis-4481239770&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2CGAGYZUz6GyHRtx7GBi78",
+      "title": "REMOTE ENTRY LEVEL LEGAL ASSISTANT (1-3 YEARS TOPS OF EXP)",
+      "company": "Phaxis",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-legal-assistant-1-3-years-tops-of-exp-at-phaxis-4481239770&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2CGAGYZUz6GyHRtx7GBi78",
+      "score": 5,
+      "reason": "The candidate is a software developer specializing in AI and full-stack applications, and this role is for a Legal Assistant, which does not align with her technical skills or career aspirations.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-20",
+      "source": "Google Alert 8",
+      "summary": "This role is for an entry-level Legal Assistant, requiring 1-3 years of experience. The candidate is an AI + Full-Stack Software Developer with extensive technical skills in programming, frontend, backend, databases, and AI/LLM. The role is remote but does not align with the candidate's technical profile.",
+      "date_posted": "2026-10-20T01:47:40Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is for a Legal Assistant, not a software developer.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": 1,
+      "max_years": 3,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical skills mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-legal-assistant-1-3-years-tops-of-exp-at-phaxis-4481239770&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2CGAGYZUz6GyHRtx7GBi78",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://remotive.com/remote/jobs/software-development/junior-developer-node-js-and-react-6289320&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw0TMUyXjJRKxPGCP9FrMaFU",
       "title": "[ Hiring ] Junior Developer – Node.js and React @Framework - Remotive",
@@ -32,7 +103,7 @@
       "gaps": [],
       "recommended_project": "Cupid",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://remotive.com/remote/jobs/software-development/junior-developer-node-js-and-react-6289320&ct=ga&cd=CAIyHDY0YjI5MDU5NTgxMzNlOGE6Y29tOmZyOlVTOkw&usg=AOvVaw0TMUyXjJRKxPGCP9FrMaFU",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
@@ -67,7 +138,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/aifano-gmbh/working-student-werkstudent-applied-ai-software-engineering-herford-51530",
@@ -103,7 +174,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/aifano-gmbh/working-student-werkstudent-applied-ai-software-engineering-herford-51530",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/adomik/full-stack-developer-paris-258791",
@@ -138,7 +209,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/adomik/full-stack-developer-paris-258791",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/mouth-propaganda-gmbh/ai-developer-full-stack-entwickler-cologne-7268",
@@ -171,7 +242,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/mouth-propaganda-gmbh/ai-developer-full-stack-entwickler-cologne-7268",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/aifano-gmbh/forward-deployed-engineer-herford-397985",
@@ -207,7 +278,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/aifano-gmbh/forward-deployed-engineer-herford-397985",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/mindpeak/full-stack-software-engineer-react-typescript-python-django-hamburg-388907",
@@ -242,7 +313,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/mindpeak/full-stack-software-engineer-react-typescript-python-django-hamburg-388907",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/epic-brands-gmbh/praktikum-ai-software-engineer-im-ecommerce-berlin-80656",
@@ -277,7 +348,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/epic-brands-gmbh/praktikum-ai-software-engineer-im-ecommerce-berlin-80656",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/epicgames/web-engineer-intern-london-436997",
@@ -312,7 +383,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/epicgames/web-engineer-intern-london-436997",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/graviton-research-capital-llp/quantitative-researcher-2027-graduates-london-325931",
@@ -348,7 +419,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/graviton-research-capital-llp/quantitative-researcher-2027-graduates-london-325931",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/region10-group-gmbh/full-stack-entwickler-react-nextjs-mit-ui-ux-fokus-kosching-324697",
@@ -383,7 +454,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/region10-group-gmbh/full-stack-entwickler-react-nextjs-mit-ui-ux-fokus-kosching-324697",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/dat-insights-analys-%25EF%25BC%2588remote%25EF%25BC%258Centry-level%25EF%25BC%2589-at-hospital-la-florida-servicio-de-salud-metropolitano-sur-oriente-4478246373&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1T4gsjaqLIqXX-xDaNGY-H",
@@ -418,7 +489,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/dat-insights-analys-%25EF%25BC%2588remote%25EF%25BC%258Centry-level%25EF%25BC%2589-at-hospital-la-florida-servicio-de-salud-metropolitano-sur-oriente-4478246373&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1T4gsjaqLIqXX-xDaNGY-H",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/schubergphilis/freelance-back-end-typescript-developer-rotterdam-262875",
@@ -454,7 +525,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/schubergphilis/freelance-back-end-typescript-developer-rotterdam-262875",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/ocd/ux-ui-designer-paris-336129",
@@ -490,7 +561,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/ocd/ux-ui-designer-paris-336129",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://de.linkedin.com/jobs/view/entry-level-administrative-assistant-remote-at-careerprix-4480949038%3Fposition%3D28%26pageNum%3D0%26refId%3DDN8dS%252FMcjgqxbVtQ5NS1pg%253D%253D%26trackingId%3D6ynASVXK0a39EmLG7KA5JA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw21k0BJd-pBbaN_Fis9-Iq3",
@@ -526,7 +597,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://de.linkedin.com/jobs/view/entry-level-administrative-assistant-remote-at-careerprix-4480949038%3Fposition%3D28%26pageNum%3D0%26refId%3DDN8dS%252FMcjgqxbVtQ5NS1pg%253D%253D%26trackingId%3D6ynASVXK0a39EmLG7KA5JA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw21k0BJd-pBbaN_Fis9-Iq3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://es.linkedin.com/jobs/view/member-at-turkish-armed-forces-g%25C3%25BClhane-military-medical-academy-ankara-turkey-4480890819&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2e4i8Ipb7pJp966yEcpm0E",
@@ -561,7 +632,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://es.linkedin.com/jobs/view/member-at-turkish-armed-forces-g%25C3%25BClhane-military-medical-academy-ankara-turkey-4480890819&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2e4i8Ipb7pJp966yEcpm0E",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155806-backend-engineer-ruby-ai-engineering-agent-foundations",
@@ -596,7 +667,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155806-backend-engineer-ruby-ai-engineering-agent-foundations",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155809-backend-engineer-ruby-create-change-record",
@@ -629,7 +700,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155809-backend-engineer-ruby-create-change-record",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/150946-international-audio-video-remote-kunama-interpreter-must-also-speak-tigrinya-or-arabic",
@@ -662,7 +733,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/150946-international-audio-video-remote-kunama-interpreter-must-also-speak-tigrinya-or-arabic",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155762-international-audio-video-remote-toisan-and-mandarin-or-cantonese-interpreter",
@@ -695,7 +766,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155762-international-audio-video-remote-toisan-and-mandarin-or-cantonese-interpreter",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155758-international-audio-video-remote-spanish-interpreter",
@@ -728,7 +799,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155758-international-audio-video-remote-spanish-interpreter",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-sales-rep-at-agent-alliance-4479922909&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw38kllSHDAUP8N3dhCv6Ww5",
@@ -764,7 +835,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-virtual-sales-rep-at-agent-alliance-4479922909&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw38kllSHDAUP8N3dhCv6Ww5",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ae.linkedin.com/jobs/view/remote-intake-specialist-entry-level-start-immediately-at-turkish-armed-forces-g%25C3%25BClhane-military-medical-academy-ankara-turkey-4480890819&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw087zkFKneBoaqhg8Am4LmJ",
@@ -797,7 +868,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ae.linkedin.com/jobs/view/remote-intake-specialist-entry-level-start-immediately-at-turkish-armed-forces-g%25C3%25BClhane-military-medical-academy-ankara-turkey-4480890819&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw087zkFKneBoaqhg8Am4LmJ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/fullstack-engineer-agenticops-100-remote-united-kindom-441724",
@@ -127377,10 +127448,10 @@
       "is_new": false
     }
   ],
-  "count": 3781,
+  "count": 3783,
   "keepers": 546,
-  "fresh": 3196,
-  "new_today": 23,
+  "fresh": 3198,
+  "new_today": 2,
   "apply_now": 79,
   "apply": 71,
   "consider": 72,
