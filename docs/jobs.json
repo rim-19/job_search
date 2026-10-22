@@ -1,6 +1,42 @@
 {
-  "generated": "2026-10-21",
+  "generated": "2026-10-22",
   "jobs": [
+    {
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8306094",
+      "title": "Commercial Graduate Trainee",
+      "company": "Flexport",
+      "location": "Frankfurt, Germany; Hamburg, Germany",
+      "link": "https://job-boards.greenhouse.io/flexport/jobs/8306094",
+      "score": 5,
+      "reason": "This is a commercial graduate trainee role in Germany, which does not align with the candidate's technical background, AI/Full-Stack Developer positioning, and geographic constraints.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-22",
+      "source": "Flexport (careers)",
+      "summary": "The candidate is an AI + Full-Stack Software Developer seeking technical roles. This position is a commercial graduate trainee role located in Germany, requiring on-site presence.",
+      "date_posted": "2026-10-21T11:13:34-04:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic and role mismatch: The role is in Germany requiring on-site presence, and it is a commercial graduate trainee position, not a technical developer role.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "required",
+      "gaps": [
+        "Role type mismatch",
+        "Geographic mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://job-boards.greenhouse.io/flexport/jobs/8306094",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-full-stack-developer-entry-level-at-nexacode-4481123313&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0x_0vPVSZpG2mEL7qWBvtR",
       "title": "Junior Full Stack Developer (Entry-Level)",
@@ -34,7 +70,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-full-stack-developer-entry-level-at-nexacode-4481123313&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0x_0vPVSZpG2mEL7qWBvtR",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://es.linkedin.com/jobs/view/entry-level-remote-job-generative-ai-content-reviewer-at-rise-data-labs-4478658522&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2PDe-lIJbzvmoLPpj_pKkB",
@@ -70,7 +106,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://es.linkedin.com/jobs/view/entry-level-remote-job-generative-ai-content-reviewer-at-rise-data-labs-4478658522&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2PDe-lIJbzvmoLPpj_pKkB",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-assistant-entry-level-remote-at-torentify-4482043604&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1088SLjTZpcO7nttWF13fZ",
@@ -106,7 +142,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-assistant-entry-level-remote-at-torentify-4482043604&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1088SLjTZpcO7nttWF13fZ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/pixida-group/full-stack-developer-munich-255317",
@@ -142,7 +178,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/pixida-group/full-stack-developer-munich-255317",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156080-backend-engineer-ruby-plan-spec-driven-development",
@@ -178,7 +214,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156080-backend-engineer-ruby-plan-spec-driven-development",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-entry-level-assistant-marketing-remote-role-at-torentify-4482058122%3Fposition%3D8%26pageNum%3D0%26refId%3DAbVMwo2k59Cu4IWoHcT3Pw%253D%253D%26trackingId%3Dvaf1njkxOdnSqDgW12WhNw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2SR7rTpoihdKy1oBwKV3iz",
@@ -211,7 +247,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-entry-level-assistant-marketing-remote-role-at-torentify-4482058122%3Fposition%3D8%26pageNum%3D0%26refId%3DAbVMwo2k59Cu4IWoHcT3Pw%253D%253D%26trackingId%3Dvaf1njkxOdnSqDgW12WhNw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2SR7rTpoihdKy1oBwKV3iz",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156153-customer-success-engineer-london",
@@ -247,7 +283,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156153-customer-success-engineer-london",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/melotech/growth-associate-intern-berlin-482451",
@@ -282,7 +318,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/melotech/growth-associate-intern-berlin-482451",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/optiverus/graduate-fpga-engineer-2027-start-amsterdam-296913",
@@ -319,7 +355,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/optiverus/graduate-fpga-engineer-2027-start-amsterdam-296913",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156072-case-resolution-engineer",
@@ -352,7 +388,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156072-case-resolution-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/entry-level-remote-job-generative-ai-content-reviewer-at-rise-data-labs-4478670096&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1spISiRiYja90MlyUupqVc",
@@ -387,7 +423,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/entry-level-remote-job-generative-ai-content-reviewer-at-rise-data-labs-4478670096&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1spISiRiYja90MlyUupqVc",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-engineer-at-structonix-engineers-4480475744&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0f9eyUBuwlziACxgLcSnlH",
@@ -424,7 +460,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-engineer-at-structonix-engineers-4480475744&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0f9eyUBuwlziACxgLcSnlH",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/alan/security-engineer-junior-grc-anywhere-in-france-76041",
@@ -460,7 +496,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/alan/security-engineer-junior-grc-anywhere-in-france-76041",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156141-international-business-development-representative-nordics",
@@ -496,7 +532,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156141-international-business-development-representative-nordics",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156147-securities-operations-intern-f-m-d",
@@ -531,7 +567,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156147-securities-operations-intern-f-m-d",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156142-stagiaire-operations-titres-f-h-d",
@@ -568,7 +604,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156142-stagiaire-operations-titres-f-h-d",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-entry-level-at-torentify-4481577686&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3M4MP9g6tJBiyG5NfM1gLI",
@@ -604,7 +640,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-entry-level-at-torentify-4481577686&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3M4MP9g6tJBiyG5NfM1gLI",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-entry-level-sales-no-experience-needed-will-train-at-anderson-agency-llc-4481557726&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0egzi1rfvSbyaAe5NMCSlD",
@@ -640,7 +676,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-entry-level-sales-no-experience-needed-will-train-at-anderson-agency-llc-4481557726&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0egzi1rfvSbyaAe5NMCSlD",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-project-control-analyst-hiring-event-with-aecom-boston-ma-at-aecom-4478698486&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1BHfQeZP8anD6EWzmKEY54",
@@ -676,7 +712,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-project-control-analyst-hiring-event-with-aecom-boston-ma-at-aecom-4478698486&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1BHfQeZP8anD6EWzmKEY54",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/hr-support-officer-remote-entry-level-at-le-mans-group-4481599023&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2oEL9Z36JgAckyG9Y4OPPu",
@@ -712,7 +748,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/hr-support-officer-remote-entry-level-at-le-mans-group-4481599023&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2oEL9Z36JgAckyG9Y4OPPu",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/dat-insights-analys-%25EF%25BC%2588remote%25EF%25BC%258Centry-level%25EF%25BC%2589-at-le-m%25C3%25A9dia-positif-djibouti-4478682849&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1MFvQziLaLDNJB_2BxsOhD",
@@ -747,7 +783,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/dat-insights-analys-%25EF%25BC%2588remote%25EF%25BC%258Centry-level%25EF%25BC%2589-at-le-m%25C3%25A9dia-positif-djibouti-4478682849&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1MFvQziLaLDNJB_2BxsOhD",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/graduate-commercial-analyst-remote-uk-entry-level-at-cv-bridge-ltd-4480776615&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1HIT2-qB1ZQ5ONkPg23gLz",
@@ -783,7 +819,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/graduate-commercial-analyst-remote-uk-entry-level-at-cv-bridge-ltd-4480776615&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1HIT2-qB1ZQ5ONkPg23gLz",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-specialist-no-experience-needed-at-the-elmer-agency-4480489671&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0SVPHi-hsp74vM9wrH0QjS",
@@ -819,7 +855,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-specialist-no-experience-needed-at-the-elmer-agency-4480489671&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0SVPHi-hsp74vM9wrH0QjS",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155941-full-stack-engineer-creative-agents",
@@ -129175,10 +129211,10 @@
       "is_new": false
     }
   ],
-  "count": 3832,
+  "count": 3833,
   "keepers": 549,
-  "fresh": 3246,
-  "new_today": 23,
+  "fresh": 3247,
+  "new_today": 1,
   "apply_now": 81,
   "apply": 71,
   "consider": 74,
