@@ -1,6 +1,72 @@
 {
-  "generated": "2026-10-22",
+  "generated": "2026-10-23",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.nl/jobs/companies/ixon-cloud/stage-software-development-beugen-261985",
+      "title": "Stage Software Development",
+      "company": "IXON Cloud",
+      "location": "Beugen, Noord-Brabant, Netherlands",
+      "link": "https://www.arbeitnow.nl/jobs/companies/ixon-cloud/stage-software-development-beugen-261985",
+      "score": 15,
+      "reason": "The internship is located in the Netherlands, which is outside the candidate's geographic eligibility and requires work authorization she does not possess.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-23",
+      "source": "Arbeitnow",
+      "summary": "This is an internship position for Software Development at IXON Cloud in the Netherlands. The role involves contributing to a globally used platform in industrial automation. It is an onsite position.",
+      "date_posted": "1792701101",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is in the Netherlands, requiring EU work authorization which the candidate does not have.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.nl/jobs/companies/ixon-cloud/stage-software-development-beugen-261985",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/data-entry-operative-remote-entry-level-tj-1921529-at-recruit-ai-4482755805&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2eSSSA4htcu_o1jDkJXu-g",
+      "title": "Recruit AI hiring Data Entry Operative - Remote , Entry Level - TJ / 1921529 in Pakistan",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/data-entry-operative-remote-entry-level-tj-1921529-at-recruit-ai-4482755805&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2eSSSA4htcu_o1jDkJXu-g",
+      "score": 10,
+      "reason": "The candidate is geographically ineligible for this role, which is based in Pakistan, and she cannot relocate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-23",
+      "source": "Google Alert 8",
+      "summary": "This role is for a Data Entry Operative, which does not align with the candidate's specialization as an AI + Full-Stack Software Developer. The candidate is seeking development roles, not data entry positions.",
+      "date_posted": "2026-10-22T21:27:35Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is in Pakistan, candidate is in Morocco and cannot relocate.",
+      "geographic_scope": "OTHER",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/data-entry-operative-remote-entry-level-tj-1921529-at-recruit-ai-4482755805&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2eSSSA4htcu_o1jDkJXu-g",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fresher-full-stack-develope-entry-junior-level-at-lm-soleil-centrale-photovolta%25C3%25AFque-4478956148&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw3yJTTlyOWxTBcoTlH7QkN4",
       "title": "Fresher Full Stack Develope (Entry / Junior Level) - Jobs - LinkedIn",
@@ -32,7 +98,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fresher-full-stack-develope-entry-junior-level-at-lm-soleil-centrale-photovolta%25C3%25AFque-4478956148&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw3yJTTlyOWxTBcoTlH7QkN4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
@@ -67,7 +133,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/mozilla/contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox-173655",
@@ -102,7 +168,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/mozilla/contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox-173655",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/kdci/jobs/back-end-developer?utm_source=api",
@@ -137,7 +203,7 @@
       ],
       "recommended_project": "Cupid",
       "application_url": "https://himalayas.app/companies/kdci/jobs/back-end-developer?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mobiapps/expert-fullstack-java-js-f-h-nantes-336889",
@@ -172,7 +238,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mobiapps/expert-fullstack-java-js-f-h-nantes-336889",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7",
@@ -205,7 +271,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/full-stack-developer-eindhoven-293496",
@@ -238,7 +304,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/gradematch/full-stack-developer-eindhoven-293496",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/avisia/stage-de-fin-detudes-ai-engineer-h-f-paris-14404",
@@ -271,7 +337,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/avisia/stage-de-fin-detudes-ai-engineer-h-f-paris-14404",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/ai-ml-engineer-entry-level-at-divine-talent-4480734390&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2T3F3BiMcwCah2npK3gQjX",
@@ -306,7 +372,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/ai-ml-engineer-entry-level-at-divine-talent-4480734390&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2T3F3BiMcwCah2npK3gQjX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/planetscale/jobs/4463390009",
@@ -339,7 +405,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/planetscale/jobs/4463390009",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156284-backend-software-engineer-sdk",
@@ -372,7 +438,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156284-backend-software-engineer-sdk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-develope-entry-level-junior-at-kb-enterprise-4479435561&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1WytEDV6zNxEeq6ohr66Br",
@@ -407,7 +473,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-develope-entry-level-junior-at-kb-enterprise-4479435561&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1WytEDV6zNxEeq6ohr66Br",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156228-mobile-developer-i-us-remote",
@@ -443,7 +509,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156228-mobile-developer-i-us-remote",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/modivcare/jobs/software-engineer-iv-3699988514?utm_source=api",
@@ -476,7 +542,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/modivcare/jobs/software-engineer-iv-3699988514?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fresher-full-stack-develope-entry-junior-level-at-grupo-lf-4480734135&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw3TgFn-qm09MVvdPodzNdR6",
@@ -511,7 +577,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fresher-full-stack-develope-entry-junior-level-at-grupo-lf-4480734135&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw3TgFn-qm09MVvdPodzNdR6",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/ostrom/junior-growth-associate-berlin-304019",
@@ -546,7 +612,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/ostrom/junior-growth-associate-berlin-304019",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/flexport/jobs/8306094",
@@ -582,7 +648,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/flexport/jobs/8306094",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/day-warehouse-associate-damage-control-entry-level-at-labatt-food-service-4482158676&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw127Zb_3QndISRnTUbuu3Br",
@@ -618,7 +684,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/day-warehouse-associate-damage-control-entry-level-at-labatt-food-service-4482158676&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw127Zb_3QndISRnTUbuu3Br",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/pavago/remote-seo-digital-marketing-specialist-switzerland-427846",
@@ -654,7 +720,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/pavago/remote-seo-digital-marketing-specialist-switzerland-427846",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/office-operations-assistant-remote-%25E2%2580%2593-%25C2%25A330-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4482044827&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0fro40uQvrzZjs6BnRBCDQ",
@@ -689,7 +755,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/office-operations-assistant-remote-%25E2%2580%2593-%25C2%25A330-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4482044827&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0fro40uQvrzZjs6BnRBCDQ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-care-sales-agent-entry-level-no-cold-calling-training-provided-at-delaney-agency-4479403212&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0fpHk4KAshtAtiJDslXOSf",
@@ -724,7 +790,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-care-sales-agent-entry-level-no-cold-calling-training-provided-at-delaney-agency-4479403212&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0fpHk4KAshtAtiJDslXOSf",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/flexible-work-entry-level-sales-at-vector-marketing-4478975655&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw231QrXdhL41ZoRzSg5aFea",
@@ -759,7 +825,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/flexible-work-entry-level-sales-at-vector-marketing-4478975655&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw231QrXdhL41ZoRzSg5aFea",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-support-specialist-remote-at-the-elmer-agency-4480795604&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1DIVFNnP7g9uqN_I--rLQB",
@@ -794,7 +860,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-support-specialist-remote-at-the-elmer-agency-4480795604&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1DIVFNnP7g9uqN_I--rLQB",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-full-stack-developer-entry-level-at-nexacode-4481123313&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0x_0vPVSZpG2mEL7qWBvtR",
@@ -129970,10 +130036,10 @@
       "is_new": false
     }
   ],
-  "count": 3855,
+  "count": 3857,
   "keepers": 553,
-  "fresh": 3268,
-  "new_today": 23,
+  "fresh": 3270,
+  "new_today": 2,
   "apply_now": 82,
   "apply": 71,
   "consider": 77,
