@@ -1,6 +1,42 @@
 {
-  "generated": "2026-10-23",
+  "generated": "2026-10-24",
   "jobs": [
+    {
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8911684002",
+      "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
+      "company": "GitLab",
+      "location": "Remote, Poland",
+      "link": "https://job-boards.greenhouse.io/gitlab/jobs/8911684002",
+      "score": 25,
+      "reason": "The candidate is not eligible due to geographic restrictions, as the role is remote in Poland and they cannot relocate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-24",
+      "source": "GitLab (careers)",
+      "summary": "This role is for an Intermediate Fullstack Engineer with Ruby/Vue.js experience, focusing on growth at GitLab. The candidate is an AI + Full-Stack Software Developer with a strong focus on Python, JavaScript, and modern web technologies, but lacks Ruby/Vue.js experience.",
+      "date_posted": "2026-10-23T12:40:03-04:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is remote Poland, candidate cannot relocate and has specific geographic restrictions.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "REMOTE",
+      "seniority": "EARLY_CAREER",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Lack of Ruby/Vue.js experience",
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://job-boards.greenhouse.io/gitlab/jobs/8911684002",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ae.linkedin.com/jobs/view/coordinator-of-volunteers-at-ki-glass-4479449663&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2ln8GW6F-EeOGzbfnVXTcW",
       "title": "Fresher Full Stack Develope (Entry / Junior Level) - LinkedIn",
@@ -32,7 +68,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ae.linkedin.com/jobs/view/coordinator-of-volunteers-at-ki-glass-4479449663&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2ln8GW6F-EeOGzbfnVXTcW",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156576-supalite-engineer",
@@ -68,7 +104,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://jobicy.com/jobs/156576-supalite-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/backend-engineer-zug-145470",
@@ -103,7 +139,7 @@
       ],
       "recommended_project": "Cupid",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/blockvora/backend-engineer-zug-145470",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/adstrong/backend-software-engineer-rust-ai-first-e-commerce-tech-berlin-334474",
@@ -138,7 +174,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/adstrong/backend-software-engineer-rust-ai-first-e-commerce-tech-berlin-334474",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/devops-engineer-100-remote-united-kindom-97107",
@@ -171,7 +207,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/devops-engineer-100-remote-united-kindom-97107",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/papers-ag/growth-ai-marketing-operations-specialist-zug-251104",
@@ -207,7 +243,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/papers-ag/growth-ai-marketing-operations-specialist-zug-251104",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-122621",
@@ -240,7 +276,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-122621",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-finance-domain-lille-jardin-des-plantes-nord-paris-paris-349537",
@@ -275,7 +311,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-finance-domain-lille-jardin-des-plantes-nord-paris-paris-349537",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/european-dynamics/remote-test-automation-engineer-strasbourg-449366",
@@ -312,7 +348,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/european-dynamics/remote-test-automation-engineer-strasbourg-449366",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8682860002",
@@ -348,7 +384,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/gitlab/jobs/8682860002",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fresher-full-stack-develope-entry-junior-level-at-ki-glass-4479449663&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw234b7cF2FrVHKFg1Pr1Ced",
@@ -383,7 +419,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fresher-full-stack-develope-entry-junior-level-at-ki-glass-4479449663&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw234b7cF2FrVHKFg1Pr1Ced",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/snyk/associate-implementation-consultant-london-350623",
@@ -419,7 +455,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/snyk/associate-implementation-consultant-london-350623",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/ixon-cloud/stage-software-development-beugen-261985",
@@ -452,7 +488,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/ixon-cloud/stage-software-development-beugen-261985",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/multa-medio-informationssysteme-ag/php-entwickler-wurzburg-27841",
@@ -485,7 +521,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/multa-medio-informationssysteme-ag/php-entwickler-wurzburg-27841",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/p3b-ag/software-entwicklerin-net-azure-80-100-bern-143843",
@@ -522,7 +558,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/p3b-ag/software-entwicklerin-net-azure-80-100-bern-143843",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.rekrute.com/offre-emploi-stagiaires-it-support-recrutement-foundever-ex-sitel-group-casablanca-187824.html",
@@ -557,7 +593,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.rekrute.com/offre-emploi-stagiaires-it-support-recrutement-foundever-ex-sitel-group-casablanca-187824.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891836002",
@@ -593,7 +629,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/gitlab/jobs/8891836002",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156600-engineering-internal-ai-transformation-2",
@@ -628,7 +664,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156600-engineering-internal-ai-transformation-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-291866",
@@ -664,7 +700,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-291866",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/data-entry-operative-remote-entry-level-tj-1921529-at-recruit-ai-4482755805&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2eSSSA4htcu_o1jDkJXu-g",
@@ -697,7 +733,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/data-entry-operative-remote-entry-level-tj-1921529-at-recruit-ai-4482755805&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2eSSSA4htcu_o1jDkJXu-g",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/pavago/remote-seo-digital-marketing-specialist-germany-471206",
@@ -733,7 +769,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/pavago/remote-seo-digital-marketing-specialist-germany-471206",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-quality-control-post-production-at-carvana-4480075376&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2-em2_R6NCfEjcgvlTasKW",
@@ -769,7 +805,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-quality-control-post-production-at-carvana-4480075376&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2-em2_R6NCfEjcgvlTasKW",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/hr-recruiter-intern-unpaid-part-time-mandatory-internship-at-early-stage-startup-berlin-277434",
@@ -804,7 +840,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/hr-recruiter-intern-unpaid-part-time-mandatory-internship-at-early-stage-startup-berlin-277434",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/pavago/remote-seo-digital-marketing-specialist-france-101137",
@@ -841,7 +877,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/pavago/remote-seo-digital-marketing-specialist-france-101137",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-itinerary-coordinator-entry-level-at-remote-travel-career-network-4475608083&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3eqRoFeX1qFmLrlFc6V1nG",
@@ -877,7 +913,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-itinerary-coordinator-entry-level-at-remote-travel-career-network-4475608083&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3eqRoFeX1qFmLrlFc6V1nG",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/flexport/commercial-graduate-trainee-frankfurt-hamburg-100324",
@@ -910,7 +946,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/flexport/commercial-graduate-trainee-frankfurt-hamburg-100324",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fresher-full-stack-develope-entry-junior-level-at-lm-soleil-centrale-photovolta%25C3%25AFque-4478956148&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw3yJTTlyOWxTBcoTlH7QkN4",
@@ -130881,10 +130917,10 @@
       "is_new": false
     }
   ],
-  "count": 3881,
+  "count": 3882,
   "keepers": 556,
-  "fresh": 3293,
-  "new_today": 26,
+  "fresh": 3294,
+  "new_today": 1,
   "apply_now": 83,
   "apply": 73,
   "consider": 78,
