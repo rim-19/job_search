@@ -1,6 +1,179 @@
 {
-  "generated": "2026-10-24",
+  "generated": "2026-10-25",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496",
+      "title": "Software Engineer – Mission Control Software",
+      "company": "The Exploration Company",
+      "location": "Munich, Germany",
+      "link": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496",
+      "score": 35,
+      "reason": "The candidate is not eligible for this role due to the location requirement in Munich, Germany, as they cannot relocate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-25",
+      "source": "Arbeitnow",
+      "summary": "This role requires an on-site presence in Munich, Germany, which conflicts with the candidate's geographic constraints. While the technical stack has some overlap, the location is a hard disqualifier.",
+      "date_posted": "1792885211",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in Munich, Germany, and candidate cannot relocate.",
+      "geographic_scope": "EMEA",
+      "remote_type": "ONSITE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Location"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/swoofle-gmbh/praktikum-anwendungsentwicklung-berlin-174622",
+      "title": "Praktikum Anwendungsentwicklung (w/m/d)",
+      "company": "SWOOFLE GmbH",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/swoofle-gmbh/praktikum-anwendungsentwicklung-berlin-174622",
+      "score": 30,
+      "reason": "The role is an internship in Berlin, Germany, which is geographically ineligible due to work authorization requirements and the candidate's inability to relocate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-25",
+      "source": "Arbeitnow",
+      "summary": "This is a Praktikum Anwendungsentwicklung (internship) role in Berlin, Germany, focusing on website and internal web application development, database maintenance, and new application implementation. It requires basic knowledge of JavaScript, PHP, CSS, and HTML, with Node.js and frontend frameworks being advantageous.",
+      "date_posted": "1792879229",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Berlin, Germany, which requires EU work authorization not held by the candidate.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "required",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/swoofle-gmbh/praktikum-anwendungsentwicklung-berlin-174622",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/front-house-at-precision-hr-4481014901&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1L2MCRy8gqo1RNnxatLsql",
+      "title": "Precision HR hiring Operationns Assistant ( Entry-Level ) in Australia | LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/front-house-at-precision-hr-4481014901&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1L2MCRy8gqo1RNnxatLsql",
+      "score": 10,
+      "reason": "The role is for an Operations Assistant in Australia, which does not align with the candidate's AI + Full-Stack Software Developer profile or geographic constraints.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-25",
+      "source": "Google Alert 8",
+      "summary": "This role is for an Operations Assistant in Australia, requiring no specific technical skills. The candidate is an AI + Full-Stack Software Developer based in Morocco and cannot relocate.",
+      "date_posted": "2026-10-24T04:46:57Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is in Australia, candidate is based in Morocco and cannot relocate.",
+      "geographic_scope": "OTHER",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical skills mismatch",
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/front-house-at-precision-hr-4481014901&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1L2MCRy8gqo1RNnxatLsql",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-life-insurance-professional-entry-level-at-gibbons-group-4481038326&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3NNRz-Ar7PAAcgV73c0P7o",
+      "title": "Gibbons Group hiring Remote Life Insurance Professional - Entry Level in Laredo, TX",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-life-insurance-professional-entry-level-at-gibbons-group-4481038326&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3NNRz-Ar7PAAcgV73c0P7o",
+      "score": 5,
+      "reason": "The job is for an entry-level Life Insurance Professional, which has no technical overlap with the candidate's AI and Full-Stack Software Developer profile.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-25",
+      "source": "Google Alert 8",
+      "summary": "This role is for an entry-level Life Insurance Professional and does not align with the candidate's technical skills or career aspirations as an AI + Full-Stack Software Developer.",
+      "date_posted": "2026-10-24T08:24:42Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: role is in Laredo, TX (USA), and candidate cannot relocate or work in the US.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-life-insurance-professional-entry-level-at-gibbons-group-4481038326&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3NNRz-Ar7PAAcgV73c0P7o",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-enntry-clerk-entry-level-at-dna-people-and-culture-4483303296&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2e7Y7tZeARZyFhYeGcl2LW",
+      "title": "DNA People and Culture hiring Data Enntry Clerk - Entry Level in Australia | LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-enntry-clerk-entry-level-at-dna-people-and-culture-4483303296&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2e7Y7tZeARZyFhYeGcl2LW",
+      "score": 5,
+      "reason": "The job is for a Data Entry Clerk in Australia, which does not align with the candidate's AI + Full-Stack Software Developer profile or geographic constraints.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-25",
+      "source": "Google Alert 8",
+      "summary": "This role is for a Data Entry Clerk in Australia. The candidate is an AI + Full-Stack Software Developer based in Morocco and is not eligible for roles in Australia.",
+      "date_posted": "2026-10-24T04:26:28Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is in Australia, candidate cannot relocate.",
+      "geographic_scope": "OTHER",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic location mismatch",
+        "Role type mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-enntry-clerk-entry-level-at-dna-people-and-culture-4483303296&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2e7Y7tZeARZyFhYeGcl2LW",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/full-stack-engineer-ai-authoring-platform-berlin-234521",
       "title": "Full-Stack Engineer — AI Authoring Platform",
@@ -32,7 +205,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/full-stack-engineer-ai-authoring-platform-berlin-234521",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
@@ -67,7 +240,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/product-engineer-paris-152402",
@@ -102,7 +275,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/the-flex/product-engineer-paris-152402",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/gorgias/gtm-engineer-growth-paris-22627",
@@ -137,7 +310,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/gorgias/gtm-engineer-growth-paris-22627",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156583-cloud-platform-engineer",
@@ -170,7 +343,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156583-cloud-platform-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/paretolabs/frontend-developer-intern-zurich-262783",
@@ -205,7 +378,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/paretolabs/frontend-developer-intern-zurich-262783",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/centric/stage-software-developer-gouda-40167",
@@ -238,7 +411,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/centric/stage-software-developer-gouda-40167",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8911684002",
@@ -274,7 +447,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/gitlab/jobs/8911684002",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-intermediate-fullstack-engineer-ruby-vuejs-growth-413932",
@@ -309,7 +482,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-intermediate-fullstack-engineer-ruby-vuejs-growth-413932",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156665-forward-deployed-engineer-emea",
@@ -345,7 +518,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156665-forward-deployed-engineer-emea",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153",
@@ -380,7 +553,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-java-software-developer-at-jobgether-4481683034&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2pBKWgNF9AwKv_rIUS8QDT",
@@ -416,7 +589,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-java-software-developer-at-jobgether-4481683034&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2pBKWgNF9AwKv_rIUS8QDT",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156386-offensive-security-engineer-2",
@@ -452,7 +625,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156386-offensive-security-engineer-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/pavago/remote-seo-digital-marketing-specialist-netherlands-5151",
@@ -488,7 +661,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/pavago/remote-seo-digital-marketing-specialist-netherlands-5151",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-leipzig-saxony-85075",
@@ -524,7 +697,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-leipzig-saxony-85075",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/mercury-business-services/jobs/java-software-engineer-backend-4257958107?utm_source=api",
@@ -560,7 +733,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/mercury-business-services/jobs/java-software-engineer-backend-4257958107?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-assistant-entry-level-remote-at-torentify-4482883619&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1b6MyVwJSCB6v0Y3NhZ783",
@@ -596,7 +769,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-assistant-entry-level-remote-at-torentify-4482883619&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1b6MyVwJSCB6v0Y3NhZ783",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-technology-strategy-analyst-physical-sciences-engineering-2027-start-389045",
@@ -632,7 +805,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-technology-strategy-analyst-physical-sciences-engineering-2027-start-389045",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156615-servicenow-developer",
@@ -667,7 +840,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156615-servicenow-developer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/graduate-structures-engineer-germany-279752",
@@ -703,7 +876,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/graduate-structures-engineer-germany-279752",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-broker-remote-at-salesdraft-talent-agency-4483130425&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3a0eoB7mTb370TWWJaodDh",
@@ -739,7 +912,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-broker-remote-at-salesdraft-talent-agency-4483130425&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3a0eoB7mTb370TWWJaodDh",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-marketing-at-ja-consultoria-e-engenharia-integrada-4481677983&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2bPV2ubey923lo9l_c1PM_",
@@ -774,7 +947,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-marketing-at-ja-consultoria-e-engenharia-integrada-4481677983&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2bPV2ubey923lo9l_c1PM_",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-booking-agent-%25E2%2580%2593-hotels-packages-at-wanderwell-collective-4475610001%3FrefId%3DiqrqE%252Bxpclp4ml6YET%252FTQA%253D%253D%26trackingId%3D0UWW575q1fMIGZ8%252FoQ5PJA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw16qOcd1wBZV9YG504kcZBl",
@@ -807,7 +980,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-booking-agent-%25E2%2580%2593-hotels-packages-at-wanderwell-collective-4475610001%3FrefId%3DiqrqE%252Bxpclp4ml6YET%252FTQA%253D%253D%26trackingId%3D0UWW575q1fMIGZ8%252FoQ5PJA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw16qOcd1wBZV9YG504kcZBl",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/certified-medical-coder-entry-level-at-yochana-4481957674&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0TA_DRtsPo3wh3NUaHvYf0",
@@ -840,7 +1013,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/certified-medical-coder-entry-level-at-yochana-4481957674&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0TA_DRtsPo3wh3NUaHvYf0",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sports-travel-event-coordinator-at-remote-travel-career-network-4475602383&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0dxOdy5PjodZOhjR7Ih72W",
@@ -875,7 +1048,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sports-travel-event-coordinator-at-remote-travel-career-network-4475602383&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0dxOdy5PjodZOhjR7Ih72W",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ae.linkedin.com/jobs/view/coordinator-of-volunteers-at-ki-glass-4479449663&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2ln8GW6F-EeOGzbfnVXTcW",
@@ -131757,10 +131930,10 @@
       "is_new": false
     }
   ],
-  "count": 3906,
+  "count": 3911,
   "keepers": 557,
-  "fresh": 3318,
-  "new_today": 25,
+  "fresh": 3323,
+  "new_today": 5,
   "apply_now": 84,
   "apply": 73,
   "consider": 79,
