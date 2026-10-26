@@ -1,6 +1,76 @@
 {
-  "generated": "2026-10-25",
+  "generated": "2026-10-26",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/plaid/remote-technical-support-engineer-22092",
+      "title": "Technical Support Engineer",
+      "company": "Plaid",
+      "location": "London Office",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/plaid/remote-technical-support-engineer-22092",
+      "score": 15,
+      "reason": "The role is an on-site position in London, which is geographically ineligible for the candidate who cannot relocate and has specific geographic restrictions.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-26",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Technical Support Engineer at Plaid, located in their London office. The position involves collaborative issue resolution and investigating technical integration issues for customers. The candidate is not eligible due to the on-site requirement in London.",
+      "date_posted": "1792964432",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is London Office, which is not eligible for the candidate.",
+      "geographic_scope": "UK_ONLY",
+      "remote_type": "ONSITE",
+      "seniority": "UNKNOWN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility (on-site London)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/plaid/remote-technical-support-engineer-22092",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/customer-support-advisor-entry-level-at-torentify-4483360961&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw15sWaW1-SfrVSOzFVRHhZy",
+      "title": "Customer Support Advisor | Entry Level",
+      "company": "Torentify — United States | LinkedIn Jobs",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/customer-support-advisor-entry-level-at-torentify-4483360961&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw15sWaW1-SfrVSOzFVRHhZy",
+      "score": 5,
+      "reason": "This role is for a Customer Support Advisor, which is not a technical role and does not align with the candidate's specialization as an AI + Full-Stack Software Developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-26",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer seeking junior/entry-level technical roles. This position is for a Customer Support Advisor, which is outside of their technical expertise and career focus.",
+      "date_posted": "2026-10-25T12:52:16Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is not technical and does not align with candidate's profile.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Role is non-technical"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/customer-support-advisor-entry-level-at-torentify-4483360961&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw15sWaW1-SfrVSOzFVRHhZy",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://himalayas.app/jobs/countries/bahrain/entry-level-ai-agents-developer&ct=ga&cd=CAIyHDdkYThmN2M3MWIwMzVhZTU6Y29tOmZyOlVTOkw&usg=AOvVaw1glNdUIMwkdZvhN6AfjN35",
       "title": "Remote Entry-level AI Agents Developer Jobs in Bahrain | Himalayas",
@@ -32,7 +102,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://himalayas.app/jobs/countries/bahrain/entry-level-ai-agents-developer&ct=ga&cd=CAIyHDdkYThmN2M3MWIwMzVhZTU6Y29tOmZyOlVTOkw&usg=AOvVaw1glNdUIMwkdZvhN6AfjN35",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156940-software-engineer-storage",
@@ -65,7 +135,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://jobicy.com/jobs/156940-software-engineer-storage",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
@@ -101,7 +171,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496",
@@ -136,7 +206,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/itq/remote-platform-engineer-paris-409658",
@@ -172,7 +242,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/itq/remote-platform-engineer-paris-409658",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156946-platform-engineer-compute-capacity",
@@ -208,7 +278,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156946-platform-engineer-compute-capacity",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/swoofle-gmbh/praktikum-anwendungsentwicklung-berlin-174622",
@@ -241,7 +311,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/swoofle-gmbh/praktikum-anwendungsentwicklung-berlin-174622",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156913-devops-engineer-live-entertainment-company",
@@ -277,7 +347,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156913-devops-engineer-live-entertainment-company",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/fullstack-engineer-united-kingdom-158685",
@@ -310,7 +380,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/fullstack-engineer-united-kingdom-158685",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/ai-tooling-engineer-switzerland-335267",
@@ -343,7 +413,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/jobgether/ai-tooling-engineer-switzerland-335267",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156770-threat-researcher",
@@ -379,7 +449,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156770-threat-researcher",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156923-intermediate-fullstack-engineer-ruby-vue-js-growth",
@@ -415,7 +485,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156923-intermediate-fullstack-engineer-ruby-vue-js-growth",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/graduate-hardware-engineer-slough-gb-25277",
@@ -451,7 +521,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/graduate-hardware-engineer-slough-gb-25277",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156953-sr-ai-ml-engineer-mxc",
@@ -486,7 +556,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156953-sr-ai-ml-engineer-mxc",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-ai-data-annotation-specialist-united-states-remote-at-remoexperts-4386353969&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Ir8xm1geyRVhbdaPU8RMN",
@@ -522,7 +592,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-ai-data-annotation-specialist-united-states-remote-at-remoexperts-4386353969&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2Ir8xm1geyRVhbdaPU8RMN",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/front-house-at-precision-hr-4481014901&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1L2MCRy8gqo1RNnxatLsql",
@@ -558,7 +628,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/front-house-at-precision-hr-4481014901&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1L2MCRy8gqo1RNnxatLsql",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-ai-ml-ai-platform-london-257080",
@@ -594,7 +664,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-ai-ml-ai-platform-london-257080",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156926-intermediate-software-engineer-security-factory-vulnerability-management",
@@ -629,7 +699,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156926-intermediate-software-engineer-security-factory-vulnerability-management",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/droppery/marketing-ai-internship-nederlands-amsterdam-45699",
@@ -666,7 +736,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/droppery/marketing-ai-internship-nederlands-amsterdam-45699",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/metasys/jobs/graphic-designer-internship?utm_source=api",
@@ -701,7 +771,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/metasys/jobs/graphic-designer-internship?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/luxury-presence/jobs/junior-web-builder?utm_source=api",
@@ -736,7 +806,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/luxury-presence/jobs/junior-web-builder?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-life-insurance-professional-entry-level-at-gibbons-group-4481038326&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3NNRz-Ar7PAAcgV73c0P7o",
@@ -769,7 +839,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-life-insurance-professional-entry-level-at-gibbons-group-4481038326&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3NNRz-Ar7PAAcgV73c0P7o",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-enntry-clerk-entry-level-at-dna-people-and-culture-4483303296&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2e7Y7tZeARZyFhYeGcl2LW",
@@ -805,7 +875,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-enntry-clerk-entry-level-at-dna-people-and-culture-4483303296&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2e7Y7tZeARZyFhYeGcl2LW",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-representative-entry-level-friendly-training-mentorship-provided-at-pound-hounds-insurance-4483107049&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0-u9RcjE6ZUt6-muSfZ1qZ",
@@ -840,7 +910,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-representative-entry-level-friendly-training-mentorship-provided-at-pound-hounds-insurance-4483107049&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0-u9RcjE6ZUt6-muSfZ1qZ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/operations-assistannt-%25E2%2580%2593-entry-level-at-platinum-people-hr-4483169912&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3uQ4NKvsOJiGlvn-OYokng",
@@ -876,7 +946,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/operations-assistannt-%25E2%2580%2593-entry-level-at-platinum-people-hr-4483169912&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3uQ4NKvsOJiGlvn-OYokng",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-life-insurance-professional-entry-level-at-gibbons-group-4481036424&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Ar3WT3WMSjT8gK2kytRfQ",
@@ -912,7 +982,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-life-insurance-professional-entry-level-at-gibbons-group-4481036424&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Ar3WT3WMSjT8gK2kytRfQ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/administrative-assistannt-%25E2%2580%2593-entry-level-australia-at-maczin-seo-company-melbourne-4481083057&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw151I6tNg2UVlcbTSgXD92r",
@@ -948,7 +1018,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/administrative-assistannt-%25E2%2580%2593-entry-level-australia-at-maczin-seo-company-melbourne-4481083057&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw151I6tNg2UVlcbTSgXD92r",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-consultant-at-bestdrive-by-continental-4481073272&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw22rMrEVYrdmSIIpsLOd7HC",
@@ -984,7 +1054,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-consultant-at-bestdrive-by-continental-4481073272&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw22rMrEVYrdmSIIpsLOd7HC",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-consultant-at-intellectual-property-management-ipm-cell-ic-sr-iit-madras-4481058047&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0BajraDnf_1E-XG1_Tvx3l",
@@ -1019,7 +1089,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-consultant-at-intellectual-property-management-ipm-cell-ic-sr-iit-madras-4481058047&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0BajraDnf_1E-XG1_Tvx3l",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-financial-planner-100%2525-remote-part-time-only-flexible-schedule-at-the-winners-circle-group-4483324398&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3uWtKEkJn5naImDjdZ7NMF",
@@ -1054,7 +1124,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-financial-planner-100%2525-remote-part-time-only-flexible-schedule-at-the-winners-circle-group-4483324398&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3uWtKEkJn5naImDjdZ7NMF",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/full-stack-engineer-ai-authoring-platform-berlin-234521",
@@ -132812,10 +132882,10 @@
       "is_new": false
     }
   ],
-  "count": 3936,
+  "count": 3938,
   "keepers": 560,
-  "fresh": 3348,
-  "new_today": 30,
+  "fresh": 3350,
+  "new_today": 2,
   "apply_now": 84,
   "apply": 74,
   "consider": 81,
