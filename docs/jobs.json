@@ -1,6 +1,75 @@
 {
-  "generated": "2026-10-26",
+  "generated": "2026-10-27",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://id.linkedin.com/jobs/view/junior-software-engineer-python-next-js-at-codex-gate-4482954080&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw34-zSqqmBz1FPaOIrlC5OE",
+      "title": "Junior Software Engineer (Python / Next.js ) - CodeX Gate - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://id.linkedin.com/jobs/view/junior-software-engineer-python-next-js-at-codex-gate-4482954080&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw34-zSqqmBz1FPaOIrlC5OE",
+      "score": 88,
+      "reason": "This role aligns well with the candidate's AI and full-stack development skills, specifically mentioning AI agents, RAG, and workflow automation, and the 'Junior' title fits her early-career profile.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-27",
+      "source": "Google Alert 9",
+      "summary": "This Junior Software Engineer role at CodeX Gate is a strong match due to its focus on AI agents, RAG, and workflow automation, aligning perfectly with the candidate's AI-first full-stack specialization. The 'Junior' title and remote nature are also ideal.",
+      "date_posted": "2026-10-26T10:35:00Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "priority": "APPLY_NOW",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate meets geographic and seniority requirements.",
+      "geographic_scope": "EMEA",
+      "remote_type": "REMOTE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://id.linkedin.com/jobs/view/junior-software-engineer-python-next-js-at-codex-gate-4482954080&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw34-zSqqmBz1FPaOIrlC5OE",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-14945",
+      "title": "Golang Backend Engineer, Financial Product Fraud",
+      "company": "Deliveroo",
+      "location": "London, England, United Kingdom",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-14945",
+      "score": 15,
+      "reason": "The candidate is geographically ineligible for this role, which is based in London, UK, and requires on-site presence. The candidate's technical skills do not align with the primary Golang requirement.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-27",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Golang Backend Engineer in London, UK, focusing on financial product fraud detection. The candidate is based in Morocco and cannot relocate or work in the UK. While the role involves backend development, the primary language requirement (Golang) is not a match for the candidate's stated skills.",
+      "date_posted": "1793054726",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in London, UK, and candidate cannot relocate or work in the UK without authorization.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic Ineligibility",
+        "Primary Technology Mismatch (Golang)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-14945",
+      "is_new": true
+    },
     {
       "url": "https://jobicy.com/jobs/156947-software-engineer-branching",
       "title": "Software Engineer - Branching",
@@ -32,7 +101,7 @@
       "gaps": [],
       "recommended_project": "PromptCheck",
       "application_url": "https://jobicy.com/jobs/156947-software-engineer-branching",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-133259",
@@ -65,7 +134,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-133259",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/virtuslab/jobs/python-tooling-engineer?utm_source=api",
@@ -100,7 +169,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/virtuslab/jobs/python-tooling-engineer?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/157048-safety-engineer-backend-leaning",
@@ -133,7 +202,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/157048-safety-engineer-backend-leaning",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/nexoya/trainee-marketing-analytics-ai-zurich-189240",
@@ -166,7 +235,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/nexoya/trainee-marketing-analytics-ai-zurich-189240",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/alan/cto-founder-associate-internship-paris-france-374798",
@@ -199,7 +268,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/alan/cto-founder-associate-internship-paris-france-374798",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/plaid/remote-technical-support-engineer-22092",
@@ -234,7 +303,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/plaid/remote-technical-support-engineer-22092",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultant-developpeur-marketing-technology-crm-data-3-a-5-ans-dexperience-paris-251838",
@@ -270,7 +339,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultant-developpeur-marketing-technology-crm-data-3-a-5-ans-dexperience-paris-251838",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-signal-engineer-at-executiveplacements-com-4483364470&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw07ADi6EWoElLPuLesraWkq",
@@ -306,7 +375,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-signal-engineer-at-executiveplacements-com-4483364470&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw07ADi6EWoElLPuLesraWkq",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-anti-money-laundering-aml-analyst-paid-training-at-revature-4482986064%3Fposition%3D29%26pageNum%3D0%26refId%3Dyz0R9D%252FN6w43AK4PXYTy6A%253D%253D%26trackingId%3DYLBzMjNIouI%252FQPglmUx3Kg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1eGxbFwxj4V6BeS9r_0FYj",
@@ -341,7 +410,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-anti-money-laundering-aml-analyst-paid-training-at-revature-4482986064%3Fposition%3D29%26pageNum%3D0%26refId%3Dyz0R9D%252FN6w43AK4PXYTy6A%253D%253D%26trackingId%3DYLBzMjNIouI%252FQPglmUx3Kg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1eGxbFwxj4V6BeS9r_0FYj",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/156938-tmf-associate",
@@ -374,7 +443,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/156938-tmf-associate",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/cloud-enginee-remote-entry-level-at-construtora-jf-mori%25C3%25A1-ltda-4481413096&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0lidiMlP1h5VhVH9piwvoN",
@@ -409,7 +478,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/cloud-enginee-remote-entry-level-at-construtora-jf-mori%25C3%25A1-ltda-4481413096&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0lidiMlP1h5VhVH9piwvoN",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/dat-insights-analys-remote-entry-level-at-jf-consult-4483391876%3Fposition%3D59%26pageNum%3D0%26refId%3DTj%252FPbZ6hh8HXFW6PdKUqeQ%253D%253D%26trackingId%3D9zYBQN75QrFM%252BlvVrCLy2g%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0j9bCuB1veeMOcGNk_122o",
@@ -445,7 +514,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/dat-insights-analys-remote-entry-level-at-jf-consult-4483391876%3Fposition%3D59%26pageNum%3D0%26refId%3DTj%252FPbZ6hh8HXFW6PdKUqeQ%253D%253D%26trackingId%3D9zYBQN75QrFM%252BlvVrCLy2g%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0j9bCuB1veeMOcGNk_122o",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/157187-web-integrations-support-engineer",
@@ -480,7 +549,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/157187-web-integrations-support-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/internship-g2m-stuttgart-353604",
@@ -516,7 +585,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/internship-g2m-stuttgart-353604",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/ecopals/mandatory-internship-product-development-engineer-berlin-253817",
@@ -552,7 +621,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/ecopals/mandatory-internship-product-development-engineer-berlin-253817",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/customer-support-advisor-entry-level-at-torentify-4483360961&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw15sWaW1-SfrVSOzFVRHhZy",
@@ -587,7 +656,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/customer-support-advisor-entry-level-at-torentify-4483360961&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw15sWaW1-SfrVSOzFVRHhZy",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/entry-level-administrative-assistant-at-recruitlytics-inc-4483544186&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1mKKlODDLy2QeoaUejTGz3",
@@ -622,7 +691,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/entry-level-administrative-assistant-at-recruitlytics-inc-4483544186&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1mKKlODDLy2QeoaUejTGz3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-coordinator-entry-level-at-lotz-agency-4483373771%3Fposition%3D58%26pageNum%3D0%26refId%3DOCZ7bPtpUT3vA57Yd4wxSA%253D%253D%26trackingId%3DREmhZbrG5KJFyE6i74xiig%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3vcNO0U-pQ2rUWCg6mF7dL",
@@ -658,7 +727,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-coordinator-entry-level-at-lotz-agency-4483373771%3Fposition%3D58%26pageNum%3D0%26refId%3DOCZ7bPtpUT3vA57Yd4wxSA%253D%253D%26trackingId%3DREmhZbrG5KJFyE6i74xiig%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3vcNO0U-pQ2rUWCg6mF7dL",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-benefits-rep-customer-service-remote-at-executiveplacements-com-4483363670&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1FF1sq8CORh39qDh9IKOOQ",
@@ -691,7 +760,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-benefits-rep-customer-service-remote-at-executiveplacements-com-4483363670&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1FF1sq8CORh39qDh9IKOOQ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-enntry-clerk-%25E2%2580%2593-entry-level-remote-%25E2%2580%2593-australia-at-nextgen-instruments-hr-services-pvt-ltd-4482674273&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2NUvgsYJ2a8s7ZkJKD14tw",
@@ -727,7 +796,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-enntry-clerk-%25E2%2580%2593-entry-level-remote-%25E2%2580%2593-australia-at-nextgen-instruments-hr-services-pvt-ltd-4482674273&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2NUvgsYJ2a8s7ZkJKD14tw",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://himalayas.app/jobs/countries/bahrain/entry-level-ai-agents-developer&ct=ga&cd=CAIyHDdkYThmN2M3MWIwMzVhZTU6Y29tOmZyOlVTOkw&usg=AOvVaw1glNdUIMwkdZvhN6AfjN35",
@@ -133540,13 +133609,13 @@
       "is_new": false
     }
   ],
-  "count": 3957,
-  "keepers": 562,
-  "fresh": 3369,
-  "new_today": 21,
-  "apply_now": 84,
+  "count": 3959,
+  "keepers": 563,
+  "fresh": 3371,
+  "new_today": 2,
+  "apply_now": 85,
   "apply": 75,
   "consider": 82,
   "morocco": 31,
-  "eligible": 232
+  "eligible": 233
 }
