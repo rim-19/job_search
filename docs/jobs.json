@@ -1,6 +1,78 @@
 {
-  "generated": "2026-10-30",
+  "generated": "2026-10-31",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/theodo/software-engineer-fullstack-stage-de-fin-detudes-paris-theodo-retail-390371",
+      "title": "Software Engineer Fullstack - Stage de fin d'études Paris - Theodo Retail",
+      "company": "Theodo",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/theodo/software-engineer-fullstack-stage-de-fin-detudes-paris-theodo-retail-390371",
+      "score": 30,
+      "reason": "The job is an internship in Paris, France, which is not geographically eligible for the candidate. The role is also an internship, which is a lower priority than permanent roles.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-31",
+      "source": "Arbeitnow",
+      "summary": "This is a Stage de fin d'études (end-of-studies internship) at Theodo in Paris, France, focusing on software engineering within the RetailTech practice. The role involves working in project teams to develop digital products for innovative companies.",
+      "date_posted": "1793417234",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Paris, France, which requires EU work authorization and is outside the candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility (Paris, France)",
+        "Internship role (lower priority)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/theodo/software-engineer-fullstack-stage-de-fin-detudes-paris-theodo-retail-390371",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/full-stack-engineer-united-kingdom-205101",
+      "title": "Full Stack Engineer",
+      "company": "Kpler",
+      "location": "United Kingdom",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/kpler/full-stack-engineer-united-kingdom-205101",
+      "score": 10,
+      "reason": "The candidate is not eligible due to the job location being in the United Kingdom, which requires work authorization she does not have. Additionally, the role is for a 'Mid' level engineer, which is above her stated early-career positioning.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-10-31",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Mid Full-Stack Engineer based in the United Kingdom. The candidate is an early-career AI + Full-Stack Software Developer based in Morocco and is not eligible for roles requiring UK work authorization.",
+      "date_posted": "1793417236",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is in the United Kingdom, which requires work authorization the candidate does not possess.",
+      "geographic_scope": "UK_ONLY",
+      "remote_type": "UNKNOWN",
+      "seniority": "MID",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility",
+        "Seniority mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/full-stack-engineer-united-kingdom-205101",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineer-london-52805",
       "title": "Forward Deployed Engineer",
@@ -34,7 +106,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineer-london-52805",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/creative-technologist-london-126136",
@@ -67,7 +139,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/creative-technologist-london-126136",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/databricks/forward-deployed-engineer-amsterdam-144415",
@@ -104,7 +176,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/databricks/forward-deployed-engineer-amsterdam-144415",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://himalayas.app/jobs/countries/namibia/entry-level-react-developer&ct=ga&cd=CAIyHGFlZjliNjZjYTU0MWFhYzI6Y29tOmZyOlVTOkw&usg=AOvVaw01OGu3tEVBD7tXio0KIehB",
@@ -139,7 +211,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://himalayas.app/jobs/countries/namibia/entry-level-react-developer&ct=ga&cd=CAIyHGFlZjliNjZjYTU0MWFhYzI6Y29tOmZyOlVTOkw&usg=AOvVaw01OGu3tEVBD7tXio0KIehB",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-data-analys-entry-level-junior-at-if-only-it-4484562508&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3v4JQ9MadcPgmvw2zZS6Mq",
@@ -175,7 +247,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-data-analys-entry-level-junior-at-if-only-it-4484562508&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3v4JQ9MadcPgmvw2zZS6Mq",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/cloud-engineer-remote-entry-level-at-opportunity-seekers-tier-ii-tier-iii-4485233250&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0kLCVFymbeIz2LD-5Mp6oC",
@@ -211,7 +283,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/cloud-engineer-remote-entry-level-at-opportunity-seekers-tier-ii-tier-iii-4485233250&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0kLCVFymbeIz2LD-5Mp6oC",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/pavago/jobs/wordpress-developer-9991741776?utm_source=api",
@@ -246,7 +318,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/pavago/jobs/wordpress-developer-9991741776?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/primion-technology-gmbh/working-student-digital-marketing-website-management-remote-nationwide-148101",
@@ -279,7 +351,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/primion-technology-gmbh/working-student-digital-marketing-website-management-remote-nationwide-148101",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/qventus/jobs/sr-software-engineer-pat-assist?utm_source=api",
@@ -314,7 +386,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/qventus/jobs/sr-software-engineer-pat-assist?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/olix/software-engineering-intern-london-378383",
@@ -350,7 +422,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/olix/software-engineering-intern-london-378383",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/adastra/jobs/software-engineer?utm_source=api",
@@ -386,7 +458,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/adastra/jobs/software-engineer?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/crisp/product-design-stage-amsterdam-90806",
@@ -421,7 +493,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/crisp/product-design-stage-amsterdam-90806",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-start-immediately-at-heya-higher-education-malaysia-association-4483077111&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw33Jb8tAWgeun9_Y4x9qeN8",
@@ -457,7 +529,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-start-immediately-at-heya-higher-education-malaysia-association-4483077111&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw33Jb8tAWgeun9_Y4x9qeN8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/158046-sr-reliability-engineer",
@@ -493,7 +565,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/158046-sr-reliability-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-experience-associate-entry-level-at-premier-destination-group-4485215575&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1poceIR6pXSxInARFU2vt_",
@@ -529,7 +601,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-experience-associate-entry-level-at-premier-destination-group-4485215575&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1poceIR6pXSxInARFU2vt_",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-coordinator-entry-level-at-premier-destination-group-4485275720&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0xlNrpqwNEWR9siYO_Zgpc",
@@ -562,7 +634,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-coordinator-entry-level-at-premier-destination-group-4485275720&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0xlNrpqwNEWR9siYO_Zgpc",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-support-advisor-entry-level-at-premier-destination-group-4485207934&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0F5xjLEIP17MrNx6hMMQg1",
@@ -595,7 +667,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-support-advisor-entry-level-at-premier-destination-group-4485207934&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0F5xjLEIP17MrNx6hMMQg1",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-booking-coordinator-at-premier-destination-group-4485221355&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1nCQsfYtZ3DfsAxBH2Eq3g",
@@ -631,7 +703,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-booking-coordinator-at-premier-destination-group-4485221355&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1nCQsfYtZ3DfsAxBH2Eq3g",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-reservations-booking-advisor-entry-level-at-premier-destination-group-4485266870&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3EHgKzRSPSoU-rRq66pwuO",
@@ -667,7 +739,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-reservations-booking-advisor-entry-level-at-premier-destination-group-4485266870&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3EHgKzRSPSoU-rRq66pwuO",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-associate-attorney-remote-at-ternium-revenue-cycle-management-4484569154&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1gV1cCwgq5bbwcuqA1waMK",
@@ -703,7 +775,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-associate-attorney-remote-at-ternium-revenue-cycle-management-4484569154&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1gV1cCwgq5bbwcuqA1waMK",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-full-stack-developer-remote-%25E2%2580%2593-%25C2%25A335-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4484442178&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1haZE24BJqniHureqZSHJz",
@@ -136707,10 +136779,10 @@
       "is_new": false
     }
   ],
-  "count": 4047,
+  "count": 4049,
   "keepers": 570,
-  "fresh": 3459,
-  "new_today": 20,
+  "fresh": 3461,
+  "new_today": 2,
   "apply_now": 86,
   "apply": 77,
   "consider": 86,
