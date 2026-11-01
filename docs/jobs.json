@@ -1,6 +1,75 @@
 {
-  "generated": "2026-10-31",
+  "generated": "2026-11-01",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/bigblue/software-engineer-intern-paris-405112",
+      "title": "Software Engineer Intern",
+      "company": "Bigblue",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/bigblue/software-engineer-intern-paris-405112",
+      "score": 30,
+      "reason": "The candidate is not eligible due to the on-site requirement in Paris, France, which conflicts with their stated location and inability to relocate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-01",
+      "source": "Arbeitnow",
+      "summary": "This is an internship role for a Software Engineer at Bigblue, located in Paris. The role involves working on e-commerce logistics challenges, including ETA prediction, data visualization dashboards, and parcel routing optimization.",
+      "date_posted": "1793502467",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location: Paris, France. Candidate is based in Morocco and cannot relocate. Role requires on-site presence in Paris.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/bigblue/software-engineer-intern-paris-405112",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zeeco/graduate-engineering-summer-internship-2027-stamford-england-170268",
+      "title": "Graduate Engineering Summer Internship 2027",
+      "company": "Zeeco",
+      "location": "Stamford, England",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/zeeco/graduate-engineering-summer-internship-2027-stamford-england-170268",
+      "score": 10,
+      "reason": "The internship is located in Stamford, England, and requires on-site presence, making it geographically ineligible for the candidate. Additionally, the role is an internship, which is lower priority than permanent roles.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-01",
+      "source": "Arbeitnow",
+      "summary": "This is a 10-week paid Graduate Engineering Summer Internship in Rutland, England. The role involves hands-on experience in engineering projects and learning alongside experienced engineers.",
+      "date_posted": "1793502475",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Stamford, England, which is outside of the candidate's acceptable geographic scope and requires UK work authorization.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility",
+        "On-site requirement"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/zeeco/graduate-engineering-summer-internship-2027-stamford-england-170268",
+      "is_new": true
+    },
     {
       "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
       "title": "Full-Stack Developer",
@@ -32,7 +101,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/full-stack-developer-remote-uk-entry-level-at-cv-bridge-ltd-4483024177&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0BXEFa5ouXcVLNksmTBJTr",
@@ -67,7 +136,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/full-stack-developer-remote-uk-entry-level-at-cv-bridge-ltd-4483024177&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0BXEFa5ouXcVLNksmTBJTr",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-software-developer-application-support-sustainment-remote-at-collins-aerospace-4485625859&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3NJUhEVhmIoduoVGtUqBiK",
@@ -102,7 +171,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-software-developer-application-support-sustainment-remote-at-collins-aerospace-4485625859&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3NJUhEVhmIoduoVGtUqBiK",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/lyrebird-health/software-engineer-united-kingdom-93389",
@@ -135,7 +204,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/lyrebird-health/software-engineer-united-kingdom-93389",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/margo/ai-engineer-specialiste-ai4code-agents-ia-h-f-paris-377573",
@@ -168,7 +237,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/margo/ai-engineer-specialiste-ai4code-agents-ia-h-f-paris-377573",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-120706",
@@ -204,7 +273,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-120706",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/theodo/software-engineer-fullstack-stage-de-fin-detudes-paris-theodo-retail-390371",
@@ -240,7 +309,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/theodo/software-engineer-fullstack-stage-de-fin-detudes-paris-theodo-retail-390371",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/full-stack-developer-remote-uk-entry-level-at-cv-bridge-ltd-4483024177&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0BXEFa5ouXcVLNksmTBJTr",
@@ -275,7 +344,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/full-stack-developer-remote-uk-entry-level-at-cv-bridge-ltd-4483024177&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0BXEFa5ouXcVLNksmTBJTr",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/cloud-enginee-remote-entry-level-at-new-start-ia-4484894860&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1w-voaGWiJj2YIiqIAQi1i",
@@ -310,7 +379,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/cloud-enginee-remote-entry-level-at-new-start-ia-4484894860&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1w-voaGWiJj2YIiqIAQi1i",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/158154-full-stack-developer-java-react-f-m-d-2",
@@ -346,7 +415,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/158154-full-stack-developer-java-react-f-m-d-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-data-analys-entry-level-junior-at-i-m-green-bio-based-4485361840&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3rFpRPU_rhBFKkw4mlTIDs",
@@ -381,7 +450,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-data-analys-entry-level-junior-at-i-m-green-bio-based-4485361840&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3rFpRPU_rhBFKkw4mlTIDs",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-full-stack-practice-se-margo-paris-238453",
@@ -414,7 +483,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-full-stack-practice-se-margo-paris-238453",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-full-stack-java-react-practice-se-margo-paris-124399",
@@ -447,7 +516,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-full-stack-java-react-practice-se-margo-paris-124399",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/158207-software-developer-2",
@@ -482,7 +551,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/158207-software-developer-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/internship-radiation-testing-of-electronic-components-and-test-automation-munich-351117",
@@ -515,7 +584,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/internship-radiation-testing-of-electronic-components-and-test-automation-munich-351117",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/158196-frontend-engineer-design-systems",
@@ -550,7 +619,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/158196-frontend-engineer-design-systems",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/158134-marketing-engineer-i",
@@ -585,7 +654,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/158134-marketing-engineer-i",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/158260-full-stack-engineer-ai-platform",
@@ -620,7 +689,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/158260-full-stack-engineer-ai-platform",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/158242-ai-engineer",
@@ -653,7 +722,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/158242-ai-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/full-stack-engineer-united-kingdom-205101",
@@ -689,7 +758,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/full-stack-engineer-united-kingdom-205101",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/juro/ai-engineer-london-483964",
@@ -722,7 +791,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/juro/ai-engineer-london-483964",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/operations-assistannt-entry-level-at-bluewave-hr-consulting-4485133062&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0hxPn6tTSSzXPMPDQGV_-o",
@@ -758,7 +827,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/operations-assistannt-entry-level-at-bluewave-hr-consulting-4485133062&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0hxPn6tTSSzXPMPDQGV_-o",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/operations-assistannt-entry-level-at-bluewave-hr-consulting-4485305296&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3SJ9zAyKe1VGoqTU0Ztacy",
@@ -794,7 +863,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/operations-assistannt-entry-level-at-bluewave-hr-consulting-4485305296&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3SJ9zAyKe1VGoqTU0Ztacy",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-life-insurance-agent-at-the-weiner-group-4484896927&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2QQBIi8TdDNErhzSvHFOO2",
@@ -827,7 +896,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-life-insurance-agent-at-the-weiner-group-4484896927&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2QQBIi8TdDNErhzSvHFOO2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/hr-support-officer-remote-entry-level-at-hseq-latam-ia-4483492630&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw06_YEdvRrbhOl2pC2MpubV",
@@ -863,7 +932,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/hr-support-officer-remote-entry-level-at-hseq-latam-ia-4483492630&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw06_YEdvRrbhOl2pC2MpubV",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-sales-representative-at-hader-solutions-4484899364&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0wGbUjHVY_oeIRRdCVKsMn",
@@ -896,7 +965,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-sales-representative-at-hader-solutions-4484899364&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0wGbUjHVY_oeIRRdCVKsMn",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineer-london-52805",
@@ -137604,10 +137673,10 @@
       "is_new": false
     }
   ],
-  "count": 4073,
+  "count": 4075,
   "keepers": 571,
-  "fresh": 3485,
-  "new_today": 26,
+  "fresh": 3487,
+  "new_today": 2,
   "apply_now": 87,
   "apply": 77,
   "consider": 86,
