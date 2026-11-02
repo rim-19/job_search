@@ -1,6 +1,111 @@
 {
-  "generated": "2026-11-01",
+  "generated": "2026-11-02",
   "jobs": [
+    {
+      "url": "https://himalayas.app/companies/sumatosoft/jobs/qa-engineer?utm_source=api",
+      "title": "QA Engineer",
+      "company": "SumatoSoft",
+      "location": "Worldwide",
+      "link": "https://himalayas.app/companies/sumatosoft/jobs/qa-engineer?utm_source=api",
+      "score": 35,
+      "reason": "The role is for a QA Engineer, which is not a primary target role for the candidate who is an AI + Full-Stack Software Developer. While there is some overlap in technologies (React, Node.js), the core responsibilities and required experience (10 months of QA expert) do not align well with the candid",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-02",
+      "source": "Himalayas",
+      "summary": "This role is for a QA Engineer with a focus on manual functional testing, cross-browser/platform testing, and regression testing. The candidate is an AI + Full-Stack Software Developer with experience in React and Node.js, but their primary focus and skills are in development rather than quality assurance.",
+      "date_posted": "1793592376",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "priority": "CONSIDER",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate is eligible for worldwide remote roles.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": 0,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Lack of dedicated QA experience.",
+        "Role is not a primary target for a developer."
+      ],
+      "recommended_project": "",
+      "application_url": "https://himalayas.app/companies/sumatosoft/jobs/qa-engineer?utm_source=api",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-software-develope-at-t%25C3%25BCrkiye-eu-business-dialogue-tebd-ii-4485976309&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw098hTicXTPN-ePGyMRsT5G",
+      "title": "ENTRY LEVEL SOFTWARE DEVELOPE",
+      "company": "Türkiye-EU Business Dialogue (TEBD II)",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-software-develope-at-t%25C3%25BCrkiye-eu-business-dialogue-tebd-ii-4485976309&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw098hTicXTPN-ePGyMRsT5G",
+      "score": 35,
+      "reason": "The candidate is geographically ineligible for this role as it is based in Colombia, and the candidate cannot relocate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-02",
+      "source": "Google Alert 8",
+      "summary": "This role is for an Entry Level Software Developer with a focus on integrations. While the technical requirements are not fully detailed, the location is a hard disqualifier for the candidate.",
+      "date_posted": "2026-11-01T15:13:52Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: The job description mentions Bogota, D.C. and Montería, which are outside the candidate's acceptable geographic scope.",
+      "geographic_scope": "OTHER",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-software-develope-at-t%25C3%25BCrkiye-eu-business-dialogue-tebd-ii-4485976309&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw098hTicXTPN-ePGyMRsT5G",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/apex-ai/software-engineer-software-platform-middleware-early-career-munich-211788",
+      "title": "Software Engineer — Software Platform & Middleware (Early Career)",
+      "company": "Apex Ai",
+      "location": "Munich",
+      "link": "https://www.arbeitnow.com/jobs/companies/apex-ai/software-engineer-software-platform-middleware-early-career-munich-211788",
+      "score": 15,
+      "reason": "The candidate is not eligible due to the on-site requirement in Munich, which contradicts her geographic constraints.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-02",
+      "source": "Arbeitnow",
+      "summary": "This role is for an early-career Software Engineer focused on C++ and distributed systems for autonomous vehicles. The candidate's AI and full-stack experience is a partial match, but the core technology and location are misaligned.",
+      "date_posted": "1793590048",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is on-site in Munich, candidate cannot relocate.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "EARLY_CAREER",
+      "min_years": 1,
+      "max_years": 2,
+      "education_requirement": "required",
+      "gaps": [
+        "Location",
+        "Primary technology stack (C++ vs. Python/JS/TS)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/apex-ai/software-engineer-software-platform-middleware-early-career-munich-211788",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-software-develope-at-master-2-droit-international-%25C3%25A9conomique-paris-ii-panth%25C3%25A9on-assas-4483954589&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3v1fX4rW6mhPwt2L3-O4TL",
       "title": "ENTRY LEVEL SOFTWARE DEVELOPE",
@@ -34,7 +139,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-software-develope-at-master-2-droit-international-%25C3%25A9conomique-paris-ii-panth%25C3%25A9on-assas-4483954589&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3v1fX4rW6mhPwt2L3-O4TL",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/cloud-enginee-remote-entry-level-at-club-ia-legal-4483911121&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0-1t0KOy14DMhqtA-T7Sd-",
@@ -69,7 +174,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/cloud-enginee-remote-entry-level-at-club-ia-legal-4483911121&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0-1t0KOy14DMhqtA-T7Sd-",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/lovable/a4e39bdc-b143-43ea-8077-a113445edbd2",
@@ -102,7 +207,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/lovable/a4e39bdc-b143-43ea-8077-a113445edbd2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/bigblue/software-engineer-intern-paris-405112",
@@ -135,7 +240,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/bigblue/software-engineer-intern-paris-405112",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/bigblue/solutions-engineer-intern-paris-286887",
@@ -168,7 +273,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/bigblue/solutions-engineer-intern-paris-286887",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/158323-software-engineer-in-hardware-infrastructure",
@@ -204,7 +309,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/158323-software-engineer-in-hardware-infrastructure",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891301002",
@@ -239,7 +344,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/gitlab/jobs/8891301002",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-optimization-annalyst-entry-level-at-absolute-hr-and-workforce-solutions-4483953699&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3umh_-9acXpmMXDVACwFBX",
@@ -274,7 +379,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-optimization-annalyst-entry-level-at-absolute-hr-and-workforce-solutions-4483953699&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3umh_-9acXpmMXDVACwFBX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/zeeco/graduate-engineering-summer-internship-2027-stamford-england-170268",
@@ -310,7 +415,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/zeeco/graduate-engineering-summer-internship-2027-stamford-england-170268",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-itinerary-coordinator-at-premier-destination-group-4485929040&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3r1H7X90WAplQAkiCTsuhR",
@@ -346,7 +451,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-itinerary-coordinator-at-premier-destination-group-4485929040&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3r1H7X90WAplQAkiCTsuhR",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/vercel/jobs/6231864004",
@@ -379,7 +484,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/vercel/jobs/6231864004",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/158342-growth-pm",
@@ -412,7 +517,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/158342-growth-pm",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-backend-engineergo-berlin-218872",
@@ -449,7 +554,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-backend-engineergo-berlin-218872",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-appointment-setter-cruise-bookings-entry-level-at-premier-destination-group-4485912840&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1tEgTassFdPDxtt9mGeSzS",
@@ -485,7 +590,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-appointment-setter-cruise-bookings-entry-level-at-premier-destination-group-4485912840&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1tEgTassFdPDxtt9mGeSzS",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/lifen/stage-marketing-associate-growth-events-paris-301697",
@@ -521,7 +626,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/lifen/stage-marketing-associate-growth-events-paris-301697",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/molina-healthcare/jobs/behavioral-health-project-management-internship-summer-2027-undergraduate?utm_source=api",
@@ -556,7 +661,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/molina-healthcare/jobs/behavioral-health-project-management-internship-summer-2027-undergraduate?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-event-travel-planning-coordinator-entry-level-at-premier-destination-group-4485912448&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3tKpAKxPVzMdyyixVdLDEe",
@@ -589,7 +694,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-event-travel-planning-coordinator-entry-level-at-premier-destination-group-4485912448&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3tKpAKxPVzMdyyixVdLDEe",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-hospitality-coordinator-entry-level-at-premier-destination-group-4485900659&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3_8f68Kg3ozp6eubSQ841_",
@@ -625,7 +730,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-hospitality-coordinator-entry-level-at-premier-destination-group-4485900659&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3_8f68Kg3ozp6eubSQ841_",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/graphic-designer-entry-level-at-recruitals-4485694335&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0kM_S2ZJQSoID7PQ5KsfYZ",
@@ -661,7 +766,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/graphic-designer-entry-level-at-recruitals-4485694335&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0kM_S2ZJQSoID7PQ5KsfYZ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/administrative-assistannt-entry-level-at-bizforce-consulting-4485136642&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2fN1jFsZ1rYeen500NvWa5",
@@ -697,7 +802,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/administrative-assistannt-entry-level-at-bizforce-consulting-4485136642&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2fN1jFsZ1rYeen500NvWa5",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-hospitality-travel-coordinator-entry-level-at-premier-destination-group-4485901816&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2M-gLl8TBJL-Kmnv_AGqnw",
@@ -732,7 +837,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-hospitality-travel-coordinator-entry-level-at-premier-destination-group-4485901816&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2M-gLl8TBJL-Kmnv_AGqnw",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/airtable/jobs/8905022002",
@@ -768,7 +873,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/airtable/jobs/8905022002",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/conzia-gmbh/mandatory-internship-growth-marketing-unpaid-berlin-220853",
@@ -806,7 +911,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/conzia-gmbh/mandatory-internship-growth-marketing-unpaid-berlin-220853",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/conzia-gmbh/mandatory-internship-business-development-marketing-unpaid-berlin-160757",
@@ -839,7 +944,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/conzia-gmbh/mandatory-internship-business-development-marketing-unpaid-berlin-160757",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-rep-remote-work-at-agent-alliance-4485153500&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw21zYZFna7wvbjopktQaCJj",
@@ -875,7 +980,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-rep-remote-work-at-agent-alliance-4485153500&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw21zYZFna7wvbjopktQaCJj",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
@@ -138480,13 +138585,13 @@
       "is_new": false
     }
   ],
-  "count": 4098,
+  "count": 4101,
   "keepers": 572,
-  "fresh": 3509,
-  "new_today": 25,
+  "fresh": 3512,
+  "new_today": 3,
   "apply_now": 87,
   "apply": 77,
-  "consider": 87,
+  "consider": 88,
   "morocco": 31,
-  "eligible": 242
+  "eligible": 243
 }
