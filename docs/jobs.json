@@ -1,6 +1,420 @@
 {
-  "generated": "2026-11-02",
+  "generated": "2026-11-03",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-software-developer-remote-at-joblet-ai-4486883202&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2HHSkhRhq0k_VXAOR6tyVc",
+      "title": "Junior Software Developer ( Remote )",
+      "company": "Joblet-AI — United Kingdom | LinkedIn Jobs",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-software-developer-remote-at-joblet-ai-4486883202&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2HHSkhRhq0k_VXAOR6tyVc",
+      "score": 88,
+      "reason": "This role is a strong fit for a Junior Software Developer with a full-stack background and AI specialization, and the remote nature aligns with the candidate's geographic preferences.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-03",
+      "source": "Google Alert 8",
+      "summary": "This is a Junior Software Developer role with a remote work option, fitting the candidate's desired seniority and location flexibility. The company is UK-based, which is within the candidate's EMEA remote eligibility.",
+      "date_posted": "2026-11-03T13:32:06Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "priority": "APPLY_NOW",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Role is remote and the company is UK-based, which falls within the EMEA remote eligibility for the candidate.",
+      "geographic_scope": "EMEA",
+      "remote_type": "REMOTE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-software-developer-remote-at-joblet-ai-4486883202&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2HHSkhRhq0k_VXAOR6tyVc",
+      "is_new": true
+    },
+    {
+      "url": "https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
+      "title": "AI Experience Engineer (Conversational AI)",
+      "company": "Upgrade",
+      "location": "Anywhere in the World",
+      "link": "https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
+      "score": 78,
+      "reason": "This role aligns well with the candidate's AI and full-stack development skills, particularly in conversational AI and LLM applications, and is geographically eligible for remote work.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-03",
+      "source": "WeWorkRemotely (Programming)",
+      "summary": "The candidate is an AI + Full-Stack Software Developer with experience in LLM applications, RAG, and building end-to-end AI products. The role's focus on conversational AI, customer journeys, and LLM tools like Claude presents a strong technical and domain fit.",
+      "date_posted": "Thu, 15 Oct 2026 07:31:14 +0000",
+      "days_since_posted": 19,
+      "freshness": "",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "priority": "APPLY",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate meets geographic requirements for remote worldwide.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.nl/jobs/companies/your-software-supplier/software-engineer-remote-worldwide-amsterdam-489033",
+      "title": "Software Engineer (Remote-Worldwide)",
+      "company": "Your Software Supplier",
+      "location": "Amsterdam (remote)",
+      "link": "https://www.arbeitnow.nl/jobs/companies/your-software-supplier/software-engineer-remote-worldwide-amsterdam-489033",
+      "score": 70,
+      "reason": "The role is remote worldwide and requires backend experience with languages the candidate knows, fitting her full-stack profile. While AI is not a primary focus, her backend skills and interest in AI development make this a good fit for an entry-level position.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-03",
+      "source": "Arbeitnow",
+      "summary": "This is a remote worldwide role for a Software Engineer focusing on training AI systems. It requires strong backend experience in languages like Python and Node.js, and a good testing background. The candidate's full-stack skills and experience with backend technologies align well with the job requirements.",
+      "date_posted": "1793698257",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "priority": "APPLY",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate is in Morocco and the role is remote worldwide, fitting the geographic rules.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "AI/LLM focus is not explicit in the job description, though the work involves training AI systems."
+      ],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://www.arbeitnow.nl/jobs/companies/your-software-supplier/software-engineer-remote-worldwide-amsterdam-489033",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/q-media-world/web-developer-w-m-gesucht-munich-128869",
+      "title": "Web Developer W / M gesucht",
+      "company": "Q Media World",
+      "location": "Munich (remote)",
+      "link": "https://www.arbeitnow.com/jobs/companies/q-media-world/web-developer-w-m-gesucht-munich-128869",
+      "score": 65,
+      "reason": "The role is remote and mentions AI/Web development, aligning with the candidate's profile, but the specific tech stack and seniority are not fully detailed, and the location is in Europe which might have work authorization implications.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-03",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Web Developer with AI and online programming experience, open to remote work. The candidate is an AI + Full-Stack Software Developer with relevant skills and projects.",
+      "date_posted": "1793707282",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "priority": "CONSIDER",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate meets geographic and work authorization requirements.",
+      "geographic_scope": "EMEA",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "The job description is vague on specific technologies and required years of experience, making it difficult to fully assess the technical fit and seniority level."
+      ],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/q-media-world/web-developer-w-m-gesucht-munich-128869",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/cloud-enginee-remote-entry-level-at-ai-in-action-4484632144&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0YyoFgRItvOyuPsSC8ukEP",
+      "title": "Cloud Enginee - ( Remote , Entry-Level )",
+      "company": "AI in Action — United States | LinkedIn Jobs",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/cloud-enginee-remote-entry-level-at-ai-in-action-4484632144&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0YyoFgRItvOyuPsSC8ukEP",
+      "score": 60,
+      "reason": "This is an entry-level remote role with some overlap in AI and cloud concepts, but the company's US base raises questions about work authorization and timezone fit.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-03",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level, part-time remote role focused on supporting cloud environments for AI. The candidate has relevant AI/LLM skills and experience with cloud deployment tools like Vercel and Docker, but the US-based company requires further investigation into work authorization and timezone compatibility.",
+      "date_posted": "2026-11-03T06:16:24Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "priority": "CONSIDER",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Remote role, but company is US-based, requiring verification of work authorization.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Work authorization for US-based company needs clarification.",
+        "Timezone compatibility for a US-based remote role needs verification."
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/cloud-enginee-remote-entry-level-at-ai-in-action-4484632144&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0YyoFgRItvOyuPsSC8ukEP",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hozah/remote-software-engineer-33490",
+      "title": "Software Engineer",
+      "company": "Hozah",
+      "location": "Remote",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/hozah/remote-software-engineer-33490",
+      "score": 35,
+      "reason": "The role is based in the UK and requires work authorization there, which the candidate does not meet based on the provided geographic rules.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-03",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Software Engineer at Hozah, a UK-based company focused on parking and urban mobility. The position is fully remote but requires UK work authorization, making it ineligible for the candidate.",
+      "date_posted": "1793720431",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: UK location and potential work authorization requirements.",
+      "geographic_scope": "UK_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic eligibility (UK work authorization required)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/hozah/remote-software-engineer-33490",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-ads-paris-51577",
+      "title": "Software Engineer Intern - Ads",
+      "company": "Mirakl - Labs",
+      "location": "Paris, France",
+      "link": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-ads-paris-51577",
+      "score": 30,
+      "reason": "The job is located in Paris, France, and requires on-site presence, making the candidate geographically ineligible. The role is an internship, which aligns with the candidate's target level, but the location is a hard constraint.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-03",
+      "source": "Arbeitnow",
+      "summary": "This is an internship role at Mirakl in Paris, France. The candidate is a junior AI + Full-Stack Software Developer. However, the job's location and on-site requirement make the candidate ineligible.",
+      "date_posted": "1793724329",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Paris, France, which requires EU work authorization and is outside the candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-ads-paris-51577",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.nl/jobs/companies/koninklijk-nederlands-lucht-en-ruimtevaartcentrum/internship-explainable-ai-for-the-qualification-of-aerospace-algorithms-amsterdam-236616",
+      "title": "Internship: Explainable AI for the qualification of aerospace algorithms",
+      "company": "Koninklijk Nederlands Lucht- en Ruimtevaartcentrum",
+      "location": "Amsterdam, Noord-Holland, Nederland",
+      "link": "https://www.arbeitnow.nl/jobs/companies/koninklijk-nederlands-lucht-en-ruimtevaartcentrum/internship-explainable-ai-for-the-qualification-of-aerospace-algorithms-amsterdam-236616",
+      "score": 30,
+      "reason": "The candidate is not eligible for this role due to geographic restrictions, as it requires on-site presence in Amsterdam and likely EU work authorization, which she cannot fulfill.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-03",
+      "source": "Arbeitnow",
+      "summary": "This internship focuses on Explainable AI for qualifying aerospace algorithms, a domain that aligns with the candidate's AI/LLM interests. However, the location in Amsterdam and the implied need for EU work authorization make it ineligible.",
+      "date_posted": "1793709101",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic ineligibility: Role is in Amsterdam, Netherlands, requiring EU work authorization which the candidate does not possess.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.nl/jobs/companies/koninklijk-nederlands-lucht-en-ruimtevaartcentrum/internship-explainable-ai-for-the-qualification-of-aerospace-algorithms-amsterdam-236616",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.nl/jobs/companies/envalior/front-end-developer-geleen-51582",
+      "title": "Front End Developer",
+      "company": "Envalior",
+      "location": "Geleen, Netherlands",
+      "link": "https://www.arbeitnow.nl/jobs/companies/envalior/front-end-developer-geleen-51582",
+      "score": 20,
+      "reason": "The candidate is not eligible due to the on-site requirement in the Netherlands, which conflicts with their stated location and inability to relocate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-03",
+      "source": "Arbeitnow",
+      "summary": "This role requires an on-site presence in the Netherlands, which the candidate cannot fulfill. While the technical stack has some overlap (React), the geographic and work authorization requirements make this a non-starter.",
+      "date_posted": "1793658022",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Candidate is based in Morocco and cannot relocate to the Netherlands.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "JUNIOR",
+      "min_years": 2,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic Ineligibility",
+        "On-site Requirement"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.nl/jobs/companies/envalior/front-end-developer-geleen-51582",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-optimization-annalyst-entry-level-at-smart-va-s-provider-4486022708&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3328nv9vJ_rM3I6N1PCBo1",
+      "title": "Data Optimization Annalyst - Entry Level",
+      "company": "Smart VA's Provider — Australia | LinkedIn Jobs",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-optimization-annalyst-entry-level-at-smart-va-s-provider-4486022708&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3328nv9vJ_rM3I6N1PCBo1",
+      "score": 15,
+      "reason": "The role is for a 'Data Optimization Analyst' with a focus on WordPress and Shopify, which does not align with the candidate's AI and Full-Stack development specialization. Furthermore, the company's location in Australia suggests a timezone mismatch and potential work authorization requirements tha",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-03",
+      "source": "Google Alert 8",
+      "summary": "This role is not a good fit due to a significant mismatch in technical focus, requiring WordPress and Shopify expertise rather than AI and full-stack development. The geographic location of the company also raises concerns about timezone compatibility and potential work authorization.",
+      "date_posted": "2026-11-03T06:37:03Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is remote but likely tied to Australia timezone and potentially requires Australian work authorization, which is not specified but implied by company location.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical focus mismatch (WordPress/Shopify vs. AI/Full-Stack)",
+        "Potential timezone and work authorization issues"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-optimization-annalyst-entry-level-at-smart-va-s-provider-4486022708&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3328nv9vJ_rM3I6N1PCBo1",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/158604-junior-ads-specialist",
+      "title": "Junior Ads Specialist",
+      "company": "Canonical",
+      "location": "EMEA",
+      "link": "https://jobicy.com/jobs/158604-junior-ads-specialist",
+      "score": 10,
+      "reason": "This role is for a Junior Ads Specialist, which is a marketing position and not a technical software development role. The candidate's skills and experience are focused on AI and full-stack development, making this a poor fit.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-03",
+      "source": "Jobicy",
+      "summary": "The candidate is an AI + Full-Stack Software Developer with a strong technical background in programming, frontend, backend, databases, and AI/LLM technologies. They are seeking junior/entry-level developer roles.",
+      "date_posted": "2026-11-03T05:50:26+00:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is not technical and does not align with candidate's profile.",
+      "geographic_scope": "EMEA",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://jobicy.com/jobs/158604-junior-ads-specialist",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-gaines-life-4486800051&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0yVKRNDNa2qUUrEUeZGxt7",
+      "title": "Entry Level Sales - Remote",
+      "company": "Gaines Life — United States | LinkedIn Jobs",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-gaines-life-4486800051&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0yVKRNDNa2qUUrEUeZGxt7",
+      "score": 5,
+      "reason": "The job is for an Entry Level Sales role in the United States, which is not a technical role and is geographically ineligible for the candidate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-03",
+      "source": "Google Alert 8",
+      "summary": "This role is in sales, not software development, and requires the candidate to be based in the United States. The candidate is a software developer specializing in AI and full-stack applications and cannot relocate or work in the US.",
+      "date_posted": "2026-11-03T00:48:14Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role requires US location, candidate cannot relocate and is not authorized to work in the US.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Role type mismatch (Sales vs. Software Development)",
+        "Geographic ineligibility (US location required)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-gaines-life-4486800051&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0yVKRNDNa2qUUrEUeZGxt7",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-software-developer-at-haystack-4485458303&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1xYOvJIEkRnUr5yzegKbGz",
       "title": "Junior Software Developer",
@@ -34,7 +448,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-software-developer-at-haystack-4485458303&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1xYOvJIEkRnUr5yzegKbGz",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-data-scientist-remote-%25E2%2580%2593-%25C2%25A335-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4486197315&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1xWhS560LxdqikKI39nDfv",
@@ -69,7 +483,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-data-scientist-remote-%25E2%2580%2593-%25C2%25A335-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4486197315&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1xWhS560LxdqikKI39nDfv",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/cloud-enginee-remote-entry-level-at-activemode-io-4485960147&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2D4Lz-xGpK0p8bvoEkF-mW",
@@ -104,7 +518,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/cloud-enginee-remote-entry-level-at-activemode-io-4485960147&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2D4Lz-xGpK0p8bvoEkF-mW",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/ground-software-engineer-core-toulouse-occitanie-444924",
@@ -139,7 +553,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/ground-software-engineer-core-toulouse-occitanie-444924",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/sumatosoft/jobs/qa-engineer?utm_source=api",
@@ -175,7 +589,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/sumatosoft/jobs/qa-engineer?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-software-develope-at-t%25C3%25BCrkiye-eu-business-dialogue-tebd-ii-4485976309&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw098hTicXTPN-ePGyMRsT5G",
@@ -208,7 +622,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-software-develope-at-t%25C3%25BCrkiye-eu-business-dialogue-tebd-ii-4485976309&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw098hTicXTPN-ePGyMRsT5G",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-engineer-ai-for-mistral-paris-22161",
@@ -241,7 +655,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-engineer-ai-for-mistral-paris-22161",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/158526-software-engineer-in-hardware-infrastructure-observability",
@@ -277,7 +691,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/158526-software-engineer-in-hardware-infrastructure-observability",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/working-student-qa-in-mobile-app-development-mfd-berlin-110910",
@@ -313,7 +727,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/working-student-qa-in-mobile-app-development-mfd-berlin-110910",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/ocd/assistant-developpeur-full-stack-paris-183006",
@@ -346,7 +760,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/ocd/assistant-developpeur-full-stack-paris-183006",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/apex-ai/software-engineer-software-platform-middleware-early-career-munich-211788",
@@ -382,7 +796,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/apex-ai/software-engineer-software-platform-middleware-early-career-munich-211788",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/backend-entwickler-c-net-aspnet-sql-server-berlin-187174",
@@ -418,7 +832,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/backend-entwickler-c-net-aspnet-sql-server-berlin-187174",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/stage-de-fin-detudes-consultante-developpeurse-martech-paris-173855",
@@ -451,7 +865,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/stage-de-fin-detudes-consultante-developpeurse-martech-paris-173855",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineer-new-grad-2027-start-berlin-199066",
@@ -484,7 +898,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineer-new-grad-2027-start-berlin-199066",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/software-engineer-new-grad-2027-start-london-288068",
@@ -517,7 +931,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/software-engineer-new-grad-2027-start-london-288068",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/options-technology/graduate-market-data-support-engineer-england-97214",
@@ -552,7 +966,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/options-technology/graduate-market-data-support-engineer-england-97214",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/marble/internship-junior-venture-analyst-paris-10888",
@@ -588,7 +1002,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/marble/internship-junior-venture-analyst-paris-10888",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/booking-reservations-assistant-remote-entry-level-at-dreamscape-4485427240&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2EbfvzXwwGTPJOC_n_feAv",
@@ -624,7 +1038,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/booking-reservations-assistant-remote-entry-level-at-dreamscape-4485427240&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2EbfvzXwwGTPJOC_n_feAv",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/databricks/software-engineer-new-grad-2027-start-amsterdam-401527",
@@ -657,7 +1071,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/databricks/software-engineer-new-grad-2027-start-amsterdam-401527",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-at-fifth-avenue-co-4485419163&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0QqETSb8eWZhCws9GlC5Zt",
@@ -693,7 +1107,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-at-fifth-avenue-co-4485419163&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0QqETSb8eWZhCws9GlC5Zt",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/entry-level-esl-online-tutor-ref-edu0111-26-at-etefl-training-recruitment-4485941601&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1q1BlCEE_XXYWkU3zB7HOL",
@@ -726,7 +1140,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/entry-level-esl-online-tutor-ref-edu0111-26-at-etefl-training-recruitment-4485941601&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1q1BlCEE_XXYWkU3zB7HOL",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/158447-jr-accounting-associate-2",
@@ -759,7 +1173,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/158447-jr-accounting-associate-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/158534-online-support-representative",
@@ -795,7 +1209,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/158534-online-support-representative",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-software-develope-at-master-2-droit-international-%25C3%25A9conomique-paris-ii-panth%25C3%25A9on-assas-4483954589&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3v1fX4rW6mhPwt2L3-O4TL",
@@ -139276,13 +139690,13 @@
       "is_new": false
     }
   ],
-  "count": 4121,
-  "keepers": 574,
-  "fresh": 3532,
-  "new_today": 23,
-  "apply_now": 87,
-  "apply": 77,
-  "consider": 90,
+  "count": 4133,
+  "keepers": 579,
+  "fresh": 3543,
+  "new_today": 12,
+  "apply_now": 88,
+  "apply": 79,
+  "consider": 92,
   "morocco": 31,
-  "eligible": 244
+  "eligible": 249
 }
