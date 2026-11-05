@@ -1,6 +1,76 @@
 {
-  "generated": "2026-11-04",
+  "generated": "2026-11-05",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/dataclue-gmbh/junior-forward-deployed-engineer-software-development-applied-ai-grunwald-186337",
+      "title": "Junior Forward Deployed Engineer: Software Development & Applied AI (m/w/d)",
+      "company": "DataClue GmbH",
+      "location": "Grünwald",
+      "link": "https://www.arbeitnow.com/jobs/companies/dataclue-gmbh/junior-forward-deployed-engineer-software-development-applied-ai-grunwald-186337",
+      "score": 40,
+      "reason": "While the role aligns well with the candidate's AI and full-stack skills, it is an on-site position in Germany, making the candidate geographically ineligible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-05",
+      "source": "Arbeitnow",
+      "summary": "This Junior Forward Deployed Engineer role focuses on software development and applied AI, requiring a blend of backend (Python), frontend (TypeScript/React), database, and AI agent development. It involves customer-facing work and bringing AI solutions to production.",
+      "date_posted": "1793833260",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "The job is located in Grünwald, Germany, and requires on-site presence, which is outside the candidate's acceptable geographic scope (Casablanca/Rabat).",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "required",
+      "gaps": [
+        "Geographic ineligibility due to on-site requirement in Germany."
+      ],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/dataclue-gmbh/junior-forward-deployed-engineer-software-development-applied-ai-grunwald-186337",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/tilla-technologies/full-stack-engineer-berlin-473243",
+      "title": "Full Stack Engineer",
+      "company": "Tilla Technologies",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/tilla-technologies/full-stack-engineer-berlin-473243",
+      "score": 15,
+      "reason": "The candidate is not eligible due to the location requirement (Berlin) as they cannot relocate from Morocco.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-05",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Full Stack Engineer in Berlin, Germany. The candidate is based in Morocco and cannot relocate. Therefore, despite potential technical overlap, the geographic constraint makes this role ineligible.",
+      "date_posted": "1793850018",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in Berlin, candidate cannot relocate.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "UNKNOWN",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/tilla-technologies/full-stack-engineer-berlin-473243",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/software-developer-entry-level-at-divine-talent-4486371907&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2_UDisyzZX9Fa9VomuXBnb",
       "title": "Software Developer - Entry Level",
@@ -32,7 +102,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/software-developer-entry-level-at-divine-talent-4486371907&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2_UDisyzZX9Fa9VomuXBnb",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/asg-company/jobs/full-stack-developer-intern?utm_source=api",
@@ -67,7 +137,7 @@
       ],
       "recommended_project": "Cupid",
       "application_url": "https://himalayas.app/companies/asg-company/jobs/full-stack-developer-intern?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/agentur-philipp-gmbh/fullstack-developer-dingolfing-357628",
@@ -100,7 +170,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/agentur-philipp-gmbh/fullstack-developer-dingolfing-357628",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/resonance/graduate-applied-ai-engineer-berlin-107801",
@@ -135,7 +205,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/resonance/graduate-applied-ai-engineer-berlin-107801",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-ai-engineer-entry-level-at-nexacode-4485763782&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw1tYn1CYvrV5g8dOM0ygq2q",
@@ -168,7 +238,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-ai-engineer-entry-level-at-nexacode-4485763782&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw1tYn1CYvrV5g8dOM0ygq2q",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-ai-evaluation-assistant-remote-at-joblet-ai-4486886343&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw06tFC9ufOdQ-X5OgH891bF",
@@ -203,7 +273,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-ai-evaluation-assistant-remote-at-joblet-ai-4486886343&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw06tFC9ufOdQ-X5OgH891bF",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/python-django-entwickler-fullstack-rest-ci-cd-stuttgart-166406",
@@ -238,7 +308,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/python-django-entwickler-fullstack-rest-ci-cd-stuttgart-166406",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/writer/19ebb038-e398-4a45-b40b-53333d534777",
@@ -273,7 +343,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/writer/19ebb038-e398-4a45-b40b-53333d534777",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/data-scientist-%25E2%2580%2593-entry-level-remote-at-joblet-ai-4487001069&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2G6FwzO28aUouNAmPJhuGY",
@@ -308,7 +378,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/data-scientist-%25E2%2580%2593-entry-level-remote-at-joblet-ai-4487001069&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2G6FwzO28aUouNAmPJhuGY",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/almedia/product-engineer-client-platform-berlin-288114",
@@ -343,7 +413,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/almedia/product-engineer-client-platform-berlin-288114",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/happyrobotai/forward-deployed-engineer-german-speaking-cologne-116832",
@@ -379,7 +449,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/happyrobotai/forward-deployed-engineer-german-speaking-cologne-116832",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/altametrics/jobs/full-stack-engineer-remote-romania?utm_source=api",
@@ -412,7 +482,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/altametrics/jobs/full-stack-engineer-remote-romania?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/freelance-analyst-%25E2%2580%2593-entry-level-remote-at-joblet-ai-4487033549&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3gxBLwLn6Jw9kRd3_eqez1",
@@ -447,7 +517,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/freelance-analyst-%25E2%2580%2593-entry-level-remote-at-joblet-ai-4487033549&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3gxBLwLn6Jw9kRd3_eqez1",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/software-engineer-transport-customs-paris-paris-213224",
@@ -480,7 +550,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/software-engineer-transport-customs-paris-paris-213224",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/internship-data-engineer-core-data-product-paris-paris-paris-238472",
@@ -515,7 +585,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/internship-data-engineer-core-data-product-paris-paris-paris-238472",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/it-support-specialist-entry-level-remote-at-joblet-ai-4487024883&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0xkE6KRTRDizqHry847Vyf",
@@ -551,7 +621,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/it-support-specialist-entry-level-remote-at-joblet-ai-4487024883&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0xkE6KRTRDizqHry847Vyf",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-content-auditor-remote-at-joblet-ai-4486872962&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3AKCo_ss0-hCXE8s4EHA4f",
@@ -586,7 +656,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-content-auditor-remote-at-joblet-ai-4486872962&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3AKCo_ss0-hCXE8s4EHA4f",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-ads-paris-132493",
@@ -619,7 +689,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-ads-paris-132493",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/vogel/founders-associate-praktikum-intern-munchen-410199",
@@ -654,7 +724,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/vogel/founders-associate-praktikum-intern-munchen-410199",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://nz.linkedin.com/jobs/view/entry-level-verification-specialist-remote-at-joblet-ai-4487012388&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw02bWwbCG6-_ZYQ_La_Fob7",
@@ -689,7 +759,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://nz.linkedin.com/jobs/view/entry-level-verification-specialist-remote-at-joblet-ai-4487012388&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw02bWwbCG6-_ZYQ_La_Fob7",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/158997-full-stack-developer",
@@ -722,7 +792,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/158997-full-stack-developer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/software-engineer-entry-level-usa-remote-at-torentify-4487219696&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1lS-jElvy1AsxaLwmzHfTz",
@@ -755,7 +825,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/software-engineer-entry-level-usa-remote-at-torentify-4487219696&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1lS-jElvy1AsxaLwmzHfTz",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-tester-remote-at-joblet-ai-4487044068&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Fnw0e_Asie68KwwmMyOS7",
@@ -791,7 +861,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-tester-remote-at-joblet-ai-4487044068&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Fnw0e_Asie68KwwmMyOS7",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/quantumdiamonds/process-optimization-intern-munich-383498",
@@ -824,7 +894,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/quantumdiamonds/process-optimization-intern-munich-383498",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/andercore/customer-success-internship-german-speaking-berlin-449749",
@@ -860,7 +930,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/andercore/customer-success-internship-german-speaking-berlin-449749",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/business-development-intern-remote-entry-level-freshers-at-genesis-code-4485072391&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0FYcR5dbKh2N4M8cs8vEUJ",
@@ -895,7 +965,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/business-development-intern-remote-entry-level-freshers-at-genesis-code-4485072391&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0FYcR5dbKh2N4M8cs8vEUJ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/158914-automation-engineer-agentic-orchestration",
@@ -930,7 +1000,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/158914-automation-engineer-agentic-orchestration",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-financial-associate-entry-level-training-provided-at-r-o-a-agency-4486061937&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3DYBZSLNEmdT5Q929Zl0nc",
@@ -966,7 +1036,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-financial-associate-entry-level-training-provided-at-r-o-a-agency-4486061937&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3DYBZSLNEmdT5Q929Zl0nc",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/content-marketing-social-media-coordinator-entry-level-ok-us-remote-at-braintrust-4487055960&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0oy0YvmL-drvEMBkspNijE",
@@ -1002,7 +1072,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/content-marketing-social-media-coordinator-entry-level-ok-us-remote-at-braintrust-4487055960&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0oy0YvmL-drvEMBkspNijE",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-planner-entry-level-training-provided-at-network-travel-careers-4485013385&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw16-I-NMdtLKur81fAVrdRT",
@@ -1038,7 +1108,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-planner-entry-level-training-provided-at-network-travel-careers-4485013385&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw16-I-NMdtLKur81fAVrdRT",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/sonymusicentertainment/juriste-junior-pole-acquisition-b-stage-europe-paris-216172",
@@ -1073,7 +1143,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/sonymusicentertainment/juriste-junior-pole-acquisition-b-stage-europe-paris-216172",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-software-developer-remote-at-joblet-ai-4486883202&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2HHSkhRhq0k_VXAOR6tyVc",
@@ -140764,10 +140834,10 @@
       "is_new": false
     }
   ],
-  "count": 4164,
+  "count": 4166,
   "keepers": 581,
-  "fresh": 3573,
-  "new_today": 31,
+  "fresh": 3575,
+  "new_today": 2,
   "apply_now": 89,
   "apply": 80,
   "consider": 92,
