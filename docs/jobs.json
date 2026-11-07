@@ -1,6 +1,111 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-07",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/growth-engineer-fullstack-frontend-focused-paris-299551",
+      "title": "Growth Engineer (Fullstack, Frontend-Focused)",
+      "company": "Pennylane SAS",
+      "location": "All France (remote)",
+      "link": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/growth-engineer-fullstack-frontend-focused-paris-299551",
+      "score": 75,
+      "reason": "The role is remote within EMEA and the candidate's full-stack skills align well with the frontend-focused Growth Engineer position, though AI/LLM experience is not directly leveraged.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-07",
+      "source": "Arbeitnow",
+      "summary": "This is a remote, full-stack Growth Engineer role with a frontend focus, located in France but open to remote candidates across Europe. The candidate's full-stack development skills in React/Next.js and backend technologies are a good match.",
+      "date_posted": "1794012011",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "priority": "APPLY",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Remote within EMEA, no explicit EU work authorization required.",
+      "geographic_scope": "EMEA",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/growth-engineer-fullstack-frontend-focused-paris-299551",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
+      "title": "Software Engineering Intern - Internal Developer Platform",
+      "company": "Tomtom",
+      "location": "Amsterdam, The Netherlands",
+      "link": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
+      "score": 15,
+      "reason": "The internship requires enrollment in a Dutch university and on-site presence in Amsterdam, making the candidate geographically and educationally ineligible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-07",
+      "source": "Arbeitnow",
+      "summary": "This is a hybrid Software Engineering Intern role in Amsterdam, Netherlands, focusing on building developer tools. The candidate is not eligible due to the location and university enrollment requirements.",
+      "date_posted": "1794010121",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Requires enrollment in a Dutch university and ability to commute to Amsterdam, which the candidate cannot fulfill.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "HYBRID",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "required",
+      "gaps": [
+        "Requires Dutch university enrollment",
+        "Requires on-site presence in Amsterdam"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-programming-automation-delft-385463",
+      "title": "Internship - Programming & Automation",
+      "company": "Fiducial",
+      "location": "Delft",
+      "link": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-programming-automation-delft-385463",
+      "score": 10,
+      "reason": "The internship requires on-site presence in the Netherlands and does not offer visa sponsorship, making the candidate geographically and logistically ineligible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-07",
+      "source": "Arbeitnow",
+      "summary": "This is an on-site internship opportunity in Delft, Netherlands, focused on programming and automation within a deep-tech startup. The company explicitly states no visa sponsorship is available.",
+      "date_posted": "1794012011",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role requires on-site presence in Delft, Netherlands, and the candidate cannot relocate. Additionally, the company explicitly states they cannot provide visa sponsorship, which is a hard requirement f",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility (on-site, no visa sponsorship)",
+        "Location mismatch (Delft vs. Casablanca/Rabat)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-programming-automation-delft-385463",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-data-solutions-munich-389827",
       "title": "FullStack Engineer - Prospect Data Solutions",
@@ -32,7 +137,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-data-solutions-munich-389827",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://mx.linkedin.com/jobs/view/remote-junior-ai-ml-engineer-conversational-ai-at-resolv-global-4485519768&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw0TYRd2q3C9gw-aEjAWxGrV",
@@ -65,7 +170,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://mx.linkedin.com/jobs/view/remote-junior-ai-ml-engineer-conversational-ai-at-resolv-global-4485519768&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw0TYRd2q3C9gw-aEjAWxGrV",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
@@ -100,7 +205,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/software-engineer-entry-level-at-torentify-4487753850%3FrefId%3Dj5pojoQts02C2UeJCxmsSQ%253D%253D%26trackingId%3D7%252FTqJZAkMiQryCkOXO9Lmw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3WvlApD1o8Z3grJZ-O8rBi",
@@ -133,7 +238,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/software-engineer-entry-level-at-torentify-4487753850%3FrefId%3Dj5pojoQts02C2UeJCxmsSQ%253D%253D%26trackingId%3D7%252FTqJZAkMiQryCkOXO9Lmw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3WvlApD1o8Z3grJZ-O8rBi",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/PostHog/20ab9628-20ff-4ae3-bd6a-46ae7e9dc6b8",
@@ -166,7 +271,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://jobs.ashbyhq.com/PostHog/20ab9628-20ff-4ae3-bd6a-46ae7e9dc6b8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer",
@@ -202,7 +307,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/telli/internship-founders-office-talent-berlin-482179",
@@ -235,7 +340,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/telli/internship-founders-office-talent-berlin-482179",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/youngones/qa-engineer-breda-496087",
@@ -271,7 +376,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/youngones/qa-engineer-breda-496087",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334",
@@ -307,7 +412,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/WRITER/19ebb038-e398-4a45-b40b-53333d534777",
@@ -342,7 +447,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/WRITER/19ebb038-e398-4a45-b40b-53333d534777",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/159117-devops-engineer-blockchain-infra-fully-remote-2",
@@ -378,7 +483,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/159117-devops-engineer-blockchain-infra-fully-remote-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/imago-stock-people-gmbh/go-to-market-engineer-revenue-operations-berlin-198999",
@@ -414,7 +519,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/imago-stock-people-gmbh/go-to-market-engineer-revenue-operations-berlin-198999",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/growth-engineer-data-tracking-paris-330691",
@@ -447,7 +552,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/growth-engineer-data-tracking-paris-330691",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/smartsheet/sr-forward-deployed-ai-engineer-remote-eligible-in-the-uk-london-144518",
@@ -483,7 +588,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/smartsheet/sr-forward-deployed-ai-engineer-remote-eligible-in-the-uk-london-144518",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/alpaca/jobs/crypto-operations-associate-emea-coverage?utm_source=api",
@@ -518,7 +623,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/alpaca/jobs/crypto-operations-associate-emea-coverage?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.jobleads.com/mx/job/junior-midlevel-react-developer-remote-work-ref-307232--santiago-de-queretaro--edd9f7547c10fc6ced1a16f6f8a2e28ce&ct=ga&cd=CAIyHGFlZjliNjZjYTU0MWFhYzI6Y29tOmZyOlVTOkw&usg=AOvVaw2AlIBjRzFnZrjcC21du1xf",
@@ -553,7 +658,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.jobleads.com/mx/job/junior-midlevel-react-developer-remote-work-ref-307232--santiago-de-queretaro--edd9f7547c10fc6ced1a16f6f8a2e28ce&ct=ga&cd=CAIyHGFlZjliNjZjYTU0MWFhYzI6Y29tOmZyOlVTOkw&usg=AOvVaw2AlIBjRzFnZrjcC21du1xf",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/golden-1-credit-union-web-applications-programmer-ii-sitecore-development-required",
@@ -589,7 +694,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/golden-1-credit-union-web-applications-programmer-ii-sitecore-development-required",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-400842",
@@ -622,7 +727,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-400842",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/csv-analyst-entry-level-at-united-consulting-hub-4487282312&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0cbmmsGJkamwrgydhyPUNH",
@@ -657,7 +762,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/csv-analyst-entry-level-at-united-consulting-hub-4487282312&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0cbmmsGJkamwrgydhyPUNH",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/159234-full-stack-engineer-music",
@@ -692,7 +797,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/159234-full-stack-engineer-music",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680",
@@ -728,7 +833,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-financial-services-specialist-%25E2%2580%2593-remote-at-the-hunt-agency-inc-4486778346%3Fposition%3D45%26pageNum%3D0%26refId%3DAlCOp4OZVvPa0jVm8Kr7Rg%253D%253D%26trackingId%3Dj0NOXIcEqFDl1GkfdxFtCw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0qk0huzG_apwFNZZgl459_",
@@ -764,7 +869,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-financial-services-specialist-%25E2%2580%2593-remote-at-the-hunt-agency-inc-4486778346%3Fposition%3D45%26pageNum%3D0%26refId%3DAlCOp4OZVvPa0jVm8Kr7Rg%253D%253D%26trackingId%3Dj0NOXIcEqFDl1GkfdxFtCw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0qk0huzG_apwFNZZgl459_",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-cloud-native-platform-engineering-developer-experience-rotterdam-477686",
@@ -797,7 +902,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-cloud-native-platform-engineering-developer-experience-rotterdam-477686",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/ostrom/junior-growth-associate-berlin-369010",
@@ -833,7 +938,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/ostrom/junior-growth-associate-berlin-369010",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/harvey/953b710f-3c48-4409-ad30-6416da8ed043",
@@ -869,7 +974,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/harvey/953b710f-3c48-4409-ad30-6416da8ed043",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/alan/general-secretary-associate-intern-paris-france-104020",
@@ -905,7 +1010,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/alan/general-secretary-associate-intern-paris-france-104020",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/159341-sr-forward-deployed-engineer-fde-retail",
@@ -942,7 +1047,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/159341-sr-forward-deployed-engineer-fde-retail",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-salesperson-entry-level-no-experience-needed-will-train-at-anderson-agency-llc-4487748536%3Fposition%3D52%26pageNum%3D0%26refId%3DpHSx5eQBZ37Cyfs1z8kliQ%253D%253D%26trackingId%3DuoRP2O9iJqLHlo2YtmJgVg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw17DHXUvUo2gxM_OlImPr7F",
@@ -977,7 +1082,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-salesperson-entry-level-no-experience-needed-will-train-at-anderson-agency-llc-4487748536%3Fposition%3D52%26pageNum%3D0%26refId%3DpHSx5eQBZ37Cyfs1z8kliQ%253D%253D%26trackingId%3DuoRP2O9iJqLHlo2YtmJgVg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw17DHXUvUo2gxM_OlImPr7F",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-quality-control-inspector-at-whirlwind-steel-buildings-and-components-4486512147&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0jjZfCwA48yacsdyLmmSo2",
@@ -1010,7 +1115,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-quality-control-inspector-at-whirlwind-steel-buildings-and-components-4486512147&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0jjZfCwA48yacsdyLmmSo2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-specialist-no-experience-needed-at-the-elmer-agency-4486731896%3FrefId%3Dpl5DjIvXFtc7TRYQyf6pWw%253D%253D%26trackingId%3DYazx9Tsf5tDGp8orOFDVOw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3wI7jCRAahcSfSH4-KhfjP",
@@ -1045,7 +1150,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-specialist-no-experience-needed-at-the-elmer-agency-4486731896%3FrefId%3Dpl5DjIvXFtc7TRYQyf6pWw%253D%253D%26trackingId%3DYazx9Tsf5tDGp8orOFDVOw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3wI7jCRAahcSfSH4-KhfjP",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-cruise-coordinator-at-caribbean-and-cruise-experience-4487728064&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3OftVi9LMxBjhHeEkaxe6p",
@@ -1081,7 +1186,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-cruise-coordinator-at-caribbean-and-cruise-experience-4487728064&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3OftVi9LMxBjhHeEkaxe6p",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/securance/junior-international-sales-business-development-representative-dach-market-utrecht-25001",
@@ -1117,7 +1222,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/securance/junior-international-sales-business-development-representative-dach-market-utrecht-25001",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
@@ -142298,13 +142403,13 @@
       "is_new": false
     }
   ],
-  "count": 4208,
-  "keepers": 587,
-  "fresh": 3614,
-  "new_today": 32,
+  "count": 4211,
+  "keepers": 588,
+  "fresh": 3617,
+  "new_today": 3,
   "apply_now": 92,
-  "apply": 83,
+  "apply": 84,
   "consider": 93,
   "morocco": 31,
-  "eligible": 258
+  "eligible": 259
 }
