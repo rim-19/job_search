@@ -1,6 +1,42 @@
 {
-  "generated": "2026-11-07",
+  "generated": "2026-11-08",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-data-and-ai-engineering-it-management-consultant-2026-27-graduate-hamburg-125215",
+      "title": "Software Engineering /Data and AI Engineering/ IT-Management Consultant (2026/27 Graduate) (m/f/d)",
+      "company": "Netlight",
+      "location": "Hamburg",
+      "link": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-data-and-ai-engineering-it-management-consultant-2026-27-graduate-hamburg-125215",
+      "score": 30,
+      "reason": "The role is an on-site position in Hamburg, Germany, which is not within the candidate's geographic constraints. While the technical focus on software and data aligns with the candidate's profile, the location and on-site requirement make it ineligible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-08",
+      "source": "Arbeitnow",
+      "summary": "This is a graduate-level consultant role at Netlight, focusing on shaping software products and technical solutions. The role involves a broad technical spectrum including Fullstack Development, Backend, Data Engineering, and more. It is an on-site position in Hamburg, Germany.",
+      "date_posted": "1794107295",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in Hamburg, Germany, and requires on-site presence, which is outside the candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic location",
+        "On-site requirement"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-data-and-ai-engineering-it-management-consultant-2026-27-graduate-hamburg-125215",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-web-developer-%25E2%2580%2593-remote-%25E2%2580%2593-%25C2%25A330-000-%252B-training-provided-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4487793483%3FrefId%3DJ2NyrMVB5eDnoS2brDiOGA%253D%253D%26trackingId%3Dfx97GVSY3HwE2FZ9r2eNFA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw18_uIQMVXivsolVWUyZ2g3",
       "title": "Junior Web Developer – Remote – £30,000 + Training Provided ( Entry Level )",
@@ -32,7 +68,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-web-developer-%25E2%2580%2593-remote-%25E2%2580%2593-%25C2%25A330-000-%252B-training-provided-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4487793483%3FrefId%3DJ2NyrMVB5eDnoS2brDiOGA%253D%253D%26trackingId%3Dfx97GVSY3HwE2FZ9r2eNFA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw18_uIQMVXivsolVWUyZ2g3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/growth-engineer-fullstack-frontend-focused-paris-299551",
@@ -65,7 +101,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/growth-engineer-fullstack-frontend-focused-paris-299551",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/software-engineer-entry-level-remote-opportunity-at-torentify-4488171110%3FrefId%3DOtS7yC0oIecIhZuiVTLdNw%253D%253D%26trackingId%3DNV4MdWaQEPomUHoSDSOJqQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2kFwSS_9bUEn5GhVboe-0c",
@@ -98,7 +134,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/software-engineer-entry-level-remote-opportunity-at-torentify-4488171110%3FrefId%3DOtS7yC0oIecIhZuiVTLdNw%253D%253D%26trackingId%3DNV4MdWaQEPomUHoSDSOJqQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2kFwSS_9bUEn5GhVboe-0c",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/software-analyst-entry-level-remote-opportunity-at-torentify-4488096929%3Fposition%3D15%26pageNum%3D0%26refId%3DPV%252FFmp6n6RryJaFd%252BlM1ig%253D%253D%26trackingId%3DiqgLpP%252BfUG3ECCVJX5OLzQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw051cc34esIkWYB2vyBNcGe",
@@ -134,7 +170,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/software-analyst-entry-level-remote-opportunity-at-torentify-4488096929%3Fposition%3D15%26pageNum%3D0%26refId%3DPV%252FFmp6n6RryJaFd%252BlM1ig%253D%253D%26trackingId%3DiqgLpP%252BfUG3ECCVJX5OLzQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw051cc34esIkWYB2vyBNcGe",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/forward-software-engineer-paris-278437",
@@ -169,7 +205,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mistralai/forward-software-engineer-paris-278437",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/forward-software-engineer-data-paris-359594",
@@ -204,7 +240,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mistralai/forward-software-engineer-data-paris-359594",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-engineer-germany-426397",
@@ -240,7 +276,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-engineer-germany-426397",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/software-engineer-london-287186",
@@ -273,7 +309,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/software-engineer-london-287186",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ai-scientist-intern-internship-masters-or-phd-paris-445628",
@@ -306,7 +342,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ai-scientist-intern-internship-masters-or-phd-paris-445628",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/159423-software-engineer-in-network-infrastructure-2",
@@ -342,7 +378,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/159423-software-engineer-in-network-infrastructure-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/ml-engineer-internship-paris-50932",
@@ -375,7 +411,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/ml-engineer-internship-paris-50932",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/sentry/29de413e-afbb-437f-9e69-e18ae5c4dd26",
@@ -410,7 +446,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/sentry/29de413e-afbb-437f-9e69-e18ae5c4dd26",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/ElevenLabs/6a530871-b6c6-4783-ac6b-69cc3b084192",
@@ -443,7 +479,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/ElevenLabs/6a530871-b6c6-4783-ac6b-69cc3b084192",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
@@ -479,7 +515,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-refonte-dun-moteur-de-recherche-a-forte-volumetrie-h-f-france-393791",
@@ -512,7 +548,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-refonte-dun-moteur-de-recherche-a-forte-volumetrie-h-f-france-393791",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/jobgether/applied-ai-engineer-germany-316718",
@@ -545,7 +581,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/jobgether/applied-ai-engineer-germany-316718",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-programming-automation-delft-385463",
@@ -581,7 +617,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-programming-automation-delft-385463",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/qu/jobs/qa-engineer-backend-frontend?utm_source=api",
@@ -617,7 +653,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/qu/jobs/qa-engineer-backend-frontend?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/augustus/internship-berlin-259093",
@@ -650,7 +686,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/augustus/internship-berlin-259093",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/american-oncology-network/jobs/junior-web-developer?utm_source=api",
@@ -683,7 +719,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/american-oncology-network/jobs/junior-web-developer?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-sales-opportunity-open-to-recent-graduates-at-wilbur-smith-agency-4486754867%3FrefId%3DRKXxOcvdH6dPVUZyVgwiWQ%253D%253D%26trackingId%3DVKoJpDyavOKrtOpzPTXdVQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0l4-f2aB9IHW0oVYuuTprt",
@@ -719,7 +755,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-sales-opportunity-open-to-recent-graduates-at-wilbur-smith-agency-4486754867%3FrefId%3DRKXxOcvdH6dPVUZyVgwiWQ%253D%253D%26trackingId%3DVKoJpDyavOKrtOpzPTXdVQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0l4-f2aB9IHW0oVYuuTprt",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-graphic-designer-entry-level-remote-at-apply4u-human-assisted-ai-job-recruitment-platform-4488131354%3FrefId%3DM26BMsK0p7no1aciNVrgcA%253D%253D%26trackingId%3D8o7Te4FOFPDSS4Hgp3Tuxg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw01eZ-0XX4wib9VnlDbO12J",
@@ -754,7 +790,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-graphic-designer-entry-level-remote-at-apply4u-human-assisted-ai-job-recruitment-platform-4488131354%3FrefId%3DM26BMsK0p7no1aciNVrgcA%253D%253D%26trackingId%3D8o7Te4FOFPDSS4Hgp3Tuxg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw01eZ-0XX4wib9VnlDbO12J",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-data-solutions-munich-389827",
@@ -143053,10 +143089,10 @@
       "is_new": false
     }
   ],
-  "count": 4230,
+  "count": 4231,
   "keepers": 591,
-  "fresh": 3634,
-  "new_today": 22,
+  "fresh": 3635,
+  "new_today": 1,
   "apply_now": 93,
   "apply": 85,
   "consider": 94,
