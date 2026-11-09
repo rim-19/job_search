@@ -1,6 +1,75 @@
 {
-  "generated": "2026-11-08",
+  "generated": "2026-11-09",
   "jobs": [
+    {
+      "url": "http://www.circleci.com/careers/jobs/8918373002/?gh_jid=8918373002",
+      "title": "Support Engineer",
+      "company": "CircleCI",
+      "location": "Remote, UK",
+      "link": "http://www.circleci.com/careers/jobs/8918373002/?gh_jid=8918373002",
+      "score": 40,
+      "reason": "The candidate has relevant AI/LLM and full-stack skills, but the role requires 2+ years of experience and is remote UK, which is outside the candidate's geographic eligibility.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-09",
+      "source": "CircleCI (careers)",
+      "summary": "This role involves building and managing AI support agents, aligning with the candidate's AI/LLM skills. However, the minimum experience requirement of 2 years is a potential mismatch for an early-career developer, and the UK remote location is geographically ineligible.",
+      "date_posted": "2026-11-06T12:09:01-05:00",
+      "days_since_posted": 2,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic restriction: Role is remote UK, candidate cannot relocate and does not meet EMEA remote criteria without work authorization.",
+      "geographic_scope": "EMEA",
+      "remote_type": "REMOTE",
+      "seniority": "EARLY_CAREER",
+      "min_years": 2,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic eligibility for UK remote",
+        "Minimum 2 years of experience requirement"
+      ],
+      "recommended_project": "Nexus AI",
+      "application_url": "http://www.circleci.com/careers/jobs/8918373002/?gh_jid=8918373002",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/ElevenLabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f",
+      "title": "Full-Stack Engineer (Backend Leaning)",
+      "company": "ElevenLabs",
+      "location": "United Kingdom",
+      "link": "https://jobs.ashbyhq.com/ElevenLabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f",
+      "score": 30,
+      "reason": "The job is located in the United Kingdom, and the candidate is based in Morocco with no ability to relocate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-09",
+      "source": "ElevenLabs (careers)",
+      "summary": "This is a Full-Stack Engineer role at ElevenLabs, an AI research and product company. The role is based in the United Kingdom and is not remote.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Candidate is based in Morocco and cannot relocate to the UK.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://jobs.ashbyhq.com/ElevenLabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f",
+      "is_new": true
+    },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
       "title": "AI Developer",
@@ -32,7 +101,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/software-analyst-entry-level-100%2525-remote-opportunity-at-torentify-4488483925%3Fposition%3D14%26pageNum%3D0%26refId%3D6I%252Be2a1kebxgbKDMCfwbPA%253D%253D%26trackingId%3DfxgY%252F%252FDKj22aLCPmKlZJlA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2IQZl6aYZqzbufBf2CTteH",
@@ -67,7 +136,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/software-analyst-entry-level-100%2525-remote-opportunity-at-torentify-4488483925%3Fposition%3D14%26pageNum%3D0%26refId%3D6I%252Be2a1kebxgbKDMCfwbPA%253D%253D%26trackingId%3DfxgY%252F%252FDKj22aLCPmKlZJlA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2IQZl6aYZqzbufBf2CTteH",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/software-engineer-agents-uk-london-467443",
@@ -102,7 +171,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/writer/software-engineer-agents-uk-london-467443",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/4488433125&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0TJqyRZBvN0ux8_Gt88NaH",
@@ -137,7 +206,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/4488433125&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0TJqyRZBvN0ux8_Gt88NaH",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/winton/software-developer-quantitative-platform-london-177432",
@@ -173,7 +242,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/winton/software-developer-quantitative-platform-london-177432",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/cresta/software-engineer-in-test-berlin-40754",
@@ -208,7 +277,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/cresta/software-engineer-in-test-berlin-40754",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-data-and-ai-engineering-it-management-consultant-2026-27-graduate-hamburg-125215",
@@ -244,7 +313,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-data-and-ai-engineering-it-management-consultant-2026-27-graduate-hamburg-125215",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/applied-ai-engineer-switzerland-204694",
@@ -277,7 +346,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/jobgether/applied-ai-engineer-switzerland-204694",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/ai-engineer-switzerland-78556",
@@ -310,7 +379,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/jobgether/ai-engineer-switzerland-78556",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
@@ -345,7 +414,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/winton/quantitative-developer-researcher-graduate-london-385279",
@@ -380,7 +449,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/winton/quantitative-developer-researcher-graduate-london-385279",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-kforce-inc-4487570564%3Fposition%3D53%26pageNum%3D0%26refId%3Ds15Q9a0lfpi7oCv7Y0Ja%252Bg%253D%253D%26trackingId%3DWFGmS5xKjrdu%252FaA9B6akqg%253D%253D&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1BLCXWVEJS5lYbQ2dYRGU2",
@@ -416,7 +485,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-kforce-inc-4487570564%3Fposition%3D53%26pageNum%3D0%26refId%3Ds15Q9a0lfpi7oCv7Y0Ja%252Bg%253D%253D%26trackingId%3DWFGmS5xKjrdu%252FaA9B6akqg%253D%253D&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1BLCXWVEJS5lYbQ2dYRGU2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/oneimaging-cloud-systems-administrator",
@@ -449,7 +518,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/oneimaging-cloud-systems-administrator",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/atz-ag/junior-ai-automation-specialist-vor-ort-in-dortmund-160104",
@@ -482,7 +551,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/atz-ag/junior-ai-automation-specialist-vor-ort-in-dortmund-160104",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/159882-security-engineer-5",
@@ -517,7 +586,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/159882-security-engineer-5",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-nurnberg-bavaria-365340",
@@ -553,7 +622,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-nurnberg-bavaria-365340",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ar.linkedin.com/jobs/view/marketing-specialist-entry-level-remote-at-solvo-global-4486253159%3FrefId%3DyNQcaDc7YSis4ibXNlkR4A%253D%253D%26trackingId%3D6wwyjCFecx%252BKZguWprZ85g%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0iBR--lya_IfUmOz17zoIK",
@@ -588,7 +657,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ar.linkedin.com/jobs/view/marketing-specialist-entry-level-remote-at-solvo-global-4486253159%3FrefId%3DyNQcaDc7YSis4ibXNlkR4A%253D%253D%26trackingId%3D6wwyjCFecx%252BKZguWprZ85g%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0iBR--lya_IfUmOz17zoIK",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/a-educacao/jobs/engenheiro-a-de-qualidade-senior-qe?utm_source=api",
@@ -624,7 +693,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/a-educacao/jobs/engenheiro-a-de-qualidade-senior-qe?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/document-controller-remote-%25E2%2580%2593-%25C2%25A333-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4488133229%3FrefId%3Db2P2x%252B0O5zMcE49e9wbPlw%253D%253D%26trackingId%3D8OHMVEC7iihtf40zi%252BNMyg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3lWaA_el5Ux7FP6xyxz1s7",
@@ -659,7 +728,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/document-controller-remote-%25E2%2580%2593-%25C2%25A333-000-%252B-training-provided-%25E2%2580%2593-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4488133229%3FrefId%3Db2P2x%252B0O5zMcE49e9wbPlw%253D%253D%26trackingId%3D8OHMVEC7iihtf40zi%252BNMyg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3lWaA_el5Ux7FP6xyxz1s7",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-no-experience-needed-will-train-flexible-schedule-at-anderson-agency-llc-4488153191%3Fposition%3D33%26pageNum%3D0%26refId%3DVAImmZKF0tihphor7f9QQA%253D%253D%26trackingId%3Dj9tTqpKbmt7reKOx9whQHg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3xXCfGmg--ill3sdh_tR7O",
@@ -695,7 +764,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-no-experience-needed-will-train-flexible-schedule-at-anderson-agency-llc-4488153191%3Fposition%3D33%26pageNum%3D0%26refId%3DVAImmZKF0tihphor7f9QQA%253D%253D%26trackingId%3Dj9tTqpKbmt7reKOx9whQHg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3xXCfGmg--ill3sdh_tR7O",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-sales-%25E2%2580%2594-%252475k-to-%2524300k-potential-at-kemboi-financial-agency-4487367441&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2HGH2h4GQhDU3mgJA9FDk6",
@@ -731,7 +800,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-sales-%25E2%2580%2594-%252475k-to-%2524300k-potential-at-kemboi-financial-agency-4487367441&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2HGH2h4GQhDU3mgJA9FDk6",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/english-teaching-intern-remote-at-jobs-ai-4486988406%3FrefId%3D0Im3w6MjPfegqJRTQ%252BvYQg%253D%253D%26trackingId%3Dmg5b%252FbVWrDc2aCTPkzoq%252Bw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2nooznPV09_5a3Y61UdFi8",
@@ -767,7 +836,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ca.linkedin.com/jobs/view/english-teaching-intern-remote-at-jobs-ai-4486988406%3FrefId%3D0Im3w6MjPfegqJRTQ%252BvYQg%253D%253D%26trackingId%3Dmg5b%252FbVWrDc2aCTPkzoq%252Bw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2nooznPV09_5a3Y61UdFi8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-booking-coordination-specialist-entry-level-at-destination-services-network-4488494106%3FrefId%3DWj%252B61gjuBGCw4Lfr6IaJ1A%253D%253D%26trackingId%3DpFzBP9FL0FxQlAevhmkXUw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3aYgLp46O9V-jnAIScoyzL",
@@ -802,7 +871,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-booking-coordination-specialist-entry-level-at-destination-services-network-4488494106%3FrefId%3DWj%252B61gjuBGCw4Lfr6IaJ1A%253D%253D%26trackingId%3DpFzBP9FL0FxQlAevhmkXUw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3aYgLp46O9V-jnAIScoyzL",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-representative-%25E2%2580%2593-entry-level-at-the-hunt-agency-inc-4487337689%3FrefId%3DRm%252BW%252BWSuiVVlHfXD2629fw%253D%253D%26trackingId%3DX6LsWkK6Jy2HvIDK8FabOQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3XeXZRE_zE3TZsDUb81U6H",
@@ -838,7 +907,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-sales-representative-%25E2%2580%2593-entry-level-at-the-hunt-agency-inc-4487337689%3FrefId%3DRm%252BW%252BWSuiVVlHfXD2629fw%253D%253D%26trackingId%3DX6LsWkK6Jy2HvIDK8FabOQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3XeXZRE_zE3TZsDUb81U6H",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-web-developer-%25E2%2580%2593-remote-%25E2%2580%2593-%25C2%25A330-000-%252B-training-provided-entry-level-at-apply4u-human-assisted-ai-job-recruitment-platform-4487793483%3FrefId%3DJ2NyrMVB5eDnoS2brDiOGA%253D%253D%26trackingId%3Dfx97GVSY3HwE2FZ9r2eNFA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw18_uIQMVXivsolVWUyZ2g3",
@@ -143892,10 +143961,10 @@
       "is_new": false
     }
   ],
-  "count": 4254,
+  "count": 4256,
   "keepers": 592,
-  "fresh": 3658,
-  "new_today": 24,
+  "fresh": 3659,
+  "new_today": 2,
   "apply_now": 94,
   "apply": 85,
   "consider": 94,
