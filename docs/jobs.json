@@ -1,6 +1,39 @@
 {
-  "generated": "2026-11-09",
+  "generated": "2026-11-10",
   "jobs": [
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://br.linkedin.com/jobs/desenvolvedor-full-stack-junior-full-stack-j%25C3%25BAnior-vagas&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1-RtfkWpuVUR-zg7XQR3m4",
+      "title": "2.000+ Desenvolvedor Full Stack Junior Full Stack Júnior vagas em Brasil - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://br.linkedin.com/jobs/desenvolvedor-full-stack-junior-full-stack-j%25C3%25BAnior-vagas&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1-RtfkWpuVUR-zg7XQR3m4",
+      "score": 70,
+      "reason": "This is a junior full-stack developer role with a strong overlap in technologies (React, Node.js) and the candidate is seeking exactly this type of position globally.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-10",
+      "source": "Google Alert 9",
+      "summary": "The candidate is a junior full-stack developer with experience in React and Node.js, aligning well with the requirements of this remote junior full-stack role. Her AI specialization is a bonus but not a strict requirement for this position.",
+      "date_posted": "2026-11-09T05:19:15Z",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "priority": "APPLY",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate is open to worldwide remote roles and the job is remote.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://br.linkedin.com/jobs/desenvolvedor-full-stack-junior-full-stack-j%25C3%25BAnior-vagas&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1-RtfkWpuVUR-zg7XQR3m4",
+      "is_new": true
+    },
     {
       "url": "http://www.circleci.com/careers/jobs/8918373002/?gh_jid=8918373002",
       "title": "Support Engineer",
@@ -35,7 +68,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "http://www.circleci.com/careers/jobs/8918373002/?gh_jid=8918373002",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/jobgether/ai-engineer-netherlands-136871",
@@ -70,7 +103,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/jobgether/ai-engineer-netherlands-136871",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/java-fullstack-software-engineer-spring-boot-angular-bern-241500",
@@ -103,7 +136,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/java-fullstack-software-engineer-spring-boot-angular-bern-241500",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/adclear/product-engineer-london-213487",
@@ -139,7 +172,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/adclear/product-engineer-london-213487",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/ElevenLabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f",
@@ -172,7 +205,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/ElevenLabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/unaice-gmbh/junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-188721",
@@ -207,7 +240,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/unaice-gmbh/junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-188721",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobspresso.co/job/associate-proposals-consultant/",
@@ -243,7 +276,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobspresso.co/job/associate-proposals-consultant/",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/werkstudent-software-engineering-darmstadt-210512",
@@ -279,7 +312,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/werkstudent-software-engineering-darmstadt-210512",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/cursor/c4afc6fd-b8c8-413f-9010-0000323304aa",
@@ -315,7 +348,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/cursor/c4afc6fd-b8c8-413f-9010-0000323304aa",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/jobgether/applied-ai-engineer-netherlands-402898",
@@ -348,7 +381,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/jobgether/applied-ai-engineer-netherlands-402898",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/unpaid-hr-and-recruiting-internship-startup-hiring-experience-berlin-198581",
@@ -384,7 +417,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/unpaid-hr-and-recruiting-internship-startup-hiring-experience-berlin-198581",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/projektron-gmbh/java-entwicklung-berlin-412716",
@@ -421,7 +454,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/projektron-gmbh/java-entwicklung-berlin-412716",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/software-engineer-simulation-platform-munich-468703",
@@ -454,7 +487,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/software-engineer-simulation-platform-munich-468703",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/160208-website-growth-engineer",
@@ -487,7 +520,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/160208-website-growth-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/160030-security-engineer-offensive-security",
@@ -520,7 +553,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/160030-security-engineer-offensive-security",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobspresso.co/job/associate-financial-analyst/",
@@ -555,7 +588,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobspresso.co/job/associate-financial-analyst/",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/160705-integrations-engineer",
@@ -588,7 +621,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/160705-integrations-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-planner-entry-level-at-destination-services-network-4488484325%3FrefId%3DxO3iQvz47a5Soupu3vDdFg%253D%253D%26trackingId%3DpWRqG66Lx6o2F6RW9Najtw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3yKYQ4rd94eSO_E6occRmv",
@@ -624,7 +657,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-planner-entry-level-at-destination-services-network-4488484325%3FrefId%3DxO3iQvz47a5Soupu3vDdFg%253D%253D%26trackingId%3DpWRqG66Lx6o2F6RW9Najtw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3yKYQ4rd94eSO_E6occRmv",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/cursor/7678325b-cd6c-4cf6-97af-26ba37e615ab",
@@ -659,7 +692,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/cursor/7678325b-cd6c-4cf6-97af-26ba37e615ab",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-reservations-advisor-entry-level-at-destination-services-network-4488488215%3FrefId%3D0ya%252FpFuETlGj90M%252BJEB8KQ%253D%253D%26trackingId%3D1w9FqGf0zy%252FXLbe8Q30MjQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1D1_PhSWKjTbWLzFsA1aRu",
@@ -695,7 +728,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-reservations-advisor-entry-level-at-destination-services-network-4488488215%3FrefId%3D0ya%252FpFuETlGj90M%252BJEB8KQ%253D%253D%26trackingId%3D1w9FqGf0zy%252FXLbe8Q30MjQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1D1_PhSWKjTbWLzFsA1aRu",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-customer-care-coordinator-at-destination-services-network-4488486288&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3lRspLE-_PY4UCLzy2izpv",
@@ -730,7 +763,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-customer-care-coordinator-at-destination-services-network-4488486288&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3lRspLE-_PY4UCLzy2izpv",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-success-specialist-entry-level-at-lotz-agency-4488726371%3FrefId%3DSrMr1J%252B5kWU8NW2E%252BdO4Zg%253D%253D%26trackingId%3Da3V05WgvweTRxuidILr5Mw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1UX5vmiclePnbKX047UrOA",
@@ -766,7 +799,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-success-specialist-entry-level-at-lotz-agency-4488726371%3FrefId%3DSrMr1J%252B5kWU8NW2E%252BdO4Zg%253D%253D%26trackingId%3Da3V05WgvweTRxuidILr5Mw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1UX5vmiclePnbKX047UrOA",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-destination-event-coordinator-at-destination-services-network-4488479616&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw05At8XKO-viemi7ARyPg9Q",
@@ -801,7 +834,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-destination-event-coordinator-at-destination-services-network-4488479616&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw05At8XKO-viemi7ARyPg9Q",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesperson-remote%2521-no-experience-required%2521-75k-150k-%252B-health-benefits-at-allen-cw-group-4487638923%3FrefId%3D6PDAoPcJVBwbhrdabvO4Fw%253D%253D%26trackingId%3Dxr9WVWf0UphZTSV%252BFKgfRw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0fapyhSg-aKSfTGWTC0azz",
@@ -837,7 +870,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesperson-remote%2521-no-experience-required%2521-75k-150k-%252B-health-benefits-at-allen-cw-group-4487638923%3FrefId%3D6PDAoPcJVBwbhrdabvO4Fw%253D%253D%26trackingId%3Dxr9WVWf0UphZTSV%252BFKgfRw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0fapyhSg-aKSfTGWTC0azz",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
@@ -144730,13 +144763,13 @@
       "is_new": false
     }
   ],
-  "count": 4278,
-  "keepers": 592,
-  "fresh": 3679,
-  "new_today": 24,
+  "count": 4279,
+  "keepers": 593,
+  "fresh": 3680,
+  "new_today": 1,
   "apply_now": 94,
-  "apply": 85,
+  "apply": 86,
   "consider": 94,
   "morocco": 31,
-  "eligible": 263
+  "eligible": 264
 }
