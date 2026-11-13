@@ -1,6 +1,288 @@
 {
-  "generated": "2026-11-12",
+  "generated": "2026-11-13",
   "jobs": [
+    {
+      "url": "https://www.rekrute.com/offre-emploi-stagiaire-maintenance-informatique-recrutement-fondation-arrawaj-rabat-188465.html",
+      "title": "Stagiaire Maintenance Informatique",
+      "company": "Fondation Arrawaj",
+      "location": "Rabat, Morocco",
+      "link": "https://www.rekrute.com/offre-emploi-stagiaire-maintenance-informatique-recrutement-fondation-arrawaj-rabat-188465.html",
+      "score": 45,
+      "reason": "This is an IT maintenance internship, which is a very low technical fit for an AI + Full-Stack Software Developer specializing in LLM applications. While geographically eligible and at an internship level, the role's focus is not aligned with the candidate's skills or aspirations.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-13",
+      "source": "ReKrute",
+      "summary": "The candidate is an AI + Full-Stack Software Developer seeking junior roles. This position is an IT maintenance internship in Rabat, Morocco. The technical focus of this role is significantly lower than the candidate's demonstrated skills and project experience.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "priority": "CONSIDER",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate is based in Morocco and the role is in Rabat.",
+      "geographic_scope": "MOROCCO",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical mismatch: Role is IT maintenance, candidate is AI/Full-Stack Developer."
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.rekrute.com/offre-emploi-stagiaire-maintenance-informatique-recrutement-fondation-arrawaj-rabat-188465.html",
+      "is_new": true
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8760233002",
+      "title": "Backend Engineer, Trusted Agentic Development",
+      "company": "GitLab",
+      "location": "Remote, Poland",
+      "link": "https://job-boards.greenhouse.io/gitlab/jobs/8760233002",
+      "score": 25,
+      "reason": "The candidate is not eligible due to the geographic location of the role, which is in Poland, and the candidate's inability to relocate from Morocco.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-13",
+      "source": "GitLab (careers)",
+      "summary": "This role is for an Intermediate Backend Engineer in Poland, focusing on AI agents. The candidate's technical skills align with backend development and AI, but the geographic requirement makes them ineligible.",
+      "date_posted": "2026-11-12T16:42:57-05:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in Poland, candidate is based in Morocco and cannot relocate.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "REMOTE",
+      "seniority": "INTERMEDIATE",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://job-boards.greenhouse.io/gitlab/jobs/8760233002",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/bluerocksecurity/remote-ui-engineer-based-in-ca-or-nc-only-47794",
+      "title": "UI Engineer (Based in CA or NC only)",
+      "company": "Bluerocksecurity",
+      "location": "Remote",
+      "link": "https://www.arbeitnow.com/jobs/companies/bluerocksecurity/remote-ui-engineer-based-in-ca-or-nc-only-47794",
+      "score": 15,
+      "reason": "The job requires the candidate to be based in California or North Carolina, which is a hard geographical requirement that the candidate cannot meet. The seniority level (mid-level with 3-5 years of experience) also exceeds the candidate's early-career profile.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-13",
+      "source": "Arbeitnow",
+      "summary": "This role is for a UI Engineer focused on application runtime security, requiring experience in React and an understanding of AI agents. The job explicitly states a need for candidates based in California or North Carolina.",
+      "date_posted": "1794508815",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic location requirement (CA or NC only) contradicts candidate's location and relocation constraints.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "REMOTE",
+      "seniority": "MID",
+      "min_years": 3,
+      "max_years": 5,
+      "education_requirement": "equivalent_allowed",
+      "gaps": [
+        "Geographic location mismatch",
+        "Seniority mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/bluerocksecurity/remote-ui-engineer-based-in-ca-or-nc-only-47794",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/maramio/marketing-content-intern-pflichtpraktikum-remote-berlin-483973",
+      "title": "Marketing & Content Intern (m/w/d) - Pflichtpraktikum, Remote",
+      "company": "Maramio",
+      "location": "Berlin (remote)",
+      "link": "https://www.arbeitnow.com/jobs/companies/maramio/marketing-content-intern-pflichtpraktikum-remote-berlin-483973",
+      "score": 15,
+      "reason": "The role is a Marketing & Content Intern with minimal technical requirements, not aligning with the candidate's AI + Full-Stack Software Developer profile. Furthermore, the location in Berlin, Germany, presents a geographic eligibility issue.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-13",
+      "source": "Arbeitnow",
+      "summary": "This is a marketing and content internship opportunity at Maramio, a corporate gifting platform. The role involves writing, designing, publishing, and measuring content across various channels, with an emphasis on using AI tools for content creation. It is a remote position based in Berlin.",
+      "date_posted": "1794501060",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is remote but based in Berlin, Germany, which likely requires EU work authorization. Candidate cannot relocate and has restrictions on roles requiring EU work authorization.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical fit",
+        "Geographic eligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/maramio/marketing-content-intern-pflichtpraktikum-remote-berlin-483973",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-online-scheduling-coordinator-at-work-from-home-travel-careers-4488228546%3Fposition%3D34%26pageNum%3D0%26refId%3DRnzuro01carOohHun3j%252FsQ%253D%253D%26trackingId%3DEfsQW6gMSJ6MuZFPIewJDA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw28ZvldhRxvRTueC9ZLiGO0",
+      "title": "Entry Level | Online Scheduling Coordinator",
+      "company": "Work From Home Travel Careers - LinkedIn",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-online-scheduling-coordinator-at-work-from-home-travel-careers-4488228546%3Fposition%3D34%26pageNum%3D0%26refId%3DRnzuro01carOohHun3j%252FsQ%253D%253D%26trackingId%3DEfsQW6gMSJ6MuZFPIewJDA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw28ZvldhRxvRTueC9ZLiGO0",
+      "score": 5,
+      "reason": "This role is geographically ineligible as it requires US work authorization and is based in the United States, which is outside the candidate's acceptable geographic scope. Furthermore, the role's focus on online scheduling coordination does not align with the candidate's AI and full-stack developme",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-13",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level online scheduling coordinator role. The candidate is an AI + Full-Stack Software Developer specializing in LLM products and modern full-stack development.",
+      "date_posted": "2026-11-12T13:10:04Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: requires US work authorization and is US-based.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic Ineligibility",
+        "Technical Mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-online-scheduling-coordinator-at-work-from-home-travel-careers-4488228546%3Fposition%3D34%26pageNum%3D0%26refId%3DRnzuro01carOohHun3j%252FsQ%253D%253D%26trackingId%3DEfsQW6gMSJ6MuZFPIewJDA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw28ZvldhRxvRTueC9ZLiGO0",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-customer-support-advisor-at-destination-services-network-4488472953&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0jQeVcj9Nppk7hAMpZJB0H",
+      "title": "Remote | Entry Level | Customer Support Advisor",
+      "company": "Destination Services Network - LinkedIn",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-customer-support-advisor-at-destination-services-network-4488472953&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0jQeVcj9Nppk7hAMpZJB0H",
+      "score": 5,
+      "reason": "This role is for a Customer Support Advisor and does not leverage the candidate's AI and Full-Stack development skills.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-13",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer seeking technical roles. This position is for a Customer Support Advisor, which is not a technical role.",
+      "date_posted": "2026-11-12T06:07:04Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "The role is for a Customer Support Advisor, which does not align with the candidate's technical skills and career aspirations as an AI + Full-Stack Software Developer.",
+      "geographic_scope": "OTHER",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Role mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-customer-support-advisor-at-destination-services-network-4488472953&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0jQeVcj9Nppk7hAMpZJB0H",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-hotel-reservationist-entry-level-at-work-from-home-travel-careers-4488228655%3FrefId%3D80jTWgdDM7xD9h7QqSAEJA%253D%253D%26trackingId%3D1U3sxdKVb4zHbLGKubOHlA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1c_8u57Yr3_1CXkDXmNYWe",
+      "title": "Hotel Reservationist | Entry Level",
+      "company": "Work From Home Travel Careers - LinkedIn",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-hotel-reservationist-entry-level-at-work-from-home-travel-careers-4488228655%3FrefId%3D80jTWgdDM7xD9h7QqSAEJA%253D%253D%26trackingId%3D1U3sxdKVb4zHbLGKubOHlA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1c_8u57Yr3_1CXkDXmNYWe",
+      "score": 5,
+      "reason": "This entry-level Hotel Reservationist role is not technical and does not align with the candidate's specialization in AI and Full-Stack development.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-13",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer seeking junior/entry-level technical roles. This position for a Hotel Reservationist is not technical and therefore not a suitable match for her skills and career aspirations.",
+      "date_posted": "2026-11-12T00:55:01Z",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is not technical and does not align with the candidate's AI + Full-Stack Software Developer profile.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical skills mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-hotel-reservationist-entry-level-at-work-from-home-travel-careers-4488228655%3FrefId%3D80jTWgdDM7xD9h7QqSAEJA%253D%253D%26trackingId%3D1U3sxdKVb4zHbLGKubOHlA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1c_8u57Yr3_1CXkDXmNYWe",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-agent-remote-at-salesdraft-talent-agency-4489959492%3Fposition%3D56%26pageNum%3D0%26refId%3DLf5jYyNaReJsSgpZNAVESA%253D%253D%26trackingId%3DRSdvgCqk6DuC6JKmUWdf1w%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0o_godLs1RlocHF9XtBtit",
+      "title": "Entry Level Insurance Agent - Remote",
+      "company": "SalesDraft Talent Agency — San Francisco, CA",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-agent-remote-at-salesdraft-talent-agency-4489959492%3Fposition%3D56%26pageNum%3D0%26refId%3DLf5jYyNaReJsSgpZNAVESA%253D%253D%26trackingId%3DRSdvgCqk6DuC6JKmUWdf1w%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0o_godLs1RlocHF9XtBtit",
+      "score": 0,
+      "reason": "This role is for an Insurance Agent and is not a technical position. The candidate is an AI + Full-Stack Software Developer. Additionally, the location in San Francisco, CA is not geographically eligible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-13",
+      "source": "Google Alert 8",
+      "summary": "This role is completely misaligned with the candidate's technical skills and career aspirations as an AI + Full-Stack Software Developer. The job description indicates a sales-focused position in the insurance industry.",
+      "date_posted": "2026-11-12T06:08:53Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "The role is for an Insurance Agent, which is not a technical role and does not align with the candidate's profile as an AI + Full-Stack Software Developer. The location is San Francisco, CA, which is ",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Role type mismatch",
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-agent-remote-at-salesdraft-talent-agency-4489959492%3Fposition%3D56%26pageNum%3D0%26refId%3DLf5jYyNaReJsSgpZNAVESA%253D%253D%26trackingId%3DRSdvgCqk6DuC6JKmUWdf1w%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0o_godLs1RlocHF9XtBtit",
+      "is_new": true
+    },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-software-engineer-remote-at-joblet-ai-4487698162&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw38QGCYyFVPMNKT-w8eZScl",
       "title": "Junior Software Engineer ( Remote )",
@@ -32,7 +314,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-software-engineer-remote-at-joblet-ai-4487698162&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw38QGCYyFVPMNKT-w8eZScl",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ve.linkedin.com/jobs/view/desarrollador-junior-full-stack-odoo-at-bluecore-networks-4489955331&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0gSwzBdhVRHcthPup2sNcY",
@@ -65,7 +347,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ve.linkedin.com/jobs/view/desarrollador-junior-full-stack-odoo-at-bluecore-networks-4489955331&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0gSwzBdhVRHcthPup2sNcY",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-full-stack-software-engineer-at-emonics-llc-4488677190&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2NVGgqM5UB3G7HsSeGZrae",
@@ -100,7 +382,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-full-stack-software-engineer-at-emonics-llc-4488677190&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2NVGgqM5UB3G7HsSeGZrae",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/meetdavis/ai-engineer-full-time-paris-81807",
@@ -133,7 +415,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/meetdavis/ai-engineer-full-time-paris-81807",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/backend-engineering-intern-ground-platform-control-toulouse-occitanie-274303",
@@ -166,7 +448,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/backend-engineering-intern-ground-platform-control-toulouse-occitanie-274303",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/161515-gtm-system-engineer",
@@ -201,7 +483,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/161515-gtm-system-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/meetdavis/ai-engineer-intern-paris-56051",
@@ -236,7 +518,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/meetdavis/ai-engineer-intern-paris-56051",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/health-safety-experts-gmbh/internship-in-tech-it-infrastructure-all-genders-berlin-136665",
@@ -269,7 +551,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/health-safety-experts-gmbh/internship-in-tech-it-infrastructure-all-genders-berlin-136665",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fully-remote-entry-level-travel-booking-at-work-from-home-travel-careers-4488236151%3FrefId%3DCRIAzRJmntXApIxqtanHBg%253D%253D%26trackingId%3D%252FkWyNpdQSN58bNu1vVGr9w%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2aLLkpq7f6UCwg6Fds9fQv",
@@ -304,7 +586,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fully-remote-entry-level-travel-booking-at-work-from-home-travel-careers-4488236151%3FrefId%3DCRIAzRJmntXApIxqtanHBg%253D%253D%26trackingId%3D%252FkWyNpdQSN58bNu1vVGr9w%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2aLLkpq7f6UCwg6Fds9fQv",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-hospitality-support-coordinator-at-work-from-home-travel-careers-4487891213%3Fposition%3D8%26pageNum%3D0%26refId%3DaNHdDEH7swE13GvQBLOPqw%253D%253D%26trackingId%3D0ip%252FZT%252Fe4ZplwolNkxROmw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3k43JAg6Gp0gWC9eHI4zfM",
@@ -339,7 +621,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-hospitality-support-coordinator-at-work-from-home-travel-careers-4487891213%3Fposition%3D8%26pageNum%3D0%26refId%3DaNHdDEH7swE13GvQBLOPqw%253D%253D%26trackingId%3D0ip%252FZT%252Fe4ZplwolNkxROmw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3k43JAg6Gp0gWC9eHI4zfM",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-entry-level-client-itinerary-support-specialist-at-work-from-home-travel-careers-4482227479%3Fposition%3D20%26pageNum%3D0%26refId%3D7TOLkk7BDI7cv5lCQkp5vw%253D%253D%26trackingId%3DJtsbGsXKK1XjycwJXIIIWQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw172Yge1nmiBqAJsedIpH0q",
@@ -375,7 +657,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-entry-level-client-itinerary-support-specialist-at-work-from-home-travel-careers-4482227479%3Fposition%3D20%26pageNum%3D0%26refId%3D7TOLkk7BDI7cv5lCQkp5vw%253D%253D%26trackingId%3DJtsbGsXKK1XjycwJXIIIWQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw172Yge1nmiBqAJsedIpH0q",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-work-from-home-hotel-coordinator-at-work-from-home-travel-careers-4482263846&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0L5qlI1I0t8wKRJTg31st4",
@@ -410,7 +692,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-work-from-home-hotel-coordinator-at-work-from-home-travel-careers-4482263846&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0L5qlI1I0t8wKRJTg31st4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-spieldenner-group-4488368765%3FrefId%3DgBibEcVQllHkuj4z4YzDHg%253D%253D%26trackingId%3DqndUQoiMNKYIMnjN8gyVDA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2m7iuaD9yZregSYac-acYI",
@@ -446,7 +728,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-at-spieldenner-group-4488368765%3FrefId%3DgBibEcVQllHkuj4z4YzDHg%253D%253D%26trackingId%3DqndUQoiMNKYIMnjN8gyVDA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2m7iuaD9yZregSYac-acYI",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/nextcloud/developer-relations-engineer-stuttgart-409029",
@@ -146567,13 +146849,13 @@
       "is_new": false
     }
   ],
-  "count": 4331,
+  "count": 4339,
   "keepers": 596,
-  "fresh": 3732,
-  "new_today": 13,
+  "fresh": 3739,
+  "new_today": 8,
   "apply_now": 95,
   "apply": 88,
-  "consider": 95,
-  "morocco": 31,
-  "eligible": 268
+  "consider": 96,
+  "morocco": 32,
+  "eligible": 269
 }
