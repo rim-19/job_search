@@ -1,6 +1,179 @@
 {
-  "generated": "2026-11-13",
+  "generated": "2026-11-14",
   "jobs": [
+    {
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+      "title": "Software Engineer AI Tooling",
+      "company": "Supabase",
+      "location": "Remote",
+      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+      "score": 90,
+      "reason": "Excellent fit for an AI-focused, full-stack developer role with strong overlap in AI/LLM technologies and backend/frontend skills, and the role is remote worldwide.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-14",
+      "source": "RemoteOK",
+      "summary": "This role aligns perfectly with the candidate's AI + Full-Stack Software Developer positioning, particularly their experience with LLM applications, RAG, vector search, and building end-to-end AI products. The remote nature and entry-level seniority are ideal.",
+      "date_posted": "2026-11-13T00:00:15+00:00",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "priority": "APPLY_NOW",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate meets all geographic and work authorization requirements.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/blenheimchalcot/bc-graduate-fospha-london-354648",
+      "title": "BC Graduate - Fospha",
+      "company": "Blenheimchalcot",
+      "location": "London",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/blenheimchalcot/bc-graduate-fospha-london-354648",
+      "score": 30,
+      "reason": "The candidate is not eligible for this role due to geographic restrictions, as the position is based in London and the candidate cannot relocate or obtain UK work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-14",
+      "source": "Arbeitnow",
+      "summary": "This is a graduate role at Blenheim Chalcot, a digital venture builder, focusing on marketing technology. The role is based in London.",
+      "date_posted": "1794628525",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is in London, UK, requiring potential relocation or work authorization the candidate does not possess.",
+      "geographic_scope": "UK_ONLY",
+      "remote_type": "UNKNOWN",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/blenheimchalcot/bc-graduate-fospha-london-354648",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-208717",
+      "title": "Stage Software Engineer - Paris - H/F/X",
+      "company": "Artefactjobs",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-208717",
+      "score": 20,
+      "reason": "The job is located in Paris, France, and requires on-site presence, which is outside the candidate's geographic eligibility and requires work authorization she does not have.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-14",
+      "source": "Arbeitnow",
+      "summary": "This is an internship role for a Software Engineer in Paris, France. The candidate is based in Morocco and cannot relocate or work in the EU due to authorization requirements.",
+      "date_posted": "1794617727",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Paris, France, which requires EU work authorization not possessed by the candidate.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility (Paris, France)",
+        "Work authorization requirement (EU)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-208717",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-essen-north-rhine-westphalia-493753",
+      "title": "Graduate Operations Supervisor (m/w/d)",
+      "company": "Teampicnic",
+      "location": "Essen, North Rhine-Westphalia",
+      "link": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-essen-north-rhine-westphalia-493753",
+      "score": 5,
+      "reason": "This role is an on-site Graduate Operations Supervisor position in Germany, which is geographically ineligible for the candidate who cannot relocate and is seeking remote or on-site roles only in Morocco.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-14",
+      "source": "Arbeitnow",
+      "summary": "The candidate is an AI + Full-Stack Software Developer seeking junior/entry-level developer roles. This position is an on-site operations supervisor role in Germany, which does not align with the candidate's technical background or geographic constraints.",
+      "date_posted": "1794617721",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is on-site in Germany, candidate cannot relocate.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "required",
+      "gaps": [
+        "Role is not technical development; it's operations supervision."
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-essen-north-rhine-westphalia-493753",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fully-remote-travel-customer-support-entry-level-at-work-from-home-travel-careers-4488218914%3FrefId%3DnnNeSedAiutIqRVAPGDjYg%253D%253D%26trackingId%3DE8%252FTWQ0NAjR64tTXMnYbWg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0tUWHuYLdmNLPJA8ibs4lf",
+      "title": "Fully Remote | Travel Customer Support | Entry-Level",
+      "company": "Work From Home Travel Careers",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fully-remote-travel-customer-support-entry-level-at-work-from-home-travel-careers-4488218914%3FrefId%3DnnNeSedAiutIqRVAPGDjYg%253D%253D%26trackingId%3DE8%252FTWQ0NAjR64tTXMnYbWg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0tUWHuYLdmNLPJA8ibs4lf",
+      "score": 5,
+      "reason": "This role is for a Travel Customer Support position in Ohio, United States, which does not align with the candidate's AI and Full-Stack Software Developer profile, nor her geographic eligibility.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-14",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer with experience in modern web technologies and AI/LLM applications. This role is for a customer support position in the US, which is not a technical fit and is geographically ineligible.",
+      "date_posted": "2026-11-13T10:36:18Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role requires US work authorization and is not remote worldwide.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical skills mismatch",
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fully-remote-travel-customer-support-entry-level-at-work-from-home-travel-careers-4488218914%3FrefId%3DnnNeSedAiutIqRVAPGDjYg%253D%253D%26trackingId%3DE8%252FTWQ0NAjR64tTXMnYbWg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0tUWHuYLdmNLPJA8ibs4lf",
+      "is_new": true
+    },
     {
       "url": "https://jobicy.com/jobs/161930-full-stack-software-engineer-3",
       "title": "Full Stack Software Engineer",
@@ -35,7 +208,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://jobicy.com/jobs/161930-full-stack-software-engineer-3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.rekrute.com/offre-emploi-stagiaire-maintenance-informatique-recrutement-fondation-arrawaj-rabat-188465.html",
@@ -70,7 +243,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.rekrute.com/offre-emploi-stagiaire-maintenance-informatique-recrutement-fondation-arrawaj-rabat-188465.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/161672-graduate-software-engineer-open-source-and-linux-canonical-ubuntu-2",
@@ -106,7 +279,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/161672-graduate-software-engineer-open-source-and-linux-canonical-ubuntu-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/161933-frontend-software-engineer",
@@ -141,7 +314,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/161933-frontend-software-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/155228-junior-software-engineer-early-career-strong-problem-solving-coding-focus-100-remote-within-spain-2",
@@ -176,7 +349,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/155228-junior-software-engineer-early-career-strong-problem-solving-coding-focus-100-remote-within-spain-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/lovable/85d689a5-3e1d-410e-8aaf-eb6480198a83",
@@ -209,7 +382,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/lovable/85d689a5-3e1d-410e-8aaf-eb6480198a83",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.dreamjob.ma/stage/etudiants-en-master-eqdom-recrute-des-stagiaires-pfe-en-informatique-finance-et-marketing/",
@@ -244,7 +417,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.dreamjob.ma/stage/etudiants-en-master-eqdom-recrute-des-stagiaires-pfe-en-informatique-finance-et-marketing/",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8760233002",
@@ -277,7 +450,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/gitlab/jobs/8760233002",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/bluerocksecurity/remote-ui-engineer-based-in-ca-or-nc-only-47794",
@@ -313,7 +486,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/bluerocksecurity/remote-ui-engineer-based-in-ca-or-nc-only-47794",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/maramio/marketing-content-intern-pflichtpraktikum-remote-berlin-483973",
@@ -349,7 +522,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/maramio/marketing-content-intern-pflichtpraktikum-remote-berlin-483973",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-data-analyst-entry-level-at-torentify-4490084866&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0ndieXT2odhmcLB4MfkhOb",
@@ -385,7 +558,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-data-analyst-entry-level-at-torentify-4490084866&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0ndieXT2odhmcLB4MfkhOb",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/mckesson/jobs/software-developer?utm_source=api",
@@ -421,7 +594,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/mckesson/jobs/software-developer?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.dreamjob.ma/emploi-international/stages-de-fin-detudes-sqli-recrute-des-stagiaires-en-france/",
@@ -456,7 +629,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.dreamjob.ma/emploi-international/stages-de-fin-detudes-sqli-recrute-des-stagiaires-en-france/",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-visionaire-partners-4489040173%3FrefId%3D8lmv8Kuj1VRM9bmvxRmOQg%253D%253D%26trackingId%3Dz5VBc46v4uIa1856Mn5S4w%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3t0tHCbSnPWbFlsLaG1pXQ",
@@ -492,7 +665,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-visionaire-partners-4489040173%3FrefId%3D8lmv8Kuj1VRM9bmvxRmOQg%253D%253D%26trackingId%3Dz5VBc46v4uIa1856Mn5S4w%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3t0tHCbSnPWbFlsLaG1pXQ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-appointment-coordinator-entry-level-at-work-from-home-travel-careers-4482263849%3FrefId%3DRgfi0QrzeZfHS%252FnPYa9SHA%253D%253D%26trackingId%3DZtgUpNvBCWkLE18Xiga%252BJA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3W0rOahcPaNpTaWtp4IP1N",
@@ -528,7 +701,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-travel-appointment-coordinator-entry-level-at-work-from-home-travel-careers-4482263849%3FrefId%3DRgfi0QrzeZfHS%252FnPYa9SHA%253D%253D%26trackingId%3DZtgUpNvBCWkLE18Xiga%252BJA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3W0rOahcPaNpTaWtp4IP1N",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/ocd/ux-ui-designer-paris-157658",
@@ -564,7 +737,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/ocd/ux-ui-designer-paris-157658",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-online-scheduling-coordinator-at-work-from-home-travel-careers-4488228546%3Fposition%3D34%26pageNum%3D0%26refId%3DRnzuro01carOohHun3j%252FsQ%253D%253D%26trackingId%3DEfsQW6gMSJ6MuZFPIewJDA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw28ZvldhRxvRTueC9ZLiGO0",
@@ -600,7 +773,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-online-scheduling-coordinator-at-work-from-home-travel-careers-4488228546%3Fposition%3D34%26pageNum%3D0%26refId%3DRnzuro01carOohHun3j%252FsQ%253D%253D%26trackingId%3DEfsQW6gMSJ6MuZFPIewJDA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw28ZvldhRxvRTueC9ZLiGO0",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-customer-support-advisor-at-destination-services-network-4488472953&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0jQeVcj9Nppk7hAMpZJB0H",
@@ -635,7 +808,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-customer-support-advisor-at-destination-services-network-4488472953&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0jQeVcj9Nppk7hAMpZJB0H",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-hotel-reservationist-entry-level-at-work-from-home-travel-careers-4488228655%3FrefId%3D80jTWgdDM7xD9h7QqSAEJA%253D%253D%26trackingId%3D1U3sxdKVb4zHbLGKubOHlA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1c_8u57Yr3_1CXkDXmNYWe",
@@ -670,7 +843,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/work-from-home-hotel-reservationist-entry-level-at-work-from-home-travel-careers-4488228655%3FrefId%3D80jTWgdDM7xD9h7QqSAEJA%253D%253D%26trackingId%3D1U3sxdKVb4zHbLGKubOHlA%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1c_8u57Yr3_1CXkDXmNYWe",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/customer-relations-associate-entry-level-at-american-equity-specialty-insurance-company-4490302502%3FrefId%3DZYqUaMI2opoFwowcM66v4Q%253D%253D%26trackingId%3Dz3Qi9VlEmaLMWDdEvty%252BzQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0RE3jooqGE08pqpQi-VFQB",
@@ -705,7 +878,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/customer-relations-associate-entry-level-at-american-equity-specialty-insurance-company-4490302502%3FrefId%3DZYqUaMI2opoFwowcM66v4Q%253D%253D%26trackingId%3Dz3Qi9VlEmaLMWDdEvty%252BzQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0RE3jooqGE08pqpQi-VFQB",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-australia-only-remote-entry-level-at-la-parisienne-by-n%25C4%2581kd-4417992309%3FrefId%3DVg5ZOJeUMUoORUk1ZLHUZQ%253D%253D%26trackingId%3DH4KaZmX6A1%252FRkNOh2wIOCQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ML5YWPg2iRZsS0a_VvY0l",
@@ -738,7 +911,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/data-insights-analyst-australia-only-remote-entry-level-at-la-parisienne-by-n%25C4%2581kd-4417992309%3FrefId%3DVg5ZOJeUMUoORUk1ZLHUZQ%253D%253D%26trackingId%3DH4KaZmX6A1%252FRkNOh2wIOCQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ML5YWPg2iRZsS0a_VvY0l",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/recruitment-coordinator-entry-level-at-hr-jobs-4489075866%3FrefId%3D53hKZ%252Blv2LjhQeUY50SNlg%253D%253D%26trackingId%3DwUHrOd%252FaIHXwwC0hCWcSeQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0w4Vhp4_c6FjDEFD-DNaQc",
@@ -773,7 +946,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://au.linkedin.com/jobs/view/recruitment-coordinator-entry-level-at-hr-jobs-4489075866%3FrefId%3D53hKZ%252Blv2LjhQeUY50SNlg%253D%253D%26trackingId%3DwUHrOd%252FaIHXwwC0hCWcSeQ%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0w4Vhp4_c6FjDEFD-DNaQc",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/imc/graduate-risk-analyst-amsterdam-171787",
@@ -809,7 +982,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/imc/graduate-risk-analyst-amsterdam-171787",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-agent-remote-at-salesdraft-talent-agency-4489959492%3Fposition%3D56%26pageNum%3D0%26refId%3DLf5jYyNaReJsSgpZNAVESA%253D%253D%26trackingId%3DRSdvgCqk6DuC6JKmUWdf1w%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0o_godLs1RlocHF9XtBtit",
@@ -845,7 +1018,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-agent-remote-at-salesdraft-talent-agency-4489959492%3Fposition%3D56%26pageNum%3D0%26refId%3DLf5jYyNaReJsSgpZNAVESA%253D%253D%26trackingId%3DRSdvgCqk6DuC6JKmUWdf1w%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0o_godLs1RlocHF9XtBtit",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-entry-level-wfh-at-torentify-4490571695&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw26vF6mAqfSTPITFfG9YjFy",
@@ -878,7 +1051,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-entry-level-wfh-at-torentify-4490571695&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw26vF6mAqfSTPITFfG9YjFy",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/161924-associate-account-executive-uk-ireland",
@@ -914,7 +1087,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/161924-associate-account-executive-uk-ireland",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/junior-software-engineer-remote-at-joblet-ai-4487698162&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw38QGCYyFVPMNKT-w8eZScl",
@@ -147482,13 +147655,13 @@
       "is_new": false
     }
   ],
-  "count": 4357,
-  "keepers": 597,
-  "fresh": 3755,
-  "new_today": 26,
-  "apply_now": 95,
+  "count": 4362,
+  "keepers": 598,
+  "fresh": 3760,
+  "new_today": 5,
+  "apply_now": 96,
   "apply": 88,
   "consider": 98,
   "morocco": 33,
-  "eligible": 271
+  "eligible": 272
 }
