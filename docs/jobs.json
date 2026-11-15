@@ -1,6 +1,74 @@
 {
-  "generated": "2026-11-14",
+  "generated": "2026-11-15",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/software-engineer-intern-robotics-platform-zurich-419539",
+      "title": "Software Engineer Intern - Robotics Platform",
+      "company": "Gravis Robotics",
+      "location": "Zurich",
+      "link": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/software-engineer-intern-robotics-platform-zurich-419539",
+      "score": 30,
+      "reason": "The role is an internship in Zurich, Switzerland, which is not a permitted location for the candidate. While the role is an internship, the geographic mismatch is a hard rejection.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-15",
+      "source": "Arbeitnow",
+      "summary": "This is an internship role at Gravis Robotics in Zurich, focusing on robotics platform development. The candidate is a full-stack developer with AI/LLM experience, but the location is not suitable.",
+      "date_posted": "1794713233",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location (Zurich) is not within the candidate's acceptable geographic scope (Casablanca/Rabat on-site/hybrid, or remote worldwide/Africa/MENA/EMEA with specific authorization constraints).",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/software-engineer-intern-robotics-platform-zurich-419539",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-platform-engineer-germany-385581",
+      "title": "AI Platform Engineer",
+      "company": "Jobgether",
+      "location": "Germany",
+      "link": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-platform-engineer-germany-385581",
+      "score": 25,
+      "reason": "Geographically ineligible as the role requires the candidate to be based in Germany, which conflicts with the candidate's stated location and inability to relocate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-15",
+      "source": "Arbeitnow",
+      "summary": "The candidate is an AI + Full-Stack Software Developer with a strong focus on LLM applications. However, this specific role requires the candidate to be based in Germany, which is a hard requirement that the candidate cannot meet.",
+      "date_posted": "1794713231",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role requires candidate to be based in Germany, but candidate is based in Morocco and cannot relocate.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "REMOTE",
+      "seniority": "EARLY_CAREER",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic location requirement"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-platform-engineer-germany-385581",
+      "is_new": true
+    },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
       "title": "Software Engineer AI Tooling",
@@ -32,7 +100,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-434731",
@@ -65,7 +133,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-434731",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://br.linkedin.com/jobs/view/junior-software-developer-remote-work-ref%2523309305-at-bairesdev-4489662422%3FrefId%3DgZxKiavvqYC%252FgcJcfT0JcQ%253D%253D%26trackingId%3D6MOvUgS%252FDcmaLH4znQc6rg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0nI38ZgGdgS7Ob7NN9_gzX",
@@ -98,7 +166,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://br.linkedin.com/jobs/view/junior-software-developer-remote-work-ref%2523309305-at-bairesdev-4489662422%3FrefId%3DgZxKiavvqYC%252FgcJcfT0JcQ%253D%253D%26trackingId%3D6MOvUgS%252FDcmaLH4znQc6rg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0nI38ZgGdgS7Ob7NN9_gzX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/junior-full-stack-developersss-at-true-tannage-4440433726%3FrefId%3Dzo2KtDMSKKUpd8PvGrW4vA%253D%253D%26trackingId%3DV37dpKA2Wahc2TfV%252FZL%252B1Q%253D%253D&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw33M8wZtgIuaqheaB5zpHR4",
@@ -131,7 +199,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/junior-full-stack-developersss-at-true-tannage-4440433726%3FrefId%3Dzo2KtDMSKKUpd8PvGrW4vA%253D%253D%26trackingId%3DV37dpKA2Wahc2TfV%252FZL%252B1Q%253D%253D&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw33M8wZtgIuaqheaB5zpHR4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-128389",
@@ -164,7 +232,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-128389",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/koboldmetals/remote-software-engineer-all-levels-united-kingdom-213631",
@@ -199,7 +267,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/koboldmetals/remote-software-engineer-all-levels-united-kingdom-213631",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/162100-product-engineer-all-levels",
@@ -232,7 +300,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/162100-product-engineer-all-levels",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/dataguard/fullstack-software-engineer-munich-197283",
@@ -265,7 +333,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/dataguard/fullstack-software-engineer-munich-197283",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/andercore/forward-deployed-engineer-berlin-87135",
@@ -298,7 +366,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/andercore/forward-deployed-engineer-berlin-87135",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/blenheimchalcot/bc-graduate-fospha-london-354648",
@@ -331,7 +399,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/blenheimchalcot/bc-graduate-fospha-london-354648",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/ubq-group/jobs/python-finance-developer-100-remote-4656485859?utm_source=api",
@@ -366,7 +434,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/ubq-group/jobs/python-finance-developer-100-remote-4656485859?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/engelhart/software-engineer-data-berlin-351586",
@@ -401,7 +469,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/engelhart/software-engineer-data-berlin-351586",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-208717",
@@ -437,7 +505,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-208717",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/andercore/forward-deployed-intern-berlin-410084",
@@ -470,7 +538,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/andercore/forward-deployed-intern-berlin-410084",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/callosum/expression-of-interest-internships-london-153047",
@@ -503,7 +571,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/callosum/expression-of-interest-internships-london-153047",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/junior-data-scientist-casablanca-9th-arrondissement-of-paris-75009-paris-484185",
@@ -539,7 +607,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/junior-data-scientist-casablanca-9th-arrondissement-of-paris-75009-paris-484185",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/162093-threat-research-engineer-security-factory-threat-research",
@@ -572,7 +640,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/162093-threat-research-engineer-security-factory-threat-research",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/162215-software-engineer-ai-automation-canada",
@@ -605,7 +673,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/162215-software-engineer-ai-automation-canada",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-data-analyst-entry-level-at-torentify-4490360558&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3avkRfNq4SpH_pNEIKLRAZ",
@@ -641,7 +709,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-data-analyst-entry-level-at-torentify-4490360558&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3avkRfNq4SpH_pNEIKLRAZ",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/math-physics-engineering-graduates-london-290196",
@@ -677,7 +745,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/prima/math-physics-engineering-graduates-london-290196",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-essen-north-rhine-westphalia-493753",
@@ -712,7 +780,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-essen-north-rhine-westphalia-493753",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fully-remote-travel-customer-support-entry-level-at-work-from-home-travel-careers-4488218914%3FrefId%3DnnNeSedAiutIqRVAPGDjYg%253D%253D%26trackingId%3DE8%252FTWQ0NAjR64tTXMnYbWg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0tUWHuYLdmNLPJA8ibs4lf",
@@ -748,7 +816,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/fully-remote-travel-customer-support-entry-level-at-work-from-home-travel-careers-4488218914%3FrefId%3DnnNeSedAiutIqRVAPGDjYg%253D%253D%26trackingId%3DE8%252FTWQ0NAjR64tTXMnYbWg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0tUWHuYLdmNLPJA8ibs4lf",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-specialist-%25E2%2580%2594-entry-level-work-from-home-at-torentify-4491077615&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2xsQS0Egj9vnT7fmLelsLU",
@@ -784,7 +852,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-specialist-%25E2%2580%2594-entry-level-work-from-home-at-torentify-4491077615&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2xsQS0Egj9vnT7fmLelsLU",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-agent-remote-at-fine-agency-4489825394%3FrefId%3DtZRx121kg3jOxg6EfgoBgQ%253D%253D%26trackingId%3DXKAzrYQ07hV8SVf4Mwz54Q%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1uf2odjT1eCfRM3VkL3mXV",
@@ -817,7 +885,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-insurance-agent-remote-at-fine-agency-4489825394%3FrefId%3DtZRx121kg3jOxg6EfgoBgQ%253D%253D%26trackingId%3DXKAzrYQ07hV8SVf4Mwz54Q%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1uf2odjT1eCfRM3VkL3mXV",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-specialist-fully-remote-%252475k-to-%2524175k-at-heritage-insurance-group-4489810927&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2N63bSkCT-sN1jmioETHGk",
@@ -853,7 +921,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-specialist-fully-remote-%252475k-to-%2524175k-at-heritage-insurance-group-4489810927&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2N63bSkCT-sN1jmioETHGk",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/161930-full-stack-software-engineer-3",
@@ -148336,10 +148404,10 @@
       "is_new": false
     }
   ],
-  "count": 4382,
+  "count": 4384,
   "keepers": 602,
-  "fresh": 3780,
-  "new_today": 25,
+  "fresh": 3782,
+  "new_today": 2,
   "apply_now": 100,
   "apply": 88,
   "consider": 98,
