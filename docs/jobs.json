@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-15",
+  "generated": "2026-11-16",
   "jobs": [
+    {
+      "url": "https://himalayas.app/companies/bask-health/jobs/frontend-engineer-new-grad?utm_source=api",
+      "title": "Frontend Engineer, New Grad",
+      "company": "Bask Health",
+      "location": "United States",
+      "link": "https://himalayas.app/companies/bask-health/jobs/frontend-engineer-new-grad?utm_source=api",
+      "score": 10,
+      "reason": "The candidate is geographically ineligible for this role, which is located in the United States.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-16",
+      "source": "Himalayas",
+      "summary": "This is an entry-level Frontend Engineer role at Bask Health, focusing on building and improving web applications for their telehealth platform. The role requires recent graduates to gain practical experience in a product-focused engineering team.",
+      "date_posted": "1794801151",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location: United States",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "UNKNOWN",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "required",
+      "gaps": [
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://himalayas.app/companies/bask-health/jobs/frontend-engineer-new-grad?utm_source=api",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/java-entwickler-product-engineer-fur-ai-assisted-development-du-bringst-ai-coding-ins-team-dortmund-489360",
       "title": "Java Entwickler / Product Engineer für AI-Assisted Development → DU bringst AI-Coding ins Team *",
@@ -34,7 +69,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/java-entwickler-product-engineer-fur-ai-assisted-development-du-bringst-ai-coding-ins-team-dortmund-489360",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/433/jr-ai-engineer-amsterdam-262980",
@@ -67,7 +102,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/433/jr-ai-engineer-amsterdam-262980",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-brand-experience-developpeur-fullstack-shopify-paris-france-468398",
@@ -100,7 +135,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-brand-experience-developpeur-fullstack-shopify-paris-france-468398",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/ElevenLabs/71992118-5b37-4a4a-a862-99e82e02916f",
@@ -133,7 +168,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/ElevenLabs/71992118-5b37-4a4a-a862-99e82e02916f",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/software-engineer-intern-robotics-platform-zurich-419539",
@@ -166,7 +201,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/software-engineer-intern-robotics-platform-zurich-419539",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/salience-labs/software-engineer-applications-and-user-interface-oxford-265949",
@@ -201,7 +236,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/salience-labs/software-engineer-applications-and-user-interface-oxford-265949",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-platform-engineer-germany-385581",
@@ -236,7 +271,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-platform-engineer-germany-385581",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/tavily/forward-deployed-engineer-enterprise-london-67873",
@@ -269,7 +304,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/tavily/forward-deployed-engineer-enterprise-london-67873",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/162432-sr-software-engineer-pat-assist",
@@ -305,7 +340,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/162432-sr-software-engineer-pat-assist",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/PostHog/82ef4227-e7a6-4e59-a128-2b3333951e21",
@@ -338,7 +373,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/PostHog/82ef4227-e7a6-4e59-a128-2b3333951e21",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/plaid/e0228548-0605-4718-8290-fe31374b4b78",
@@ -373,7 +408,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/plaid/e0228548-0605-4718-8290-fe31374b4b78",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
@@ -409,7 +444,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bask-health/jobs/junior-ux-designer?utm_source=api",
@@ -445,7 +480,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/bask-health/jobs/junior-ux-designer?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bask-health/jobs/forward-deployed-product-engineer?utm_source=api",
@@ -481,7 +516,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/bask-health/jobs/forward-deployed-product-engineer?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/security-risk-advisors/jobs/software-development-engineer-ii-back-end?utm_source=api",
@@ -517,7 +552,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/security-risk-advisors/jobs/software-development-engineer-ii-back-end?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/162430-salesforce-developer-f-m-x",
@@ -554,7 +589,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/162430-salesforce-developer-f-m-x",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobs.ashbyhq.com/PostHog/1464036f-94d5-4dbd-aef8-fe99246a26d4",
@@ -591,7 +626,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobs.ashbyhq.com/PostHog/1464036f-94d5-4dbd-aef8-fe99246a26d4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/162468-solution-consultant",
@@ -628,7 +663,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/162468-solution-consultant",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-recruiter-at-gpac-4486666445&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ywTkCrNg3oEpVT2qVnWIu",
@@ -664,7 +699,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-recruiter-at-gpac-4486666445&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ywTkCrNg3oEpVT2qVnWIu",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/entry-level-credit-controller-at-john-f-hunt-power-4490732568%3FrefId%3D2WwSQJrJm3qCV620vu4D9w%253D%253D%26trackingId%3Dz7KhtgOiS3XpXwZXfFuL8Q%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1zqDj7AQX-KJIsdza-uKAD",
@@ -700,7 +735,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/entry-level-credit-controller-at-john-f-hunt-power-4490732568%3FrefId%3D2WwSQJrJm3qCV620vu4D9w%253D%253D%26trackingId%3Dz7KhtgOiS3XpXwZXfFuL8Q%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1zqDj7AQX-KJIsdza-uKAD",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/hexa/vc-analyst-internship-paris-406132",
@@ -736,7 +771,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/hexa/vc-analyst-internship-paris-406132",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/162464-junior-sales-development-representative-early-career",
@@ -772,7 +807,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/162464-junior-sales-development-representative-early-career",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesperson-remote%2521-no-experience-required%2521-50k-75k-%252B-health-benefits-at-allen-cw-group-4490208313&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2BqU8beBQzRfcO01x5oJyt",
@@ -808,7 +843,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesperson-remote%2521-no-experience-required%2521-50k-75k-%252B-health-benefits-at-allen-cw-group-4490208313&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2BqU8beBQzRfcO01x5oJyt",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-hotel-reservations-specialist-entry-level-at-network-travel-careers-4482234224%3FrefId%3DQq7STuowDrtLdVVz6XWZPw%253D%253D%26trackingId%3DviNoOltn5DB3TKGWEgU3Jg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1OqGHmaMInEpk-SZZQmM5V",
@@ -844,7 +879,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-hotel-reservations-specialist-entry-level-at-network-travel-careers-4482234224%3FrefId%3DQq7STuowDrtLdVVz6XWZPw%253D%253D%26trackingId%3DviNoOltn5DB3TKGWEgU3Jg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1OqGHmaMInEpk-SZZQmM5V",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
@@ -149181,10 +149216,10 @@
       "is_new": false
     }
   ],
-  "count": 4406,
+  "count": 4407,
   "keepers": 602,
-  "fresh": 3799,
-  "new_today": 24,
+  "fresh": 3800,
+  "new_today": 1,
   "apply_now": 100,
   "apply": 88,
   "consider": 98,
