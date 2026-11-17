@@ -1,6 +1,288 @@
 {
-  "generated": "2026-11-16",
+  "generated": "2026-11-17",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/c3iot/forward-deployed-engineer-london-greater-london-269684",
+      "title": "Forward Deployed Engineer",
+      "company": "C3Iot",
+      "location": "London, Greater London",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/c3iot/forward-deployed-engineer-london-greater-london-269684",
+      "score": 35,
+      "reason": "The role is located in London, UK, which is not within the candidate's acceptable geographic scope and requires work authorization she does not possess. While the technical aspects align, the location is a hard disqualifier.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-17",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Forward Deployed Engineer focusing on full-stack AI-driven web applications. The candidate has strong AI and full-stack development skills, including experience with LLM applications and modern web technologies.",
+      "date_posted": "1794876916",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is London, UK, which requires UK work authorization and is outside candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "EARLY_CAREER",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic Ineligibility",
+        "On-site requirement outside acceptable locations"
+      ],
+      "recommended_project": "Nexus AI",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/c3iot/forward-deployed-engineer-london-greater-london-269684",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-engineer-at-robynex-automation-4489755820%3Fposition%3D32%26pageNum%3D0%26refId%3D8WZzRMKMYLCAm42OJa8ECQ%253D%253D%26trackingId%3D%252BMYE%252B7%252FNP7k%252FX1Z%252BCgrHUw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2WcByV6mEsMp7M5kuxWoQz",
+      "title": "Entry-Level Engineer",
+      "company": "Robynex Automation — San Jose, CA | LinkedIn Jobs",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-engineer-at-robynex-automation-4489755820%3Fposition%3D32%26pageNum%3D0%26refId%3D8WZzRMKMYLCAm42OJa8ECQ%253D%253D%26trackingId%3D%252BMYE%252B7%252FNP7k%252FX1Z%252BCgrHUw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2WcByV6mEsMp7M5kuxWoQz",
+      "score": 25,
+      "reason": "The candidate is not eligible for this role due to geographic restrictions and work authorization requirements.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-17",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level engineering role at a company based in San Jose, CA. While the role is remote, it is implicitly tied to the US location and likely requires US work authorization.",
+      "date_posted": "2026-11-16T13:43:51Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is based in San Jose, CA, requiring US work authorization which the candidate does not possess.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic Ineligibility",
+        "Work Authorization"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-engineer-at-robynex-automation-4489755820%3Fposition%3D32%26pageNum%3D0%26refId%3D8WZzRMKMYLCAm42OJa8ECQ%253D%253D%26trackingId%3D%252BMYE%252B7%252FNP7k%252FX1Z%252BCgrHUw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2WcByV6mEsMp7M5kuxWoQz",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/a2mac1/full-stack-developer-angular-20-net-hary-485776",
+      "title": "Full Stack Developer (Angular 20, .NET)",
+      "company": "A2Mac1",
+      "location": "Hary, France",
+      "link": "https://www.arbeitnow.fr/jobs/companies/a2mac1/full-stack-developer-angular-20-net-hary-485776",
+      "score": 10,
+      "reason": "The role requires a minimum of 5 years of experience and is an on-site position in France, making the candidate ineligible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-17",
+      "source": "Arbeitnow",
+      "summary": "This Full Stack Developer role at A2Mac1 is located in Hary, France, and requires a minimum of 5 years of experience. The candidate is not eligible due to geographic restrictions and the seniority requirement.",
+      "date_posted": "1794882005",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Requires 5+ years of experience and is on-site in France, which is outside the candidate's geographic constraints.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "SENIOR",
+      "min_years": 5,
+      "max_years": null,
+      "education_requirement": "required",
+      "gaps": [
+        "Geographic location",
+        "Seniority level"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/a2mac1/full-stack-developer-angular-20-net-hary-485776",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/162718-actuarial-associate-uk",
+      "title": "Actuarial Associate, UK",
+      "company": "Lemonade",
+      "location": "UK",
+      "link": "https://jobicy.com/jobs/162718-actuarial-associate-uk",
+      "score": 10,
+      "reason": "The role is located in the UK and requires on-site presence, which is outside the candidate's geographic constraints and requires work authorization she does not possess. The technical focus is also actuarial, not software development.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-17",
+      "source": "Jobicy",
+      "summary": "This role is for an Actuarial Associate in the UK, focusing on pricing adequacy and predictive modeling within the insurance industry. It requires specific UK personal lines pricing experience and on-site work in the UK.",
+      "date_posted": "2026-11-16T17:00:55+00:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is in the UK, candidate cannot relocate and requires UK work authorization.",
+      "geographic_scope": "UK_ONLY",
+      "remote_type": "ONSITE",
+      "seniority": "UNKNOWN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility",
+        "Role focus mismatch (Actuarial vs. Software Development)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://jobicy.com/jobs/162718-actuarial-associate-uk",
+      "is_new": true
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/ElevenLabs/14d0ad09-fa26-4aa5-9bb3-f22a7f5917b9",
+      "title": "Growth PM",
+      "company": "ElevenLabs",
+      "location": "United Kingdom",
+      "link": "https://jobs.ashbyhq.com/ElevenLabs/14d0ad09-fa26-4aa5-9bb3-f22a7f5917b9",
+      "score": 10,
+      "reason": "The job is located in the United Kingdom, and the candidate is based in Morocco and cannot relocate or obtain UK work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-17",
+      "source": "ElevenLabs (careers)",
+      "summary": "This role is for a Growth PM at ElevenLabs, located in the United Kingdom. The candidate is a full-stack developer with AI/LLM experience but is geographically ineligible for this role.",
+      "date_posted": "",
+      "days_since_posted": null,
+      "freshness": "",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is United Kingdom, which requires work authorization the candidate does not possess.",
+      "geographic_scope": "UK_ONLY",
+      "remote_type": "UNKNOWN",
+      "seniority": "UNKNOWN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://jobs.ashbyhq.com/ElevenLabs/14d0ad09-fa26-4aa5-9bb3-f22a7f5917b9",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesperson-remote-no-experience-needed-will-train-at-anderson-agency-llc-4491248221%3Fposition%3D27%26pageNum%3D0%26refId%3DaBVGaCaufKwmgQ4nx1d3%252BQ%253D%253D%26trackingId%3DP6%252B%252FoolY%252BCShidkkMDECbg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0xikjgnJkTyJ_PSDLTulgn",
+      "title": "Entry-Level Salesperson ( Remote , No Experience Needed, Will Train) - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesperson-remote-no-experience-needed-will-train-at-anderson-agency-llc-4491248221%3Fposition%3D27%26pageNum%3D0%26refId%3DaBVGaCaufKwmgQ4nx1d3%252BQ%253D%253D%26trackingId%3DP6%252B%252FoolY%252BCShidkkMDECbg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0xikjgnJkTyJ_PSDLTulgn",
+      "score": 5,
+      "reason": "This role is for a Salesperson and does not align with the candidate's profile as an AI + Full-Stack Software Developer. The technical and experience requirements are completely mismatched.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-17",
+      "source": "Google Alert 8",
+      "summary": "This is an entry-level Salesperson role with no experience needed, offering training. It is a remote position based in the United States.",
+      "date_posted": "2026-11-16T17:26:24Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is in Sales, not Software Development.",
+      "geographic_scope": "UNITED_STATES",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical domain mismatch",
+        "Geographic mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-salesperson-remote-no-experience-needed-will-train-at-anderson-agency-llc-4491248221%3Fposition%3D27%26pageNum%3D0%26refId%3DaBVGaCaufKwmgQ4nx1d3%252BQ%253D%253D%26trackingId%3DP6%252B%252FoolY%252BCShidkkMDECbg%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0xikjgnJkTyJ_PSDLTulgn",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-entry-level-work-from-home-at-torentify-4491514399&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ToJirfeuuCI9LgMYPQLlK",
+      "title": "Data Entry Clerk - Entry Level , Work From Home",
+      "company": "Torentify — United States | LinkedIn Jobs",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-entry-level-work-from-home-at-torentify-4491514399&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ToJirfeuuCI9LgMYPQLlK",
+      "score": 5,
+      "reason": "This role is for a Data Entry Clerk and does not align with the candidate's specialization as an AI + Full-Stack Software Developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-17",
+      "source": "Google Alert 8",
+      "summary": "The candidate is an AI + Full-Stack Software Developer seeking junior/entry-level roles. This position is for a Data Entry Clerk, which is significantly outside of their technical expertise and career aspirations.",
+      "date_posted": "2026-11-16T21:44:15Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role is not aligned with candidate's technical skills and career goals.",
+      "geographic_scope": "UNKNOWN",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-entry-level-work-from-home-at-torentify-4491514399&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ToJirfeuuCI9LgMYPQLlK",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-entry-level-at-torentify-4490614398&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2zGbqeo37AkijyPQ8qN5k5",
+      "title": "Data Entry Operator / Entry Level",
+      "company": "Torentify — United States | LinkedIn Jobs",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-entry-level-at-torentify-4490614398&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2zGbqeo37AkijyPQ8qN5k5",
+      "score": 5,
+      "reason": "The role is a Data Entry Operator, which does not align with the candidate's specialization as an AI + Full-Stack Software Developer, and the geographic requirements are not met.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-17",
+      "source": "Google Alert 8",
+      "summary": "This role is for a Data Entry Operator, which is not a technical software development position. The candidate is an AI + Full-Stack Software Developer.",
+      "date_posted": "2026-11-16T13:31:05Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is for the United States, and candidate cannot relocate or work without US authorization.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical fit",
+        "Geographic eligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-entry-level-at-torentify-4490614398&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2zGbqeo37AkijyPQ8qN5k5",
+      "is_new": true
+    },
     {
       "url": "https://jobicy.com/jobs/162678-product-engineer-ai-driven",
       "title": "Product Engineer (AI Driven)",
@@ -34,7 +316,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/162678-product-engineer-ai-driven",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/junior-software-developer-london-13082",
@@ -67,7 +349,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/junior-software-developer-london-13082",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/java-software-architekt-refnr-48294-zurich-315520",
@@ -103,7 +385,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/java-software-architekt-refnr-48294-zurich-315520",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/java-software-entwickler-refnr-48293-zurich-87947",
@@ -140,7 +422,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/java-software-entwickler-refnr-48293-zurich-87947",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/mybikeplan/ai-marketing-internship-zurich-389911",
@@ -173,7 +455,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/mybikeplan/ai-marketing-internship-zurich-389911",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/jobgether/ai-platform-engineer-netherlands-320049",
@@ -206,7 +488,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/jobgether/ai-platform-engineer-netherlands-320049",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/162617-devops-engineer-blockchain-infra-fully-remote-3",
@@ -242,7 +524,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/162617-devops-engineer-blockchain-infra-fully-remote-3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/affiliatelandscape/marketing-intern-affiliate-digital-marketing-berlin-494406",
@@ -275,7 +557,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/affiliatelandscape/marketing-intern-affiliate-digital-marketing-berlin-494406",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/bask-health/jobs/frontend-engineer-new-grad?utm_source=api",
@@ -310,7 +592,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/bask-health/jobs/frontend-engineer-new-grad?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/day-warehouse-associate-damage-control-entry-level-at-labatt-food-service-4491072049%3FrefId%3DycgeRdNEkVePoadfYroKaA%253D%253D%26trackingId%3DfVvh0L0ZEMqwdfT9JPhD8A%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1yg9ZJ4UP0IjmFfkqFEmAF",
@@ -346,7 +628,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/day-warehouse-associate-damage-control-entry-level-at-labatt-food-service-4491072049%3FrefId%3DycgeRdNEkVePoadfYroKaA%253D%253D%26trackingId%3DfVvh0L0ZEMqwdfT9JPhD8A%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1yg9ZJ4UP0IjmFfkqFEmAF",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-specialist-entry-level-at-torentify-4491294204&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0scJwtK-NMudGqjIvWXUqY",
@@ -379,7 +661,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-specialist-entry-level-at-torentify-4491294204&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0scJwtK-NMudGqjIvWXUqY",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-engineer-at-vexra-engineering-4488936628&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0AKAjt0VKsH2x5oTewN93G",
@@ -412,7 +694,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-engineer-at-vexra-engineering-4488936628&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0AKAjt0VKsH2x5oTewN93G",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/162520-product-marketing-internship-spring-2027",
@@ -445,7 +727,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/162520-product-marketing-internship-spring-2027",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/java-entwickler-product-engineer-fur-ai-assisted-development-du-bringst-ai-coding-ins-team-dortmund-489360",
@@ -149627,10 +149909,10 @@
       "is_new": false
     }
   ],
-  "count": 4419,
+  "count": 4427,
   "keepers": 602,
-  "fresh": 3812,
-  "new_today": 13,
+  "fresh": 3819,
+  "new_today": 8,
   "apply_now": 100,
   "apply": 88,
   "consider": 98,
