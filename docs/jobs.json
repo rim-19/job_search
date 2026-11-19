@@ -1,6 +1,78 @@
 {
-  "generated": "2026-11-18",
+  "generated": "2026-11-19",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/neuverge-tron/web-developer-munich-216472",
+      "title": "Web Developer (m/f/d)",
+      "company": "Neuverge Tron",
+      "location": "Munich, Germany",
+      "link": "https://www.arbeitnow.com/jobs/companies/neuverge-tron/web-developer-munich-216472",
+      "score": 20,
+      "reason": "The role requires 5+ years of experience, which is significantly beyond the candidate's early-career profile, and the location in Munich, Germany is not eligible.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-19",
+      "source": "Arbeitnow",
+      "summary": "This Web Developer role at Neuverge Tron in Munich, Germany, requires a minimum of 5 years of experience, making it unsuitable for an early-career developer. The location is also outside the candidate's acceptable geographic scope for on-site or hybrid work.",
+      "date_posted": "1795048816",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Requires 5+ years of experience and is located in Germany, which is not a permitted location for on-site/hybrid work.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "SENIOR",
+      "min_years": 5,
+      "max_years": null,
+      "education_requirement": "required",
+      "gaps": [
+        "Experience level mismatch",
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/neuverge-tron/web-developer-munich-216472",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/pavago/remote-seo-digital-marketing-specialist-germany-156016",
+      "title": "SEO & Digital Marketing Specialist",
+      "company": "Pavago",
+      "location": "Germany (remote)",
+      "link": "https://www.arbeitnow.com/jobs/companies/pavago/remote-seo-digital-marketing-specialist-germany-156016",
+      "score": 10,
+      "reason": "This role is for a Digital Marketing Specialist, not a software developer, and requires US business hours, making it a poor technical and geographic fit.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-19",
+      "source": "Arbeitnow",
+      "summary": "The candidate is an AI + Full-Stack Software Developer, not a digital marketing specialist. The role's focus on SEO and US business hours makes it unsuitable.",
+      "date_posted": "1795058415",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role requires US business hours, which is outside the candidate's acceptable timezone scope.",
+      "geographic_scope": "EMEA",
+      "remote_type": "REMOTE",
+      "seniority": "MID",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Technical skills mismatch",
+        "Timezone incompatibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/pavago/remote-seo-digital-marketing-specialist-germany-156016",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-404140",
       "title": "Agentic AI Software Engineer",
@@ -32,7 +104,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-404140",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/163116-full-stack-engineer-10",
@@ -67,7 +139,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/163116-full-stack-engineer-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-ruby-ai-engineering-ai-catalog-120954",
@@ -102,7 +174,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-ruby-ai-engineering-ai-catalog-120954",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/stealth/founders-associate-intern-cologne-268757",
@@ -138,7 +210,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/stealth/founders-associate-intern-cologne-268757",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/netshake/junior-e-commerce-kaufmann-berlin-243109",
@@ -171,7 +243,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/netshake/junior-e-commerce-kaufmann-berlin-243109",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940898002",
@@ -206,7 +278,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/gitlab/jobs/8940898002",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/fullstack-devops-engineer-trust-and-identity-rotterdam-10345",
@@ -242,7 +314,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/swisscom/fullstack-devops-engineer-trust-and-identity-rotterdam-10345",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-fullstack-engineer-at-talenthop-4490195794&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2OkPmgwiL2rAZITALgaXvR",
@@ -277,7 +349,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-fullstack-engineer-at-talenthop-4490195794&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2OkPmgwiL2rAZITALgaXvR",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/163127-applied-ai-engineer-ai-finance-agent",
@@ -310,7 +382,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/163127-applied-ai-engineer-ai-finance-agent",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/imc/c-software-engineer-early-careers-amsterdam-15531",
@@ -343,7 +415,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/imc/c-software-engineer-early-careers-amsterdam-15531",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/wongdoody/backend-engineer-devops-berlin-de-221735",
@@ -378,7 +450,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/wongdoody/backend-engineer-devops-berlin-de-221735",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-zurich-425880",
@@ -414,7 +486,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-zurich-425880",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-ai-engineer-ip-networks-routing-rotterdam-101334",
@@ -447,7 +519,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-ai-engineer-ip-networks-routing-rotterdam-101334",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/eco-plus-solutions-ab-german-speaking-full-stack-developer-healthcare-medtech-remote",
@@ -484,7 +556,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/eco-plus-solutions-ab-german-speaking-full-stack-developer-healthcare-medtech-remote",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
@@ -517,7 +589,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor",
@@ -553,7 +625,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/bybit-animator-intern",
@@ -588,7 +660,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/bybit-animator-intern",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/centraal-bureau-voor-de-statistiek/software-developer-net-den-haag-364175",
@@ -625,7 +697,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/centraal-bureau-voor-de-statistiek/software-developer-net-den-haag-364175",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-analyst-entry-level-at-torentify-4491548991&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3rJHDvI-saB-OTHIQv1uhU",
@@ -661,7 +733,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-analyst-entry-level-at-torentify-4491548991&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3rJHDvI-saB-OTHIQv1uhU",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/upvest/treasury-and-payments-associate-berlin-451907",
@@ -697,7 +769,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/upvest/treasury-and-payments-associate-berlin-451907",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/g-p-software-engineer-ii",
@@ -730,7 +802,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/g-p-software-engineer-ii",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-client-specialist-entry-level-at-lotz-agency-4489758967&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2pihWCDtut8jodoeZomC6g",
@@ -766,7 +838,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/online-client-specialist-entry-level-at-lotz-agency-4489758967&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2pihWCDtut8jodoeZomC6g",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-entry-level-100%2525-remote-at-torentify-4491561545&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2YNk4Zgd_qPa2AO-CvBOjh",
@@ -799,7 +871,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-entry-level-100%2525-remote-at-torentify-4491561545&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2YNk4Zgd_qPa2AO-CvBOjh",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-rep-at-agent-alliance-4490660464%3FrefId%3Dnc7oCphR%252BMSvxUEFzjLyTA%253D%253D%26trackingId%3Dk4YuVKxcOaY7zmGqU6H1Tw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2FYdRONJr_p1aEXfjsA_kx",
@@ -834,7 +906,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-rep-at-agent-alliance-4490660464%3FrefId%3Dnc7oCphR%252BMSvxUEFzjLyTA%253D%253D%26trackingId%3Dk4YuVKxcOaY7zmGqU6H1Tw%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2FYdRONJr_p1aEXfjsA_kx",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-service-reservations-associate-entry-level-at-dream-travel-careers-4491780758&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Mp54dS10yl9qNBe7WO5ps",
@@ -867,7 +939,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-service-reservations-associate-entry-level-at-dream-travel-careers-4491780758&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0Mp54dS10yl9qNBe7WO5ps",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-sales-representative-training-provided-entry-level-at-the-wayland-agency-4487908755&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1goMKbK9PPXFOk1td-YAfP",
@@ -900,7 +972,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-sales-representative-training-provided-entry-level-at-the-wayland-agency-4487908755&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1goMKbK9PPXFOk1td-YAfP",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/trading212/graduate-compliance-monitoring-associate-london-485992",
@@ -936,7 +1008,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/trading212/graduate-compliance-monitoring-associate-london-485992",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-customer-experience-associate-at-dream-travel-careers-4491457946&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ZYngf5EQVd35fSlxs3D6G",
@@ -971,7 +1043,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-remote-customer-experience-associate-at-dream-travel-careers-4491457946&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1ZYngf5EQVd35fSlxs3D6G",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-coordinator-entry-level-at-lotz-agency-4492026758&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0xuxbVHMrp6rrYNDW7IGOM",
@@ -1007,7 +1079,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-coordinator-entry-level-at-lotz-agency-4492026758&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0xuxbVHMrp6rrYNDW7IGOM",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-service-representative-hotel-reservations-entry-level-at-dream-travel-careers-4491794376&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3U0AHAmuWf-IFxYbKKxlF4",
@@ -1043,7 +1115,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-customer-service-representative-hotel-reservations-entry-level-at-dream-travel-careers-4491794376&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3U0AHAmuWf-IFxYbKKxlF4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-support-specialist-remote-at-the-elmer-agency-4491402591&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2dJkN7fE5XWt8zoN_UAS7D",
@@ -1079,7 +1151,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-support-specialist-remote-at-the-elmer-agency-4491402591&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2dJkN7fE5XWt8zoN_UAS7D",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-rep-at-agent-alliance-4490663314&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1T5elS500N3yYU6e3NgWnu",
@@ -1112,7 +1184,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-sales-rep-at-agent-alliance-4490663314&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1T5elS500N3yYU6e3NgWnu",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/kandou-ai/internship-ai-engineer-saint-sulpice-185169",
@@ -151291,10 +151363,10 @@
       "is_new": false
     }
   ],
-  "count": 4467,
+  "count": 4469,
   "keepers": 602,
-  "fresh": 3857,
-  "new_today": 32,
+  "fresh": 3859,
+  "new_today": 2,
   "apply_now": 100,
   "apply": 88,
   "consider": 98,
