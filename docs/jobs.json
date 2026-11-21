@@ -1,6 +1,111 @@
 {
-  "generated": "2026-11-20",
+  "generated": "2026-11-21",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/goegmbh/frontend-engineer-berlin-143307",
+      "title": "Frontend Engineer (m/f/x)",
+      "company": "Goegmbh",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/goegmbh/frontend-engineer-berlin-143307",
+      "score": 30,
+      "reason": "The candidate is not eligible for this role due to its on-site requirement in Berlin, Germany, which falls outside their specified geographic constraints.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-21",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Frontend Engineer in Berlin, Germany, focusing on React and TypeScript to build a web platform. The candidate is not eligible due to geographic restrictions.",
+      "date_posted": "1795233317",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in Berlin, Germany, and requires on-site presence, which is outside the candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/goegmbh/frontend-engineer-berlin-143307",
+      "is_new": true
+    },
+    {
+      "url": "https://himalayas.app/companies/dev-partners/jobs/backend-developer?utm_source=api",
+      "title": "Backend Developer",
+      "company": "Dev Partners",
+      "location": "Philippines",
+      "link": "https://himalayas.app/companies/dev-partners/jobs/backend-developer?utm_source=api",
+      "score": 10,
+      "reason": "The role requires a minimum of 5 years of professional experience, which is significantly more than the candidate's early-career profile, and the location is not suitable.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-21",
+      "source": "Himalayas",
+      "summary": "This role is for a Backend Developer in the Philippines, requiring 5+ years of experience. The candidate is an early-career AI + Full-Stack Software Developer based in Morocco.",
+      "date_posted": "1795233720",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location (Philippines) is outside of candidate's acceptable geographic scope.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "REMOTE",
+      "seniority": "EARLY_CAREER",
+      "min_years": 5,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic Ineligibility",
+        "Experience Mismatch (5+ years required vs. early-career)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://himalayas.app/companies/dev-partners/jobs/backend-developer?utm_source=api",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/management-graduate-program-at-united-media-london-216718",
+      "title": "Management Graduate Program at United Media",
+      "company": "United Media",
+      "location": "London, England, United Kingdom",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/united-media/management-graduate-program-at-united-media-london-216718",
+      "score": 10,
+      "reason": "The role is an internship in London, England, which is geographically ineligible due to work authorization requirements and the candidate's inability to relocate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-21",
+      "source": "Arbeitnow",
+      "summary": "This is an internship program in London focused on entrepreneurial ventures. The candidate is not eligible due to location and work authorization constraints.",
+      "date_posted": "1795225528",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is London, England, United Kingdom, which requires work authorization not held by the candidate.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility (London, UK)",
+        "Work authorization requirement"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/management-graduate-program-at-united-media-london-216718",
+      "is_new": true
+    },
     {
       "url": "https://www.rekrute.com/offre-emploi-developpeur-fullstack-junior-recrutement-capgemini-engineering-casablanca-188670.html",
       "title": "Developpeur Fullstack Junior",
@@ -32,7 +137,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.rekrute.com/offre-emploi-developpeur-fullstack-junior-recrutement-capgemini-engineering-casablanca-188670.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/tectake/junior-specialist-automation-ai-hochberg-383767",
@@ -67,7 +172,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/tectake/junior-specialist-automation-ai-hochberg-383767",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
@@ -102,7 +207,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/adkochmarketing-gmbh/ki-automatisierungsentwickler-it-hamburg-31505",
@@ -137,7 +242,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/adkochmarketing-gmbh/ki-automatisierungsentwickler-it-hamburg-31505",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/swissborg/remote-software-engineer-proprxyz-497002",
@@ -172,7 +277,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/swissborg/remote-software-engineer-proprxyz-497002",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/biz-factory-gmbh/systemadministrator-devops-engineer-fur-linux-und-kubernetes-basierte-oss-infrastrukturen-berlin-183922",
@@ -208,7 +313,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/biz-factory-gmbh/systemadministrator-devops-engineer-fur-linux-und-kubernetes-basierte-oss-infrastrukturen-berlin-183922",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/horizontradingsolutions/developpeurse-java-stage-f-h-nantes-loire-atlantique-rennes-ille-et-vilaine-114747",
@@ -241,7 +346,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/horizontradingsolutions/developpeurse-java-stage-f-h-nantes-loire-atlantique-rennes-ille-et-vilaine-114747",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/software-engineer-london-134025",
@@ -274,7 +379,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/software-engineer-london-134025",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/163519-backend-engineer-ruby-ai-engineering-ai-catalog",
@@ -310,7 +415,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/163519-backend-engineer-ruby-ai-engineering-ai-catalog",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/loveholidays/junior-software-engineer-london-63892",
@@ -343,7 +448,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/loveholidays/junior-software-engineer-london-63892",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/klaviyo/software-engineer-ii-sms-international-london-109336",
@@ -379,7 +484,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/klaviyo/software-engineer-ii-sms-international-london-109336",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/pre-sales-business-development-intern-remote-entry-level-freshers-at-genesis-code-4491615808&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1pOnnY6NBr0VlbDxgrvdWG",
@@ -415,7 +520,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://pk.linkedin.com/jobs/view/pre-sales-business-development-intern-remote-entry-level-freshers-at-genesis-code-4491615808&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1pOnnY6NBr0VlbDxgrvdWG",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-assistant-entry-level-at-torentify-4492448410&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3zCt-1we9CF1aQvsdQ0LzU",
@@ -448,7 +553,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-assistant-entry-level-at-torentify-4492448410&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3zCt-1we9CF1aQvsdQ0LzU",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-assistant-entry-level-remote-at-torentify-4492044960&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2qSpPdr_M5okJQlDL44B1F",
@@ -484,7 +589,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-assistant-entry-level-remote-at-torentify-4492044960&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2qSpPdr_M5okJQlDL44B1F",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-product-management-analyst-evicore-remote-at-evicore-by-evernorth-4491327977&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ZWclha9J6ACe8OWbC0Jje",
@@ -520,7 +625,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-product-management-analyst-evicore-remote-at-evicore-by-evernorth-4491327977&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ZWclha9J6ACe8OWbC0Jje",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/163358-software-engineer-ii-full-stack-remote-eligible",
@@ -556,7 +661,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/163358-software-engineer-ii-full-stack-remote-eligible",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/anton-robotics/founders-associate-internship-munich-389756",
@@ -591,7 +696,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/anton-robotics/founders-associate-internship-munich-389756",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/pavago/remote-seo-digital-marketing-specialist-france-51483",
@@ -628,7 +733,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/pavago/remote-seo-digital-marketing-specialist-france-51483",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-engineering-program-at-blue-ventis-4491924493%3Fposition%3D38%26pageNum%3D0%26refId%3DtEq%252FS2GG5Is4Pj5sCIkAKg%253D%253D%26trackingId%3DzUO8Zo5VtBm709JAmzZi8A%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3fxvEU1sU9CWZp965l2iJq",
@@ -664,7 +769,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-engineering-program-at-blue-ventis-4491924493%3Fposition%3D38%26pageNum%3D0%26refId%3DtEq%252FS2GG5Is4Pj5sCIkAKg%253D%253D%26trackingId%3DzUO8Zo5VtBm709JAmzZi8A%253D%253D&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3fxvEU1sU9CWZp965l2iJq",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/part-time-sales-rep-entry-level-paid-weekly-at-vector-marketing-4491692715&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0tdFmphyjwkOAl6gVccZ72",
@@ -700,7 +805,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/part-time-sales-rep-entry-level-paid-weekly-at-vector-marketing-4491692715&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0tdFmphyjwkOAl6gVccZ72",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/163475-support-engineer-4",
@@ -735,7 +840,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/163475-support-engineer-4",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-scheduling-specialist-at-ecruit-4491919146&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0fnORBIzSQ7CBVrB2nDX1w",
@@ -771,7 +876,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-client-scheduling-specialist-at-ecruit-4491919146&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0fnORBIzSQ7CBVrB2nDX1w",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-specialist-entry-level-100%2525-remote-at-torentify-4492775944&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Nw2xzq71ozyxf1443Qagm",
@@ -807,7 +912,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-specialist-entry-level-100%2525-remote-at-torentify-4492775944&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3Nw2xzq71ozyxf1443Qagm",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/control-systems-technician-i-entry-level-at-tanadgusix-corporation-tdx-4492727843&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0647QnMTyVFb2o83HK-ahr",
@@ -840,7 +945,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/control-systems-technician-i-entry-level-at-tanadgusix-corporation-tdx-4492727843&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0647QnMTyVFb2o83HK-ahr",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-infrastructure-software-engineer-dropbox-1137857",
@@ -876,7 +981,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://remoteOK.com/remote-jobs/remote-infrastructure-software-engineer-dropbox-1137857",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-service-associate-at-407-solutions-4492452462&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2QgijwE2Yq85fVx9h7ABYn",
@@ -912,7 +1017,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-service-associate-at-407-solutions-4492452462&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2QgijwE2Yq85fVx9h7ABYn",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-no-experience-needed-will-train-at-anderson-agency-llc-4492912641&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2SRvdoguYujWi3gksW-_IV",
@@ -948,7 +1053,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-sales-remote-no-experience-needed-will-train-at-anderson-agency-llc-4492912641&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2SRvdoguYujWi3gksW-_IV",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/hvac-install-entry-level-at-stay-cool-climate-control-4492740112&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3MqwIt8YbbhGOTu2S2hZD8",
@@ -981,7 +1086,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/hvac-install-entry-level-at-stay-cool-climate-control-4492740112&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3MqwIt8YbbhGOTu2S2hZD8",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/account-executive-%25E2%2580%2593-entry-level-remote-uncapped-earnings-%252475k%25E2%2580%2593%2524150k-at-paramount-financial-recruiting-4492588826&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3SE80ttnfd69W628cGhPP3",
@@ -1017,7 +1122,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/account-executive-%25E2%2580%2593-entry-level-remote-uncapped-earnings-%252475k%25E2%2580%2593%2524150k-at-paramount-financial-recruiting-4492588826&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3SE80ttnfd69W628cGhPP3",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/airbnb-machine-learning-engineer-assistance-engineering",
@@ -152755,10 +152860,10 @@
       "is_new": false
     }
   ],
-  "count": 4509,
+  "count": 4512,
   "keepers": 609,
-  "fresh": 3896,
-  "new_today": 29,
+  "fresh": 3899,
+  "new_today": 3,
   "apply_now": 104,
   "apply": 88,
   "consider": 101,
