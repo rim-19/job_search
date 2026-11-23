@@ -1,6 +1,180 @@
 {
-  "generated": "2026-11-22",
+  "generated": "2026-11-23",
   "jobs": [
+    {
+      "url": "https://himalayas.app/companies/luza-group/jobs/full-stack-web-developer?utm_source=api",
+      "title": "Full-Stack Web Developer",
+      "company": "LUZA Group",
+      "location": "Portugal",
+      "link": "https://himalayas.app/companies/luza-group/jobs/full-stack-web-developer?utm_source=api",
+      "score": 35,
+      "reason": "The candidate is geographically ineligible for this on-site role in Portugal and does not meet the minimum 3 years of professional experience requirement.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-23",
+      "source": "Himalayas",
+      "summary": "This role is for an on-site Full-Stack Web Developer in Portugal. The candidate is based in Morocco and cannot relocate. Additionally, the role requires 3 years of professional experience, which the candidate, as an early-career developer, likely does not meet.",
+      "date_posted": "1795407927",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location (Portugal) and work authorization requirements are not met.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "EARLY_CAREER",
+      "min_years": 3,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic Ineligibility",
+        "Experience Mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://himalayas.app/companies/luza-group/jobs/full-stack-web-developer?utm_source=api",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-international-team-paris-134859",
+      "title": "STAGE - Junior Fullstack Engineer - International Team",
+      "company": "Doctrine",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-international-team-paris-134859",
+      "score": 30,
+      "reason": "The candidate is geographically ineligible for this on-site role in Paris and does not have the required work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-23",
+      "source": "Arbeitnow",
+      "summary": "This is an internship role for a Junior Fullstack Engineer at Doctrine, focusing on internationalizing a legal document submission feature. The role is based in Paris, France.",
+      "date_posted": "1795392438",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location: The job is in Paris, France, which requires EU work authorization that the candidate does not possess. The candidate cannot relocate.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-international-team-paris-134859",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/theodo/forward-deployed-engineer-cdi-paris-theodo-ai-modernisation-389755",
+      "title": "Forward Deployed Engineer - CDI Paris - Theodo AI-Modernisation",
+      "company": "Theodo",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/theodo/forward-deployed-engineer-cdi-paris-theodo-ai-modernisation-389755",
+      "score": 25,
+      "reason": "The job is located in Paris, France, and requires on-site presence, making the candidate geographically ineligible due to work authorization requirements.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-23",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Forward Deployed Engineer at Theodo in Paris, focusing on AI modernization of legacy systems. The candidate is not eligible due to the on-site requirement in Paris and the implied need for EU work authorization.",
+      "date_posted": "1795404380",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Paris, France, which requires EU work authorization, which the candidate does not have.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "UNKNOWN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/theodo/forward-deployed-engineer-cdi-paris-theodo-ai-modernisation-389755",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.nl/jobs/companies/optiverneurips/graduate-quantitative-researcher-2028-expression-of-interest-amsterdam-428978",
+      "title": "Graduate Quantitative Researcher 2028 – Expression of Interest",
+      "company": "Optiverneurips",
+      "location": "Amsterdam",
+      "link": "https://www.arbeitnow.nl/jobs/companies/optiverneurips/graduate-quantitative-researcher-2028-expression-of-interest-amsterdam-428978",
+      "score": 15,
+      "reason": "The role is located in Amsterdam, Netherlands, which is not within the candidate's acceptable geographic constraints and likely requires EU work authorization. Additionally, the role is for a Quantitative Researcher, which is a niche area and not a direct match for the candidate's full-stack and AI ",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-23",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Graduate Quantitative Researcher at Optiver in Amsterdam. It involves using mathematics and code to build, test, and deploy models with a focus on Machine Learning in global markets. The candidate is not eligible due to location and work authorization requirements.",
+      "date_posted": "1795373723",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Amsterdam, which is outside of the candidate's acceptable geographic scope and requires EU work authorization.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility",
+        "Role focus mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.nl/jobs/companies/optiverneurips/graduate-quantitative-researcher-2028-expression-of-interest-amsterdam-428978",
+      "is_new": true
+    },
+    {
+      "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
+      "title": "Software Engineer- Frontend",
+      "company": "WebEngage",
+      "location": "India",
+      "link": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
+      "score": 10,
+      "reason": "The candidate is geographically ineligible for this role as it is located in India and they cannot relocate. Additionally, the experience requirement of 3-5 years may be too high for an early-career developer.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-23",
+      "source": "Himalayas",
+      "summary": "This role is for a Frontend Software Engineer at WebEngage, located in India. The responsibilities include developing front-end applications and components, coordinating with backend engineers, and building reusable code. The requirements specify 3 to 5 years of frontend experience.",
+      "date_posted": "1795404435",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in India, candidate is based in Morocco and cannot relocate.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "UNKNOWN",
+      "seniority": "EARLY_CAREER",
+      "min_years": 3,
+      "max_years": 5,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic Ineligibility",
+        "Experience Mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
+      "is_new": true
+    },
     {
       "url": "https://jobicy.com/jobs/163631-application-integration-developer-2",
       "title": "Application Integration Developer",
@@ -35,7 +209,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/163631-application-integration-developer-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/denkweit-gmbh/frontend-developer-vision-ai-platform-halle-saale-234445",
@@ -71,7 +245,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/denkweit-gmbh/frontend-developer-vision-ai-platform-halle-saale-234445",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-ruby-plan-spec-driven-development-90346",
@@ -106,7 +280,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-ruby-plan-spec-driven-development-90346",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-essen-121371",
@@ -141,7 +315,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-essen-121371",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/devops-engineer-ai-assisted-fur-eine-globale-publishing-plattform-dortmund-12632",
@@ -174,7 +348,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/devops-engineer-ai-assisted-fur-eine-globale-publishing-plattform-dortmund-12632",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/java-entwickler-product-engineer-du-gestaltest-ai-assisted-software-egineering-mit-dortmund-470897",
@@ -207,7 +381,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/java-entwickler-product-engineer-du-gestaltest-ai-assisted-software-egineering-mit-dortmund-470897",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/full-stack-developer-intern-robotics-data-collection-munich-bavaria-36847",
@@ -242,7 +416,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/full-stack-developer-intern-robotics-data-collection-munich-bavaria-36847",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/namespace/product-engineer-zurich-396650",
@@ -275,7 +449,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/namespace/product-engineer-zurich-396650",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/ai-engineer-devex-automation-paris-253225",
@@ -308,7 +482,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/ai-engineer-devex-automation-paris-253225",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-356841",
@@ -343,7 +517,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-356841",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-spanish-speaker-cfo-insights-london-356554",
@@ -376,7 +550,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-spanish-speaker-cfo-insights-london-356554",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-italian-speaker-cfo-insights-london-66311",
@@ -413,7 +587,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-italian-speaker-cfo-insights-london-66311",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-french-speaker-cfo-insights-london-18600",
@@ -449,7 +623,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-french-speaker-cfo-insights-london-18600",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/163862-software-engineer-i-remote-eligible",
@@ -482,7 +656,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/163862-software-engineer-i-remote-eligible",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.dreamjob.ma/emploi/commerciaux-finance-et-stages-pfe-jti-recrute-10-profils-dans-5-villes/",
@@ -515,7 +689,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.dreamjob.ma/emploi/commerciaux-finance-et-stages-pfe-jti-recrute-10-profils-dans-5-villes/",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/stealth-start-up-mobility-berlin/founders-associate-intern-ma-venturedev-focus-at-t1-vc-backed-mobility-stealth-start-up-from-sep-oct-26-berlin-359964",
@@ -548,7 +722,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/stealth-start-up-mobility-berlin/founders-associate-intern-ma-venturedev-focus-at-t1-vc-backed-mobility-stealth-start-up-from-sep-oct-26-berlin-359964",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/batch-robotics-gmbh/founder-associate-physical-ai-robotics-full-time-or-gap-year-intern-munich-175184",
@@ -581,7 +755,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/batch-robotics-gmbh/founder-associate-physical-ai-robotics-full-time-or-gap-year-intern-munich-175184",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/no-code-developer-bubbleio-100-remote-berlin-440890",
@@ -614,7 +788,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/no-code-developer-bubbleio-100-remote-berlin-440890",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-spanish-speaker-united-media-london-46700",
@@ -651,7 +825,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-spanish-speaker-united-media-london-46700",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/163710-actuarial-associate-uk-2",
@@ -687,7 +861,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/163710-actuarial-associate-uk-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-booking-coordinator-entry-level-at-remote-path-solutions-4482237193&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3EtSVo1esVSvE3dOOmt0xY",
@@ -723,7 +897,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-client-booking-coordinator-entry-level-at-remote-path-solutions-4482237193&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3EtSVo1esVSvE3dOOmt0xY",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-scandinavian-speaker-cfo-insights-london-300004",
@@ -756,7 +930,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-scandinavian-speaker-cfo-insights-london-300004",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-german-speaker-cfo-insights-london-315149",
@@ -792,7 +966,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-german-speaker-cfo-insights-london-315149",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverneurips/graduate-quantitative-researcher-2028-expression-of-interest-london-170818",
@@ -828,7 +1002,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/optiverneurips/graduate-quantitative-researcher-2028-expression-of-interest-london-170818",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-at-united-media-london-202304",
@@ -861,7 +1035,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-at-united-media-london-202304",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/gravitonresearchcapital/quantitative-researcher-2027-graduates-london-139971",
@@ -894,7 +1068,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/gravitonresearchcapital/quantitative-researcher-2027-graduates-london-139971",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/castrol/people-culture-graduate-uk-2027-451083",
@@ -927,7 +1101,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/castrol/people-culture-graduate-uk-2027-451083",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-client-consultant-entry-level-at-the-hunt-agency-inc-4492882949&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Clwjd3tz3eI0B0k4c0bXK",
@@ -963,7 +1137,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/virtual-client-consultant-entry-level-at-the-hunt-agency-inc-4492882949&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1Clwjd3tz3eI0B0k4c0bXK",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-destination-specialist-entry-level-at-remote-path-solutions-4482255775&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3w5gudCLJFhaUuT0QpvTxH",
@@ -999,7 +1173,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-destination-specialist-entry-level-at-remote-path-solutions-4482255775&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3w5gudCLJFhaUuT0QpvTxH",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-digitization-clerk-at-fraser-mcgill-botswana-4492328115&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw28X3k92JFY-QAY07rWPBWy",
@@ -1035,7 +1209,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-digitization-clerk-at-fraser-mcgill-botswana-4492328115&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw28X3k92JFY-QAY07rWPBWy",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-remote-entry-level-at-1st-financial-consulting-solutions-4492322383&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3XC1quLPIMwqR4WjHAQLiT",
@@ -1068,7 +1242,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-clerk-remote-entry-level-at-1st-financial-consulting-solutions-4492322383&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3XC1quLPIMwqR4WjHAQLiT",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1227-back-end-developer-germany-388586",
@@ -154309,10 +154483,10 @@
       "is_new": false
     }
   ],
-  "count": 4554,
+  "count": 4559,
   "keepers": 614,
-  "fresh": 3941,
-  "new_today": 31,
+  "fresh": 3946,
+  "new_today": 5,
   "apply_now": 104,
   "apply": 90,
   "consider": 104,
