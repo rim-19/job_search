@@ -1,6 +1,74 @@
 {
-  "generated": "2026-11-24",
+  "generated": "2026-11-25",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-frontend-software-engineer-120939",
+      "title": "Frontend Software Engineer",
+      "company": "Newsweek",
+      "location": "Remote",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-frontend-software-engineer-120939",
+      "score": 75,
+      "reason": "The candidate is a strong fit for a junior frontend role with their React and Next.js experience, and the remote nature of the job aligns with their preferences.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-25",
+      "source": "Arbeitnow",
+      "summary": "This is a remote Frontend Software Engineer role at Newsweek, focusing on React and Next.js. The candidate has direct experience with these technologies and is seeking entry-level developer positions.",
+      "date_posted": "1795557317",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "priority": "APPLY",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Remote role, no explicit work authorization requirement mentioned, and EMEA timezone is potentially workable.",
+      "geographic_scope": "EMEA",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-frontend-software-engineer-120939",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-backend-software-engineer-206351",
+      "title": "Backend Software Engineer",
+      "company": "Newsweek",
+      "location": "Remote",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-backend-software-engineer-206351",
+      "score": 65,
+      "reason": "This role is a remote Backend Software Engineer position that requires Python, which the candidate has experience with, and is open to entry-level candidates. However, the primary tech stack mentioned (PHP/WordPress) is not a strong match.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-25",
+      "source": "Arbeitnow",
+      "summary": "The candidate is an early-career AI + Full-Stack Software Developer with experience in Python, Node.js, and React. They are seeking junior/entry-level developer roles globally. This role is remote and requires Python, aligning with the candidate's skills.",
+      "date_posted": "1795557317",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "priority": "CONSIDER",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Candidate is based in Morocco and the role is remote worldwide, fitting within the acceptable remote scope.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "The primary tech stack for this role is PHP/WordPress, which is not listed in the candidate's skills or projects."
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-backend-software-engineer-206351",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-software-engineer-core-180673",
       "title": "Software Engineer: Core",
@@ -32,7 +100,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-software-engineer-core-180673",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/ritual-software-engineer-intern",
@@ -65,7 +133,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://weworkremotely.com/remote-jobs/ritual-software-engineer-intern",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://cl.linkedin.com/jobs/view/junior-react-developer-remote-work-at-bairesdev-4494006101&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0pHE6GNHpstfut8b3YNolr",
@@ -98,7 +166,7 @@
       "gaps": [],
       "recommended_project": "Cupid",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://cl.linkedin.com/jobs/view/junior-react-developer-remote-work-at-bairesdev-4494006101&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw0pHE6GNHpstfut8b3YNolr",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-full-stack-javascript-developer-at-red-egg-marketing-at-meeboss-4493693454&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2uLMv0MHt1nVK--L0KjdRe",
@@ -131,7 +199,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/junior-full-stack-javascript-developer-at-red-egg-marketing-at-meeboss-4493693454&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw2uLMv0MHt1nVK--L0KjdRe",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-threat-research-engineer-security-factory-threat-research-gitlab-1138067",
@@ -164,7 +232,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://remoteOK.com/remote-jobs/remote-threat-research-engineer-security-factory-threat-research-gitlab-1138067",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/dymatrix/software-engineer-full-stack-javascript-typescript-all-genders-hamburg-366481",
@@ -200,7 +268,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/dymatrix/software-engineer-full-stack-javascript-typescript-all-genders-hamburg-366481",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-agentic-ai-in-billing-rotterdam-256959",
@@ -235,7 +303,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-agentic-ai-in-billing-rotterdam-256959",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.dreamjob.ma/stage/eleves-ingenieurs-saham-bank-recrute-des-stagiaires-pfe-en-it-data-et-risques/",
@@ -271,7 +339,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.dreamjob.ma/stage/eleves-ingenieurs-saham-bank-recrute-des-stagiaires-pfe-en-it-data-et-risques/",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/audio-video-entry-level-specialist-at-remoexperts-4493667210&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2GynMZSYcGWaeIa_LiDQZU",
@@ -304,7 +372,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/audio-video-entry-level-specialist-at-remoexperts-4493667210&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2GynMZSYcGWaeIa_LiDQZU",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/conduct/graduate-deployment-strategist-london-134366",
@@ -340,7 +408,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/conduct/graduate-deployment-strategist-london-134366",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-audio-editor-at-remoexperts-4493667179&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2mApqbGfWLKBRfsfpt2pIV",
@@ -375,7 +443,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-audio-editor-at-remoexperts-4493667179&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2mApqbGfWLKBRfsfpt2pIV",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/gravitonresearchcapital/quantitative-researcher-2027-graduates-amsterdam-298035",
@@ -408,7 +476,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/gravitonresearchcapital/quantitative-researcher-2027-graduates-amsterdam-298035",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-game-audio-engineer-at-remoexperts-4493653869&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2d6ed2RLVuOV5SJjVRuHfY",
@@ -441,7 +509,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-game-audio-engineer-at-remoexperts-4493653869&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2d6ed2RLVuOV5SJjVRuHfY",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-full-stack-software-engineer-feed-workflow-intelligence-edi-edinburgh-480970",
@@ -477,7 +545,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-full-stack-software-engineer-feed-workflow-intelligence-edi-edinburgh-480970",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-intelligent-next-gen-invoice-validation-platform-rotterdam-342340",
@@ -510,7 +578,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-intelligent-next-gen-invoice-validation-platform-rotterdam-342340",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/skynrg/finance-risk-internship-amsterdam-369803",
@@ -545,7 +613,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/skynrg/finance-risk-internship-amsterdam-369803",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-junior-remote-at-torentify-4493676375&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3P_SJlBjL5ODDT2Ze-r_ka",
@@ -580,7 +648,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-operator-junior-remote-at-torentify-4493676375&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3P_SJlBjL5ODDT2Ze-r_ka",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/skynrg/people-culture-internship-amsterdam-211391",
@@ -613,7 +681,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/skynrg/people-culture-internship-amsterdam-211391",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-audio-book-editor-at-remoexperts-4493661415&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3_IofsJj3PjY2emos4ReEr",
@@ -648,7 +716,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-audio-book-editor-at-remoexperts-4493661415&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3_IofsJj3PjY2emos4ReEr",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-audio-production-specialist-at-remoexperts-4493659645&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3lpoi68cyrxtRXzJYd6R5m",
@@ -684,7 +752,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-audio-production-specialist-at-remoexperts-4493659645&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3lpoi68cyrxtRXzJYd6R5m",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/164160-paid-media-specialist",
@@ -717,7 +785,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/164160-paid-media-specialist",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/dropbox-full-stack-product-software-engineer",
@@ -155476,13 +155544,13 @@
       "is_new": false
     }
   ],
-  "count": 4588,
-  "keepers": 621,
-  "fresh": 3975,
-  "new_today": 21,
+  "count": 4590,
+  "keepers": 623,
+  "fresh": 3977,
+  "new_today": 2,
   "apply_now": 108,
-  "apply": 93,
-  "consider": 104,
+  "apply": 94,
+  "consider": 105,
   "morocco": 37,
-  "eligible": 294
+  "eligible": 296
 }
