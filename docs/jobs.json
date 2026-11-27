@@ -1,6 +1,107 @@
 {
-  "generated": "2026-11-26",
+  "generated": "2026-11-27",
   "jobs": [
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/lemrock/founders-associate-intern-paris-99630",
+      "title": "Founder's Associate (Intern)",
+      "company": "Lemrock",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/lemrock/founders-associate-intern-paris-99630",
+      "score": 30,
+      "reason": "The role is an internship in Paris, France, which is geographically ineligible due to work authorization requirements and location.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-27",
+      "source": "Arbeitnow",
+      "summary": "This is an internship role at Lemrock in Paris, focusing on strategy, business development, product, and investor relations within an early-stage startup. The candidate is an AI + Full-Stack Software Developer.",
+      "date_posted": "1795740016",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Paris, France, which requires EU work authorization not possessed by the candidate.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "required",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/lemrock/founders-associate-intern-paris-99630",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/game-developer-midcore-games-internship-paris-365864",
+      "title": "Game Developer - Midcore Games - Internship",
+      "company": "Voodoo",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/voodoo/game-developer-midcore-games-internship-paris-365864",
+      "score": 15,
+      "reason": "The role is an internship requiring on-site presence in Paris or Lisbon, which is geographically ineligible for the candidate.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-27",
+      "source": "Arbeitnow",
+      "summary": "This is an internship for a Game Developer at Voodoo, located in Paris or Lisbon. The role involves contributing to game architecture and feature development using C# and Unity. Relocation support is offered.",
+      "date_posted": "1795740013",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Requires relocation to Paris or Lisbon, which is not permitted.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/voodoo/game-developer-midcore-games-internship-paris-365864",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://ke.linkedin.com/jobs/view/credit-control-internship-at-entry-level-jobs-in-kenya-campusbiz-co-ke-4494986299&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw32eWj1biWUndGRRIfL2j68",
+      "title": "Credit Control Internship",
+      "company": "Entry-level Jobs in Kenya - campusbiz.co.ke — Nairobi ... - LinkedIn",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ke.linkedin.com/jobs/view/credit-control-internship-at-entry-level-jobs-in-kenya-campusbiz-co-ke-4494986299&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw32eWj1biWUndGRRIfL2j68",
+      "score": 5,
+      "reason": "The candidate is geographically ineligible as the internship is based in Kenya, and she cannot relocate from Morocco.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-27",
+      "source": "Google Alert 8",
+      "summary": "This role is an internship in Credit Control, which is not related to the candidate's specialization in AI and Full-Stack Software Development. The candidate is also not eligible due to the geographic location.",
+      "date_posted": "2026-11-26T15:24:01Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: Role is in Kenya, candidate is in Morocco and cannot relocate.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "REMOTE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ke.linkedin.com/jobs/view/credit-control-internship-at-entry-level-jobs-in-kenya-campusbiz-co-ke-4494986299&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw32eWj1biWUndGRRIfL2j68",
+      "is_new": true
+    },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-188174",
       "title": "Fullstack Software Engineer - Core Engineering",
@@ -32,7 +133,7 @@
       "gaps": [],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-188174",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/any-marketing-gmbh/webdesigner-entwickler-wordpress-ai-kaiserslautern-345614",
@@ -67,7 +168,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/any-marketing-gmbh/webdesigner-entwickler-wordpress-ai-kaiserslautern-345614",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/cosuno/gtm-growth-engineer-berlin-167597",
@@ -102,7 +203,7 @@
       ],
       "recommended_project": "Nexus AI",
       "application_url": "https://www.arbeitnow.com/jobs/companies/cosuno/gtm-growth-engineer-berlin-167597",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/happyrobotai/forward-deployed-engineer-german-speaking-cologne-385257",
@@ -138,7 +239,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/happyrobotai/forward-deployed-engineer-german-speaking-cologne-385257",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8217232003",
@@ -171,7 +272,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8217232003",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/qantev/ai-engineer-intern-2027-paris-102648",
@@ -206,7 +307,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/qantev/ai-engineer-intern-2027-paris-102648",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
@@ -242,7 +343,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.rekrute.com/offre-emploi-stagiaire-technicien-support-informatique-fh-recrutement-sofrecom-maroc-casablanca-188782.html",
@@ -275,7 +376,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.rekrute.com/offre-emploi-stagiaire-technicien-support-informatique-fh-recrutement-sofrecom-maroc-casablanca-188782.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/jobsity/jobs/applied-ai-engineer?utm_source=api",
@@ -312,7 +413,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/jobsity/jobs/applied-ai-engineer?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/platform-engineering-internship-observability-amsterdam-the-netherlands-61393",
@@ -347,7 +448,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/tomtom/platform-engineering-internship-observability-amsterdam-the-netherlands-61393",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-internship-api-management-amsterdam-the-netherlands-291887",
@@ -382,7 +483,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-internship-api-management-amsterdam-the-netherlands-291887",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/164320-full-stack-web-engineer-python-react-2",
@@ -418,7 +519,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/164320-full-stack-web-engineer-python-react-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://co.linkedin.com/jobs/view/junior-forward-deployed-ai-engineer-business-consultant-remote-colombia-at-fullstack-4494686103&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw04LvVoa3yZFIri11NcJYK5",
@@ -453,7 +554,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://co.linkedin.com/jobs/view/junior-forward-deployed-ai-engineer-business-consultant-remote-colombia-at-fullstack-4494686103&ct=ga&cd=CAIyHDE5NmZlZGE2ODk1NDRkN2Y6Y29tOmZyOlVTOkw&usg=AOvVaw04LvVoa3yZFIri11NcJYK5",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090",
@@ -488,7 +589,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ae.linkedin.com/jobs/view/remote-database-administrative-support-specialist-entry-level-mid-level-at-g%25C3%25A9n%25C3%25A9ration-montante-des-maintenanciers-industriels-du-burkina-faso-g2mi-bf-4494785543&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw29OIEWuzBJd7Wom57xHz5x",
@@ -523,7 +624,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ae.linkedin.com/jobs/view/remote-database-administrative-support-specialist-entry-level-mid-level-at-g%25C3%25A9n%25C3%25A9ration-montante-des-maintenanciers-industriels-du-burkina-faso-g2mi-bf-4494785543&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw29OIEWuzBJd7Wom57xHz5x",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/skynrg/strategy-internship-amsterdam-334090",
@@ -559,7 +660,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/skynrg/strategy-internship-amsterdam-334090",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://himalayas.app/companies/global-m/jobs/qa-engineer?utm_source=api",
@@ -595,7 +696,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/global-m/jobs/qa-engineer?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.com/jobs/companies/lio/ai-implementation-associate-internship-all-genders-munich-337925",
@@ -630,7 +731,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.com/jobs/companies/lio/ai-implementation-associate-internship-all-genders-munich-337925",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-assistant-entry-level-remote-at-torentify-4494411233&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1LAaHG0OJ9HiRkuzMNCbQ-",
@@ -665,7 +766,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/data-entry-assistant-entry-level-remote-at-torentify-4494411233&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1LAaHG0OJ9HiRkuzMNCbQ-",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/entry-level-administrative-assistant-at-strides-hire-4494498133&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3RA1k-3qzgx9i8hKrFXW-C",
@@ -700,7 +801,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/entry-level-administrative-assistant-at-strides-hire-4494498133&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3RA1k-3qzgx9i8hKrFXW-C",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/jr-enrollment-billing-rep-entry-level-at-sgs-consulting-4494721709&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0lj6N5ECGJZiWlGXgnptZ-",
@@ -735,7 +836,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/jr-enrollment-billing-rep-entry-level-at-sgs-consulting-4494721709&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0lj6N5ECGJZiWlGXgnptZ-",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/full-time-remote-sales-representative-college-students-recent-graduates-at-globe-life-american-income-division-surace-smith-partners-4494921552&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2PqAD4EcDXueOM6Yw7X8c1",
@@ -770,7 +871,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/full-time-remote-sales-representative-college-students-recent-graduates-at-globe-life-american-income-division-surace-smith-partners-4494921552&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2PqAD4EcDXueOM6Yw7X8c1",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-financial-services-agent-training-provided-at-the-pritchett-agency-4494920931&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ygXp0SsQLDrqqrNL_tG4s",
@@ -806,7 +907,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-financial-services-agent-training-provided-at-the-pritchett-agency-4494920931&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ygXp0SsQLDrqqrNL_tG4s",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-sales-representative-remote-at-torentify-4494694687&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0OSlgeMTEKyVLiMEX6QnNU",
@@ -839,7 +940,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-customer-sales-representative-remote-at-torentify-4494694687&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw0OSlgeMTEKyVLiMEX6QnNU",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/2028-graduates-intern-antitrust-competition-economics-practice-summer-2027-london-188850",
@@ -872,7 +973,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/2028-graduates-intern-antitrust-competition-economics-practice-summer-2027-london-188850",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-life-insurance-agent-at-marigold-financial-group-4494923454&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3yY8LoNh3-LY3gY_NYCOQX",
@@ -907,7 +1008,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/entry-level-life-insurance-agent-at-marigold-financial-group-4494923454&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw3yY8LoNh3-LY3gY_NYCOQX",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-cruise-coordinator-at-life-s-a-dream-travel-4494690708&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1OB1o6fRTKD2hzEnFRlD4p",
@@ -943,7 +1044,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-entry-level-cruise-coordinator-at-life-s-a-dream-travel-4494690708&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw1OB1o6fRTKD2hzEnFRlD4p",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-frontend-software-engineer-120939",
@@ -156795,10 +156896,10 @@
       "is_new": false
     }
   ],
-  "count": 4626,
+  "count": 4629,
   "keepers": 627,
-  "fresh": 4012,
-  "new_today": 27,
+  "fresh": 4015,
+  "new_today": 3,
   "apply_now": 109,
   "apply": 96,
   "consider": 107,
