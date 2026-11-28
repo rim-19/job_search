@@ -1,6 +1,323 @@
 {
-  "generated": "2026-11-27",
+  "generated": "2026-11-28",
   "jobs": [
+    {
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-software-development-engineer",
+      "title": "Software Development Engineer",
+      "company": "BeyondTrust",
+      "location": "Anywhere in the World",
+      "link": "https://weworkremotely.com/remote-jobs/beyondtrust-software-development-engineer",
+      "score": 70,
+      "reason": "This role is a good technical fit for a junior full-stack developer with AI/LLM experience, and the candidate meets the geographic requirements for remote work worldwide. However, the company's US headquarters and the nature of 'core platform services' might lean towards more experienced candidates ",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-28",
+      "source": "WeWorkRemotely (Full-Stack)",
+      "summary": "This is a remote Software Development Engineer role focused on building scalable microservices for platform capabilities. The candidate's full-stack skills and experience with backend technologies like Node.js and FastAPI align well with the role's requirements.",
+      "date_posted": "Wed, 25 Nov 2026 06:01:16 +0000",
+      "days_since_posted": 2,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "priority": "APPLY",
+      "eligible_for_rim": "true",
+      "eligibility_reason": "Geographically eligible for remote worldwide, but company HQ is US, which might imply preference or implicit requirements not stated.",
+      "geographic_scope": "WORLDWIDE",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "The role mentions 'Previous experience working on platform, core, or shared services teams is highly desired,' which the candidate may not have explicitly demonstrated in their projects.",
+        "The company's US headquarters could imply a preference for candidates with US work authorization or timezone alignment, despite the 'Anywhere in the World' location."
+      ],
+      "recommended_project": "",
+      "application_url": "https://weworkremotely.com/remote-jobs/beyondtrust-software-development-engineer",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/cloud-platform-engineer-geneva-457427",
+      "title": "Cloud Platform Engineer",
+      "company": "Sonarsource",
+      "location": "Geneva",
+      "link": "https://www.arbeitnow.ch/jobs/companies/sonarsource/cloud-platform-engineer-geneva-457427",
+      "score": 35,
+      "reason": "The job is located in Geneva, Switzerland, which is outside the candidate's acceptable geographic parameters for on-site work, and the role likely requires EU work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-28",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Cloud Platform Engineer at Sonarsource, located in Geneva. The company focuses on AI code review and verification, integrating with various AI development tools. The position is primarily on-site in Geneva.",
+      "date_posted": "1795824416",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Geneva, Switzerland, which is not within the candidate's acceptable geographic scope for on-site or hybrid roles, and the role likely requires EU work authorization.",
+      "geographic_scope": "OTHER",
+      "remote_type": "ONSITE",
+      "seniority": "UNKNOWN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic ineligibility (on-site in Geneva)",
+        "Potential work authorization requirement (EU)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/cloud-platform-engineer-geneva-457427",
+      "is_new": true
+    },
+    {
+      "url": "https://jobicy.com/jobs/164580-software-engineer-16",
+      "title": "Software Engineer",
+      "company": "Vonage",
+      "location": "Spain",
+      "link": "https://jobicy.com/jobs/164580-software-engineer-16",
+      "score": 30,
+      "reason": "The candidate is geographically ineligible for this on-site role in Spain.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-28",
+      "source": "Jobicy",
+      "summary": "This role is located in Spain, which is outside the candidate's acceptable geographic scope. The candidate cannot relocate and is only open to remote roles or on-site/hybrid roles in Casablanca or Rabat.",
+      "date_posted": "2026-11-27T16:26:24+00:00",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Spain, candidate cannot relocate and is not eligible for on-site/hybrid roles outside of Casablanca or Rabat.",
+      "geographic_scope": "OTHER",
+      "remote_type": "ONSITE",
+      "seniority": "UNKNOWN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://jobicy.com/jobs/164580-software-engineer-16",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/stage-data-scientist-ai-engineer-genai-retail-nantes-loire-atlantique-paris-paris-villeneuve-dascq-nord-193620",
+      "title": "Stage Data Scientist / AI Engineer - GenAI & Retail  (f/m/d)",
+      "company": "Decathlontechnology",
+      "location": "Nantes, Loire-Atlantique; Paris, Paris; Villeneuve-d'Ascq, Nord",
+      "link": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/stage-data-scientist-ai-engineer-genai-retail-nantes-loire-atlantique-paris-paris-villeneuve-dascq-nord-193620",
+      "score": 30,
+      "reason": "The candidate is not eligible due to the on-site location requirement in France, which is outside of their specified acceptable geographic areas.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-28",
+      "source": "Arbeitnow",
+      "summary": "This is an internship for a Data Scientist / AI Engineer role focused on GenAI and Retail at Decathlon. The position requires on-site presence in France.",
+      "date_posted": "1795805735",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Geographic mismatch: The job requires on-site presence in Nantes, Paris, or Villeneuve-d'Ascq, France, which is not within the candidate's acceptable locations (Casablanca/Rabat on-site, or remote wor",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "INTERN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic location mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/stage-data-scientist-ai-engineer-genai-retail-nantes-loire-atlantique-paris-paris-villeneuve-dascq-nord-193620",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/bsi-software/web-frontend-developer-all-genders-de-hamburg-44672",
+      "title": "Web Frontend Developer (all genders) DE",
+      "company": "BSI Software",
+      "location": "Hamburg, Hamburg, Deutschland",
+      "link": "https://www.arbeitnow.com/jobs/companies/bsi-software/web-frontend-developer-all-genders-de-hamburg-44672",
+      "score": 15,
+      "reason": "The job is located in Hamburg, Germany, requiring on-site presence and likely EU work authorization, which the candidate cannot fulfill.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-28",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Web Frontend Developer in Hamburg, Germany, requiring on-site work. The candidate is based in Morocco and cannot relocate or work in the EU without authorization.",
+      "date_posted": "1795825893",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Requires EU work authorization/residency, which the candidate does not possess.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "ONSITE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": 3,
+      "education_requirement": "required",
+      "gaps": [
+        "Geographic ineligibility",
+        "On-site requirement"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/bsi-software/web-frontend-developer-all-genders-de-hamburg-44672",
+      "is_new": true
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/bsi-software/software-engineer-all-genders-de-darmstadt-127090",
+      "title": "Software Engineer (all genders) DE",
+      "company": "BSI Software",
+      "location": "Darmstadt, Hessen, Deutschland",
+      "link": "https://www.arbeitnow.com/jobs/companies/bsi-software/software-engineer-all-genders-de-darmstadt-127090",
+      "score": 15,
+      "reason": "The job is located in Germany and requires on-site presence, making the candidate geographically ineligible due to work authorization and relocation constraints.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-28",
+      "source": "Arbeitnow",
+      "summary": "This role is for a Software Engineer in Darmstadt, Germany, focusing on CRM/CX platform development with a mix of LowCode/ZeroCode (TypeScript) and Java. It involves customer project leadership, architecture design, and implementation.",
+      "date_posted": "1795825893",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is in Germany, requiring EU work authorization which the candidate does not possess.",
+      "geographic_scope": "COUNTRY_SPECIFIC",
+      "remote_type": "ONSITE",
+      "seniority": "UNKNOWN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [],
+      "recommended_project": "",
+      "application_url": "https://www.arbeitnow.com/jobs/companies/bsi-software/software-engineer-all-genders-de-darmstadt-127090",
+      "is_new": true
+    },
+    {
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-engineer-germany-datadog-1138184",
+      "title": "Enterprise Sales Engineer - Germany",
+      "company": "Datadog",
+      "location": "Europe",
+      "link": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-engineer-germany-datadog-1138184",
+      "score": 10,
+      "reason": "This role is for an Enterprise Sales Engineer, which is a sales-focused position and not a development role. The candidate's skills and experience are in software development, particularly AI and full-stack, not sales engineering. Furthermore, the location and work authorization requirements are not",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-28",
+      "source": "RemoteOK",
+      "summary": "The candidate is an AI + Full-Stack Software Developer with experience in Python, JavaScript, React, Node.js, and AI/LLM technologies. They are seeking junior/entry-level developer roles. This specific job is for a Sales Engineer, which does not align with the candidate's technical background or career aspirations.",
+      "date_posted": "2026-11-26T11:20:12+00:00",
+      "days_since_posted": 1,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Role requires EU work authorization and is not remote within Morocco.",
+      "geographic_scope": "EUROPE",
+      "remote_type": "UNKNOWN",
+      "seniority": "UNKNOWN",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Role type mismatch (Sales vs. Development)",
+        "Geographic/Work Authorization mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-engineer-germany-datadog-1138184",
+      "is_new": true
+    },
+    {
+      "url": "https://weworkremotely.com/remote-jobs/sardine-qa-automation-engineer",
+      "title": "QA Automation Engineer",
+      "company": "Sardine",
+      "location": "Asia Only",
+      "link": "https://weworkremotely.com/remote-jobs/sardine-qa-automation-engineer",
+      "score": 10,
+      "reason": "The job is located in Asia Only, which is outside the candidate's geographic eligibility. The role is also focused on QA Automation, which is not the candidate's primary specialization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-28",
+      "source": "WeWorkRemotely (Full-Stack)",
+      "summary": "This role is for a QA Automation Engineer located in Asia Only. The candidate is based in Morocco and cannot relocate, making them geographically ineligible. Additionally, the focus on QA automation is not a primary match for the candidate's AI and Full-Stack development background.",
+      "date_posted": "Fri, 27 Nov 2026 11:20:51 +0000",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location is Asia Only, candidate is based in Morocco and cannot relocate.",
+      "geographic_scope": "OTHER",
+      "remote_type": "REMOTE",
+      "seniority": "JUNIOR",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic mismatch",
+        "Role specialization mismatch (QA Automation vs. AI/Full-Stack Development)"
+      ],
+      "recommended_project": "",
+      "application_url": "https://weworkremotely.com/remote-jobs/sardine-qa-automation-engineer",
+      "is_new": true
+    },
+    {
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-start-immediately-at-chad-s-portfolio-4493895914&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ZxIMrkkJDFHNpcMwnJJrS",
+      "title": "Remote Processing Coordinator - ENTRY LEVEL - START IMMEDIATELY - LinkedIn",
+      "company": "",
+      "location": "Remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-start-immediately-at-chad-s-portfolio-4493895914&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ZxIMrkkJDFHNpcMwnJJrS",
+      "score": 10,
+      "reason": "The candidate is geographically ineligible for this role, which is based in the United States and likely requires local work authorization.",
+      "cover_note": "",
+      "checklist": [],
+      "status": "Not Applied",
+      "date_scored": "2026-11-28",
+      "source": "Google Alert 8",
+      "summary": "This role is for a Remote Processing Coordinator, an entry-level position. The candidate is a full-stack developer with AI specialization, making the technical fit very low.",
+      "date_posted": "2026-11-27T17:38:31Z",
+      "days_since_posted": 0,
+      "freshness": "Fresh",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "priority": "SKIP",
+      "eligible_for_rim": "false",
+      "eligibility_reason": "Location mismatch: Role is in the United States and likely requires US work authorization, which the candidate does not have.",
+      "geographic_scope": "US_ONLY",
+      "remote_type": "REMOTE",
+      "seniority": "ENTRY_LEVEL",
+      "min_years": null,
+      "max_years": null,
+      "education_requirement": "unspecified",
+      "gaps": [
+        "Geographic Ineligibility",
+        "Technical Mismatch"
+      ],
+      "recommended_project": "",
+      "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/remote-processing-coordinator-entry-level-start-immediately-at-chad-s-portfolio-4493895914&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2ZxIMrkkJDFHNpcMwnJJrS",
+      "is_new": true
+    },
     {
       "url": "https://himalayas.app/companies/tuxcare-inc/jobs/graduate-engineer-remote-work?utm_source=api",
       "title": "Graduate Engineer (remote work)",
@@ -32,7 +349,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://himalayas.app/companies/tuxcare-inc/jobs/graduate-engineer-remote-work?utm_source=api",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.rekrute.com/offre-emploi-stagiaire-pfe-infrastructure-it-cloud-transformation-digitale-hf-recrutement-cgi-technologies-et-solutions-maroc-casablanca-189016.html",
@@ -65,7 +382,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.rekrute.com/offre-emploi-stagiaire-pfe-infrastructure-it-cloud-transformation-digitale-hf-recrutement-cgi-technologies-et-solutions-maroc-casablanca-189016.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-next-js-developer-at-quixta-4493006369&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1J_9XPWAGO12dify3IyxAO",
@@ -100,7 +417,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://in.linkedin.com/jobs/view/junior-next-js-developer-at-quixta-4493006369&ct=ga&cd=CAIyHGQxMDVhYmIzN2ViNmM0Mzk6Y29tOmZyOlVTOkw&usg=AOvVaw1J_9XPWAGO12dify3IyxAO",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/youngones/qa-engineer-nl-breda-74273",
@@ -136,7 +453,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/youngones/qa-engineer-nl-breda-74273",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/lemrock/founders-associate-intern-paris-99630",
@@ -169,7 +486,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/lemrock/founders-associate-intern-paris-99630",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/inato/remote-product-engineer-335504",
@@ -202,7 +519,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/inato/remote-product-engineer-335504",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/game-developer-midcore-games-internship-paris-365864",
@@ -235,7 +552,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.fr/jobs/companies/voodoo/game-developer-midcore-games-internship-paris-365864",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.rekrute.com/offre-emploi-stagiaire-pfe-finance-controle-de-gestion-hf-recrutement-cgi-technologies-et-solutions-maroc-casablanca-189017.html",
@@ -270,7 +587,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.rekrute.com/offre-emploi-stagiaire-pfe-finance-controle-de-gestion-hf-recrutement-cgi-technologies-et-solutions-maroc-casablanca-189017.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://weworkremotely.com/remote-jobs/3y-health-ai-product-engineer",
@@ -305,7 +622,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://weworkremotely.com/remote-jobs/3y-health-ai-product-engineer",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.nl/jobs/companies/youngones/qa-engineer-en-breda-216701",
@@ -341,7 +658,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.arbeitnow.nl/jobs/companies/youngones/qa-engineer-en-breda-216701",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://jobicy.com/jobs/164496-appsec-engineer-2",
@@ -377,7 +694,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://jobicy.com/jobs/164496-appsec-engineer-2",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://ke.linkedin.com/jobs/view/credit-control-internship-at-entry-level-jobs-in-kenya-campusbiz-co-ke-4494986299&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw32eWj1biWUndGRRIfL2j68",
@@ -412,7 +729,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://ke.linkedin.com/jobs/view/credit-control-internship-at-entry-level-jobs-in-kenya-campusbiz-co-ke-4494986299&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw32eWj1biWUndGRRIfL2j68",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/entry-level-esl-online-remote-tutor-refedu26-26-at-etefl-training-recruitment-4495529029&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2E-r9NJ2wL_BJqBfPikXI7",
@@ -445,7 +762,7 @@
       "gaps": [],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://uk.linkedin.com/jobs/view/entry-level-esl-online-remote-tutor-refedu26-26-at-etefl-training-recruitment-4495529029&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2E-r9NJ2wL_BJqBfPikXI7",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/financial-services-rep-entry-level-at-hastings-financial-services-4489500418&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2DAJG9YTG8OigGr8uaNMQt",
@@ -480,7 +797,7 @@
       ],
       "recommended_project": "",
       "application_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/jobs/view/financial-services-rep-entry-level-at-hastings-financial-services-4489500418&ct=ga&cd=CAIyHDc2Zjk3OTY0YTg5ZTRjZDk6Y29tOmZyOlVTOkw&usg=AOvVaw2DAJG9YTG8OigGr8uaNMQt",
-      "is_new": true
+      "is_new": false
     },
     {
       "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-188174",
@@ -157276,13 +157593,13 @@
       "is_new": false
     }
   ],
-  "count": 4640,
-  "keepers": 630,
-  "fresh": 4024,
-  "new_today": 14,
+  "count": 4649,
+  "keepers": 631,
+  "fresh": 4033,
+  "new_today": 9,
   "apply_now": 109,
-  "apply": 98,
+  "apply": 99,
   "consider": 108,
   "morocco": 40,
-  "eligible": 304
+  "eligible": 305
 }
